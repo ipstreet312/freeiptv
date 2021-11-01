@@ -75,9 +75,9 @@ https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/ZT2fQq3/krt.png" group-title="|TR| HABER/2",KRT
-https://black.tvizlehd.com/live/krttv.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/ZT2fQq3/krt.png" group-title="|TR| HABER/2",KRT
 https://antalya.tvizlehd.com/live/krttv.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/ZT2fQq3/krt.png" group-title="|TR| HABER/2",KRT
+https://black.tvizlehd.com/live/krttv.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/4Mhmggc/tele1.png" group-title="|TR| HABER/2",TELE 1
 https://mn-nl.mncdn.com/blutv_tele12/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/4Mhmggc/tele1.png" group-title="|TR| HABER/2",TELE 1
