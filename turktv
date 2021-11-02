@@ -186,6 +186,8 @@ http://mfe.cliptv.az/dash/Kanal_D_HD.ism/playlist.mpd
 https://59c7ea6bec1c6.streamlock.net/filbox/showtv.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png" group-title="|TR| GENEL/1",SHOW (backup)
 http://mfe.cliptv.az/dash/Show_HD.ism/playlist.mpd
+#EXTINF:0 tvg-logo="https://i.ibb.co/4tyCssZ/fox.png" group-title="|TR| GENEL/1",FOX (backup)
+http://213.115.248.46:9000/TR_-_FOX_HD_PLUS/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="|TR| GENEL/1",ATV (backup)
 https://trkvz-dev.daioncdn.net/atv/atv.m3u8?ce=3&app=8672c3cb-70f1-4686-9158-cc03a23c6b0f
 #EXTINF:0 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="|TR| GENEL/1",ATV (backup)
@@ -326,6 +328,8 @@ https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 https://mn-nl.mncdn.com/blutv_trtmuzik2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/zhRwXbL/krpop.png" group-title="|TR| MUZIK",KRAL POP
 http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/zhRwXbL/krpop.png" group-title="|TR| MUZIK",KRAL POP
+https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/6401NQw/kraltv.png" group-title="|TR| MUZIK",KRAL TV
 http://dygvideo.dygdigital.com/live/hls/kraltv?m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/6401NQw/kraltv.png" group-title="|TR| MUZIK",KRAL TV
