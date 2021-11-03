@@ -22,9 +22,9 @@ https://mn-nl.mncdn.com/blutv_ntv2/live.m3u8
 https://mn-nl.mncdn.com/blutv_tv1002/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png" group-title="|TR| HABER/1",TV 100
 https://59c7ea6bec1c6.streamlock.net/filbox/tv100.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/PhwYjQ7/24tv.png" group-title="|TR| HABER/1",24 TV
+#EXTINF:0 tvg-logo="https://i.ibb.co/PhwYjQ7/24tv.png" group-title="|TR| HABER/1",24
 https://mn-nl.mncdn.com/kanal24/kanal24.smil/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/PhwYjQ7/24tv.png" group-title="|TR| HABER/1",24 TV
+#EXTINF:0 tvg-logo="https://i.ibb.co/PhwYjQ7/24tv.png" group-title="|TR| HABER/1",24
 https://mn-nl.mncdn.com/blutv_kanal242/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/PGjZ9JB/tgrthab.png" group-title="|TR| HABER/1",TGRT HABER
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
@@ -58,11 +58,11 @@ https://tv.ensonhaber.com/tv/tr/ntv/index.m3u8
 http://iptvmasterlink.dyndns.org:8080/Entry/ntvhd_yeni/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png" group-title="|TR| HABER/1",TV 100 (backup)
 http://213.115.248.46:9000/TR_-_TV_100_HD_PLUS/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/PhwYjQ7/24tv.png" group-title="|TR| HABER/1",24 TV (backup)
+#EXTINF:0 tvg-logo="https://i.ibb.co/PhwYjQ7/24tv.png" group-title="|TR| HABER/1",24 (backup)
 https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/PhwYjQ7/24tv.png" group-title="|TR| HABER/1",24 TV (backup)
+#EXTINF:0 tvg-logo="https://i.ibb.co/PhwYjQ7/24tv.png" group-title="|TR| HABER/1",24 (backup)
 https://tv.ensonhaber.com/tv/tr/24tv/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/PhwYjQ7/24tv.png" group-title="|TR| HABER/1",24 TV (backup)
+#EXTINF:0 tvg-logo="https://i.ibb.co/PhwYjQ7/24tv.png" group-title="|TR| HABER/1",24 (backup)
 http://iptvmasterlink.dyndns.org:8080/Entry/24hd_yeni/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/PGjZ9JB/tgrthab.png" group-title="|TR| HABER/1",TGRT HABER (backup)
 https://tv.ensonhaber.com/tv/tr/tgrthaber/index.m3u8
@@ -202,11 +202,11 @@ https://59c7ea6bec1c6.streamlock.net/filbox/tv8.stream/playlist.m3u8
 http://213.115.248.46:9000/TR_-_TV_8_HD_PLUS/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="|TR| GENEL/2",TV 8
 http://mfe.cliptv.az/dash/TV_8_HD.ism/playlist.mpd
-#EXTINF:0 tvg-logo="https://i.ibb.co/FVnG3Zr/360tv.png" group-title="|TR| GENEL/2",360 TV
+#EXTINF:0 tvg-logo="https://i.ibb.co/FVnG3Zr/360tv.png" group-title="|TR| GENEL/2",360
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/FVnG3Zr/360tv.png" group-title="|TR| GENEL/2",360 TV
+#EXTINF:0 tvg-logo="https://i.ibb.co/FVnG3Zr/360tv.png" group-title="|TR| GENEL/2",360
 https://mn-nl.mncdn.com/blutv_360tv/live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/FVnG3Zr/360tv.png" group-title="|TR| GENEL/2",360 TV
+#EXTINF:0 tvg-logo="https://i.ibb.co/FVnG3Zr/360tv.png" group-title="|TR| GENEL/2",360
 https://tv.ensonhaber.com/tv/tr/360tv/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/1s3fHfm/k7tr1.png" group-title="|TR| GENEL/2",KANAL 7
 https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
