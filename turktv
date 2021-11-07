@@ -58,6 +58,8 @@ https://tv.ensonhaber.com/tv/tr/ntv/index.m3u8
 http://iptvmasterlink.dyndns.org:8080/Entry/ntvhd_yeni/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png" group-title="|TR| HABER/1",TV 100 (backup)
 http://213.115.248.46:9000/TR_-_TV_100_HD_PLUS/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png" group-title="|TR| HABER/1",TV 100 (backup)
+https://livex458745.livestreamlive.xyz/tv100.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/PhwYjQ7/24tv.png" group-title="|TR| HABER/1",24 (backup)
 https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/PhwYjQ7/24tv.png" group-title="|TR| HABER/1",24 (backup)
@@ -110,6 +112,8 @@ https://59c7ea6bec1c6.streamlock.net/filbox/ahaber.stream/playlist.m3u8
 http://antalya.tvizlehd.com/live/ahaber.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/KwXzY6B/apara.png" group-title="|TR| HABER/2",A PARA
 http://antalya.tvizlehd.com/live/apara.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/KwXzY6B/apara.png" group-title="|TR| HABER/2",A PARA
+https://livesx.canlitv.center/apara2.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/1RWhvy4/tvnet.png" group-title="|TR| HABER/2",TV NET
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/1RWhvy4/tvnet.png" group-title="|TR| HABER/2",TV NET
@@ -294,6 +298,8 @@ https://antalya.tvizlehd.com/live/trt2.m3u8
 https://tv-trt2.live.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/1Ty8Z3X/bizimev.png" group-title="|TR| BELGESEL",BIZIM EV TV
 https://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/1Ty8Z3X/bizimev.png" group-title="|TR| BELGESEL",BIZIM EV TV
+https://livesx.canlitv.center/bizimevtv.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/BjNBPwh/habitat1.jpg" group-title="|TR| BELGESEL",HABITAT TV
 https://59c7ea6bec1c6.streamlock.net/filbox/habibattv.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/BjNBPwh/habitat1.jpg" group-title="|TR| BELGESEL",HABITAT TV
@@ -440,6 +446,8 @@ http://win1.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
 https://mn-nl.mncdn.com/blutv_kanalb2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/gd9mj6G/vatan.jpg" group-title="|TR| DIGER",VATAN TV
 http://iptvmasterlink.dyndns.org:8080/VatanTv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/gd9mj6G/vatan.jpg" group-title="|TR| DIGER",VATAN TV
+https://livesx.canlitv.center/vatantv.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/k9phm3v/diyanettv.png" group-title="|TR| DIGER",DIYANET TV
 https://mn-nl.mncdn.com/blutv_diyanet2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/k9phm3v/diyanettv.png" group-title="|TR| DIGER",DIYANET TV
@@ -464,5 +472,7 @@ https://waw1.artiyerelmedya.net/mesajtv/bant1/playlist.m3u8
 http://yerelmedya.tv:1935/mesajtv/bant1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Fq0ZvYG/meltemtvt.png" group-title="|TR| DIGER",MELTEM TV
 http://antalya.tvizlehd.com/live/meltemtv.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/Fq0ZvYG/meltemtvt.png" group-title="|TR| DIGER",MELTEM TV
+https://livesx.canlitv.center/meltemtv.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/VH7VZwt/tgrtbelgesel.png" group-title="|TR| DIGER",TGRT BELGESEL
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8
