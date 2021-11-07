@@ -136,6 +136,8 @@ https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 http://iptvmasterlink.dyndns.org:8080/Entry/meclistv_yeni/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/ZT2fQq3/krt.png" group-title="|TR| HABER/2",KRT (backup)
 http://live1.krttv.com.tr/show/krttv_mobil/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/ZT2fQq3/krt.png" group-title="|TR| HABER/2",KRT (backup)
+http://iptvh.it/KRT_FULL_HD
 #EXTINF:0 tvg-logo="https://i.ibb.co/7k4ndwZ/ulusal.png" group-title="|TR| HABER/2",ULUSAL KANAL (backup)
 https://59c7ea6bec1c6.streamlock.net/filbox/ulusalkanal.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/6m9Pb3t/tv5tr1.png" group-title="|TR| HABER/2",TV 5 (backup)
