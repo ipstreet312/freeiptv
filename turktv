@@ -140,6 +140,8 @@ http://live1.krttv.com.tr/show/krttv_mobil/index.m3u8
 https://59c7ea6bec1c6.streamlock.net/filbox/ulusalkanal.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/6m9Pb3t/tv5tr1.png" group-title="|TR| HABER/2",TV 5 (backup)
 https://livestream.delilerdelidegildir.com/hls/live.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/0MHPk8y/benguturk.png" group-title="|TR| HABER/2",BENGÜ TÜRK (backup)
+http://iptvmasterlink.dyndns.org:8080/BenguTurk/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/1X8nWHc/ahaber.png" group-title="|TR| HABER/2",A HABER (backup)
 http://mfe.cliptv.az/dash/A_Haber_HD.ism/playlist.mpd
 
@@ -244,6 +246,8 @@ http://antalya.tvizlehd.com/live/a2tv.m3u8
 http://europe2.livetv.az/turkey/a2tv_turk_sd/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/kxjKk89/showmax.png" group-title="|TR| GENEL/2",SHOW MAX
 http://iptvmasterlink.dyndns.org:8080/ShowMax/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/BtW8FHj/akilli.jpg" group-title="|TR| GENEL/2",AKILLI TV
+http://iptvmasterlink.dyndns.org:8080/AkilliTv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="|TR| GENEL/2",TV 8 (backup)
 http://mfe.cliptv.az/dash/TV_8_HD.ism/playlist.mpd
 
@@ -273,11 +277,15 @@ https://antalya.tvizlehd.com/live/beinsporthaber.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/1M6Tvp1/sports.jpg" group-title="|TR| SPOR",SPORTS TV
 https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/1M6Tvp1/sports.jpg" group-title="|TR| SPOR",SPORTS TV
+http://iptvmasterlink.dyndns.org:8080/SportsTv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/1M6Tvp1/sports.jpg" group-title="|TR| SPOR",SPORTS TV
 https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/SwwjnF5/gstv.png" group-title="|TR| SPOR",GALATASARAY TV
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/cr4txwX/fbtv.jpg" group-title="|TR| SPOR",FENERBAHCE TV
 https://59c7ea6bec1c6.streamlock.net/filbox/fbtv.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/cr4txwX/fbtv.jpg" group-title="|TR| SPOR",FENERBAHCE TV
+http://iptvmasterlink.dyndns.org:8080/FbTv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/rynNr53/yabantv.png" group-title="|TR| SPOR",YABAN TV
 https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/rynNr53/yabantv.png" group-title="|TR| SPOR",YABAN TV
@@ -370,6 +378,8 @@ http://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
 https://mn-nl.mncdn.com/blutv_power2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/xhfcTC7/powertv.png" group-title="|TR| MUZIK",POWER TV
 https://waw1.artiyerelmedya.net/powertv/bant1/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/wL7mWVn/trtmuzik.png" group-title="|TR| MUZIK",TRT MÜZIK (backup)
+http://iptvmasterlink.dyndns.org:8080/TrtMuzik/playlist.m3u8
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/R32Hssx/trtcocuk.png" group-title="|TR| COCUK",TRT COCUK
@@ -412,6 +422,10 @@ https://mn-nl.mncdn.com/blutv_ebal2/live.m3u8
 https://tv-trtturk.live.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/swtn1kV/trtturk.png" group-title="|TR| AVRUPA",TRT TÜRK
 https://mn-nl.mncdn.com/blutv_trtturk2/live.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/swtn1kV/trtturk.png" group-title="|TR| AVRUPA",TRT TÜRK
+http://iptvmasterlink.dyndns.org:8080/TrtTurk/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/0Bs5JfK/tv8int.png" group-title="|TR| AVRUPA",TV8 INT
+https://mn-nl.mncdn.com/blutv_tv8_int2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/ZLHxRHb/eurod.png" group-title="|TR| AVRUPA",EURO D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/ZLHxRHb/eurod.png" group-title="|TR| AVRUPA",EURO D
@@ -426,18 +440,20 @@ http://iptvmasterlink.dyndns.org:8080/EuroStar/playlist.m3u8
 https://mn-nl.mncdn.com/blutv_showturk2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/WvhGGP0/showturk1.png" group-title="|TR| AVRUPA",SHOW TÜRK
 http://iptvmasterlink.dyndns.org:8080/ShowTurk/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/0Bs5JfK/tv8int.png" group-title="|TR| AVRUPA",TV8 INT
-https://mn-nl.mncdn.com/blutv_tv8_int2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/cDxKJy1/k7avr1.png" group-title="|TR| AVRUPA",KANAL 7 AVRUPA
 https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/MCXCRcn/tgrteu1.png" group-title="|TR| AVRUPA",TGRT EU
 https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/MCXCRcn/tgrteu1.png" group-title="|TR| AVRUPA",TGRT EU
+http://iptvmasterlink.dyndns.org:8080/TgrtEu/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/4KgqKnX/atvavrupa.png" group-title="|TR| AVRUPA",ATV AVRUPA
 http://antalya.tvizlehd.com/live/atvavrupa.m3u8
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/xzZk0Yq/trtavaz.png" group-title="|TR| DIGER",TRT AVAZ
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/xzZk0Yq/trtavaz.png" group-title="|TR| DIGER",TRT AVAZ
+http://iptvmasterlink.dyndns.org:8080/TrtAvaz/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/VWH0pWK/cem1.png" group-title="|TR| DIGER",CEM TV
 https://59c7ea6bec1c6.streamlock.net/filbox/cemtv.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/VWH0pWK/cem1.png" group-title="|TR| DIGER",CEM TV
@@ -456,6 +472,8 @@ https://mn-nl.mncdn.com/blutv_diyanet2/live.m3u8
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/k8L3Mq1/semerkandtv.png" group-title="|TR| DIGER",SEMERKAND
 https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/k8L3Mq1/semerkandtv.png" group-title="|TR| DIGER",SEMERKAND
+http://iptvmasterlink.dyndns.org:8080/SemerkandTv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Cm1kp8f/sat7turk.png" group-title="|TR| DIGER",SAT 7 TÜRK
 http://svs.itworkscdn.net/sat7turklive/sat7turk.smil/sat7turkpublish/sat7turk_720p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Cm1kp8f/sat7turk.png" group-title="|TR| DIGER",SAT 7 TÜRK
@@ -468,6 +486,8 @@ http://canbroadcast.com:7000/canlican/tv.m3u8
 https://dost.stream.emsal.im/tv/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/tHfxLTn/rehbertv.png" group-title="|TR| DIGER",REHBER TV
 http://rehbertv.canliyayin.org/P871000884/rehbertv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/tHfxLTn/rehbertv.png" group-title="|TR| DIGER",REHBER TV
+http://iptvmasterlink.dyndns.org:8080/Entry/rehbertv_yeni/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/2YkvFLQ/mesajtvb.png" group-title="|TR| DIGER",MESAJ TV
 https://waw1.artiyerelmedya.net/mesajtv/bant1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/2YkvFLQ/mesajtvb.png" group-title="|TR| DIGER",MESAJ TV
@@ -478,3 +498,5 @@ http://antalya.tvizlehd.com/live/meltemtv.m3u8
 https://livesx.canlitv.center/meltemtv.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/VH7VZwt/tgrtbelgesel.png" group-title="|TR| DIGER",TGRT BELGESEL
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/VH7VZwt/tgrtbelgesel.png" group-title="|TR| DIGER",TGRT BELGESEL
+http://iptvmasterlink.dyndns.org:8080/TgrtBelgesel/playlist.m3u8
