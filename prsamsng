@@ -64,6 +64,28 @@ https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
 https://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png" group-title="|FR| FRANSA",EURONEWS FR
 https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png" group-title="|FR| FRANSA",CNEWS
+http://free.fullspeed.tv/query?url=https://www.dailymotion.com/video/x3b68jn
+#EXTINF:0 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png" group-title="|FR| FRANSA",CNEWS HEROKU
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x3b68jn
+#EXTINF:0 tvg-logo="https://i.ibb.co/88QdC82/fr24.png" group-title="|FR| FRANSA",FRANCE INFO
+http://free.fullspeed.tv/query?url=https://www.dailymotion.com/video/x26eox4
+#EXTINF:0 group-title="|FR| FRANSA",FR2
+http://edge9.iptvnetwork.net/live/france2/playlist.m3u8
+#EXTINF:0 group-title="|FR| FRANSA",FR3
+http://edge9.iptvnetwork.net/live/france3/playlist.m3u8
+#EXTINF:0 group-title="|FR| FRANSA",FR4
+http://edge9.iptvnetwork.net/live/france4/playlist.m3u8
+#EXTINF:0 group-title="|FR| FRANSA",FR5
+http://edge9.iptvnetwork.net/live/france5/playlist.m3u8
+#EXTINF:0 group-title="|FR| FRANSA",TF1
+http://edge9.iptvnetwork.net/live/TF1/playlist.m3u8
+#EXTINF:0 group-title="|FR| FRANSA",TF1 FS
+http://flusonic-4.platinum-tv.com/TF1/index.m3u8?token=test
+#EXTINF:0 group-title="|FR| FRANSA",M6
+http://flusonic-4.platinum-tv.com/M6/mono.m3u8?token=test
+#EXTINF:0 group-title="|FR| FRANSA",W9
+http://flusonic-1.platinum-tv.com/W9/mono.m3u8?token=test
 #EXTINF:0 tvg-logo="https://i.ibb.co/BPpZPBn/arte.png" group-title="|FR| FRANSA",ARTE
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/6spXX2y/nrj12.png" group-title="|FR| FRANSA",NRJ 12
