@@ -18,16 +18,10 @@ http://keshethlslive-lh.akamaihd.net/i/c2nsec_1@195268/master.m3u8
 https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png" group-title="|IL| ISRAEL",KAN 11 (backup)
 https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/master.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png" group-title="|IL| ISRAEL",KAN 11 (backup)
-http://93.152.174.144:4000/play/kan11/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/qBKNrv5/keshet.png" group-title="|IL| ISRAEL",KESHET 12 (backup)
-http://93.152.174.144:4000/play/ch12/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/qBKNrv5/keshet.png" group-title="|IL| ISRAEL",KESHET 12 (backup)
 https://iptv--iptv.repl.co/Hebrew/keshet_12?m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/6PPHnBS/13.png" group-title="|IL| ISRAEL",RESHET 13 (backup)
 https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/6PPHnBS/13.png" group-title="|IL| ISRAEL",RESHET 13 (backup)
-http://93.152.174.144:4000/play/ch13/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/vc6zbq4/20tvp.png" group-title="|IL| ISRAEL",ARUTZ 20 (backup)
 http://dvr.ch20-cdnwiz.com/mobilehls/dvr.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/kq4XM0Y/ynet.png" group-title="|IL| ISRAEL",Y-NET NEWS
