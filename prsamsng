@@ -146,3 +146,15 @@ http://50.7.231.221:8081/185/index.m3u8?wmsAuthSign=okad
 https://live1.panet.co.il/edge_abr/halaTV/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/fqTYrGY/33.png" group-title="|FR| FRANSA",KAN 33 MAKAN
 https://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/master.m3u8
+#EXTINF:0 group-title="|DIZI| KULUP",KULUP 1.Bölüm
+http://192.168.1.1:49153/web/100002.mkv
+#EXTINF:0 group-title="|DIZI| KULUP",KULUP 2.Bölüm
+http://192.168.1.1:49153/web/100003.mkv
+#EXTINF:0 group-title="|DIZI| KULUP",KULUP 3.Bölüm
+http://192.168.1.1:49153/web/100004.mkv
+#EXTINF:0 group-title="|DIZI| KULUP",KULUP 4.Bölüm
+http://192.168.1.1:49153/web/100005.mkv
+#EXTINF:0 group-title="|DIZI| KULUP",KULUP 5.Bölüm
+http://192.168.1.1:49153/web/100006.mkv
+#EXTINF:0 group-title="|DIZI| KULUP",KULUP 6.Bölüm
+http://192.168.1.1:49153/web/100007.mkv
