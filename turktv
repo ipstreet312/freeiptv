@@ -134,10 +134,6 @@ https://stream.yol.tv:9443/medialive/yol.m3u8
 https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/8bVS0nj/tbmm.jpg" group-title="|TR| HABER/2",TBMM TV TRT3
 http://iptvmasterlink.dyndns.org:8080/Entry/meclistv_yeni/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/ZT2fQq3/krt.png" group-title="|TR| HABER/2",KRT (backup)
-http://live1.krttv.com.tr/show/krttv_mobil/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/ZT2fQq3/krt.png" group-title="|TR| HABER/2",KRT (backup)
-https://black.tvizlehd.com/live/krttv.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/4Mhmggc/tele1.png" group-title="|TR| HABER/2",TELE 1 (backup)
 http://iptvmasterlink.dyndns.org:8080/Tele1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/7k4ndwZ/ulusal.png" group-title="|TR| HABER/2",ULUSAL KANAL (backup)
@@ -201,6 +197,8 @@ https://trkvz-dev.daioncdn.net/atv/atv.m3u8?ce=3&app=8672c3cb-70f1-4686-9158-cc0
 #EXTINF:0 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="|TR| GENEL/1",ATV (backup)
 http://93.157.62.180/ATVTurk/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="|TR| GENEL/1",ATV (backup)
+http://azerbaijan1.livetv.az/turkey/atv_turk_sd/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="|TR| GENEL/1",ATV (backup)
 http://mfe.cliptv.az/dash/ATV_Turk_HD.ism/playlist.mpd
 
 
@@ -244,8 +242,6 @@ https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 https://mn-nl.mncdn.com/blutv_tv4/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/s3y8PX9/a2.jpg" group-title="|TR| GENEL/2",A2
 http://antalya.tvizlehd.com/live/a2tv.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/s3y8PX9/a2.jpg" group-title="|TR| GENEL/2",A2
-http://europe2.livetv.az/turkey/a2tv_turk_sd/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/s3y8PX9/a2.jpg" group-title="|TR| GENEL/2",A2
 https://livex458745.livestreamlive.xyz/a2.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/kxjKk89/showmax.png" group-title="|TR| GENEL/2",SHOW MAX
@@ -499,7 +495,7 @@ https://dost.stream.emsal.im/tv/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/tHfxLTn/rehbertv.png" group-title="|TR| DIGER",REHBER TV
 https://yayin30.haber100.com/live/rehbertv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/tHfxLTn/rehbertv.png" group-title="|TR| DIGER",REHBER TV
-http://iptvmasterlink.dyndns.org:8080/Entry/rehbertv_yeni/index.m3u8
+http://iptvmasterlink.dyndns.org:8080/Entry/rehbertv_yeni/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/2YkvFLQ/mesajtvb.png" group-title="|TR| DIGER",MESAJ TV
 https://waw1.artiyerelmedya.net/mesajtv/bant1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/2YkvFLQ/mesajtvb.png" group-title="|TR| DIGER",MESAJ TV
