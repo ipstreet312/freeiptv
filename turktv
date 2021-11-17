@@ -344,9 +344,9 @@ https://d1grcygon2cylc.cloudfront.net/out/v1/39e430e8c1ce4a8d8176c7be8c743529/in
 https://d1kql9eqq12ti5.cloudfront.net/out/v1/73b6ebdccff34468abfaa716e8114192/master.m3u8
 
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/wL7mWVn/trtmuzik.png" group-title="|TR| MUZIK",TRT MÜZIK
+#EXTINF:0 tvg-logo="https://i.ibb.co/nwmxQ1R/trtmuzik21a.png" group-title="|TR| MUZIK",TRT MÜZIK
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/wL7mWVn/trtmuzik.png" group-title="|TR| MUZIK",TRT MÜZIK
+#EXTINF:0 tvg-logo="https://i.ibb.co/nwmxQ1R/trtmuzik21a.png" group-title="|TR| MUZIK",TRT MÜZIK
 https://mn-nl.mncdn.com/blutv_trtmuzik2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/zhRwXbL/krpop.png" group-title="|TR| MUZIK",KRAL POP
 http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
@@ -384,15 +384,15 @@ http://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
 https://mn-nl.mncdn.com/blutv_power2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/xhfcTC7/powertv.png" group-title="|TR| MUZIK",POWER TV
 https://waw1.artiyerelmedya.net/powertv/bant1/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/wL7mWVn/trtmuzik.png" group-title="|TR| MUZIK",TRT MÜZIK (backup)
+#EXTINF:0 tvg-logo="https://i.ibb.co/nwmxQ1R/trtmuzik21a.png" group-title="|TR| MUZIK",TRT MÜZIK (backup)
 http://iptvmasterlink.dyndns.org:8080/TrtMuzik/playlist.m3u8
 
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/R32Hssx/trtcocuk.png" group-title="|TR| COCUK",TRT COCUK
+#EXTINF:0 tvg-logo="https://i.ibb.co/YjkMYbF/trtcocuk21a.png" group-title="|TR| COCUK",TRT COCUK
 https://tv-trtcocuk.live.trt.com.tr/master.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/R32Hssx/trtcocuk.png" group-title="|TR| COCUK",TRT COCUK
+#EXTINF:0 tvg-logo="https://i.ibb.co/YjkMYbF/trtcocuk21a.png" group-title="|TR| COCUK",TRT COCUK
 https://mn-nl.mncdn.com/blutv_trtcocuk2/live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/R32Hssx/trtcocuk.png" group-title="|TR| COCUK",TRT COCUK
+#EXTINF:0 tvg-logo="https://i.ibb.co/YjkMYbF/trtcocuk21a.png" group-title="|TR| COCUK",TRT COCUK
 http://iptvmasterlink.dyndns.org:8080/Entry/trtcocukhd_yeni/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Zxd0j45/cartoonnetwork.png" group-title="|TR| COCUK",CARTOON NETWORK TR
 http://185.129.1.242:80/cartoonnetworkturk/mpegts
