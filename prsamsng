@@ -146,3 +146,5 @@ http://50.7.231.221:8081/185/index.m3u8?wmsAuthSign=okad
 https://live1.panet.co.il/edge_abr/halaTV/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/fqTYrGY/33.png" group-title="|FR| FRANSA",KAN 33 MAKAN
 https://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/master.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/d6Zfm2P/trtmuzik21c.png" group-title="|FR| FRANSA",TRT MÜZIK LL
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
