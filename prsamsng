@@ -128,6 +128,10 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END|User-agent=Star Wars
 #EXTINF:0 user-agent="Star Wars" tvg-logo="https://i.ibb.co/kckRLh5/bfm.png" group-title="|FR| FRANSA",BFM TV ARG UA
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
+#EXTINF:0 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png" group-title="|FR| FRANSA",BFM TV MPD
+https://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$BFM_TV/index.mpd/Manifest?start=LIVE&end=END
+#EXTINF:0 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png" group-title="|FR| FRANSA",BFM TV MPD DVC
+https://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$BFM_TV/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
 #EXTINF:0 tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png" group-title="|FR| FRANSA",KAN 11
 https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/qBKNrv5/keshet.png" group-title="|FR| FRANSA",KESHET 12
