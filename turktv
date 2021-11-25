@@ -370,6 +370,8 @@ http://yerelmedya.tv:1935/tatlisestv/bant1/playlist.m3u8
 https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Jqzzby7/milyontv.png" group-title="|TR| MUZIK",MILYON TV
 https://mn-nl.mncdn.com/blutv_milyontv/milyontv_sd.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/Jqzzby7/milyontv.png" group-title="|TR| MUZIK",MILYON TV
+https://diss.tvizlehd.com/live/milyontv.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/wSPFds2/nr1turk.png" group-title="|TR| MUZIK",NUMBER ONE TÜRK
 https://mn-nl.mncdn.com/blutv_nr1turk2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/bQHyST5/nr1tv.png" group-title="|TR| MUZIK",NUMBER ONE
