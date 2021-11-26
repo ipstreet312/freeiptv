@@ -44,16 +44,12 @@ https://59c7ea6bec1c6.streamlock.net/filbox/haberturk.stream/playlist.m3u8
 http://mfe.cliptv.az/dash/HaberTurk_HD.ism/playlist.mpd
 #EXTINF:0 tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png" group-title="|TR| HABER/1",CNN TÜRK (backup)
 https://59c7ea6bec1c6.streamlock.net/filbox/cnnturk.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png" group-title="|TR| HABER/1",CNN TÜRK (backup)
-http://iptvmasterlink.dyndns.org:8080/Entry/cnnturkhd_yeni/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/sv3L9N9/haberglobal.jpg" group-title="|TR| HABER/1",HABER GLOBAL (backup)
 https://59c7ea6bec1c6.streamlock.net/filbox/haberglobal.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png" group-title="|TR| HABER/1",NTV (backup)
 https://59c7ea6bec1c6.streamlock.net/filbox/ntv.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png" group-title="|TR| HABER/1",NTV (backup)
 https://tv.ensonhaber.com/tv/tr/ntv/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png" group-title="|TR| HABER/1",NTV (backup)
-http://iptvmasterlink.dyndns.org:8080/Entry/ntvhd_yeni/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png" group-title="|TR| HABER/1",TV 100 (backup)
 https://livex458745.livestreamlive.xyz/tv100.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/PhwYjQ7/24tv.png" group-title="|TR| HABER/1",24 (backup)
@@ -138,8 +134,6 @@ http://stream.yol.tv:9485/medialive/yol.m3u8
 https://stream.yol.tv:9443/medialive/yol.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/8bVS0nj/tbmm.jpg" group-title="|TR| HABER/2",TBMM TV
 https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/8bVS0nj/tbmm.jpg" group-title="|TR| HABER/2",TBMM TV TRT3
-http://iptvmasterlink.dyndns.org:8080/Entry/meclistv_yeni/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/w7DF3N1/trt1.png" group-title="|TR| GENEL/1",TRT 1
@@ -315,7 +309,7 @@ https://dogus-live.daioncdn.net/dmax/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/QQQR6VK/dmax.png" group-title="|TR| BELGESEL",D MAX
 https://mn-nl.mncdn.com/blutv_dmax2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/QQQR6VK/dmax.png" group-title="|TR| BELGESEL",D MAX
-http://iptvmasterlink.dyndns.org:8080/Entry/dmaxhd_yeni/index.m3u8
+https://tv.ensonhaber.com/tv/tr/dmax/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Z1vHy41/tlc.png" group-title="|TR| BELGESEL",TLC TR
 https://dogus-live.daioncdn.net/tlc/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Z1vHy41/tlc.png" group-title="|TR| BELGESEL",TLC TR
