@@ -76,8 +76,6 @@ https://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8
 http://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Jx8GW4D/m24.png" group-title="|FR| FRANSA",M24 TV
 https://www.m24tv.ma/live/smil:OutStream1.smil/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png" group-title="|FR| FRANSA",BFM TV
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
 #EXTINF:0 tvg-logo="https://i.ibb.co/Zfcrrr1/lci.png" group-title="|FR| FRANSA",LCI
 https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/88QdC82/fr24.png" group-title="|FR| FRANSA",FRANCE 24
@@ -106,32 +104,6 @@ https://bfmtvhds-lh.akamaihd.net/i/BFMTV_ESYTLS@664114/master.m3u8
 https://bfmtvalive1-a.akamaihd.net/316e573c8855429887f65feb189fb5a7/eu-central-1/876450610001/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png" group-title="|FR| FRANSA",BFM TV (backup3)
 https://bfmtvalive1-a.akamaihd.net/2a233d36eeeb4367b7b6e9fa069d9fe9/eu-central-1/876450610001/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png" group-title="|FR| FRANSA",BFM TV long
-https://abg2-cdn-edge-live03.pfd.sfr.net/bfm-ncdn-live-premium-pal1.pfd.sfr.net/sid=01t4hdcc5r2f08u3oet0/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
-#EXTINF:0 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png" group-title="|FR| FRANSA",BFM TV short etet
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END&m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png" group-title="|FR| FRANSA",BFM TV long etet
-https://abg2-cdn-edge-live03.pfd.sfr.net/bfm-ncdn-live-premium-pal1.pfd.sfr.net/sid=01t4hdcc5r2f08u3oet0/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END&m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png" group-title="|FR| FRANSA",BFM TV uzun6500
-https://bro1-cdn-edge-live01.pfd.sfr.net/bfm-ncdn-live-premium-pal1.pfd.sfr.net/sid=01b35v5eg9pacqccuqv0/shls/LIVE$BFM_TV/index.m3u8/S!d2EQaGxzX2JmbV9tUnNYSnRtNhIGVP7...8BFgyf/Level(6500000)?start=LIVE&end=END
-#EXTINF:0 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png" group-title="|FR| FRANSA",BFM TV 6500ileli
-https://bro1-cdn-edge-live01.pfd.sfr.net/bfm-ncdn-live-premium-pal1.pfd.sfr.net/sid=01b35v5eg9pacqccuqv0/shls/LIVE$BFM_TV/index.m3u8/S!d2EQaGxzX2JmbV9tUnNYSnRtNhIGVP7...8BFgyf/Level(6500000)?start=LIVE&end=END&m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png" group-title="|FR| FRANSA",BFM TV 6500sorulu
-https://bro1-cdn-edge-live01.pfd.sfr.net/bfm-ncdn-live-premium-pal1.pfd.sfr.net/sid=01b35v5eg9pacqccuqv0/shls/LIVE$BFM_TV/index.m3u8/S!d2EQaGxzX2JmbV9tUnNYSnRtNhIGVP7...8BFgyf/Level(6500000)?start=LIVE&end=END?m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png" group-title="|FR| FRANSA",BFM TV 4500uzun
-https://bro1-cdn-edge-live01.pfd.sfr.net/bfm-ncdn-live-premium-pal1.pfd.sfr.net/sid=01b35v5eg9pacqccuqv0/shls/LIVE$BFM_TV/index.m3u8/S!d2EQaGxzX2JmbV9tUnNYSnRtNhIGVP7...8BFgyf/Level(4500000)?start=LIVE&end=END
-#EXTINF:0 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png" group-title="|FR| FRANSA",BFM TV HLS
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END&device=HLS
-#EXTINF:0 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png" group-title="|FR| FRANSA",BFM TV PHONE
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
-#EXTINF:0 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png" group-title="|FR| FRANSA",BFM TV UA SW
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END|User-agent=Star Wars
-#EXTINF:0 user-agent="Star Wars" tvg-logo="https://i.ibb.co/kckRLh5/bfm.png" group-title="|FR| FRANSA",BFM TV ARG UA
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
-#EXTINF:0 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png" group-title="|FR| FRANSA",BFM TV MPD
-https://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$BFM_TV/index.mpd/Manifest?start=LIVE&end=END
-#EXTINF:0 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png" group-title="|FR| FRANSA",BFM TV MPD DVC
-https://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$BFM_TV/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
 #EXTINF:0 tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png" group-title="|FR| FRANSA",KAN 11
 https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/qBKNrv5/keshet.png" group-title="|FR| FRANSA",KESHET 12
@@ -174,3 +146,5 @@ http://50.7.231.221:8081/185/index.m3u8?wmsAuthSign=okad
 https://live1.panet.co.il/edge_abr/halaTV/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/fqTYrGY/33.png" group-title="|FR| FRANSA",KAN 33 MAKAN
 https://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/master.m3u8
+#EXTINF:0 group-title="|FR| FRANSA",BLU INDEX
+https://mn-nl.mncdn.com/blutv_trthaber2/live_720p2000000/index.m3u8
