@@ -67,7 +67,8 @@ https://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/cyQZ2vJ/bloomberght.png" group-title="|TR| HABER/1",BLOOMBERG HT (backup)
 https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
 
-
+#EXTINF:0 tvg-logo="https://i.ibb.co/ZT2fQq3/krt.png" group-title="|TR| HABER/2",KRT
+https://mn-nl.mncdn.com/blutv_krt/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/ZT2fQq3/krt.png" group-title="|TR| HABER/2",KRT
 https://livex458745.livestreamlive.xyz/krt.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/ZT2fQq3/krt.png" group-title="|TR| HABER/2",KRT
