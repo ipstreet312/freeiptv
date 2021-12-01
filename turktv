@@ -86,6 +86,8 @@ https://mn-nl.mncdn.com/blutv_halktv2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/BtYMK4q/halk21a.png" group-title="|TR| HABER/2",HALK TV
 https://59c7ea6bec1c6.streamlock.net/filbox/halktv.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/F5FcvbZ/flash4ok.png" group-title="|TR| HABER/2",FLASH TV
+https://mn-nl.mncdn.com/blutv_flashtv/live.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/F5FcvbZ/flash4ok.png" group-title="|TR| HABER/2",FLASH TV
 https://www.guventechnology.com:19360/flashtv/flashtv.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/F5FcvbZ/flash4ok.png" group-title="|TR| HABER/2",FLASH TV
 https://diss.tvizlehd.com/live/flashtv.m3u8
