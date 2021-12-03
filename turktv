@@ -265,12 +265,14 @@ https://tv-trt3.live.trt.com.tr/master.m3u8
 https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/xSjB51j/aspor.png" group-title="|TR| SPOR",A SPOR
 https://59c7ea6bec1c6.streamlock.net/filbox/aspor.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/bKKCbst/tivibuspor.png" group-title="|TR| SPOR",TIVIBU SPOR
-http://dl1.webtv.ttnet.com.tr/konf/mob/web16009.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/BfM21nC/beinhaber.png" group-title="|TR| SPOR",B.I.S. HABER
 https://59c7ea6bec1c6.streamlock.net/filbox/beinsporthaber.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/BfM21nC/beinhaber.png" group-title="|TR| SPOR",B.I.S. HABER
 https://diss.tvizlehd.com/live/beinsporthaber.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/bKKCbst/tivibuspor.png" group-title="|TR| SPOR",TIVIBU SPOR
+http://dl1.webtv.ttnet.com.tr/konf/mob/web16009.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/bKKCbst/tivibuspor.png" group-title="|TR| SPOR",TIVIBU SPOR
+https://diss.tvizlehd.com/live/tivibuspor.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/1M6Tvp1/sports.jpg" group-title="|TR| SPOR",SPORTS TV
 https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/1M6Tvp1/sports.jpg" group-title="|TR| SPOR",SPORTS TV
@@ -487,12 +489,6 @@ http://canbroadcast.com:7000/canlican/tv.m3u8
 https://dost.stream.emsal.im/tv/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/tHfxLTn/rehbertv.png" group-title="|TR| DIGER",REHBER TV
 https://yayin30.haber100.com/live/rehbertv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/tHfxLTn/rehbertv.png" group-title="|TR| DIGER",REHBER TV
-http://iptvmasterlink.dyndns.org:8080/Entry/rehbertv_yeni/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/2YkvFLQ/mesajtvb.png" group-title="|TR| DIGER",MESAJ TV
-https://waw1.artiyerelmedya.net/mesajtv/bant1/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/2YkvFLQ/mesajtvb.png" group-title="|TR| DIGER",MESAJ TV
-http://yerelmedya.tv:1935/mesajtv/bant1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Fq0ZvYG/meltemtvt.png" group-title="|TR| DIGER",MELTEM TV
 http://diss.tvizlehd.com/live/meltemtv.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Fq0ZvYG/meltemtvt.png" group-title="|TR| DIGER",MELTEM TV
