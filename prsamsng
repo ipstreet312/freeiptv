@@ -110,11 +110,19 @@ https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
 https://keshethlslive-lh.akamaihd.net/i/CH12CC_1@732426/index_2200_av.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/6PPHnBS/13.png" group-title="|FR| FRANSA",RESHET 13
 https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/vc6zbq4/20tvp.png" group-title="|FR| FRANSA",ARUTZ 20
+#EXTINF:0 tvg-logo="https://i.ibb.co/9HrVqW8/now14gd.png" group-title="|FR| FRANSA",NOW 14
+https://dvr.ch20-cdnwiz.com/hls/live.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/NZMMzNJ/now14sm.png" group-title="|FR| FRANSA",NOW 14
+https://dvr.ch20-cdnwiz.com/hls/live.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png" group-title="|FR| FRANSA",NOW 14
 https://dvr.ch20-cdnwiz.com/hls/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/0cGcHCD/23.jpg" group-title="|FR| FRANSA",HINUCHIT 23
 https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/0VW9cqL/24.jpg" group-title="|FR| FRANSA",MAKO 24
+https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2200_av-b.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/7nYM8MK/arutz24tvtrp.png" group-title="|FR| FRANSA",MAKO 24
+https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2200_av-b.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/F4LdjCr/arutz24tv.png" group-title="|FR| FRANSA",MAKO 24
 https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2200_av-b.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/1rSGfFw/N12n.png" group-title="|FR| FRANSA",NEWS 12 Main - Nightly
 http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
@@ -146,5 +154,3 @@ http://50.7.231.221:8081/185/index.m3u8?wmsAuthSign=okad
 https://live1.panet.co.il/edge_abr/halaTV/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/fqTYrGY/33.png" group-title="|FR| FRANSA",KAN 33 MAKAN
 https://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/master.m3u8
-#EXTINF:0 group-title="|FR| FRANSA",FLASH TV
-https://mn-nl.mncdn.com/blutv_flashtv/live.m3u8
