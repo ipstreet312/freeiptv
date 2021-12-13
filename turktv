@@ -41,9 +41,13 @@ http://iptvmasterlink.dyndns.org:8080/Entry/trthaberhd_yeni/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/wdwm0fn/haberturk.png" group-title="|TR| HABER/1",HABER TÜRK (backup)
 https://59c7ea6bec1c6.streamlock.net/filbox/haberturk.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/wdwm0fn/haberturk.png" group-title="|TR| HABER/1",HABER TÜRK (backup)
+http://diss.tvizlehd.com/live/haberturk720.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/wdwm0fn/haberturk.png" group-title="|TR| HABER/1",HABER TÜRK (backup)
 http://mfe.cliptv.az/dash/HaberTurk_HD.ism/playlist.mpd
 #EXTINF:0 tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png" group-title="|TR| HABER/1",CNN TÜRK (backup)
 https://59c7ea6bec1c6.streamlock.net/filbox/cnnturk.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png" group-title="|TR| HABER/1",CNN TÜRK (backup)
+http://diss.tvizlehd.com/live/cnnturk720.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/sv3L9N9/haberglobal.jpg" group-title="|TR| HABER/1",HABER GLOBAL (backup)
 https://59c7ea6bec1c6.streamlock.net/filbox/haberglobal.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png" group-title="|TR| HABER/1",NTV (backup)
@@ -108,7 +112,7 @@ https://mn-nl.mncdn.com/blutv_ulketv2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/ZXts607/ulketv.png" group-title="|TR| HABER/2",ÜLKE
 http://iptvmasterlink.dyndns.org:8080/UlkeTv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/1X8nWHc/ahaber.png" group-title="|TR| HABER/2",A HABER
-http://diss.tvizlehd.com/live/ahaber.m3u8
+http://diss.tvizlehd.com/live/ahaber720.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/1X8nWHc/ahaber.png" group-title="|TR| HABER/2",A HABER
 https://59c7ea6bec1c6.streamlock.net/filbox/ahaber.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/1X8nWHc/ahaber.png" group-title="|TR| HABER/2",A HABER
@@ -158,11 +162,11 @@ https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/4tyCssZ/fox.png" group-title="|TR| GENEL/1",FOX
 https://mn-nl.mncdn.com/blutv_foxtv2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/4tyCssZ/fox.png" group-title="|TR| GENEL/1",FOX
-http://diss.tvizlehd.com/live/foxtv.m3u8
+http://diss.tvizlehd.com/live/foxtv720.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="|TR| GENEL/1",ATV
 https://trkvz-live.daioncdn.net/atv/atv.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="|TR| GENEL/1",ATV
-http://diss.tvizlehd.com/live/atv.m3u8
+http://diss.tvizlehd.com/live/atv720.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/w7DF3N1/trt1.png" group-title="|TR| GENEL/1",TRT 1 (backup)
 https://blutv-test-live.ercdn.net/test/trt1.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/w7DF3N1/trt1.png" group-title="|TR| GENEL/1",TRT 1 (backup)
@@ -177,12 +181,18 @@ https://tv.ensonhaber.com/tv/tr/startv/index.m3u8
 https://59c7ea6bec1c6.streamlock.net/filbox/startv.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/PcDpxSH/startr1.png" group-title="|TR| GENEL/1",STAR (backup)
 http://mfe.cliptv.az/dash/Star_TV_HD.ism/playlist.mpd
+#EXTINF:0 tvg-logo="https://i.ibb.co/PcDpxSH/startr1.png" group-title="|TR| GENEL/1",STAR (backup)
+http://diss.tvizlehd.com/live/startv720.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" group-title="|TR| GENEL/1",KANAL D (backup)
 https://59c7ea6bec1c6.streamlock.net/filbox/kanald.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" group-title="|TR| GENEL/1",KANAL D (backup)
+http://diss.tvizlehd.com/live/kanald720.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" group-title="|TR| GENEL/1",KANAL D (backup)
 http://mfe.cliptv.az/dash/Kanal_D_HD.ism/playlist.mpd
 #EXTINF:0 tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png" group-title="|TR| GENEL/1",SHOW (backup)
 https://59c7ea6bec1c6.streamlock.net/filbox/showtv.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png" group-title="|TR| GENEL/1",SHOW (backup)
+http://diss.tvizlehd.com/live/showtv720.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png" group-title="|TR| GENEL/1",SHOW (backup)
 http://mfe.cliptv.az/dash/Show_HD.ism/playlist.mpd
 #EXTINF:0 tvg-logo="https://i.ibb.co/4tyCssZ/fox.png" group-title="|TR| GENEL/1",FOX (backup)
@@ -202,7 +212,7 @@ http://mfe.cliptv.az/dash/ATV_Turk_HD.ism/playlist.mpd
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="|TR| GENEL/2",TV 8
-http://diss.tvizlehd.com/live/tv8.m3u8
+http://diss.tvizlehd.com/live/tv8720.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="|TR| GENEL/2",TV 8
 https://livex458745.livestreamlive.xyz/tv8.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="|TR| GENEL/2",TV 8
@@ -221,6 +231,8 @@ https://tv.ensonhaber.com/tv/tr/360tv/index.m3u8
 https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/1s3fHfm/k7tr1.png" group-title="|TR| GENEL/2",KANAL 7
 https://mn-nl.mncdn.com/blutv_kanal72/live.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/1s3fHfm/k7tr1.png" group-title="|TR| GENEL/2",KANAL 7
+http://diss.tvizlehd.com/live/kanal7720.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/0f5C09z/beyaztv.png" group-title="|TR| GENEL/2",BEYAZ TV
 https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/0f5C09z/beyaztv.png" group-title="|TR| GENEL/2",BEYAZ TV
@@ -254,6 +266,8 @@ http://iptvmasterlink.dyndns.org:8080/AkilliTv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/yRZ79Gn/trtspor.png" group-title="|TR| SPOR",TRT SPOR
 https://mn-nl.mncdn.com/blutv_trtspor2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/yRZ79Gn/trtspor.png" group-title="|TR| SPOR",TRT SPOR
+http://diss.tvizlehd.com/live/trtspor720.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/yRZ79Gn/trtspor.png" group-title="|TR| SPOR",TRT SPOR
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/ky3qVPc/trtspory2.png" group-title="|TR| SPOR",TRT SPOR2 YILDIZ
 https://mn-nl.mncdn.com/blutv_trtsporyildiz/live.m3u8
@@ -263,6 +277,8 @@ https://tv-trtspor2.live.trt.com.tr/master.m3u8
 https://tv-trt3.live.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/xSjB51j/aspor.png" group-title="|TR| SPOR",A SPOR
 https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/xSjB51j/aspor.png" group-title="|TR| SPOR",A SPOR
+http://diss.tvizlehd.com/live/aspor720.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/xSjB51j/aspor.png" group-title="|TR| SPOR",A SPOR
 https://59c7ea6bec1c6.streamlock.net/filbox/aspor.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/BfM21nC/beinhaber.png" group-title="|TR| SPOR",B.I.S. HABER
@@ -389,6 +405,8 @@ https://waw1.artiyerelmedya.net/powertv/bant1/playlist.m3u8
 https://tv-trtcocuk.live.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/YjkMYbF/trtcocuk21a.png" group-title="|TR| COCUK",TRT COCUK
 https://mn-nl.mncdn.com/blutv_trtcocuk2/live.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/YjkMYbF/trtcocuk21a.png" group-title="|TR| COCUK",TRT COCUK
+http://diss.tvizlehd.com/live/trtcocuk.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Zxd0j45/cartoonnetwork.png" group-title="|TR| COCUK",CARTOON NETWORK TR
 http://185.129.1.242:80/cartoonnetworkturk/mpegts
 #EXTINF:0 tvg-logo="https://i.ibb.co/Zxd0j45/cartoonnetwork.png" group-title="|TR| COCUK",CARTOON NETWORK TR
