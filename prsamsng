@@ -150,3 +150,23 @@ http://50.7.231.221:8081/185/index.m3u8?wmsAuthSign=okad
 https://live1.panet.co.il/edge_abr/halaTV/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/fqTYrGY/33.png" group-title="|FR| FRANSA",KAN 33 MAKAN
 https://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/master.m3u8
+#EXTINF:0 group-title="|FR| FRANSA",FOX PH
+https://photocall.tv/n4lk/l1?ch=fox_tr
+#EXTINF:0 group-title="|FR| FRANSA",HABERTURK PH
+https://photocall.tv/n4lk/l1?ch=haberturk
+#EXTINF:0 group-title="|FR| FRANSA",SHOW FS
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.showtv.com.tr/canli-yayin
+#EXTINF:0 group-title="|FR| FRANSA",HABERTURK FS
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.haberturk.com/canliyayin
+#EXTINF:0 group-title="|FR| FRANSA",FOX PH M3U8
+https://photocall.tv/n4lk/l1?ch=fox_tr&m3u8
+#EXTINF:0 group-title="|FR| FRANSA",HABERTURK PH M3U8
+https://photocall.tv/n4lk/l1?ch=haberturk&m3u8
+#EXTINF:0 group-title="|FR| FRANSA",SHOW FS M3U8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.showtv.com.tr/canli-yayin&m3u8
+#EXTINF:0 group-title="|FR| FRANSA",HABERTURK FS M3U8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.haberturk.com/canliyayin&m3u8
+#EXTINF:0 group-title="|FR| FRANSA",SHOW FS M3U8SOR
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.showtv.com.tr/canli-yayin?m3u8
+#EXTINF:0 group-title="|FR| FRANSA",HABERTURK FS M3U8SOR
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.haberturk.com/canliyayin?m3u8
