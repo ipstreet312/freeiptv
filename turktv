@@ -336,12 +336,6 @@ https://tv-trt2.live.trt.com.tr/master.m3u8
 https://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/1Ty8Z3X/bizimev.png" group-title="|TR| BELGESEL",BIZIM EV TV
 https://livesx.canlitv.center/bizimevtv.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/BjNBPwh/habitat1.jpg" group-title="|TR| BELGESEL",HABITAT TV
-https://istanbul.tvizlehd.com/live/habitattv.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/BjNBPwh/habitat1.jpg" group-title="|TR| BELGESEL",HABITAT TV
-https://59c7ea6bec1c6.streamlock.net/filbox/habibattv.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/BjNBPwh/habitat1.jpg" group-title="|TR| BELGESEL",HABITAT TV
-https://59c7ea6bec1c6.streamlock.net/live/habibattv.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/QQQR6VK/dmax.png" group-title="|TR| BELGESEL",D MAX
 https://dogus-live.daioncdn.net/dmax/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/QQQR6VK/dmax.png" group-title="|TR| BELGESEL",D MAX
@@ -449,7 +443,7 @@ https://mn-nl.mncdn.com/blutv_ebal2/live.m3u8
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/swtn1kV/trtturk.png" group-title="|TR| AVRUPA",TRT TÜRK
-https://tv-trtturk.live.trt.com.tr/master.m3u8
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/swtn1kV/trtturk.png" group-title="|TR| AVRUPA",TRT TÜRK
 https://mn-nl.mncdn.com/blutv_trtturk2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/swtn1kV/trtturk.png" group-title="|TR| AVRUPA",TRT TÜRK
