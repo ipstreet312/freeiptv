@@ -51,6 +51,8 @@ https://59c7ea6bec1c6.streamlock.net/filbox/cnnturk.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png" group-title="|TR| HABER/1",CNN TÜRK (backup)
 http://istanbul.tvizlehd.com/live/cnnturk720.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/sv3L9N9/haberglobal.jpg" group-title="|TR| HABER/1",HABER GLOBAL (backup)
+https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/sv3L9N9/haberglobal.jpg" group-title="|TR| HABER/1",HABER GLOBAL (backup)
 https://59c7ea6bec1c6.streamlock.net/filbox/haberglobal.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png" group-title="|TR| HABER/1",NTV (backup)
 https://59c7ea6bec1c6.streamlock.net/filbox/ntv.stream/playlist.m3u8
@@ -396,6 +398,8 @@ https://mn-nl.mncdn.com/blutv_milyontv/milyontv_sd.smil/playlist.m3u8
 https://istanbul.tvizlehd.com/live/milyontv.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/wSPFds2/nr1turk.png" group-title="|TR| MUZIK",NUMBER ONE TÜRK
 https://mn-nl.mncdn.com/blutv_nr1turk2/live.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/wSPFds2/nr1turk.png" group-title="|TR| MUZIK",NUMBER ONE TÜRK
+http://istanbul.tvizlehd.com/live/nr1turktv.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/bQHyST5/nr1tv.png" group-title="|TR| MUZIK",NUMBER ONE
 https://mn-nl.mncdn.com/blutv_nr12/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/xhfcTC7/powertv.png" group-title="|TR| MUZIK",POWER TV
@@ -416,8 +420,12 @@ http://istanbul.tvizlehd.com/live/trtcocuk.m3u8
 http://185.129.1.242:80/cartoonnetworkturk/mpegts
 #EXTINF:0 tvg-logo="https://i.ibb.co/Zxd0j45/cartoonnetwork.png" group-title="|TR| COCUK",CARTOON NETWORK TR
 http://iptvmasterlink.dyndns.org:8080/CartoonNetwork/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/Zxd0j45/cartoonnetwork.png" group-title="|TR| COCUK",CARTOON NETWORK TR
+http://istanbul.tvizlehd.com/live/cartoon.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/vd1XK13/disneyturkey.png" group-title="|TR| COCUK",DISNEY CHANNEL TR
 http://iptvmasterlink.dyndns.org:8080/DisneyChannel/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/vd1XK13/disneyturkey.png" group-title="|TR| COCUK",DISNEY CHANNEL TR
+http://istanbul.tvizlehd.com/live/dcchannel.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/L8ftBdN/minikacocuk.png" group-title="|TR| COCUK",MINIKA COCUK
 https://istanbul.tvizlehd.com/live/minikacocuk.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/L8ftBdN/minikacocuk.png" group-title="|TR| COCUK",MINIKA COCUK
@@ -492,6 +500,8 @@ https://mn-nl.mncdn.com/blutv_kanalb2/live.m3u8
 http://iptvmasterlink.dyndns.org:8080/VatanTv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/gd9mj6G/vatan.jpg" group-title="|TR| DIGER",VATAN TV
 https://livesx.canlitv.center/vatantv.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/gd9mj6G/vatan.jpg" group-title="|TR| DIGER",VATAN TV
+https://59cba4d34b678.streamlock.net/canlitv/vatantv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/k9phm3v/diyanettv.png" group-title="|TR| DIGER",DIYANET TV
 https://mn-nl.mncdn.com/blutv_diyanet2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/k9phm3v/diyanettv.png" group-title="|TR| DIGER",DIYANET TV
