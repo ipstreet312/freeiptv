@@ -358,13 +358,13 @@ http://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 https://mn-nl.mncdn.com/blutv_powerturk/powerturk_sd.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/GVWZrhp/powerturk.png" group-title="|TR| MUZIK",POWER TÜRK
 https://waw1.artiyerelmedya.net/powerturktv/bant1/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/" group-title="|TR| MUZIK",POWER TÜRK TAPTAZE
+#EXTINF:0 tvg-logo="https://i.ibb.co/wy1H8jM/pturkttaze.png" group-title="|TR| MUZIK",POWER TÜRK TAPTAZE
 http://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/" group-title="|TR| MUZIK",POWER TÜRK EN YENILER
+#EXTINF:0 tvg-logo="https://i.ibb.co/xS417WJ/pturkiyiler.png" group-title="|TR| MUZIK",POWER TÜRK EN YENILER
 http://livetv.powerapp.com.tr/pturkeniyiler/eniyiler.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/" group-title="|TR| MUZIK",POWER TÜRK SLOW
+#EXTINF:0 tvg-logo="https://i.ibb.co/rZxNWKv/pslow.png" group-title="|TR| MUZIK",POWER TÜRK SLOW
 http://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/" group-title="|TR| MUZIK",POWER TÜRK AKUSTIK
+#EXTINF:0 tvg-logo="https://i.ibb.co/FgCW885/pturkakustik.png" group-title="|TR| MUZIK",POWER TÜRK AKUSTIK
 http://livetv.powerapp.com.tr/pturkeniyiler/eniyiler.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/4SsJS4R/dreamturk.png" group-title="|TR| MUZIK",DREAM TÜRK
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
@@ -392,9 +392,9 @@ http://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
 https://mn-nl.mncdn.com/blutv_power2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/xhfcTC7/powertv.png" group-title="|TR| MUZIK",POWER TV
 https://waw1.artiyerelmedya.net/powertv/bant1/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/" group-title="|TR| MUZIK",POWER DANCE
+#EXTINF:0 tvg-logo="https://i.ibb.co/FVNL477/pdance.png" group-title="|TR| MUZIK",POWER DANCE
 http://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/" group-title="|TR| MUZIK",POWER LOVE
+#EXTINF:0 tvg-logo="https://i.ibb.co/VLQ6cmV/plove.png" group-title="|TR| MUZIK",POWER LOVE
 http://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
 
 
