@@ -475,14 +475,16 @@ http://iptvmasterlink.dyndns.org:8080/EuroStar/playlist.m3u8
 https://mn-nl.mncdn.com/blutv_showturk2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/WvhGGP0/showturk1.png" group-title="|TR| AVRUPA",SHOW TÜRK
 http://iptvmasterlink.dyndns.org:8080/ShowTurk/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/cDxKJy1/k7avr1.png" group-title="|TR| AVRUPA",KANAL 7 AVRUPA
-https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/MCXCRcn/tgrteu1.png" group-title="|TR| AVRUPA",TGRT EU
 https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/MCXCRcn/tgrteu1.png" group-title="|TR| AVRUPA",TGRT EU
 http://iptvmasterlink.dyndns.org:8080/TgrtEu/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/4KgqKnX/atvavrupa.png" group-title="|TR| AVRUPA",ATV AVRUPA
 http://istanbul.tvizlehd.com/live/atvavrupa.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/cDxKJy1/k7avr1.png" group-title="|TR| AVRUPA",KANAL 7 AVRUPA
+http://istanbul.tvizlehd.com/live/kanal7avrupa.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/cDxKJy1/k7avr1.png" group-title="|TR| AVRUPA",KANAL 7 AVRUPA
+https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/xzZk0Yq/trtavaz.png" group-title="|TR| DIGER",TRT AVAZ
