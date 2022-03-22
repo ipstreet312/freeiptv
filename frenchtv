@@ -6,11 +6,9 @@ https://bfmtvhds-lh.akamaihd.net/i/BFMTV_ESYTLS@664114/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/88QdC82/fr24.png" group-title="|FR| FRANCE",FRANCE 24
 https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/drk4BWw/tv5inf.png" group-title="|FR| FRANCE",TV5MONDE INFO
-https://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png" group-title="|FR| FRANCE",EURONEWS FR
 https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/VtV8PkK/rtfr.png" group-title="|FR| FRANCE",RT FRANCE
-https://rt-fra.gcdn.co/live/rtfrance/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/BPpZPBn/arte.png" group-title="|FR| FRANCE",ARTE FR
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/6spXX2y/nrj12.png" group-title="|FR| FRANCE",NRJ 12
