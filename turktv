@@ -289,8 +289,6 @@ https://istanbul.tvizlehd.com/live/trt2.m3u8
 https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/1Ty8Z3X/bizimev.png" group-title="|TR| BELGESEL",BIZIM EV TV
 https://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/1Ty8Z3X/bizimev.png" group-title="|TR| BELGESEL",BIZIM EV TV
-https://livesx.canlitv.center/bizimevtv.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/DKHDfbr/wmtv.png" group-title="|TR| BELGESEL",WOMAN KADIN TV
 https://s01.vpis.io/wmtv/wmtv.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/QQQR6VK/dmax.png" group-title="|TR| BELGESEL",D MAX
@@ -383,8 +381,6 @@ https://tv-trtcocuk.live.trt.com.tr/master.m3u8
 https://mn-nl.mncdn.com/blutv_trtcocuk2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/YjkMYbF/trtcocuk21a.png" group-title="|TR| COCUK",TRT COCUK
 http://istanbul.tvizlehd.com/live/trtcocuk.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/Zxd0j45/cartoonnetwork.png" group-title="|TR| COCUK",CARTOON NETWORK TR
-http://lives2.canlitv.center/cartoonnet.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Zxd0j45/cartoonnetwork.png" group-title="|TR| COCUK",CARTOON NETWORK TR
 http://iptvmasterlink.dyndns.org:8080/CartoonNetwork/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Zxd0j45/cartoonnetwork.png" group-title="|TR| COCUK",CARTOON NETWORK TR
@@ -487,10 +483,10 @@ http://canbroadcast.com:7000/canlican/tv.m3u8
 https://dost.stream.emsal.im/tv/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/tHfxLTn/rehbertv.png" group-title="|TR| DIGER",REHBER TV
 https://yayin30.haber100.com/live/rehbertv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/2YkvFLQ/mesajtvb.png" group-title="|TR| DIGER",MESAJ TV
+http://yerelmedya.tv:1935/mesajtv/bant1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Fq0ZvYG/meltemtvt.png" group-title="|TR| DIGER",MELTEM TV
 http://istanbul.tvizlehd.com/live/meltemtv.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/Fq0ZvYG/meltemtvt.png" group-title="|TR| DIGER",MELTEM TV
-https://livesx.canlitv.center/meltemtv.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/VH7VZwt/tgrtbelgesel.png" group-title="|TR| DIGER",TGRT BELGESEL
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/VH7VZwt/tgrtbelgesel.png" group-title="|TR| DIGER",TGRT BELGESEL
