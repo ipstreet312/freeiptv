@@ -55,14 +55,10 @@ https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/ZT2fQq3/krt.png" group-title="|TR| HABER/2",KRT
 https://mn-nl.mncdn.com/blutv_krt/live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/ZT2fQq3/krt.png" group-title="|TR| HABER/2",KRT
-https://www.yilmaztv.ru/beceroz/oz.php?channel=krt-tv&stream=1&type=m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/4Mhmggc/tele1.png" group-title="|TR| HABER/2",TELE 1
 https://mn-nl.mncdn.com/blutv_tele12/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/4Mhmggc/tele1.png" group-title="|TR| HABER/2",TELE 1
 http://iptvmasterlink.dyndns.org:8080/Tele1/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/4Mhmggc/tele1.png" group-title="|TR| HABER/2",TELE 1
-https://www.yilmaztv.ru/beceroz/oz.php?channel=tele1&stream=1&type=m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/BtYMK4q/halk21a.png" group-title="|TR| HABER/2",HALK TV
 https://halktv-live.ercdn.net/halktv/halktv.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/BtYMK4q/halk21a.png" group-title="|TR| HABER/2",HALK TV
@@ -83,10 +79,6 @@ http://iptvmasterlink.dyndns.org:8080/Tv5/playlist.m3u8
 https://mn-nl.mncdn.com/blutv_ulketv2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/ZXts607/ulketv.png" group-title="|TR| HABER/2",ÜLKE
 http://iptvmasterlink.dyndns.org:8080/UlkeTv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/1X8nWHc/ahaber.png" group-title="|TR| HABER/2",A HABER
-https://www.yilmaztv.ru/beceroz/oz.php?channel=a-haber-izle-13&stream=1&type=m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/1X8nWHc/ahaber.png" group-title="|TR| HABER/2",A HABER
-https://www.yilmaztv.ru/beceroz/oz.php?channel=a-haber-izle&stream=1&type=m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/1X8nWHc/ahaber.png" group-title="|TR| HABER/2",A HABER
 http://mfe.cliptv.az/dash/A_Haber_HD.ism/playlist.mpd
 #EXTINF:0 tvg-logo="https://i.ibb.co/1RWhvy4/tvnet.png" group-title="|TR| HABER/2",TV NET
@@ -129,8 +121,6 @@ https://trkvz-live.daioncdn.net/atv/atv.m3u8
 https://trkvz-dev.daioncdn.net/atv/atv.m3u8?ce=3&app=8672c3cb-70f1-4686-9158-cc03a23c6b0f
 #EXTINF:0 tvg-logo="https://i.ibb.co/4tyCssZ/fox.png" group-title="|TR| GENEL/1",FOX
 https://mn-nl.mncdn.com/blutv_foxtv2/live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="|TR| GENEL/1",TV 8
-https://www.yilmaztv.ru/beceroz/oz.php?channel=tv-8&stream=1&type=m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="|TR| GENEL/1",TV 8
 http://mfe.cliptv.az/dash/TV_8_HD.ism/playlist.mpd
 #EXTINF:0 tvg-logo="https://i.ibb.co/w7DF3N1/trt1.png" group-title="|TR| GENEL/1",TRT 1 (backup)
@@ -197,8 +187,6 @@ https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 https://tv-trt3.live.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/xSjB51j/aspor.png" group-title="|TR| SPOR",A SPOR
 https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/BfM21nC/beinhaber.png" group-title="|TR| SPOR",B.I.S HABER
-https://www.yilmaztv.ru/beceroz/oz.php?channel=bein-sports-haber&stream=1&type=m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/1M6Tvp1/sports.jpg" group-title="|TR| SPOR",SPORTS TV
 https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/1M6Tvp1/sports.jpg" group-title="|TR| SPOR",SPORTS TV
@@ -377,10 +365,6 @@ https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 http://iptvmasterlink.dyndns.org:8080/TrtAvaz/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/VWH0pWK/cem1.png" group-title="|TR| DIGER/1",CEM TV
 http://iptvmasterlink.dyndns.org:8080/CemTv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/VWH0pWK/cem1.png" group-title="|TR| DIGER/1",CEM TV
-https://www.yilmaztv.ru/beceroz/oz.php?channel=cem-tv&stream=1&type=m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/VWH0pWK/cem1.png" group-title="|TR| DIGER/1",CEM TV
-https://www.yilmaztv.ru/beceroz/oz.php?channel=cem-tv&stream=2&type=m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Sc4DY66/emtv.webp" group-title="|TR| DIGER/1",TV EM
 http://win1.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/zh5Fqv8/kanalb.png" group-title="|TR| DIGER/1",KANAL B
