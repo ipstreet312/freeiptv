@@ -8,7 +8,7 @@ https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/in
 #EXTINF:0 tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png" group-title="|IL| ISRAEL",NOW 14
 https://dvr.ch20-cdnwiz.com/hls/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/0cGcHCD/23.jpg" group-title="|IL| ISRAEL",HINUCHIT 23
-https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/playlist.m3u8
+https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/7nYM8MK/arutz24tvtrp.png" group-title="|IL| ISRAEL",MAKO 24
 https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2200_av-b.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/1rSGfFw/N12n.png" group-title="|IL| ISRAEL",NEWS 12 Main (Nightly)
@@ -25,8 +25,10 @@ https://iptv--iptv.repl.co/Hebrew/keshet_12?m3u8
 https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png" group-title="|IL| ISRAEL",NOW 14 (backup)
 http://dvr.ch20-cdnwiz.com/mobilehls/dvr.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/0cGcHCD/23.jpg" group-title="|IL| ISRAEL",HINUCHIT 23 (backup)
+https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/kq4XM0Y/ynet.png" group-title="|IL| ISRAEL",Y-NET NEWS
-http://ynet-lh.akamaihd.net/i/ynet_1@123290/master.m3u8
+https://yitlivevid.mmdlive.lldns.net/yitlivevid/1dafd6053fb24d7fa905fb99eb4635be/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/jzRyjBn/walla.png" group-title="|IL| ISRAEL",WALLA NEWS
 https://live.wcdn.co.il/news/prog_index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/2g7Sw4c/21.jpg" group-title="|IL| ISRAEL",SHOPPING 21
@@ -39,5 +41,9 @@ https://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8
 http://50.7.231.221:8081/185/index.m3u8?wmsAuthSign=okad
 #EXTINF:0 tvg-logo="https://i.ibb.co/MG43H4H/hala.png" group-title="|IL| ISRAEL",PANET 30 HALA
 https://live1.panet.co.il/edge_abr/halaTV/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/MG43H4H/hala.png" group-title="|IL| ISRAEL",PANET 30 HALA (backup)
+https://gstream4.panet.co.il/edge/halaTV/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/fqTYrGY/33.png" group-title="|IL| ISRAEL",KAN 33 MAKAN
+https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/fqTYrGY/33.png" group-title="|IL| ISRAEL",KAN 33 MAKAN (backup)
 https://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/master.m3u8
