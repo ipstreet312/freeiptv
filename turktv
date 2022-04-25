@@ -108,9 +108,9 @@ https://dogus-live.daioncdn.net/startv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/PcDpxSH/startr1.png" group-title="|TR| GENEL/1",STAR
 https://mn-nl.mncdn.com/blutv_startv2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" group-title="|TR| GENEL/1",KANAL D
-https://mn-nl.mncdn.com/blutv_kanald2/live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" group-title="|TR| GENEL/1",KANAL D
 https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" group-title="|TR| GENEL/1",KANAL D
+https://mn-nl.mncdn.com/blutv_kanald2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png" group-title="|TR| GENEL/1",SHOW
 https://mn-nl.mncdn.com/blutv_showtv2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png" group-title="|TR| GENEL/1",SHOW
@@ -163,8 +163,6 @@ https://mn-nl.mncdn.com/blutv_tv8_52/live.m3u8
 https://59cba4d34b678.streamlock.net/filbox/tv8-5.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/g9HnGp0/ucankus.jpg" group-title="|TR| GENEL/2",UCAN KUS
 https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/g9HnGp0/ucankus.jpg" group-title="|TR| GENEL/2",UCAN KUS
-https://mn-nl.mncdn.com/blutv_ucankus2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/8bKcXmr/tv4.png" group-title="|TR| GENEL/2",TV4
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/8bKcXmr/tv4.png" group-title="|TR| GENEL/2",TV4
@@ -369,8 +367,6 @@ http://iptvmasterlink.dyndns.org:8080/CemTv/playlist.m3u8
 http://win1.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/zh5Fqv8/kanalb.png" group-title="|TR| DIGER/1",KANAL B
 https://mn-nl.mncdn.com/blutv_kanalb2/live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/2YkvFLQ/mesajtvb.png" group-title="|TR| DIGER/1",MESAJ TV
-http://yerelmedya.tv:1935/mesajtv/bant1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/k9phm3v/diyanettv.png" group-title="|TR| DIGER/1",DIYANET TV
 https://mn-nl.mncdn.com/blutv_diyanet2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/k9phm3v/diyanettv.png" group-title="|TR| DIGER/1",DIYANET TV
@@ -399,7 +395,7 @@ https://tv.ensonhaber.com/tv/tr/tgrtbelgesel/index.m3u8
 http://iptvmasterlink.dyndns.org:8080/TgrtBelgesel/playlist.m3u8
 
 
-#EXTINF:0 group-title="|TR| DIGER/2",A Türk
+#EXTINF:0 group-title="|TR| DIGER/2",A Ege Türk
 https://5be5d840359c6.streamlock.net/egeaturktv/egeaturktv/playlist.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",A52 TV
 http://fidece38941.ozelip.com:2052/a52tv/a52tv/chunklist.m3u8
@@ -1023,8 +1019,6 @@ https://waw2.artiyerelmedya.net/vizyon58/bant1/playlist.m3u8
 http://yerelmedya.tv:1935/vizyon58/bant1/playlist.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",Vuslat TV
 https://59cba4d34b678.streamlock.net/live/vuslattv/playlist.m3u8
-#EXTINF:0 group-title="|TR| DIGER/2",Welg TV
-https://tv170.ozelip.com:1936/welgtv/welgtv/playlist.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",World Türk
 http://yerelmedya.tv:1935/worldturk/bant1/playlist.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",Yaren TV
@@ -1035,8 +1029,6 @@ http://sabantv2020.ozelip.com:8080/yarimadatv/yarimadatv/playlist.m3u8
 https://yayin30.haber100.com/live/yasamtv/chunklist_w2024915114.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",Yeşilyurt TV
 http://yerelmedya.tv:1935/yesilyurttv/_definst_/bant1/chunklist_w1070867965.m3u8
-#EXTINF:0 group-title="|TR| DIGER/2",Yiğit TV
-http://195.250.60.146:4022/udp/239.203.1.151:3301
 #EXTINF:0 group-title="|TR| DIGER/2",YOZGAT BEL-TV
 https://cdn1-yozgatbeltv.yayin.com.tr/yozgatbeltv/amlst:yozgatbeltv/chunklist_w153562770_b1694720.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",YUSUFELi BELEDiYE TV
