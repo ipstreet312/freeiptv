@@ -37,8 +37,6 @@ https://mn-nl.mncdn.com/blutv_bloomberght2/live.m3u8
 https://mn-nl.mncdn.com/blutv_ekoturk2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/wdwm0fn/haberturk.png" group-title="|TR| HABER/1",HABER TÜRK (backup)
 http://mfe.cliptv.az/dash/HaberTurk_HD.ism/playlist.mpd
-#EXTINF:0 tvg-logo="https://i.ibb.co/sv3L9N9/haberglobal.jpg" group-title="|TR| HABER/1",HABER GLOBAL (backup)
-https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png" group-title="|TR| HABER/1",NTV (backup)
 https://tv.ensonhaber.com/tv/tr/ntv/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/PhwYjQ7/24tv.png" group-title="|TR| HABER/1",24 (backup)
@@ -305,12 +303,12 @@ https://tv-trtcocuk.live.trt.com.tr/master.m3u8
 https://mn-nl.mncdn.com/blutv_trtcocuk2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Zxd0j45/cartoonnetwork.png" group-title="|TR| COCUK",CARTOON NETWORK TR
 http://iptvmasterlink.dyndns.org:8080/CartoonNetwork/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/L8ftBdN/minikacocuk.png" group-title="|TR| COCUK",MINIKA COCUK
-http://mfe.cliptv.az/dash/Minika_Cocuk_SD.ism/playlist.mpd
 #EXTINF:0 tvg-logo="https://i.ibb.co/R2Zgy7F/minikago.png" group-title="|TR| COCUK",MINIKA GO
 http://iptvmasterlink.dyndns.org:8080/MinikaGo/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/R2Zgy7F/minikago.png" group-title="|TR| COCUK",MINIKA GO
 http://mfe.cliptv.az/dash/Minika_Go_SD.ism/playlist.mpd
+#EXTINF:0 tvg-logo="https://i.ibb.co/L8ftBdN/minikacocuk.png" group-title="|TR| COCUK",MINIKA COCUK
+http://mfe.cliptv.az/dash/Minika_Cocuk_SD.ism/playlist.mpd
 #EXTINF:0 tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="|TR| COCUK",KIDS TURK
 https://mn-nl.mncdn.com/blutv_cocuk/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/VgQLXd0/trtebailk.png" group-title="|TR| COCUK",TRT EBA ILK
@@ -989,7 +987,7 @@ https://59cba4d34b678.streamlock.net/canlitv/tvkayseri/playlist.m3u8
 http://live.arkumedia.com:1935/tvmor/tvmor/chunklist.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",TV MOR YEDEK
 https://5be5d840359c6.streamlock.net/tvmor/tvmor/chunklist_w363341922.m3u8
-#EXTINF:0 group-title="|TR| DIGER/2",tv500
+#EXTINF:0 group-title="|TR| DIGER/2",TV 500
 https://tv170.ozelip.com:1936/tv500/tv500/playlist.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",UCAN KUS TV HD
 https://mn-nl.mncdn.com/blutv_ucankus2/live.m3u8
