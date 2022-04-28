@@ -186,11 +186,11 @@ https://tv-trt3.live.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/xSjB51j/aspor.png" group-title="|TR| SPOR",A SPOR
 https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/1M6Tvp1/sports.jpg" group-title="|TR| SPOR",SPORTS TV
+https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/1M6Tvp1/sports.jpg" group-title="|TR| SPOR",SPORTS TV
 https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/1M6Tvp1/sports.jpg" group-title="|TR| SPOR",SPORTS TV
 http://iptvmasterlink.dyndns.org:8080/SportsTv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/1M6Tvp1/sports.jpg" group-title="|TR| SPOR",SPORTS TV
-https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/SwwjnF5/gstv.png" group-title="|TR| SPOR",GALATASARAY TV
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/cr4txwX/fbtv.jpg" group-title="|TR| SPOR",FENERBAHCE TV
@@ -991,10 +991,6 @@ http://live.arkumedia.com:1935/tvmor/tvmor/chunklist.m3u8
 https://5be5d840359c6.streamlock.net/tvmor/tvmor/chunklist_w363341922.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",TV 500
 https://tv170.ozelip.com:1936/tv500/tv500/playlist.m3u8
-#EXTINF:0 group-title="|TR| DIGER/2",UCAN KUS TV HD
-https://mn-nl.mncdn.com/blutv_ucankus2/live.m3u8
-#EXTINF:0 group-title="|TR| DIGER/2",UCAN KUS TV YEDEK
-https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",Uluslararası TV
 https://tv170.ozelip.com:1936/uluslar/uluslar/playlist.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",Ün TV
