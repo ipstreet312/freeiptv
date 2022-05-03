@@ -21,6 +21,8 @@ http://keshethlslive-lh.akamaihd.net/i/c2nsec_1@195268/master.m3u8
 https://yitlivevid.mmdlive.lldns.net/yitlivevid/1dafd6053fb24d7fa905fb99eb4635be/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png" group-title="|IL| ISRAEL",KAN 11 (backup)
 https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png" group-title="|IL| ISRAEL",KAN 11 (backup sub)
+https://kan11sub.media.kan.org.il/hls/live/2024678/2024678/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" group-title="|IL| ISRAEL",KESHET 12 (backup)
 https://iptv--iptv.repl.co/Hebrew/keshet_12?m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/MnSQCcr/R1322.jpg" group-title="|IL| ISRAEL",RESHET 13 (backup)
