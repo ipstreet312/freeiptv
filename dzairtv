@@ -29,8 +29,6 @@ https://cdn02.hta.dz/abr_htatv/EL_HAYAT_TV_ALGERIE/playlist.m3u8
 https://cdn02.hta.dz/abr_htatv/EL_FADJR_TV_DZ/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/BfwWGdQ/djan1.png" group-title="|DZ| ALGERIE",EL DJAZAIR N1
 https://cdn02.hta.dz/abr_htatv/El_Djazair_N1/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/j8L3hMr/djaz1.png" group-title="|DZ| ALGERIE",EL DJAZAIRIA TV
-https://cdn02.hta.dz/abr_htatv/EL_DJAZAIRIA_TV/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/1vH6q4L/echounws.png" group-title="|DZ| ALGERIE",ECHOUROUK NEWS
 https://cdn02.hta.dz/abr_htatv/ECHOROUK_NEWS/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/HzvjJq6/samira.png" group-title="|DZ| ALGERIE",SAMIRA TV
@@ -43,7 +41,9 @@ https://cdn02.hta.dz/abr_htatv/AL24_News/playlist.m3u8
 https://cdn02.hta.dz/abr_htatv/EL_HEDDAF_TV/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/3MdNH7S/alanis.png" group-title="|DZ| ALGERIE",ALANIS TV
 https://cdn02.hta.dz/abr_htatv/El_Fhama_TV/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/h9yh1nr/lina.png" group-title="|DZ| ALGERIE",LINA TV
-https://cdn02.hta.dz/abr_htatv/Lina_TV/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/H4N2sNS/cna.png" group-title="|DZ| ALGERIE",CNA
 https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/j8L3hMr/djaz1.png" group-title="|DZ| ALGERIE",EL DJAZAIRIA TV
+https://cdn02.hta.dz/abr_htatv/EL_DJAZAIRIA_TV/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/h9yh1nr/lina.png" group-title="|DZ| ALGERIE",LINA TV
+https://cdn02.hta.dz/abr_htatv/Lina_TV/playlist.m3u8
