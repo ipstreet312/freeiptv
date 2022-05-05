@@ -119,6 +119,8 @@ https://trkvz-live.daioncdn.net/atv/atv.m3u8
 https://trkvz-dev.daioncdn.net/atv/atv.m3u8?ce=3&app=8672c3cb-70f1-4686-9158-cc03a23c6b0f
 #EXTINF:0 tvg-logo="https://i.ibb.co/4tyCssZ/fox.png" group-title="|TR| GENEL/1",FOX
 https://mn-nl.mncdn.com/blutv_foxtv2/live.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/4tyCssZ/fox.png" group-title="|TR| GENEL/1",FOX
+https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="|TR| GENEL/1",TV 8
 https://59cba4d34b678.streamlock.net/filbox/tv8.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="|TR| GENEL/1",TV 8
@@ -335,6 +337,8 @@ https://mn-nl.mncdn.com/blutv_trtturk2/live.m3u8
 http://iptvmasterlink.dyndns.org:8080/TrtTurk/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/0Bs5JfK/tv8int.png" group-title="|TR| AVRUPA",TV8 INT
 https://mn-nl.mncdn.com/blutv_tv8_int2/live.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/0Bs5JfK/tv8int.png" group-title="|TR| AVRUPA",TV8 INT
+https://tv8m3u8.herokuapp.com/?m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/ZLHxRHb/eurod.png" group-title="|TR| AVRUPA",EURO D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/ZLHxRHb/eurod.png" group-title="|TR| AVRUPA",EURO D
