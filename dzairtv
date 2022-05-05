@@ -21,8 +21,6 @@ https://cdn02.hta.dz/abr_htatv/Beur_TV/playlist.m3u8
 https://cdn02.hta.dz/abr_htatv/EL_BILAD/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/pPwR2Tc/ennahar.png" group-title="|DZ| ALGERIE",ENNAHAR TV
 https://cdn02.hta.dz/abr_htatv/ENNAHAR_TV/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/pPwR2Tc/ennahar.png" group-title="|DZ| ALGERIE",ENNAHAR TV
-http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/yQmcHjz/echourouk.png" group-title="|DZ| ALGERIE",ECHOUROUK TV
 https://cdn02.hta.dz/abr_htatv/Echorouk_TV_HD/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/7Q4Zv2v/elhayat.png" group-title="|DZ| ALGERIE",EL HAYAT TV
@@ -35,8 +33,6 @@ https://cdn02.hta.dz/abr_htatv/El_Djazair_N1/playlist.m3u8
 https://cdn02.hta.dz/abr_htatv/EL_DJAZAIRIA_TV/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/1vH6q4L/echounws.png" group-title="|DZ| ALGERIE",ECHOUROUK NEWS
 https://cdn02.hta.dz/abr_htatv/ECHOROUK_NEWS/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/1vH6q4L/echounws.png" group-title="|DZ| ALGERIE",ECHOUROUK NEWS
-http://echorouk-live-tv.dzsecurity.net:8081/echo/EchoroukNews/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/HzvjJq6/samira.png" group-title="|DZ| ALGERIE",SAMIRA TV
 https://cdn02.hta.dz/abr_htatv/SamiraTV/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/sVMjt0y/bahia.png" group-title="|DZ| ALGERIE",BAHIA TV
