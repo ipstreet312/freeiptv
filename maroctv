@@ -20,14 +20,6 @@ https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Jx8GW4D/m24.png" group-title="|MA| MAROC",M24 TV
 https://www.m24tv.ma/live/smil:OutStream1.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/rQJcGTc/medi1tv.png" group-title="|MA| MAROC",MEDI 1 MG
-http://streaming1.medi1tv.com/live/smil:medi1tv.smil/chunklist_w1856295731_index.m3u8
-#EXTINF:0 user-agent="Star Wars" tvg-logo="https://i.ibb.co/rQJcGTc/medi1tv.png" group-title="|MA| MAROC",MEDI 1 AR
-http://streaming1.medi1tv.com/live/smil:medi1ar.smil/chunklist_w786102450_index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/rQJcGTc/medi1tv.png" group-title="|MA| MAROC",MEDI 1 MG
 http://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
-#EXTINF:0 user-agent="Star Wars" tvg-logo="https://i.ibb.co/rQJcGTc/medi1tv.png" group-title="|MA| MAROC",MEDI 1 AR
+#EXTINF:0 tvg-logo="https://i.ibb.co/rQJcGTc/medi1tv.png" group-title="|MA| MAROC",MEDI 1 AR
 http://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/rQJcGTc/medi1tv.png" group-title="|MA| MAROC",MEDI 1 MG
-http://streaming1.medi1tv.com/live/smil:medi1ar.smil/index.m3u8|User-agent=Star Wars
-#EXTINF:0 tvg-logo="https://i.ibb.co/rQJcGTc/medi1tv.png" group-title="|MA| MAROC",MEDI 1 MG
-https://streaming1.medi1tv.com/live/smil:medi1ar.smil/chunklist.m3u8|User-agent=Star Wars
