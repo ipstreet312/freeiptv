@@ -25,8 +25,12 @@ https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
 https://kan11sub.media.kan.org.il/hls/live/2024678/2024678/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" group-title="|IL| ISRAEL",KESHET 12 (backup)
 https://keshethlslive-lh.akamaihd.net/i/ch12ios_1@41375/index_2200.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" group-title="|IL| ISRAEL",KESHET 12 (backup sub)
+https://keshethlslive-i.akamaihd.net/hls/live/512033/CH2LIVE_HIGH/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/MnSQCcr/R1322.jpg" group-title="|IL| ISRAEL",RESHET 13 (backup)
 https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/MnSQCcr/R1322.jpg" group-title="|IL| ISRAEL",RESHET 13 (backup sub)
+http://d198ztbnlup2iq.cloudfront.net/out/v1/2d9050c90fb94df8b78d1d98306a1a65/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png" group-title="|IL| ISRAEL",NOW 14 (backup)
 http://dvr.ch20-cdnwiz.com/mobilehls/dvr.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/0cGcHCD/23.jpg" group-title="|IL| ISRAEL",HINUCHIT 23 (backup)
