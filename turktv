@@ -93,8 +93,6 @@ http://akittv-live.ercdn.net/akittv/akittv.m3u8
 http://stream.yol.tv:9485/medialive/yol.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/58J4bjq/yoltv.jpg" group-title="|TR| HABER/2",YOL TV
 https://stream.yol.tv:9443/medialive/yol.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/dgvh08N/artitv.jpg" group-title="|TR| HABER/2",ARTI TV
-https://streamlinkquery.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UCxVicskgBc8OD66iLKc7Uaw
 #EXTINF:0 tvg-logo="https://i.ibb.co/8bVS0nj/tbmm.jpg" group-title="|TR| HABER/2",TBMM TV
 https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 
