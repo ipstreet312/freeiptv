@@ -169,6 +169,10 @@ https://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
 https://mn-nl.mncdn.com/blutv_tv8_52/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/dgj3MTh/tv85.png" group-title="|TR| GENEL/2",TV 8.5
 https://59cba4d34b678.streamlock.net/filbox/tv8-5.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/g9HnGp0/ucankus.jpg" group-title="|TR| GENEL/2",UCAN KUS
+https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/g9HnGp0/ucankus.jpg" group-title="|TR| GENEL/2",UCAN KUS
+https://mn-nl.mncdn.com/blutv_ucankus2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/8bKcXmr/tv4.png" group-title="|TR| GENEL/2",TV4
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/8bKcXmr/tv4.png" group-title="|TR| GENEL/2",TV4
