@@ -29,6 +29,8 @@ https://keshethlslive-i.akamaihd.net/hls/live/512033/CH2LIVE_HIGH/index.m3u8
 https://mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index_2200.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" group-title="|IL| ISRAEL",KESHET 12 (backup live)
 https://mako-streaming.akamaized.net/direct/hls/live/2033791/k12/index_2200.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" group-title="|IL| ISRAEL",KESHET 12 (backup live sub)
+https://mako-streaming.akamaized.net/direct/hls/live/2035325/k12cc/index_2200.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/MnSQCcr/R1322.jpg" group-title="|IL| ISRAEL",RESHET 13 (backup)
 https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/MnSQCcr/R1322.jpg" group-title="|IL| ISRAEL",RESHET 13 (backup sub)
