@@ -9,6 +9,8 @@ https://kan11sub.media.kan.org.il/hls/live/2024678/2024678/master.m3u8
 https://mako-streaming.akamaized.net/direct/hls/live/2035325/k12cc/index_2200.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" group-title="|IL| ISRAEL",KESHET 12
 https://mako-streaming.akamaized.net/direct/hls/live/2033791/k12/index_2200.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" group-title="|IL| ISRAEL",KESHET 12
+https://mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index_2200.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/MnSQCcr/R1322.jpg" group-title="|IL| ISRAEL",RESHET 13
 https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/MnSQCcr/R1322.jpg" group-title="|IL| ISRAEL",RESHET 13
@@ -49,7 +51,3 @@ https://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/master.m3u8
 https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/qBPwnB7/Arutz9.png" group-title="|IL| ISRAEL",ARUTZ 9 RU
 http://50.7.231.221:8081/185/index.m3u8?wmsAuthSign=okad
-#EXTINF:0 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" group-title="|IL| ISRAEL",KESHET 12 (var)
-https://keshethlslive-i.akamaihd.net/hls/live/512033/CH2LIVE_HIGH/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" group-title="|IL| ISRAEL",KESHET 12 (var)
-https://mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index_2200.m3u8
