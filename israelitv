@@ -1,10 +1,8 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png" group-title="|IL| ISRAEL",KAN 11
-https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/master.m3u8
+https://kan11sub.media.kan.org.il/hls/live/2024678/2024678/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png" group-title="|IL| ISRAEL",KAN 11
 https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png" group-title="|IL| ISRAEL",KAN 11
-https://kan11sub.media.kan.org.il/hls/live/2024678/2024678/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" group-title="|IL| ISRAEL",KESHET 12
 https://mako-streaming.akamaized.net/direct/hls/live/2035325/k12cc/index_2200.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" group-title="|IL| ISRAEL",KESHET 12
@@ -21,8 +19,6 @@ http://d198ztbnlup2iq.cloudfront.net/out/v1/2d9050c90fb94df8b78d1d98306a1a65/ind
 https://dvr.ch20-cdnwiz.com/hls/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png" group-title="|IL| ISRAEL",NOW 14
 http://dvr.ch20-cdnwiz.com/mobilehls/dvr.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/0cGcHCD/23.jpg" group-title="|IL| ISRAEL",HINUCHIT 23
-https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/0cGcHCD/23.jpg" group-title="|IL| ISRAEL",HINUCHIT 23
 https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/7nYM8MK/arutz24tvtrp.png" group-title="|IL| ISRAEL",MAKO 24
@@ -46,8 +42,4 @@ https://live1.panet.co.il/edge_abr/halaTV/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/MG43H4H/hala.png" group-title="|IL| ISRAEL",PANET 30 HALA
 https://gstream4.panet.co.il/edge/halaTV/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/fqTYrGY/33.png" group-title="|IL| ISRAEL",KAN 33 MAKAN
-https://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/master.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/fqTYrGY/33.png" group-title="|IL| ISRAEL",KAN 33 MAKAN
 https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/qBPwnB7/Arutz9.png" group-title="|IL| ISRAEL",ARUTZ 9 RU
-http://50.7.231.221:8081/185/index.m3u8?wmsAuthSign=okad
