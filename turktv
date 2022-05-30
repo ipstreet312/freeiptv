@@ -255,8 +255,6 @@ https://d1kql9eqq12ti5.cloudfront.net/out/v1/73b6ebdccff34468abfaa716e8114192/ma
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/d6Zfm2P/trtmuzik21c.png" group-title="|TR| MUZIK",TRT MÜZIK
 https://mn-nl.mncdn.com/blutv_trtmuzik2/live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/d6Zfm2P/trtmuzik21c.png" group-title="|TR| MUZIK",TRT MÜZIK
-http://iptvmasterlink.dyndns.org:8080/TrtMuzik/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/zhRwXbL/krpop.png" group-title="|TR| MUZIK",KRAL POP
 http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/zhRwXbL/krpop.png" group-title="|TR| MUZIK",KRAL POP
@@ -343,8 +341,6 @@ https://mn-nl.mncdn.com/blutv_ebal2/live.m3u8
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/swtn1kV/trtturk.png" group-title="|TR| AVRUPA",TRT TÜRK
 https://mn-nl.mncdn.com/blutv_trtturk2/live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/swtn1kV/trtturk.png" group-title="|TR| AVRUPA",TRT TÜRK
-http://iptvmasterlink.dyndns.org:8080/TrtTurk/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/0Bs5JfK/tv8int.png" group-title="|TR| AVRUPA",TV8 INT
 https://mn-nl.mncdn.com/blutv_tv8_int2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/cDxKJy1/k7avr1.png" group-title="|TR| AVRUPA",KANAL 7 AVRUPA
