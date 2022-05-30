@@ -29,12 +29,12 @@ https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8
 https://mako-streaming.akamaized.net/n12/hls/live/2041434/n12s/index_2200.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/kq4XM0Y/ynet.png" group-title="|IL| ISRAEL",YNET NEWS
 https://yitlivevid.mmdlive.lldns.net/yitlivevid/1dafd6053fb24d7fa905fb99eb4635be/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/jzRyjBn/walla.png" group-title="|IL| ISRAEL",WALLA NEWS
+https://live.wcdn.co.il/news/prog_index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/93bQz4t/kabalah.png" group-title="|IL| ISRAEL",KABBALAH 96
 https://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/bJVPhHD/hidabroot.png" group-title="|IL| ISRAEL",HIDABROOT 97
 https://stream71.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/jzRyjBn/walla.png" group-title="|IL| ISRAEL",WALLA NEWS
-https://live.wcdn.co.il/news/prog_index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/2g7Sw4c/21.jpg" group-title="|IL| ISRAEL",SHOPPING 21
 https://shoppingil-rewriter.vidnt.com/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/MG43H4H/hala.png" group-title="|IL| ISRAEL",PANET 30 HALA
