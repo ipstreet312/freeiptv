@@ -5,6 +5,10 @@ https://bcovlive-a.akamaihd.net/f3c53617100e4fd7a0fbdf9e784a650e/eu-central-1/87
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
 #EXTINF:0 tvg-logo="https://i.ibb.co/88QdC82/fr24.png" group-title="|FR| FRANCE",FRANCE 24
 https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/88QdC82/fr24.png" group-title="|FR| FRANCE",FRANCE 24
+http://static.france24.com/live/F24_FR_HI_HLS/live_web.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png" group-title="|FR| FRANCE",EURONEWS FR
+https://euronews.alteox.app/hls/fr_stream.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png" group-title="|FR| FRANCE",EURONEWS FR
 https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/drk4BWw/tv5inf.png" group-title="|FR| FRANCE",TV5MONDE INFO
