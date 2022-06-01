@@ -181,6 +181,10 @@ https://mn-nl.mncdn.com/blutv_tv4/live.m3u8
 http://iptvmasterlink.dyndns.org:8080/ShowMax/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/BtW8FHj/akilli.jpg" group-title="|TR| GENEL/2",AKILLI TV
 http://iptvmasterlink.dyndns.org:8080/AkilliTv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="|TR| GENEL/2",AKSIYON
+https://mn-nl.mncdn.com/blutv_aksiyon/live.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="|TR| GENEL/2",KOMEDI
+https://mn-nl.mncdn.com/blutv_komedi/live.m3u8
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/yRZ79Gn/trtspor.png" group-title="|TR| SPOR",TRT SPOR
@@ -239,16 +243,6 @@ https://dogus-live.daioncdn.net/tlc/playlist.m3u8
 https://mn-nl.mncdn.com/blutv_tlc2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Z1vHy41/tlc.png" group-title="|TR| BELGESEL",TLC TR
 https://tv.ensonhaber.com/tv/tr/tlc/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="|TR| BELGESEL",ÖZEL YAPIM
-https://mn-nl.mncdn.com/blutv_ozelyapim2/live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="|TR| BELGESEL",AKSIYON
-https://mn-nl.mncdn.com/blutv_aksiyon/live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="|TR| BELGESEL",KOMEDI
-https://mn-nl.mncdn.com/blutv_komedi/live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="|TR| BELGESEL",BELGESEL
-https://d1grcygon2cylc.cloudfront.net/out/v1/39e430e8c1ce4a8d8176c7be8c743529/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="|TR| BELGESEL",NOSTALJI
-https://d1kql9eqq12ti5.cloudfront.net/out/v1/73b6ebdccff34468abfaa716e8114192/master.m3u8
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/d6Zfm2P/trtmuzik21c.png" group-title="|TR| MUZIK",TRT MÜZIK
@@ -321,8 +315,6 @@ http://iptvmasterlink.dyndns.org:8080/MinikaGo/playlist.m3u8
 http://mfe.cliptv.az/dash/Minika_Go_SD.ism/playlist.mpd
 #EXTINF:0 tvg-logo="https://i.ibb.co/L8ftBdN/minikacocuk.png" group-title="|TR| COCUK",MINIKA COCUK
 http://mfe.cliptv.az/dash/Minika_Cocuk_SD.ism/playlist.mpd
-#EXTINF:0 tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="|TR| COCUK",KIDS TURK
-https://mn-nl.mncdn.com/blutv_cocuk/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/VgQLXd0/trtebailk.png" group-title="|TR| COCUK",TRT EBA ILK
 https://tv-e-okul00.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/VgQLXd0/trtebailk.png" group-title="|TR| COCUK",TRT EBA ILK
