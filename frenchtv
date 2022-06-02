@@ -13,10 +13,6 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/BPpZPBn/arte.png" group-title="|FR| FRANCE",ARTE FR
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/6spXX2y/nrj12.png" group-title="|FR| FRANCE",NRJ 12
-https://nrj12hls-lh.akamaihd.net/i/nrj12hls_1@579113/master.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/R3KG4L9/cherie25.png" group-title="|FR| FRANCE",CHERIE 25
-https://cherie25hls-lh.akamaihd.net/i/cherie25hls_1@579096/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/2hgmDs6/traceurb.png" group-title="|FR| FRANCE",TRACE URBAN
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png" group-title="|FR| FRANCE",GULLI
