@@ -162,9 +162,9 @@ https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/0f5C09z/beyaztv.png" group-title="|TR| GENEL/2",BEYAZ TV
 https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/1Z22dCY/teve2.png" group-title="|TR| GENEL/2",TEVE 2
-https://mn-nl.mncdn.com/blutv_teve22/live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/1Z22dCY/teve2.png" group-title="|TR| GENEL/2",TEVE 2
 https://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/1Z22dCY/teve2.png" group-title="|TR| GENEL/2",TEVE 2
+https://mn-nl.mncdn.com/blutv_teve22/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/dgj3MTh/tv85.png" group-title="|TR| GENEL/2",TV 8.5
 https://mn-nl.mncdn.com/blutv_tv8_52/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/dgj3MTh/tv85.png" group-title="|TR| GENEL/2",TV 8.5
@@ -220,13 +220,13 @@ http://tjktv.ercdn.net/tjktv.m3u8
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png" group-title="|TR| BELGESEL",TRT BELGESEL
-https://mn-nl.mncdn.com/blutv_trtbelgesel2/live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png" group-title="|TR| BELGESEL",TRT BELGESEL
 http://tv-trtbelgesel.live.trt.com.tr/master.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/TB5N8cN/trt2.png" group-title="|TR| BELGESEL",TRT 2
-http://167.114.115.233:8080/trt2fhd/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png" group-title="|TR| BELGESEL",TRT BELGESEL
+https://mn-nl.mncdn.com/blutv_trtbelgesel2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/TB5N8cN/trt2.png" group-title="|TR| BELGESEL",TRT 2
 https://tv-trt2.medya.trt.com.tr/master.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/TB5N8cN/trt2.png" group-title="|TR| BELGESEL",TRT 2
+http://167.114.115.233:8080/trt2fhd/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/1Ty8Z3X/bizimev.png" group-title="|TR| BELGESEL",BIZIM EV TV
 https://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/DKHDfbr/wmtv.png" group-title="|TR| BELGESEL",WOMAN KADIN TV
@@ -405,15 +405,15 @@ https://tv.ensonhaber.com/tv/tr/tgrtbelgesel/index.m3u8
 http://iptvmasterlink.dyndns.org:8080/TgrtBelgesel/playlist.m3u8
 
 
-#EXTINF:0 group-title="|TR| DIGER/2",A Ege Türk
+#EXTINF:0 group-title="|TR| DIGER/2",A EGE TÜRK
 https://5be5d840359c6.streamlock.net/egeaturktv/egeaturktv/playlist.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",A52 TV
 http://fidece38941.ozelip.com:2052/a52tv/a52tv/chunklist.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",ABANT TV BOLU
 https://59cba4d34b678.streamlock.net/canlitv/abanttv/chunklist_w2128564915.m3u8
-#EXTINF:0 group-title="|TR| DIGER/2",Ada TV
+#EXTINF:0 group-title="|TR| DIGER/2",ADA TV
 https://edge1.socialsmart.tv/adatv/bant1/chunks.m3u8
-#EXTINF:0 group-title="|TR| DIGER/2",Ada TV
+#EXTINF:0 group-title="|TR| DIGER/2",ADA TV
 https://59cba4d34b678.streamlock.net/canlitv/kibrisadatv/chunklist_w1477833330.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",ADA TV KIBRIS
 https://59cba4d34b678.streamlock.net/canlitv/kibrisadatv/playlist.m3u8
@@ -423,15 +423,15 @@ https://broadcasttr.com:446/addlive/bant1/chunklist_w175037243.m3u8
 https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",AGRO TV TR
 https://yayin30.haber100.com/live/agrotv/chunklist.m3u8
-#EXTINF:0 group-title="|TR| DIGER/2",AHi TV
+#EXTINF:0 group-title="|TR| DIGER/2",AHI TV
 https://59cba4d34b678.streamlock.net/canlitv/ahitv/playlist.m3u8
-#EXTINF:0 group-title="|TR| DIGER/2",Akkon TV
+#EXTINF:0 group-title="|TR| DIGER/2",AKKON TV
 https://tv170.ozelip.com:1936/akkontv/akkontv/playlist.m3u8
-#EXTINF:0 group-title="|TR| DIGER/2",Aksu TV
+#EXTINF:0 group-title="|TR| DIGER/2",AKSU TV
 https://waw2.artiyerelmedya.net/aksutv/bant1/playlist.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",AKSU TV
 http://yerelmedya.tv:1935/aksutv/bant1/playlist.m3u8
-#EXTINF:0 group-title="|TR| DIGER/2",Aktif TV
+#EXTINF:0 group-title="|TR| DIGER/2",AKTIF TV
 http://aktif2830.ozelip.com:30124/aktif/aktif/playlist.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",AKTUEL MUZIK TV
 http://hd9994.4kradyotv.com:26606/aktuel/aktuel/playlist.m3u8
@@ -439,11 +439,11 @@ http://hd9994.4kradyotv.com:26606/aktuel/aktuel/playlist.m3u8
 https://broadcasttr.com:446/alanyatv/bant1/chunklist.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",ALANYA POSTA TV
 http://win4.yayin.com.tr/postatv/postatv/simba.m3u8
-#EXTINF:0 group-title="|TR| DIGER/2",Alanya TV
+#EXTINF:0 group-title="|TR| DIGER/2",ALANYA TV
 http://stream2.taksimbilisim.com:1935/alanyatv/smil:alanyatv.smil/playlist.m3u8
-#EXTINF:0 group-title="|TR| DIGER/2",Albayrak Ajans
+#EXTINF:0 group-title="|TR| DIGER/2",ALBAYRAK AJANS
 https://cdn10-albayrakajans.yayin.com.tr/albayrakajans/albayrakajans/playlist.m3u8
-#EXTINF:0 group-title="|TR| DIGER/2",Almanya TV
+#EXTINF:0 group-title="|TR| DIGER/2",ALMANYA TV
 http://fidece38941.ozelip.com:2052/almanyatv/almanyatv/playlist.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",ALTAS TV ORDU
 https://edge1.socialsmart.tv/live/altastv/bant1/chunklist.m3u8
@@ -453,11 +453,11 @@ https://edge1.socialsmart.tv/altsowebtv/bant1/chunks.m3u8
 http://176.236.106.172:8080/hls/ferat.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",ANADOLU DOST TV
 https://59cba4d34b678.streamlock.net/canlitv/anadoludosttv/chunklist_w1453008182.m3u8
-#EXTINF:0 group-title="|TR| DIGER/2",Anadolu RTV
+#EXTINF:0 group-title="|TR| DIGER/2",ANADOLU RTV
 https://broadcasttr.com:446/anadolurtv/bant1/chunklist_w827437696.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",ANGARA TV HD
 https://angr.radyotvonline.net/webtv/smil:kecioren.smil/chunklist_w976368300_b3268000_sltur.m3u8
-#EXTINF:0 group-title="|TR| DIGER/2",Anka
+#EXTINF:0 group-title="|TR| DIGER/2",ANKA
 http://misket.tv:2020/live/anka-icin-test/fhoPny6SRC/5592.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",ANKARA SES TV
 https://host.onlineradyotv.net:8081/ankarasestv/index.m3u8
@@ -473,7 +473,7 @@ https://waw2.artiyerelmedya.net/astv/bant1/playlist.m3u8
 http://yerelmedya.tv:1935/astv/bant1/playlist.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",ASKON TV
 https://5be5d840359c6.streamlock.net/askontv/askontv/chunklist_w843347042.m3u8
-#EXTINF:0 group-title="|TR| DIGER/2",Avrupa TV
+#EXTINF:0 group-title="|TR| DIGER/2",AVURPA TV
 http://aktif2830.ozelip.com:30124/avrupa/avrupa/playlist.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",BAHAR TURK HD
 http://baharturktv.radyotvyayini.com:1935/baharturktv/baharturktv/playlist.m3u8
@@ -483,7 +483,7 @@ http://cdn-bartintv.yayin.com.tr/BARTINTV/BARTINTV/chunklist_w896416726.m3u8
 https://tv170.ozelip.com:1936/baskantv/baskantv/playlist.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",BAYRAKLI TV
 http://sabantv2020.ozelip.com:8080/bayraklitv/bayraklitv/chunklist.m3u8
-#EXTINF:0 group-title="|TR| DIGER/2",Belediye TV
+#EXTINF:0 group-title="|TR| DIGER/2",BELEDIYE TV
 https://5be5d840359c6.streamlock.net/belediyelertv/belediyelertv/playlist.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",BELEDiYELER TV
 https://5be5d840359c6.streamlock.net/belediyelertv/belediyelertv/chunklist_w1894751580.m3u8
@@ -497,7 +497,7 @@ http://51.254.48.123:2052/bilsem/bilsem/chunklist.m3u8
 https://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/playlist.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",BODRUM BELEDiYE TV
 https://win2.yayin.com.tr/bodrumbeltv/bodrumbeltv/chunklist.m3u8
-#EXTINF:0 group-title="|TR| DIGER/2",Bodrum TV
+#EXTINF:0 group-title="|TR| DIGER/2",BODRUM TV
 http://cwebtv1920.ozelip.com:20184/bodrumtv/bodrumtv/playlist.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",BOZTEPE TV
 https://broadcasttr.com:446/btv/bant1/chunklist.m3u8
@@ -515,7 +515,7 @@ http://kuzeykibris.tv/m3u8/tv_brt2.m3u8
 http://waw1.artiyerelmedya.net:1935/brtv/bant1/playlist.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",BRTV KARABUK
 http://yerelmedya.tv:1935/brtv/bant1/chunklist.m3u8
-#EXTINF:0 group-title="|TR| DIGER/2",Brüksel Türk
+#EXTINF:0 group-title="|TR| DIGER/2",BRUKSEL TURK
 http://live.arkumedia.com:1935/brukselturktv/brukselturktv/chunklist.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",BURSA HABER TV
 https://5be5d840359c6.streamlock.net/bursahabertv/bursahabertv/chunklist.m3u8
@@ -523,13 +523,13 @@ https://5be5d840359c6.streamlock.net/bursahabertv/bursahabertv/chunklist.m3u8
 http://broadcasttr.com:1935/linetv/bant1/playlist.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",BURSA ON6 TV
 http://yerelmedya.tv:1935/kanal16/bant1/playlist.m3u8
-#EXTINF:0 group-title="|TR| DIGER/2",Bursa TV
+#EXTINF:0 group-title="|TR| DIGER/2",BURSA TV
 http://win1.yayin.com.tr/bursatv/bursatv/playlist.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",BURSA TV HD
 https://cdn-bursatv.yayin.com.tr/bursatv/bursatv/playlist.m3u8
-#EXTINF:0 group-title="|TR| DIGER/2",Business Channel Türk
+#EXTINF:0 group-title="|TR| DIGER/2",BUSINESS CHANNEL TURK
 https://59cba4d34b678.streamlock.net/canlitv/businesschannelturk/chunklist.m3u8
-#EXTINF:0 group-title="|TR| DIGER/2",Can TV
+#EXTINF:0 group-title="|TR| DIGER/2",CAN TV
 http://canbroadcast.com:7000/canlican/tv.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",CAN TV 24 ERZiNCAN
 http://cdn10-cantv24.yayin.com.tr/cantv24/cantv24/chunklist.m3u8
@@ -547,7 +547,7 @@ https://broadcasttr.com:446/ciftcitv/smil:ciftcitv.smil/playlist.m3u8
 http://stream.taksimbilisim.com:1935/ciftcitv/smil:ciftcitv.smil/playlist.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",CORUM RTV
 https://cdn-corumtv.yayin.com.tr/CorumTV/CorumTV/chunklist.m3u8
-#EXTINF:0 group-title="|TR| DIGER/2",CRI Türk
+#EXTINF:0 group-title="|TR| DIGER/2",CRI TÜRK
 https://www.guventechnology.com:19360/criturktv/criturktv.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",Dadaş TV
 http://aktif2830.ozelip.com:30124/dadastv/dadastv/playlist.m3u8
