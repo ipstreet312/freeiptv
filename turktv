@@ -101,16 +101,16 @@ https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/w7DF3N1/trt1.png" group-title="|TR| GENEL/1",TRT 1
 https://mn-nl.mncdn.com/blutv_trt12/live.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" group-title="|TR| GENEL/1",KANAL D
+https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" group-title="|TR| GENEL/1",KANAL D
+https://mn-nl.mncdn.com/blutv_kanald2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/PcDpxSH/startr1.png" group-title="|TR| GENEL/1",STAR
 https://dogus-live.daioncdn.net/startv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/PcDpxSH/startr1.png" group-title="|TR| GENEL/1",STAR
 https://mn-nl.mncdn.com/blutv_startv2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/PcDpxSH/startr1.png" group-title="|TR| GENEL/1",STAR
 https://tv.ensonhaber.com/tv/tr/startv/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" group-title="|TR| GENEL/1",KANAL D
-https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" group-title="|TR| GENEL/1",KANAL D
-https://mn-nl.mncdn.com/blutv_kanald2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png" group-title="|TR| GENEL/1",SHOW
 https://mn-nl.mncdn.com/blutv_showtv2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png" group-title="|TR| GENEL/1",SHOW
@@ -119,8 +119,6 @@ https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
 https://techouslivesquery.herokuapp.com/iptv-query?streaming-ip=https://showtv.com.tr/canli-yayin?m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="|TR| GENEL/1",ATV
 https://trkvz-live.daioncdn.net/atv/atv.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="|TR| GENEL/1",ATV
-https://trkvz-dev.daioncdn.net/atv/atv.m3u8?ce=3&app=8672c3cb-70f1-4686-9158-cc03a23c6b0f
 #EXTINF:0 tvg-logo="https://i.ibb.co/4tyCssZ/fox.png" group-title="|TR| GENEL/1",FOX
 https://mn-nl.mncdn.com/blutv_foxtv2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/4tyCssZ/fox.png" group-title="|TR| GENEL/1",FOX
