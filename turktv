@@ -177,9 +177,9 @@ https://59cba4d34b678.streamlock.net/filbox/tv8-5.stream/playlist.m3u8
 https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/g9HnGp0/ucankus.jpg" group-title="|TR| GENEL/2",UCAN KUS
 https://mn-nl.mncdn.com/blutv_ucankus2/live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/8bKcXmr/tv4.png" group-title="|TR| GENEL/2",TV4
+#EXTINF:0 tvg-logo="https://i.ibb.co/8bKcXmr/tv4.png" group-title="|TR| GENEL/2",TV 4
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/8bKcXmr/tv4.png" group-title="|TR| GENEL/2",TV4
+#EXTINF:0 tvg-logo="https://i.ibb.co/8bKcXmr/tv4.png" group-title="|TR| GENEL/2",TV 4
 https://mn-nl.mncdn.com/blutv_tv4/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/kxjKk89/showmax.png" group-title="|TR| GENEL/2",SHOW MAX
 http://iptvmasterlink.dyndns.org:8080/ShowMax/playlist.m3u8
@@ -394,7 +394,7 @@ http://svs.itworkscdn.net/sat7turklive/sat7turk.smil/sat7turkpublish/sat7turk_72
 #EXTINF:0 tvg-logo="https://i.ibb.co/Cm1kp8f/sat7turk.png" group-title="|TR| DIGER/1",SAT 7 TÜRK
 http://yerelmedya.tv:1935/sat7turk/bant1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/0GHmXWB/on4tv.png" group-title="|TR| DIGER/1",ON4 TV
-http://yayin.netradyom.com:1935/live/on4/playist.m3u8
+http://tv.netradyom.com:1935/live/on4/playist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/FX1SqtR/cantv.jpg" group-title="|TR| DIGER/1",CAN TV
 http://canbroadcast.com:7000/canlican/tv.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/jwgqtSB/dosttv.png" group-title="|TR| DIGER/1",DOST TV
@@ -505,8 +505,6 @@ https://win2.yayin.com.tr/bodrumbeltv/bodrumbeltv/chunklist.m3u8
 http://cwebtv1920.ozelip.com:20184/bodrumtv/bodrumtv/playlist.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",BOZTEPE TV
 https://broadcasttr.com:446/btv/bant1/chunklist.m3u8
-#EXTINF:0 group-title="|TR| DIGER/2",BRiC-SATRANC TV
-http://139.162.182.79/live/test/index.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",BRT 1
 http://kuzeykibris.tv/m3u8/tv_brt1.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",BRT 1 KIBRIS
