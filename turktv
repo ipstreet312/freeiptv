@@ -56,7 +56,7 @@ https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/ZT2fQq3/krt.png" group-title="|TR| HABER/2",KRT
-https://mn-nl.mncdn.com/blutv_krt/live.m3u8
+https://krt.blutv.com/blutv_krt_live/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/4Mhmggc/tele1.png" group-title="|TR| HABER/2",TELE 1
 https://mn-nl.mncdn.com/blutv_tele12/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/4Mhmggc/tele1.png" group-title="|TR| HABER/2",TELE 1
@@ -123,8 +123,6 @@ https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
 https://techouslivesquery.herokuapp.com/iptv-query?streaming-ip=https://showtv.com.tr/canli-yayin?m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="|TR| GENEL/1",ATV
 https://trkvz-live.daioncdn.net/atv/atv.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/4tyCssZ/fox.png" group-title="|TR| GENEL/1",FOX
-https://mn-nl.mncdn.com/blutv_foxtv2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/4tyCssZ/fox.png" group-title="|TR| GENEL/1",FOX
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/4tyCssZ/fox.png" group-title="|TR| GENEL/1",FOX
