@@ -37,8 +37,6 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe45
 https://mn-nl.mncdn.com/blutv_tgrthaber2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/xS3zLQr/ekoturk.png" group-title="|TR| HABER/1",EKO TÜRK
 https://mn-nl.mncdn.com/blutv_ekoturk2/live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/wdwm0fn/haberturk.png" group-title="|TR| HABER/1",HABER TÜRK (backup)
-http://mfe.cliptv.az/dash/HaberTurk_HD.ism/playlist.mpd
 #EXTINF:0 tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png" group-title="|TR| HABER/1",NTV (backup)
 https://tv.ensonhaber.com/tv/tr/ntv/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/PhwYjQ7/24tv.png" group-title="|TR| HABER/1",24 (backup)
@@ -106,7 +104,7 @@ https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/w7DF3N1/trt1.png" group-title="|TR| GENEL/1",TRT 1
 https://mn-nl.mncdn.com/blutv_trt12/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" group-title="|TR| GENEL/1",KANAL D
-https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
+https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" group-title="|TR| GENEL/1",KANAL D
 https://mn-nl.mncdn.com/blutv_kanald2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/PcDpxSH/startr1.png" group-title="|TR| GENEL/1",STAR
@@ -127,16 +125,6 @@ https://trkvz-live.daioncdn.net/atv/atv.m3u8
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/4tyCssZ/fox.png" group-title="|TR| GENEL/1",FOX
 https://techouslivesquery.herokuapp.com/iptv-query?streaming-ip=https://www.fox.com.tr/canli-yayin?m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/w7DF3N1/trt1.png" group-title="|TR| GENEL/1",TRT 1 (backup)
-http://mfe.cliptv.az/dash/TRT_1_HD.ism/playlist.mpd
-#EXTINF:0 tvg-logo="https://i.ibb.co/PcDpxSH/startr1.png" group-title="|TR| GENEL/1",STAR (backup)
-http://mfe.cliptv.az/dash/Star_TV_HD.ism/playlist.mpd
-#EXTINF:0 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" group-title="|TR| GENEL/1",KANAL D (backup)
-http://mfe.cliptv.az/dash/Kanal_D_HD.ism/playlist.mpd
-#EXTINF:0 tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png" group-title="|TR| GENEL/1",SHOW (backup)
-http://mfe.cliptv.az/dash/Show_HD.ism/playlist.mpd
-#EXTINF:0 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="|TR| GENEL/1",ATV (backup)
-http://mfe.cliptv.az/dash/ATV_Turk_HD.ism/playlist.mpd
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="|TR| GENEL/2",TV 8
@@ -145,8 +133,6 @@ https://59cba4d34b678.streamlock.net/filbox/tv8.stream/playlist.m3u8
 https://techouslivesquery.herokuapp.com/iptv-query?streaming-ip=https://www.tv8.com.tr/canli-yayin?m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="|TR| GENEL/2",TV 8
 https://tv8m3u8.herokuapp.com/?m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="|TR| GENEL/2",TV 8
-http://mfe.cliptv.az/dash/TV_8_HD.ism/playlist.mpd
 #EXTINF:0 tvg-logo="https://i.ibb.co/FVnG3Zr/360tv.png" group-title="|TR| GENEL/2",360
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/FVnG3Zr/360tv.png" group-title="|TR| GENEL/2",360
@@ -325,8 +311,6 @@ https://mn-nl.mncdn.com/blutv_trtcocuk2/live.m3u8
 http://iptvmasterlink.dyndns.org:8080/CartoonNetwork/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/R2Zgy7F/minikago.png" group-title="|TR| COCUK",MINIKA GO
 http://iptvmasterlink.dyndns.org:8080/MinikaGo/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/R2Zgy7F/minikago.png" group-title="|TR| COCUK",MINIKA GO
-http://mfe.cliptv.az/dash/Minika_Go_SD.ism/playlist.mpd
 #EXTINF:0 tvg-logo="https://i.ibb.co/L8ftBdN/minikacocuk.png" group-title="|TR| COCUK",MINIKA COCUK
 http://mfe.cliptv.az/dash/Minika_Cocuk_SD.ism/playlist.mpd
 #EXTINF:0 tvg-logo="https://i.ibb.co/VgQLXd0/trtebailk.png" group-title="|TR| COCUK",TRT EBA ILK
