@@ -15,9 +15,7 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/BPpZPBn/arte.png" group-title="|FR| FRANCE",ARTE FR
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/2hgmDs6/traceurb.png" group-title="|FR| FRANCE",TRACE URBAN
-https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png" group-title="|FR| FRANCE",GULLI
-https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/HDB0sdh/bfmbusiness.png" group-title="|FR| FRANCE",BFM BUSINESS
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
+#EXTINF:0 tvg-logo="https://i.ibb.co/2hgmDs6/traceurb.png" group-title="|FR| FRANCE",TRACE URBAN
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
