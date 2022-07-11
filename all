@@ -1223,27 +1223,3 @@ https://cdn1-yozgatbeltv.yayin.com.tr/yozgatbeltv/amlst:yozgatbeltv/chunklist_w1
 http://85.10.207.237/yusufelibeltrtv/ngrp:yusufelibeltrtv/chunklist_b1596000.m3u8
 #EXTINF:0 group-title="|TR|🇹🇷 DIGER/2",ZAZA TV
 http://46.31.146.187:44500/play/a03s/index.m3u8
-#EXTINF:0 group-title="|TR|🇹🇷 DIGER/2",TEST F
-https://techouslivesqueryalt.herokuapp.com/iptv-query?streaming-ip=http://www.fox.com.tr/canli-yayin
-#EXTINF:0 group-title="|TR|🇹🇷 DIGER/2" user-agent="Star Wars",TEST Fua
-https://techouslivesqueryalt.herokuapp.com/iptv-query?streaming-ip=http://www.fox.com.tr/canli-yayin
-#EXTINF:0 group-title="|TR|🇹🇷 DIGER/2",TEST Fual
-https://techouslivesqueryalt.herokuapp.com/iptv-query?streaming-ip=http://www.fox.com.tr/canli-yayin|User-agent=Star Wars
-#EXTINF:0 group-title="|TR|🇹🇷 DIGER/2",TEST Fad
-https://techouslivesqueryalt.herokuapp.com/iptv-query?streaming-ip=http://www.fox.com.tr/canli-yayin&m3u8
-#EXTINF:0 group-title="|TR|🇹🇷 DIGER/2" user-agent="Star Wars",TEST Fuaad
-https://techouslivesqueryalt.herokuapp.com/iptv-query?streaming-ip=http://www.fox.com.tr/canli-yayin&m3u8
-#EXTINF:0 group-title="|TR|🇹🇷 DIGER/2",TEST Fualad
-https://techouslivesqueryalt.herokuapp.com/iptv-query?streaming-ip=http://www.fox.com.tr/canli-yayin&m3u8|User-agent=Star Wars
-#EXTINF:0 group-title="|TR|🇹🇷 DIGER/2",TEST T
-https://techouslivesqueryalt.herokuapp.com/iptv-query?streaming-ip=http://www.tv8.com.tr/canli-yayin
-#EXTINF:0 group-title="|TR|🇹🇷 DIGER/2" user-agent="Star Wars",TEST Tua
-https://techouslivesqueryalt.herokuapp.com/iptv-query?streaming-ip=http://www.tv8.com.tr/canli-yayin
-#EXTINF:0 group-title="|TR|🇹🇷 DIGER/2",TEST Tual
-https://techouslivesqueryalt.herokuapp.com/iptv-query?streaming-ip=http://www.tv8.com.tr/canli-yayin|User-agent=Star Wars
-#EXTINF:0 group-title="|TR|🇹🇷 DIGER/2",TEST Tad
-https://techouslivesqueryalt.herokuapp.com/iptv-query?streaming-ip=http://www.tv8.com.tr/canli-yayin&m3u8
-#EXTINF:0 group-title="|TR|🇹🇷 DIGER/2" user-agent="Star Wars",TEST Tuaad
-https://techouslivesqueryalt.herokuapp.com/iptv-query?streaming-ip=http://www.tv8.com.tr/canli-yayin&m3u8
-#EXTINF:0 group-title="|TR|🇹🇷 DIGER/2",TEST Tualad
-https://techouslivesqueryalt.herokuapp.com/iptv-query?streaming-ip=http://www.tv8.com.tr/canli-yayin&m3u8|User-agent=Star Wars
