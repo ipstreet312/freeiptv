@@ -146,15 +146,11 @@ https://mn-nl.mncdn.com/blutv_showtv2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png" group-title="|TR|🇹🇷 GENEL/1",SHOW
 https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="|TR|🇹🇷 GENEL/1",ATV
-https://trkvz-dev.daioncdn.net/atv/atv.m3u8?app=8672c3cb-70f1-4686-9158-cc03a23c6b0f
-#EXTINF:0 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="|TR|🇹🇷 GENEL/1",ATV
 https://trkvz-live.daioncdn.net/atv/atv.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/4tyCssZ/fox.png" group-title="|TR|🇹🇷 GENEL/1",FOX
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="|TR|🇹🇷 GENEL/1",TV 8 INT
+#EXTINF:0 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="|TR|🇹🇷 GENEL/1",TV8 INT
 https://mn-nl.mncdn.com/blutv_tv8_int2/live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="|TR|🇹🇷 GENEL/1",TV 8
-https://59cba4d34b678.streamlock.net/filbox/tv8.stream/playlist.m3u8
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/FVnG3Zr/360tv.png" group-title="|TR|🇹🇷 GENEL/2",360
@@ -398,7 +394,7 @@ http://svs.itworkscdn.net/sat7turklive/sat7turk.smil/sat7turkpublish/sat7turk_72
 #EXTINF:0 tvg-logo="https://i.ibb.co/Cm1kp8f/sat7turk.png" group-title="|TR|🇹🇷 DIGER",SAT 7 TÜRK
 http://yerelmedya.tv:1935/sat7turk/bant1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/6B8M20v/on422.png" group-title="|TR|🇹🇷 DIGER",ON4 TV
-http://tv.netradyom.com:1935/live/on4/playist.m3u8
+https://edge1.socialsmart.tv/on4/bant1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/FX1SqtR/cantv.jpg" group-title="|TR|🇹🇷 DIGER",CAN TV
 http://canbroadcast.com:7000/canlican/tv.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/jwgqtSB/dosttv.png" group-title="|TR|🇹🇷 DIGER",DOST TV
