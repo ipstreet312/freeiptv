@@ -607,7 +607,11 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/nP9xpck/trtw.png" group-title="|EN|🇬🇧 WORLD",TRT WORLD
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/rwbrckj/pressir.png" group-title="|EN|🇬🇧 WORLD",PRESS TV
+https://live.presstv.ir/liveprs/smil:liveprs/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/MGW5Vv9/aljaz.png" group-title="|EN|🇬🇧 WORLD",AL JAZEERA NEWS 
 https://live-hls-web-aje.getaj.net/AJE/master.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/s9gLmqv/cgtnch.png" group-title="|EN|🇬🇧 WORLD",CGTN NEWS
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/D7w9h7Q/rt.png" group-title="|EN|🇬🇧 WORLD",RT NEWS
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
