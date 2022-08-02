@@ -261,6 +261,12 @@ http://mn-nl.mncdn.com/blutv_trtspor2/live.m3u8
 https://mn-nl.mncdn.com/blutv_trtspor2/live_540p1250000kbps/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/3WmLjwG/trtspor22c.png" group-title="|TR|🇹🇷 SPOR",TRT SPOR (backup)
 http://mn-nl.mncdn.com/blutv_trtspor2/live_540p1250000kbps/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/3WmLjwG/trtspor22c.png" group-title="|TR|🇹🇷 SPOR" user-agent="Star Wars",TRT SPOR (backupUA)
+https://mn-nl.mncdn.com/blutv_trtspor2/live_540p1250000kbps/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/3WmLjwG/trtspor22c.png" group-title="|TR|🇹🇷 SPOR",TRT SPOR (backupUA)
+https://mn-nl.mncdn.com/blutv_trtspor2/live_540p1250000kbps/index.m3u8|User-agent=Star Wars
+#EXTINF:0 tvg-logo="https://i.ibb.co/3WmLjwG/trtspor22c.png" group-title="|TR|🇹🇷 SPOR",TRT SPOR (backupUA)
+https://mn-nl.mncdn.com/blutv_trtspor2/live_540p1250000kbps/index.m3u8|user-agent:Star Wars
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png" group-title="|TR|🇹🇷 BELGESEL",TRT BELGESEL
 http://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
