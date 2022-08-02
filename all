@@ -251,6 +251,8 @@ http://yayin3.sanaltv.com:1935/live1/yabantv/playlist.m3u8
 https://mn-nl.mncdn.com/blutv_taytv2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/0Yt6jbg/tjk.png" group-title="|TR|🇹🇷 SPOR",TJK TV
 http://tjktv.ercdn.net/tjktv.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/3WmLjwG/trtspor22c.png" group-title="|TR|🇹🇷 SPOR",TRT SPOR (backup)
+https://mn-nl.mncdn.com/blutv_trtspor2/live_720p2000000kbps/index.m3u8
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png" group-title="|TR|🇹🇷 BELGESEL",TRT BELGESEL
