@@ -257,6 +257,8 @@ https://tlc.blutv.com/blutv_tlc_live/live.m3u8
 https://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png" group-title="|TR|🇹🇷 BELGESEL",TRT BELGESEL (backup)
 https://d2xwn494f2lep.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-Belgesel/master.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png" group-title="|TR|🇹🇷 BELGESEL",TRT BELGESEL (backup)
+http://tv-trtbelgesel.live.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/DKHDfbr/wmtv.png" group-title="|TR|🇹🇷 BELGESEL",WOMAN KADIN TV (backup)
 https://s01.webcaster.cloud/wmtv/live_1080p.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/DKHDfbr/wmtv.png" group-title="|TR|🇹🇷 BELGESEL",WOMAN KADIN TV (backup)
@@ -345,6 +347,8 @@ http://livetv.powerapp.com.tr/pplustv/pplustv.smil/playlist.m3u8
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/YjkMYbF/trtcocuk21a.png" group-title="|TR|🇹🇷 COCUK",TRT COCUK
 https://mn-nl.mncdn.com/blutv_trtcocuk2/live.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/YjkMYbF/trtcocuk21a.png" group-title="|TR|🇹🇷 COCUK",TRT COCUK
+https://tv-trtcocuk.live.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Zxd0j45/cartoonnetwork.png" group-title="|TR|🇹🇷 COCUK",CARTOON NETWORK TR
 http://iptvmasterlink.dyndns.org:8080/CartoonNetwork/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/R2Zgy7F/minikago.png" group-title="|TR|🇹🇷 COCUK",MINIKA GO
