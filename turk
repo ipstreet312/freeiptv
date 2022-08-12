@@ -60,7 +60,7 @@ https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/ZT2fQq3/krt.png" group-title="|TR|🇹🇷 HABER/2",KRT
 https://krt.blutv.com/blutv_krt_live/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/4Mhmggc/tele1.png" group-title="|TR|🇹🇷 HABER/2",TELE 1
-https://mn-nl.mncdn.com/blutv_tele12/live.m3u8
+https://tele1.blutv.com/blutv_tele1_live/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/4Mhmggc/tele1.png" group-title="|TR|🇹🇷 HABER/2",TELE 1
 http://iptvmasterlink.dyndns.org:8080/Tele1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/BtYMK4q/halk21a.png" group-title="|TR|🇹🇷 HABER/2",HALK TV
@@ -112,7 +112,7 @@ https://mn-nl.mncdn.com/blutv_trt12/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" group-title="|TR|🇹🇷 GENEL/1",KANAL D
 https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" group-title="|TR|🇹🇷 GENEL/1",KANAL D
-https://mn-nl.mncdn.com/blutv_kanald2/live.m3u8
+https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/PcDpxSH/startr1.png" group-title="|TR|🇹🇷 GENEL/1",STAR
 https://dogus-live.daioncdn.net/startv/startv.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/PcDpxSH/startr1.png" group-title="|TR|🇹🇷 GENEL/1",STAR
@@ -138,7 +138,7 @@ https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png" group-title="|TR|🇹🇷 GENEL/1",TRT 1 (backup)
 https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" group-title="|TR|🇹🇷 GENEL/1",KANAL D (backup)
-https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
+https://kanald.blutv.com/blutv_kanald_live/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" group-title="|TR|🇹🇷 GENEL/1",KANAL D (backup)
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=da2109ea-5dfe-4107-89ab-23593336ed61
 #EXTINF:0 tvg-logo="https://i.ibb.co/PcDpxSH/startr1.png" group-title="|TR|🇹🇷 GENEL/1",STAR (backup)
