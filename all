@@ -152,7 +152,7 @@ https://59c7ea6bec1c6.streamlock.net/filbox/tv8.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="|TR|🇹🇷 GENEL/1",ATV
 https://59c7ea6bec1c6.streamlock.net/filbox/atv.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="|TR|🇹🇷 GENEL/1",ATV
-https://trkvz-live.daioncdn.net/atv/atv.m3u8
+https://trkvz-dev.daioncdn.net/atv/atv.m3u8?app=8672c3cb-70f1-4686-9158-cc03a23c6b0f
 #EXTINF:0 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png" group-title="|TR|🇹🇷 GENEL/1",TRT 1 (backup)
 https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png" group-title="|TR|🇹🇷 GENEL/1",TRT 1 (backup)
@@ -172,7 +172,7 @@ https://dogus.daioncdn.net/startv/startv.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484
 #EXTINF:0 tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png" group-title="|TR|🇹🇷 GENEL/1",SHOW (backup)
 https://showtv.blutv.com/blutv_showtv_live/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="|TR|🇹🇷 GENEL/1",ATV (backup)
-https://trkvz-dev.daioncdn.net/atv/atv.m3u8?app=8672c3cb-70f1-4686-9158-cc03a23c6b0f
+https://trkvz-live.daioncdn.net/atv/atv.m3u8
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/FVnG3Zr/360tv.png" group-title="|TR|🇹🇷 GENEL/2",360
