@@ -50,6 +50,8 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/84XLZJq/dw.png" group-title="|EN|🇬🇧 WORLD",DW ENGLISH
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/JCjsXZm/nhk.png" group-title="|EN|🇬🇧 WORLD",NHK WORLD
+http://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/JCjsXZm/nhk.png" group-title="|EN|🇬🇧 WORLD",NHK WORLD
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/nP9xpck/trtw.png" group-title="|EN|🇬🇧 WORLD",TRT WORLD
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
