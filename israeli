@@ -27,6 +27,10 @@ https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24/index_2200.m3u
 https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/1rSGfFw/N12n.png" group-title="|IL|🇮🇱 ISRAEL",NEWS 12
 https://mako-streaming.akamaized.net/n12/hls/live/2041434/n12s/index_2200.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/j68q1Bp/i24.png" group-title="|FR|🇫🇷 FRANCE",I24 NEWS AR
+http://bcovlive-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/profile_0/chunklist_dvr.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/j68q1Bp/i24.png" group-title="|FR|🇫🇷 FRANCE",I24 NEWS FR
+https://bcovlive-a.akamaihd.net/773a2fa387914315ad11e6957cd54f6e/eu-central-1/5377161796001/playlist-all_dvr.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/kq4XM0Y/ynet.png" group-title="|IL|🇮🇱 ISRAEL",YNET NEWS
 https://yitlivevid.mmdlive.lldns.net/yitlivevid/1dafd6053fb24d7fa905fb99eb4635be/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/jzRyjBn/walla.png" group-title="|IL|🇮🇱 ISRAEL",WALLA NEWS
