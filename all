@@ -113,8 +113,6 @@ https://mn-nl.mncdn.com/blutv_halktv2/live.m3u8
 https://mn-nl.mncdn.com/blutv_flashtv/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/F5FcvbZ/flash4ok.png" group-title="|TR|🇹🇷 HABER/2",FLASH HABER
 https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/sRNHKjS/tivi622.png" group-title="|TR|🇹🇷 HABER/2",TIVI 6
-https://waw1.artiyerelmedya.net/tivi6/bant1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/tXdf2YF/ulusal22.png" group-title="|TR|🇹🇷 HABER/2",ULUSAL KANAL
 https://mn-nl.mncdn.com/blutv_ulusalkanal/blutv_ulusalkanal.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/tXdf2YF/ulusal22.png" group-title="|TR|🇹🇷 HABER/2",ULUSAL KANAL
@@ -453,6 +451,8 @@ http://iptvmasterlink.dyndns.org:8080/TgrtEu/playlist.m3u8
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/xzZk0Yq/trtavaz.png" group-title="|TR|🇹🇷 DIGER",TRT AVAZ
 http://iptvmasterlink.dyndns.org:8080/TrtAvaz/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/sRNHKjS/tivi622.png" group-title="|TR|🇹🇷 DIGER",TIVI 6
+https://waw1.artiyerelmedya.net/tivi6/bant1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/VWH0pWK/cem1.png" group-title="|TR|🇹🇷 DIGER",CEM TV
 http://iptvmasterlink.dyndns.org:8080/CemTv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/VWH0pWK/cem1.png" group-title="|TR|🇹🇷 DIGER",CEM TV
