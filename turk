@@ -57,6 +57,10 @@ https://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8
 https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
 
 
+#EXTINF:0 tvg-logo="https://i.ibb.co/F5FcvbZ/flash4ok.png" group-title="|TR|🇹🇷 HABER/2",FLASH HABER
+https://mn-nl.mncdn.com/blutv_flashtv/live.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/F5FcvbZ/flash4ok.png" group-title="|TR|🇹🇷 HABER/2",FLASH HABER
+https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/ZT2fQq3/krt.png" group-title="|TR|🇹🇷 HABER/2",KRT
 https://krt.blutv.com/blutv_krt_live/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/4Mhmggc/tele1.png" group-title="|TR|🇹🇷 HABER/2",TELE 1
@@ -67,10 +71,6 @@ http://iptvmasterlink.dyndns.org:8080/Tele1/playlist.m3u8
 https://halktv-live.ercdn.net/halktv/halktv.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/BtYMK4q/halk21a.png" group-title="|TR|🇹🇷 HABER/2",HALK TV
 https://mn-nl.mncdn.com/blutv_halktv2/live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/F5FcvbZ/flash4ok.png" group-title="|TR|🇹🇷 HABER/2",FLASH HABER
-https://mn-nl.mncdn.com/blutv_flashtv/live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/F5FcvbZ/flash4ok.png" group-title="|TR|🇹🇷 HABER/2",FLASH HABER
-https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/tXdf2YF/ulusal22.png" group-title="|TR|🇹🇷 HABER/2",ULUSAL KANAL
 https://mn-nl.mncdn.com/blutv_ulusalkanal/blutv_ulusalkanal.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/tXdf2YF/ulusal22.png" group-title="|TR|🇹🇷 HABER/2",ULUSAL KANAL
