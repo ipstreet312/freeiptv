@@ -41,12 +41,16 @@ https://bcovlive-a.akamaihd.net/df743f86a96e492790ba96a09ede4149/eu-central-1/63
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/g3YTn6c/geneok.png" group-title="|FR|🇫🇷 FRANCE",GENERATIONS TV
 https://edge.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/M5P1TMG/clubbing.png" group-title="|FR|🇫🇷 FRANCE",CLUBBING TV
+https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/ByN83p3/funradtv.png" group-title="|FR|🇫🇷 FRANCE",FUN RADIO TV
 https://livevideo.infomaniak.com/streaming/livecast/funradiovisionhd/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png" group-title="|FR|🇫🇷 FRANCE",GULLI
 https://origin2-6play.live.6cloud.fr/pool_u81ytesz/gulli/sixplaysd/hls_short/NA/vMztcDc/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png" group-title="|FR|🇫🇷 FRANCE",GULLI
 https://d13anarbtxy8c5.cloudfront.net/pool_u81ytesz/gulli/sixplaysd/hls_short/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/bdpqXfQ/tiji.png" group-title="|FR|🇫🇷 FRANCE",TIJI
+https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/X2NQhjG/pitchoun.png" group-title="|FR|🇫🇷 FRANCE",TV PITCHOUN
 https://live.tvradio-pitchoun.fr/hls/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/hKVyKj4/tmc.png" group-title="|FR|🇫🇷 FRANCE",TMC
@@ -61,10 +65,20 @@ https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
 https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/grBSqt4/novela.png" group-title="|FR|🇫🇷 FRANCE",TELE NOVELA TV
 https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/QnrdDn1/gourmand.webp" group-title="|FR|🇫🇷 FRANCE",GOURMAND TV
+https://gourmandtv.ziostream.cloud/hls/gt1604323067_hig/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/883phd1/ktook.png" group-title="|FR|🇫🇷 FRANCE",KTO
 https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/p1stMyz/sportenfr.webp" group-title="|FR|🇫🇷 FRANCE",SPORT EN FRANCE
+https://sportenfrance.ziostream.cloud/hls/sp1564435593_med/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/sWxH6cv/tracesports.png" group-title="|FR|🇫🇷 FRANCE",TRACE SPORTS
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/VvRpRty/myzen.png" group-title="|FR|🇫🇷 FRANCE",MY ZEN TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/HGpZ369/luxe.png" group-title="|FR|🇫🇷 FRANCE",LUXE TV
+https://alchimie-luxe-fr-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/LYbF1Wt/fashionok.png" group-title="|FR|🇫🇷 FRANCE",FASHION TV
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/LYbF1Wt/fashionok.png" group-title="|FR|🇫🇷 FRANCE",FASHION TV
 https://fashiontv-fashiontv-loriginal-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/LYbF1Wt/fashionok.png" group-title="|FR|🇫🇷 FRANCE",FASHION TV
