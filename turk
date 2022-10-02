@@ -4,9 +4,9 @@ https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Bt6frts/trthaber.png" group-title="|TR|🇹🇷 HABER/1",TRT HABER
 https://mn-nl.mncdn.com/blutv_trthaber2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/wdwm0fn/haberturk.png" group-title="|TR|🇹🇷 HABER/1",HABER TÜRK
-https://mn-nl.mncdn.com/blutv_haberturk2/live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/wdwm0fn/haberturk.png" group-title="|TR|🇹🇷 HABER/1",HABER TÜRK
 https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/wdwm0fn/haberturk.png" group-title="|TR|🇹🇷 HABER/1",HABER TÜRK
+https://mn-nl.mncdn.com/blutv_haberturk2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/vw0q9KH/haberglobal22.png" group-title="|TR|🇹🇷 HABER/1",HABER GLOBAL
 https://mn-nl.mncdn.com/blutv_haberglobal2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/vw0q9KH/haberglobal22.png" group-title="|TR|🇹🇷 HABER/1",HABER GLOBAL
@@ -39,6 +39,8 @@ https://mn-nl.mncdn.com/blutv_bloomberght2/live.m3u8
 https://mn-nl.mncdn.com/blutv_ekoturk2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/wdwm0fn/haberturk.png" group-title="|TR|🇹🇷 HABER/1",HABER TÜRK (backup)
 https://tv.ensonhaber.com/tv/tr/haberturk/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/wdwm0fn/haberturk.png" group-title="|TR|🇹🇷 HABER/1",HABER TÜRK (backup)
+https://ciner.daioncdn.net/haberturktv/haberturktv.m3u8?app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b
 #EXTINF:0 tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png" group-title="|TR|🇹🇷 HABER/1",NTV (backup)
 https://tv.ensonhaber.com/tv/tr/ntv/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png" group-title="|TR|🇹🇷 HABER/1",NTV (backup)
