@@ -1,38 +1,4 @@
 #EXTM3U
-#EXTINF:0 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53" group-title="TEST", 1
-https://yayin1.canlitv.day/canlitv/tv5/playlist.m3u8
-#EXTINF:0 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53" group-title="TEST", 2
-https://yayin1.canlitv.day/canlitv/tv5/index-3.m3u8
-#EXTINF:0 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53" group-title="TEST", 3
-http://yayin1.canlitv.day/canlitv/tv5/playlist.m3u8
-#EXTINF:0 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53" group-title="TEST", 4
-http://yayin1.canlitv.day/canlitv/tv5/index-3.m3u8
-#EXTINF:0 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53" group-title="TEST", 5
-https://50.7.136.162/canlitv/tv5/playlist.m3u8
-#EXTINF:0 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53" group-title="TEST", 6
-https://50.7.136.162:443/canlitv/tv5/playlist.m3u8
-#EXTINF:0 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53" group-title="TEST", 7
-http://50.7.136.162/canlitv/tv5/playlist.m3u8
-#EXTINF:0 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53" group-title="TEST", 8
-http://50.7.136.162:443/canlitv/tv5/playlist.m3u8
-#EXTINF:0 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53" group-title="TEST", 9
-https://50.7.136.162/canlitv/tv5/index-3.m3u8
-#EXTINF:0 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53" group-title="TEST", 10
-https://50.7.136.162:443/canlitv/tv5/index-3.m3u8
-#EXTINF:0 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53" group-title="TEST", 11
-http://50.7.136.162/canlitv/tv5/index-3.m3u8
-#EXTINF:0 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53" group-title="TEST", 12
-http://50.7.136.162:443/canlitv/tv5/index-3.m3u8
-#EXTINF:0 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53" group-title="TEST", 13
-https://yayin1.canlitv.day/canlitv/tv5/chunklist_w1042668610.m3u8
-#EXTINF:0 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53" group-title="TEST", 14
-http://yayin1.canlitv.day/canlitv/tv5/chunklist_w1042668610.m3u8
-#EXTINF:0 group-title="TEST", 15
-https://yayin1.canlitv.day/canlitv/tv5/chunklist_w1042668610.m3u8
-#EXTINF:0 group-title="TEST", 16
-http://yayin1.canlitv.day/canlitv/tv5/chunklist_w1042668610.m3u8
-
-
 #EXTINF:0 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png" group-title="|FR|🇫🇷 FRANCE",BFM TV
 https://bcovlive-a.akamaihd.net/f3c53617100e4fd7a0fbdf9e784a650e/eu-central-1/876450610001/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png" group-title="|FR|🇫🇷 FRANCE",BFM TV
