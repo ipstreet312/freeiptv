@@ -49,8 +49,6 @@ http://dygvideo.dygdigital.com/live/hls/puhuntvdai?m3u8
 https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/PhwYjQ7/24tv.png" group-title="|TR|🇹🇷 HABER/1",24 (backup)
 https://tv.ensonhaber.com/tv/tr/24tv/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/PhwYjQ7/24tv.png" group-title="|TR|🇹🇷 HABER/1",24 (backup)
-http://iptvmasterlink.dyndns.org:8080/Entry/24hd_yeni/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/vJJzR8G/tgrthab22.png" group-title="|TR|🇹🇷 HABER/1",TGRT HABER (backup)
 https://tv.ensonhaber.com/tv/tr/tgrthaber/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/HXKrJRC/blght22.png" group-title="|TR|🇹🇷 HABER/1",BLOOMBERG HT (backup)
@@ -87,8 +85,6 @@ https://tv.ensonhaber.com/tv/tr/benguturk/index.m3u8
 http://iptvmasterlink.dyndns.org:8080/BenguTurk/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/ZXts607/ulketv.png" group-title="|TR|🇹🇷 HABER/2",ÜLKE
 https://mn-nl.mncdn.com/blutv_ulketv2/live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/ZXts607/ulketv.png" group-title="|TR|🇹🇷 HABER/2",ÜLKE
-http://iptvmasterlink.dyndns.org:8080/UlkeTv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/1RWhvy4/tvnet.png" group-title="|TR|🇹🇷 HABER/2",TV NET
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/1RWhvy4/tvnet.png" group-title="|TR|🇹🇷 HABER/2",TV NET
@@ -299,6 +295,10 @@ http://dygvideo.dygdigital.com/live/hls/kraltv?m3u8
 https://dogus-live.daioncdn.net/kraltv/kraltv.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/6401NQw/kraltv.png" group-title="|TR|🇹🇷 MUZIK",KRAL TV
 http://dygvideo.dygdigital.com/live/hls/puhukraldai?m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/4SsJS4R/dreamturk.png" group-title="|TR|🇹🇷 MUZIK",DREAM TÜRK
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/4SsJS4R/dreamturk.png" group-title="|TR|🇹🇷 MUZIK",DREAM TÜRK
+https://mn-nl.mncdn.com/blutv_dreamturk2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/B6N9KsN/powerturk22.png" group-title="|TR|🇹🇷 MUZIK",POWER TÜRK
 http://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/B6N9KsN/powerturk22.png" group-title="|TR|🇹🇷 MUZIK",POWER TÜRK
@@ -313,10 +313,6 @@ http://livetv.powerapp.com.tr/pturkeniyiler/eniyiler.smil/playlist.m3u8
 http://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/FgCW885/pturkakustik.png" group-title="|TR|🇹🇷 MUZIK",POWER TÜRK AKUSTIK
 http://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/4SsJS4R/dreamturk.png" group-title="|TR|🇹🇷 MUZIK",DREAM TÜRK
-https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/4SsJS4R/dreamturk.png" group-title="|TR|🇹🇷 MUZIK",DREAM TÜRK
-https://mn-nl.mncdn.com/blutv_dreamturk2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/cQfPfgR/tatlises.png" group-title="|TR|🇹🇷 MUZIK",TATLISES
 https://waw1.artiyerelmedya.net/tatlisestv/bant1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/cQfPfgR/tatlises.png" group-title="|TR|🇹🇷 MUZIK",TATLISES
