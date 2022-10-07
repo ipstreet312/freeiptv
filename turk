@@ -65,8 +65,6 @@ https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8
 https://krt.blutv.com/blutv_krt_live/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/4Mhmggc/tele1.png" group-title="|TR|🇹🇷 HABER/2",TELE 1
 https://tele1.blutv.com/blutv_tele1_live/live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/4Mhmggc/tele1.png" group-title="|TR|🇹🇷 HABER/2",TELE 1
-http://iptvmasterlink.dyndns.org:8080/Tele1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/BtYMK4q/halk21a.png" group-title="|TR|🇹🇷 HABER/2",HALK TV
 https://halktv-live.ercdn.net/halktv/halktv.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/BtYMK4q/halk21a.png" group-title="|TR|🇹🇷 HABER/2",HALK TV
@@ -85,14 +83,14 @@ https://tv.ensonhaber.com/tv/tr/benguturk/index.m3u8
 http://iptvmasterlink.dyndns.org:8080/BenguTurk/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/ZXts607/ulketv.png" group-title="|TR|🇹🇷 HABER/2",ÜLKE
 https://mn-nl.mncdn.com/blutv_ulketv2/live.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/B4XX5Vx/akittv.png" group-title="|TR|🇹🇷 HABER/2",AKIT TV
+http://akittv-live.ercdn.net/akittv/akittv.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/1RWhvy4/tvnet.png" group-title="|TR|🇹🇷 HABER/2",TV NET
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/1RWhvy4/tvnet.png" group-title="|TR|🇹🇷 HABER/2",TV NET
 https://tv.ensonhaber.com/tv/tr/tvnet/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/1X8nWHc/ahaber.png" group-title="|TR|🇹🇷 HABER/2",A HABER
 http://50.7.144.122:1935/filbox/ahaber.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/B4XX5Vx/akittv.png" group-title="|TR|🇹🇷 HABER/2",AKIT TV
-http://akittv-live.ercdn.net/akittv/akittv.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/hB9yNXV/yol22.png" group-title="|TR|🇹🇷 HABER/2",YOL TV
 http://stream.yol.tv:9485/medialive/yol.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/hB9yNXV/yol22.png" group-title="|TR|🇹🇷 HABER/2",YOL TV
@@ -355,12 +353,6 @@ https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 https://mn-nl.mncdn.com/blutv_trtcocuk_2/trtcocuk.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/YjkMYbF/trtcocuk21a.png" group-title="|TR|🇹🇷 COCUK",TRT COCUK
 https://tv-trtcocuk.live.trt.com.tr/master.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/Zxd0j45/cartoonnetwork.png" group-title="|TR|🇹🇷 COCUK",CARTOON NETWORK TR
-http://iptvmasterlink.dyndns.org:8080/CartoonNetwork/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/R2Zgy7F/minikago.png" group-title="|TR|🇹🇷 COCUK",MINIKA GO
-http://iptvmasterlink.dyndns.org:8080/MinikaGo/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/L8ftBdN/minikacocuk.png" group-title="|TR|🇹🇷 COCUK",MINIKA COCUK
-http://mfe.cliptv.az/dash/Minika_Cocuk_SD.ism/playlist.mpd
 #EXTINF:0 tvg-logo="https://i.ibb.co/zfwmCCp/ilkoku22.png" group-title="|TR|🇹🇷 COCUK",TRT EBA ILK
 https://tv-e-okul00.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/zfwmCCp/ilkoku22.png" group-title="|TR|🇹🇷 COCUK",TRT EBA ILK
@@ -373,6 +365,12 @@ https://mn-nl.mncdn.com/blutv_ebao2/live.m3u8
 https://tv-e-okul02.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/v42mWjF/lise22.png" group-title="|TR|🇹🇷 COCUK",TRT EBA LISE
 https://mn-nl.mncdn.com/blutv_ebal2/live.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/Zxd0j45/cartoonnetwork.png" group-title="|TR|🇹🇷 COCUK",CARTOON NETWORK TR
+http://iptvmasterlink.dyndns.org:8080/CartoonNetwork/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/R2Zgy7F/minikago.png" group-title="|TR|🇹🇷 COCUK",MINIKA GO
+http://iptvmasterlink.dyndns.org:8080/MinikaGo/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/L8ftBdN/minikacocuk.png" group-title="|TR|🇹🇷 COCUK",MINIKA COCUK
+http://mfe.cliptv.az/dash/Minika_Cocuk_SD.ism/playlist.mpd
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/swtn1kV/trtturk.png" group-title="|TR|🇹🇷 AVRUPA",TRT TÜRK
@@ -385,14 +383,12 @@ https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 https://mn-nl.mncdn.com/blutv_eurod2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/THj0Jrg/eurod22.png" group-title="|TR|🇹🇷 AVRUPA",EURO D
 http://iptvmasterlink.dyndns.org:8080/EuroD/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/Lg90xsB/eurostar22.png" group-title="|TR|🇹🇷 AVRUPA",EURO STAR
-https://mn-nl.mncdn.com/blutv_eurostar2/live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/Lg90xsB/eurostar22.png" group-title="|TR|🇹🇷 AVRUPA",EURO STAR
-http://iptvmasterlink.dyndns.org:8080/EuroStar/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/WvhGGP0/showturk1.png" group-title="|TR|🇹🇷 AVRUPA",SHOW TÜRK
 https://mn-nl.mncdn.com/blutv_showturk2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/WvhGGP0/showturk1.png" group-title="|TR|🇹🇷 AVRUPA",SHOW TÜRK
 http://iptvmasterlink.dyndns.org:8080/ShowTurk/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/Lg90xsB/eurostar22.png" group-title="|TR|🇹🇷 AVRUPA",EURO STAR
+https://mn-nl.mncdn.com/blutv_eurostar2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/n7Jy3h5/tv8int22.png" group-title="|TR|🇹🇷 AVRUPA",TV8 INT
 https://mn-nl.mncdn.com/blutv_tv8_int2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/cDxKJy1/k7avr1.png" group-title="|TR|🇹🇷 AVRUPA",KANAL 7 AVRUPA
