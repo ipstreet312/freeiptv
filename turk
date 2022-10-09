@@ -74,7 +74,7 @@ https://mn-nl.mncdn.com/blutv_ulusalkanal/blutv_ulusalkanal.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/tXdf2YF/ulusal22.png" group-title="|TR|🇹🇷 HABER/2",ULUSAL KANAL
 http://iptvmasterlink.dyndns.org:8080/UlusalKanal/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/6m9Pb3t/tv5tr1.png" group-title="|TR|🇹🇷 HABER/2",TV 5
-https://59cba4d34b678.streamlock.net/canlitv/tv5/playlist.m3u8
+http://50.7.136.162:1935/canlitv/tv5/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/6m9Pb3t/tv5tr1.png" group-title="|TR|🇹🇷 HABER/2",TV 5
 http://iptvmasterlink.dyndns.org:8080/Tv5/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/0MHPk8y/benguturk.png" group-title="|TR|🇹🇷 HABER/2",BENGÜ TÜRK
@@ -216,7 +216,7 @@ http://iptvmasterlink.dyndns.org:8080/SportsTv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/SwwjnF5/gstv.png" group-title="|TR|🇹🇷 SPOR",GALATASARAY TV
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/867fC4z/fbtv22a.png" group-title="|TR|🇹🇷 SPOR",FENERBAHCE TV
-http://iptvmasterlink.dyndns.org:8080/FbTv/playlist.m3u8
+http://50.7.144.122:1935/filbox/fbtv.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/BfM21nC/beinhaber.png" group-title="|TR|🇹🇷 SPOR", BIS HABER
 http://50.7.144.122:1935/filbox/beinsporthaber.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/J5QjKLt/tay22.png" group-title="|TR|🇹🇷 SPOR",TAY TV
@@ -381,12 +381,8 @@ https://mn-nl.mncdn.com/blutv_trtturk2/live.m3u8
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/THj0Jrg/eurod22.png" group-title="|TR|🇹🇷 AVRUPA",EURO D
 https://mn-nl.mncdn.com/blutv_eurod2/live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/THj0Jrg/eurod22.png" group-title="|TR|🇹🇷 AVRUPA",EURO D
-http://iptvmasterlink.dyndns.org:8080/EuroD/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/WvhGGP0/showturk1.png" group-title="|TR|🇹🇷 AVRUPA",SHOW TÜRK
 https://mn-nl.mncdn.com/blutv_showturk2/live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/WvhGGP0/showturk1.png" group-title="|TR|🇹🇷 AVRUPA",SHOW TÜRK
-http://iptvmasterlink.dyndns.org:8080/ShowTurk/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Lg90xsB/eurostar22.png" group-title="|TR|🇹🇷 AVRUPA",EURO STAR
 https://mn-nl.mncdn.com/blutv_eurostar2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/n7Jy3h5/tv8int22.png" group-title="|TR|🇹🇷 AVRUPA",TV8 INT
