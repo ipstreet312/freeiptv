@@ -623,6 +623,16 @@ http://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
 http://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/rfwFbLk/telemaroc.gif" group-title="|MA|🇲🇦 MAROC",TELE MAROC
 https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/rfwFbLk/telemaroc.gif" group-title="|MA|🇲🇦 MAROC",TELE MAROC1
+http://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/rfwFbLk/telemaroc.gif" group-title="|MA|🇲🇦 MAROC",TELE MAROC2
+https://playback.akamaized.net/streams/27130247_8196478_lsi0coi5vsiqcovbqst_1/master.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/rfwFbLk/telemaroc.gif" group-title="|MA|🇲🇦 MAROC",TELE MAROC3
+https://player-api.new.livestream.com/accounts/27130247/events/8196478/broadcasts/233264422.secure.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/rfwFbLk/telemaroc.gif" group-title="|MA|🇲🇦 MAROC",TELE MAROC4
+http://playback.akamaized.net/streams/27130247_8196478_lsi0coi5vsiqcovbqst_1/master.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/rfwFbLk/telemaroc.gif" group-title="|MA|🇲🇦 MAROC",TELE MAROC5
+http://player-api.new.livestream.com/accounts/27130247/events/8196478/broadcasts/233264422.secure.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/pdd2VqB/chada.jpg" group-title="|MA|🇲🇦 MAROC",CHADA TV
 https://edge13.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/vzbhKTj/mbc5.png" group-title="|MA|🇲🇦 MAROC",MBC5
