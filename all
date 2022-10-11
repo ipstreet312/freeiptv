@@ -9,6 +9,8 @@ https://lci-hls-live-cdn1.tf1.fr/out/v1/1330f53e0d214a9ead65ac455bf79786/index.m
 https://hls-m010.live-lv3.canalplus-cdn.net/live/disk/cnews-clair-hd/ios-v3-hd-clair/cnews-clair-hd.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/XkLHrbC/frinfo2bl.png" group-title="|FR|🇫🇷 FRANCE",FRANCE INFO
 https://hdfauth.ftven.fr/esi/TA?format=extm3u&url=https://simulcast-p.ftven.fr/simulcast/France_Info/hls_monde_frinfo/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/XkLHrbC/frinfo2bl.png" group-title="|FR|🇫🇷 FRANCE",FRANCE INFO
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.francetvinfo.fr/en-direct/tv.html
 #EXTINF:0 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png" group-title="|FR|🇫🇷 FRANCE",EURONEWS FR
 https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png" group-title="|FR|🇫🇷 FRANCE",EURONEWS FR
