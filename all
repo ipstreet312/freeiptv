@@ -75,6 +75,8 @@ https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 https://sportenfrance.ziostream.cloud/hls/sp1564435593_med/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/sWxH6cv/tracesports.png" group-title="|FR|🇫🇷 FRANCE",TRACE SPORTS
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/p0CLPqT/equidia.png" group-title="|FR|🇫🇷 FRANCE",EQUIDIA LIVE
+https://equidia-live2-p28-cdn.hexaglobe.net/5dd34ae4bdb653000abf4ba2b564764b/63480ca3/equidia/equidia-mobileapp-ios-1/eqdlivepri_fre.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/VvRpRty/myzen.png" group-title="|FR|🇫🇷 FRANCE",MY ZEN TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/HGpZ369/luxe.png" group-title="|FR|🇫🇷 FRANCE",LUXE TV
