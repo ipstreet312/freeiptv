@@ -237,7 +237,7 @@ https://tv-trt2.medya.trt.com.tr/master.m3u8
 http://167.114.115.233:8080/trt2fhd/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/1Ty8Z3X/bizimev.png" group-title="|TR|🇹🇷 BELGESEL",BIZIM EV TV
 https://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/Hr0mtKR/patitv.png" group-title="|TR|🇹🇷 BELGESEL",KANAL PATI KEDI TV
+#EXTINF:0 tvg-logo="https://i.ibb.co/Hr0mtKR/patitv.png" group-title="|TR|🇹🇷 BELGESEL",KANAL PATI
 http://50.7.136.162:1935/live/kanalpati/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/rynNr53/yabantv.png" group-title="|TR|🇹🇷 BELGESEL",YABAN TV
 http://yayin3.sanaltv.com:1935/live1/yabantv/playlist.m3u8
