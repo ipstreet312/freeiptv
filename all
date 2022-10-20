@@ -7,6 +7,8 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
 https://lci-hls-live-cdn1.tf1.fr/out/v1/1330f53e0d214a9ead65ac455bf79786/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png" group-title="|FR|🇫🇷 FRANCE",CNEWS
 https://hls-m010.live-lv3.canalplus-cdn.net/live/disk/cnews-clair-hd/ios-v3-hd-clair/cnews-clair-hd.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png" group-title="|FR|🇫🇷 FRANCE",CNEWS
+https://hls-m010.live-lv3.canalplus-cdn.net/live/disk/cnews-clair-hd/ios-hddvrplus-clair/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/XkLHrbC/frinfo2bl.png" group-title="|FR|🇫🇷 FRANCE",FRANCE INFO [get-issue]
 https://hdfauth.ftven.fr/esi/TA?url=https://simulcast-p.ftven.fr/simulcast/France_Info/hls_monde_frinfo/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/XkLHrbC/frinfo2bl.png" group-title="|FR|🇫🇷 FRANCE",FRANCE INFO
@@ -35,12 +37,18 @@ https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c159
 https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/ftYS2bk/CANAL-logo.png" group-title="|FR|🇫🇷 FRANCE",CANAL+ EN CLAIR
 https://hls-m007.live-lv3.canalplus-cdn.net/live/disk/canalplusclair-hd/hls-ios-fhd-clair/canalplusclair-hd.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/hcPj99k/fgro.png" group-title="|FR|🇫🇷 FRANCE",LE FIGARO TV
+https://cdn.jwplayer.com/manifests/fQfdJyrb.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/HDB0sdh/bfmbusiness.png" group-title="|FR|🇫🇷 FRANCE",BFM BUSINESS
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
 #EXTINF:0 tvg-logo="https://i.ibb.co/j68q1Bp/i24.png" group-title="|FR|🇫🇷 FRANCE",I24 NEWS FR
 http://bcovlive-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/profile_0/chunklist_dvr.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/443jKxq/techco.png" group-title="|FR|🇫🇷 FRANCE",TECH&CO
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?start=LIVE&end=END
+#EXTINF:0 tvg-logo="https://i.ibb.co/443jKxq/techco.png" group-title="|FR|🇫🇷 FRANCE",TECH&CO
 https://bcovlive-a.akamaihd.net/df743f86a96e492790ba96a09ede4149/eu-central-1/6306058915001/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/BPzb19X/melody.png" group-title="|FR|🇫🇷 FRANCE",MELODY
+https://live.creacast.com/telemelody/smil:telemelody-211112.smil/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/2hgmDs6/traceurb.png" group-title="|FR|🇫🇷 FRANCE",TRACE URBAN
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/g3YTn6c/geneok.png" group-title="|FR|🇫🇷 FRANCE",GENERATIONS TV
@@ -85,6 +93,8 @@ https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://fashiontv-fashiontv-loriginal-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/LYbF1Wt/fashionok.png" group-title="|FR|🇫🇷 FRANCE",FASHION TV
 https://fash1043.cloudycdn.services/slive/ftv_paris_adaptive.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/LgSzMCy/museum.webp" group-title="|FR|🇫🇷 FRANCE",MUSEUM
+https://live2.creacast.com/museum-france/smil:museum-france.smil/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/WPbxmgn/tv5style.png" group-title="|FR|🇫🇷 FRANCE",TV5MONDE STYLE [geo-blocked]
 https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Jpk0d48/tv5tivi.png" group-title="|FR|🇫🇷 FRANCE",TV5MONDE TiVi [geo-blocked]
@@ -119,20 +129,13 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NORMANDIE/index.m3u8?start=LIVE&
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_PARIS/index.m3u8?start=LIVE&end=END
 #EXTINF:0 tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png" group-title="|FR|🇫🇷 FRANCE",BFM TOULON
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?start=LIVE&end=END
-#EXTINF:0 tvg-logo="" group-title="|FR|🇫🇷 FRANCE",LE FIGARO TV
-https://cdn.jwplayer.com/manifests/fQfdJyrb.m3u8
-#EXTINF:0 tvg-logo="" group-title="|FR|🇫🇷 FRANCE",MELODY
-https://live.creacast.com/telemelody/smil:telemelody-211112.smil/master.m3u8
-#EXTINF:0 tvg-logo="" group-title="|FR|🇫🇷 FRANCE",MUSEUM
-https://live2.creacast.com/museum-france/smil:museum-france.smil/master.m3u8
-#EXTINF:0 tvg-logo="" group-title="|FR|🇫🇷 FRANCE",CNEWS
-https://hls-m010.live-lv3.canalplus-cdn.net/live/disk/cnews-clair-hd/ios-hddvrplus-clair/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="|FR|🇫🇷 FRANCE",C8
 https://hls-m013.live-lv3.canalplus-cdn.net/live/disk/c8-hd/hls-ios-fhddvr-preset/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="|FR|🇫🇷 FRANCE",CSTAR
 https://hls-m013.live-lv3.canalplus-cdn.net/live/disk/cstar-hd/hls-ios-fhddvr-preset/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="|FR|🇫🇷 FRANCE",TECH&CO
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?start=LIVE&end=END
+#EXTINF:0 tvg-logo="" group-title="|FR|🇫🇷 FRANCE",C8 HD
+https://hls-m013.live-lv3.canalplus-cdn.net/live/disk/c8-hd/hls-ios-fhddvr-preset/c8-hd-avc1_3400000=10005.m3u8
+
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/Bt6frts/trthaber.png" group-title="|TR|🇹🇷 HABER/1",TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
