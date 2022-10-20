@@ -74,6 +74,8 @@ https://mn-nl.mncdn.com/blutv_ulusalkanal/blutv_ulusalkanal.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/tXdf2YF/ulusal22.png" group-title="|TR|🇹🇷 HABER/2",ULUSAL KANAL
 http://iptvmasterlink.dyndns.org:8080/UlusalKanal/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/6m9Pb3t/tv5tr1.png" group-title="|TR|🇹🇷 HABER/2",TV 5
+https://59cba4d34b678.streamlock.net/canlitv/tv5/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/6m9Pb3t/tv5tr1.png" group-title="|TR|🇹🇷 HABER/2",TV 5
 http://50.7.136.162:1935/canlitv/tv5/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/6m9Pb3t/tv5tr1.png" group-title="|TR|🇹🇷 HABER/2",TV 5
 http://iptvmasterlink.dyndns.org:8080/Tv5/playlist.m3u8
@@ -91,6 +93,8 @@ https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 https://tv.ensonhaber.com/tv/tr/tvnet/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/1X8nWHc/ahaber.png" group-title="|TR|🇹🇷 HABER/2",A HABER
 http://50.7.144.122:1935/filbox/ahaber.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/1X8nWHc/ahaber.png" group-title="|TR|🇹🇷 HABER/2",A HABER
+https://59c7ea6bec1c6.streamlock.net/filbox/ahaber.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/hB9yNXV/yol22.png" group-title="|TR|🇹🇷 HABER/2",YOL TV
 http://stream.yol.tv:9485/medialive/yol.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/hB9yNXV/yol22.png" group-title="|TR|🇹🇷 HABER/2",YOL TV
@@ -145,6 +149,12 @@ https://startv.blutv.com/blutv_startv_live/live.m3u8
 https://dogus.daioncdn.net/startv/startv.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9
 #EXTINF:0 tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png" group-title="|TR|🇹🇷 GENEL/1",SHOW (backup)
 https://showtv.blutv.com/blutv_showtv_live/live.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/4tyCssZ/fox.png" group-title="|TR|🇹🇷 GENEL/1",FOX (backup)
+https://59c7ea6bec1c6.streamlock.net/filbox/foxtv.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="|TR|🇹🇷 GENEL/1",TV8 (backup)
+https://59c7ea6bec1c6.streamlock.net/filbox/tv8.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="|TR|🇹🇷 GENEL/1",ATV (backup)
+https://59c7ea6bec1c6.streamlock.net/filbox/atv.stream/playlist.m3u8
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/FVnG3Zr/360tv.png" group-title="|TR|🇹🇷 GENEL/2",360
@@ -217,8 +227,12 @@ http://iptvmasterlink.dyndns.org:8080/SportsTv/playlist.m3u8
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/867fC4z/fbtv22a.png" group-title="|TR|🇹🇷 SPOR",FENERBAHCE TV
 http://50.7.144.122:1935/filbox/fbtv.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/867fC4z/fbtv22a.png" group-title="|TR|🇹🇷 SPOR",FENERBAHCE TV
+https://59c7ea6bec1c6.streamlock.net/filbox/fbtv.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/BfM21nC/beinhaber.png" group-title="|TR|🇹🇷 SPOR", BIS HABER
 http://50.7.144.122:1935/filbox/beinsporthaber.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/BfM21nC/beinhaber.png" group-title="|TR|🇹🇷 SPOR", BIS HABER
+https://59c7ea6bec1c6.streamlock.net/filbox/beinsporthaber.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/J5QjKLt/tay22.png" group-title="|TR|🇹🇷 SPOR",TAY TV
 https://mn-nl.mncdn.com/blutv_taytv2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/0Yt6jbg/tjk.png" group-title="|TR|🇹🇷 SPOR",TJK TV
@@ -241,6 +255,8 @@ https://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/playlist.m3u8
 http://50.7.136.162:1935/live/kanalpati/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/rynNr53/yabantv.png" group-title="|TR|🇹🇷 BELGESEL",YABAN TV
 http://yayin3.sanaltv.com:1935/live1/yabantv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/rynNr53/yabantv.png" group-title="|TR|🇹🇷 BELGESEL",YABAN TV
+https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/DKHDfbr/wmtv.png" group-title="|TR|🇹🇷 BELGESEL",WOMAN KADIN TV
 https://s01.vpis.io/wmtv/wmtv.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/DKHDfbr/wmtv.png" group-title="|TR|🇹🇷 BELGESEL",WOMAN KADIN TV
@@ -399,6 +415,8 @@ http://iptvmasterlink.dyndns.org:8080/TrtAvaz/playlist.m3u8
 http://iptvmasterlink.dyndns.org:8080/CemTv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/VWH0pWK/cem1.png" group-title="|TR|🇹🇷 DIGER",CEM TV
 http://50.7.144.122:1935/filbox/cemtv.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/VWH0pWK/cem1.png" group-title="|TR|🇹🇷 DIGER",CEM TV
+https://59c7ea6bec1c6.streamlock.net/filbox/cemtv.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/p4rP25y/duzgun.png" group-title="|TR|🇹🇷 DIGER",DÜZGÜN TV
 http://nrttn172.kesintisizyayin.com:29010/duzguntv/duzguntv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/6B8M20v/on422.png" group-title="|TR|🇹🇷 DIGER",ON4 TV
