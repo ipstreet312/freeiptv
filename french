@@ -5,6 +5,8 @@ https://bcovlive-a.akamaihd.net/f3c53617100e4fd7a0fbdf9e784a650e/eu-central-1/87
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
 #EXTINF:0 tvg-logo="https://i.ibb.co/Zfcrrr1/lci.png" group-title="|FR|🇫🇷 FRANCE",LCI
 https://lci-hls-live-cdn1.tf1.fr/out/v1/1330f53e0d214a9ead65ac455bf79786/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/Zfcrrr1/lci.png" group-title="|FR|🇫🇷 FRANCE",LCI
+https://lci-hls-live-cdn1.tf1.fr/out/v1/ab1865540d984279bc8579683bcfcff0/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png" group-title="|FR|🇫🇷 FRANCE",CNEWS
 https://hls-m010.live-lv3.canalplus-cdn.net/live/disk/cnews-clair-hd/ios-v3-hd-clair/cnews-clair-hd.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png" group-title="|FR|🇫🇷 FRANCE",CNEWS
@@ -33,6 +35,8 @@ https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 https://tf1-hls-live-cdn1.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png" group-title="|FR|🇫🇷 FRANCE",M6
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png" group-title="|FR|🇫🇷 FRANCE",M6 [mix-issue]
+https://origin2-6play.live.6cloud.fr/pool_u81ytesz/m6/sixplayhde/hls_short_enc_m6/NA/vpnjbv4/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/6RYpdNz/m6int.png" group-title="|FR|🇫🇷 FRANCE",M6 INTERNATIONAL
 https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/ftYS2bk/CANAL-logo.png" group-title="|FR|🇫🇷 FRANCE",CANAL+ EN CLAIR
@@ -73,6 +77,10 @@ https://tsf-hls-live-cdn1.tf1.fr/out/v1/0326aeefae1a405c9a9732d6f80a66df/index.m
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/6spXX2y/nrj12.png" group-title="|FR|🇫🇷 FRANCE",NRJ 12
 https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/LNRd253/w9.png" group-title="|FR|🇫🇷 FRANCE",W9 [mix-issue]
+https://origin2-6play.live.6cloud.fr/pool_u81ytesz/w9/sixplayhde/hls_short_enc_w9/NA/vpnjbv4/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/nzh88j8/6ter.png" group-title="|FR|🇫🇷 FRANCE",6TER [mix-issue]
+https://origin2-6play.live.6cloud.fr/pool_u81ytesz/6ter/sixplayhde/hls_short_enc_6ter/NA/vpnjbv4/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/grBSqt4/novela.png" group-title="|FR|🇫🇷 FRANCE",TELE NOVELA TV
 https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/883phd1/ktook.png" group-title="|FR|🇫🇷 FRANCE",KTO
@@ -105,6 +113,14 @@ https://hdfauth.ftven.fr/esi/TA?url=https://simulcast-p.ftven.fr/simulcast/Franc
 https://hdfauth.ftven.fr/esi/TA?url=https://simulcast-p.ftven.fr/simulcast/France_4/hls_fr4/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/N9d4yXt/fr5bl.png" group-title="|FR|🇫🇷 FRANCE",FRANCE 5 [get-issue]
 https://hdfauth.ftven.fr/esi/TA?url=https://simulcast-p.ftven.fr/simulcast/France_5/hls_fr5/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/cQbcrGZ/c8.png" group-title="|FR|🇫🇷 FRANCE",C8 [drm-issue]
+https://hls-m013.live-lv3.canalplus-cdn.net/live/disk/c8-hd/hls-ios-fhddvr-preset/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/Sm9PtLR/cstar.png" group-title="|FR|🇫🇷 FRANCE",CSTAR [drm-issue]
+https://hls-m013.live-lv3.canalplus-cdn.net/live/disk/cstar-hd/hls-ios-fhddvr-preset/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/fdYg3Lz/rmcstory.png" group-title="|FR|🇫🇷 FRANCE",RMC STORY [tkn-issue]
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$NUMERO_23/index.m3u8?start=LIVE&end=END
+#EXTINF:0 tvg-logo="https://i.ibb.co/VS4xR2g/rmcdecou.png" group-title="|FR|🇫🇷 FRANCE",RMC DECOUVERTE [tkn-issue]
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$RMC_DECOUVERTE/index.m3u8?start=LIVE&end=END
 #EXTINF:0 tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png" group-title="|FR|🇫🇷 FRANCE",BFM ALPES
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_ALPESDUSUD/index.m3u8?start=LIVE&end=END
 #EXTINF:0 tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png" group-title="|FR|🇫🇷 FRANCE",BFM ALSACE
