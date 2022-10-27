@@ -437,6 +437,8 @@ http://dygvideo.dygdigital.com/live/hls/dmaxdai?m3u8
 https://tv.ensonhaber.com/tv/tr/tlc/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Z1vHy41/tlc.png" group-title="|TR|🇹🇷 BELGESEL",TLC TR (backup)
 http://dygvideo.dygdigital.com/live/hls/tlctvdai?m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/Z1vHy41/tlc.png" group-title="|TR|🇹🇷 BELGESEL",TLC TR (backup)
+https://dogus.daioncdn.net/tlc/tlc.m3u8?app=1aca0aa1-06e3-41ff-a8e5-38d7df475469
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/d6Zfm2P/trtmuzik21c.png" group-title="|TR|🇹🇷 MUZIK",TRT MÜZIK
@@ -447,14 +449,10 @@ https://mn-nl.mncdn.com/blutv_trtmuzik2/live.m3u8
 http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/zhRwXbL/krpop.png" group-title="|TR|🇹🇷 MUZIK",KRAL POP
 https://dogus-live.daioncdn.net/kralpoptv/kralpoptv.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/zhRwXbL/krpop.png" group-title="|TR|🇹🇷 MUZIK",KRAL POP
-http://dygvideo.dygdigital.com/live/hls/puhukralpopdai?m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/6401NQw/kraltv.png" group-title="|TR|🇹🇷 MUZIK",KRAL TV
 http://dygvideo.dygdigital.com/live/hls/kraltv?m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/6401NQw/kraltv.png" group-title="|TR|🇹🇷 MUZIK",KRAL TV
 https://dogus-live.daioncdn.net/kraltv/kraltv.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/6401NQw/kraltv.png" group-title="|TR|🇹🇷 MUZIK",KRAL TV
-http://dygvideo.dygdigital.com/live/hls/puhukraldai?m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/4SsJS4R/dreamturk.png" group-title="|TR|🇹🇷 MUZIK",DREAM TÜRK
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/4SsJS4R/dreamturk.png" group-title="|TR|🇹🇷 MUZIK",DREAM TÜRK
@@ -507,6 +505,14 @@ http://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 http://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/cQX06mR/pplus.png" group-title="|TR|🇹🇷 MUZIK",POWER PLUS +
 http://livetv.powerapp.com.tr/pplustv/pplustv.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/zhRwXbL/krpop.png" group-title="|TR|🇹🇷 MUZIK",KRAL POP (backup)
+http://dygvideo.dygdigital.com/live/hls/puhukralpopdai?m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/zhRwXbL/krpop.png" group-title="|TR|🇹🇷 MUZIK",KRAL POP (backup)
+https://dogus.daioncdn.net/kralpoptv/kralpoptv.m3u8?app=f38a38b4-ce55-4040-8676-9826937d6128
+#EXTINF:0 tvg-logo="https://i.ibb.co/6401NQw/kraltv.png" group-title="|TR|🇹🇷 MUZIK",KRAL TV (backup)
+http://dygvideo.dygdigital.com/live/hls/puhukraldai?m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/6401NQw/kraltv.png" group-title="|TR|🇹🇷 MUZIK",KRAL TV (backup)
+https://dogus.daioncdn.net/kraltv/kraltv.m3u8?app=998af748-29a7-480e-a343-52385fce91ff
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/YjkMYbF/trtcocuk21a.png" group-title="|TR|🇹🇷 COCUK",TRT COCUK
