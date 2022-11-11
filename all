@@ -89,10 +89,10 @@ https://origin2-6play.live.6cloud.fr/pool_u81ytesz/6ter/sixplayhde/hls_short_enc
 https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/883phd1/ktook.png" group-title="|FR|🇫🇷 FRANCE",KTO
 https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" user-agent="hls-cdn1" group-title="|FR|🇫🇷 FRANCE",L'EQUIPE TV
-https://d3awaj0f2u3w26.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/master.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" user-agent="hls-cdn1" group-title="|FR|🇫🇷 FRANCE",L'EQUIPE TV 2
-http://d2l55nvfkhk4sg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg7go1lqzgpny-ssai-prd/master.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" user-agent="hls-cdn1" group-title="|FR|🇫🇷 FRANCE",L'EQUIPE TV DEVICE
+https://d3awaj0f2u3w26.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:0 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" user-agent="hls-cdn1" group-title="|FR|🇫🇷 FRANCE",L'EQUIPE TV 2 MANIFEST
+https://d3awaj0f2u3w26.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/d7ef21eb-e7ee-4632-b147-9cb13f74be10/3.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/p1stMyz/sportenfr.webp" group-title="|FR|🇫🇷 FRANCE",SPORT EN FRANCE
 https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/sWxH6cv/tracesports.png" group-title="|FR|🇫🇷 FRANCE",TRACE SPORTS
