@@ -7,7 +7,7 @@ https://streaming-live-app.rtp.pt/liverepeater/smil:rtp1HD.smil/rtp_playlist.m3u
 https://streaming-live.rtp.pt/liverepeater/rtpClean2HD.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png" user-agent="RTP Play/1.0.36" group-title="|PT|🇵🇹 PORTUGAL",RTP 2
 https://streaming-live-app.rtp.pt/liverepeater/smil:rtp2HD.smil/rtp_playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png" user-agent="RTP Play/1.0.36" group-title="|PT|🇵🇹 PORTUGAL",RTP 3 HD
+#EXTINF:0 tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png" user-agent="RTP Play/1.0.36" group-title="|PT|🇵🇹 PORTUGAL",RTP 3 [drm-blocked]
 https://streaming-live.rtp.pt/livetvhls/rtpnHD.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png" user-agent="RTP Play/1.0.36" group-title="|PT|🇵🇹 PORTUGAL",RTP 3 HD
 https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
