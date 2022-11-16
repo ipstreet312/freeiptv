@@ -671,6 +671,49 @@ https://gstream4.panet.co.il/edge/halaTV/playlist.m3u8
 https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
 
 
+#EXTM3U
+#EXTINF:0 tvg-logo="" group-title="|PT|🇵🇹 PORTUGAL",TV MANA 2
+https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="|PT|🇵🇹 PORTUGAL",TV MANA 1
+https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="|PT|🇵🇹 PORTUGAL",SIC
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="|PT|🇵🇹 PORTUGAL",SIC
+https://sic.live.impresa.pt/sic.m3u8
+#EXTINF:0 tvg-logo="" group-title="|PT|🇵🇹 PORTUGAL",SIC N
+https://sicnot.live.impresa.pt/sicnot.m3u8
+#EXTINF:0 tvg-logo="" group-title="|PT|🇵🇹 PORTUGAL",TVI
+https://video-auth2.iol.pt/live_edge/tvi_abr/edge_servers/tvi-480p/chunks.m3u8
+#EXTINF:0 tvg-logo="" group-title="|PT|🇵🇹 PORTUGAL",TVI R
+https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/chunks.m3u8
+#EXTINF:0 tvg-logo="" group-title="|PT|🇵🇹 PORTUGAL",RTP MM
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="|PT|🇵🇹 PORTUGAL",RTP M
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="|PT|🇵🇹 PORTUGAL",RTP I
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="|PT|🇵🇹 PORTUGAL",RTP AF
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="|PT|🇵🇹 PORTUGAL",RTP A
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="|PT|🇵🇹 PORTUGAL",RTP A
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="|PT|🇵🇹 PORTUGAL",RTP 3
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="|PT|🇵🇹 PORTUGAL",RTP 3
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="|PT|🇵🇹 PORTUGAL",RTP 2
+https://streaming-live.rtp.pt/liverepeater/rtpClean2HD.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="|PT|🇵🇹 PORTUGAL",RTP 1
+https://streaming-live.rtp.pt/liverepeater/rtpClean1HD.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="|PT|🇵🇹 PORTUGAL",PORTO CANAL HD
+https://streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="|PT|🇵🇹 PORTUGAL",PORTO CANAL SD
+https://streamer-b02.videos.sapo.pt/live/portocanal/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="|PT|🇵🇹 PORTUGAL",EURONEWS PT
+https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
+
+
 #EXTINF:0 tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png" group-title="|MA|🇲🇦 MAROC",AL AOULA LAAYOUNE
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png" group-title="|MA|🇲🇦 MAROC",Al AOULA INT
