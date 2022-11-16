@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:0 tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png" group-title="|PT|🇵🇹 PORTUGAL",RTP 1 HD [drm-blocked]
+https://streaming-live.rtp.pt/liverepeater/rtpClean1HD.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png" group-title="|PT|🇵🇹 PORTUGAL",RTP 1 SD [drm-blocked]
+https://streaming-live.rtp.pt/liverepeater/rtpClean1.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png" group-title="|PT|🇵🇹 PORTUGAL",RTP 2 [drm-blocked]
+https://streaming-live.rtp.pt/liverepeater/rtpClean2.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png" group-title="|PT|🇵🇹 PORTUGAL",RTP 3 HD
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png" group-title="|PT|🇵🇹 PORTUGAL",RTP 3 SD
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png" group-title="|PT|🇵🇹 PORTUGAL",RTP I
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png" group-title="|PT|🇵🇹 PORTUGAL",RTP ACORES HD
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png" group-title="|PT|🇵🇹 PORTUGAL",RTP ACORES SD
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png" group-title="|PT|🇵🇹 PORTUGAL",RTP MADEIRA
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png" group-title="|PT|🇵🇹 PORTUGAL",RTP AFRICA
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png" group-title="|PT|🇵🇹 PORTUGAL",EURONEWS PT
+https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/WVzhVbc/portoc.png" group-title="|PT|🇵🇹 PORTUGAL",PORTO CANAL
+https://streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/WVzhVbc/portoc.png" group-title="|PT|🇵🇹 PORTUGAL",PORTO CANAL
+https://streamer-b02.videos.sapo.pt/live/portocanal/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/pyXp0bk/tvi.png" group-title="|PT|🇵🇹 PORTUGAL",TVI
+https://video-auth2.iol.pt/live_edge/tvi_abr/edge_servers/tvi-480p/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/pyXp0bk/tvi.png" group-title="|PT|🇵🇹 PORTUGAL",TVI REALITY
+https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/6r1xHn6/sic.png" group-title="|PT|🇵🇹 PORTUGAL",SIC
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/6r1xHn6/sic.png" group-title="|PT|🇵🇹 PORTUGAL",SIC NOTICIAS
+https://videos.impresa.pt/videos/hls/sicnot/2022/11/15/b5a44be0-79f0-4ccf-aa7c-17e294256bed/ft_qatar-empresario-portugues.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/6r1xHn6/sic.png" group-title="|PT|🇵🇹 PORTUGAL",SIC [geo-blocked]
+https://sic.live.impresa.pt/sic.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/6r1xHn6/sic.png" group-title="|PT|🇵🇹 PORTUGAL",SIC NOTICIAS [geo-blocked]
+https://sicnot.live.impresa.pt/sicnot.m3u8
