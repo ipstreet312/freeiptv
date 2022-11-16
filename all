@@ -679,26 +679,22 @@ https://gstream4.panet.co.il/edge/halaTV/playlist.m3u8
 https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
 
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png" user-agent="RTP Play/1.0.36" group-title="|PT|🇵🇹 PORTUGAL",RTP 1 HD [drm-blocked]
+#EXTINF:0 tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png" user-agent="RTP Play/1.0.36" group-title="|PT|🇵🇹 PORTUGAL",RTP 1 [drm-blocked]
 https://streaming-live.rtp.pt/liverepeater/rtpClean1HD.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png" user-agent="RTP Play/1.0.36" group-title="|PT|🇵🇹 PORTUGAL",RTP 1 HD [drm-blocked]
-https://streaming-live.rtp.pt/liverepeater/smil:rtpClean1HD.smil/chunklist_b2540000_slpor.m3u8?tk=1668657600_1c5e96eecff0690f28973ccf73d9dca119fb52c0
-#EXTINF:0 tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png" user-agent="RTP Play/1.0.36" group-title="|PT|🇵🇹 PORTUGAL",RTP 1 HD [drm-blocked]
+#EXTINF:0 tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png" user-agent="RTP Play/1.0.36" group-title="|PT|🇵🇹 PORTUGAL",RTP 1
 https://streaming-live-app.rtp.pt/liverepeater/smil:rtp1HD.smil/rtp_playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png" user-agent="RTP Play/1.0.36" group-title="|PT|🇵🇹 PORTUGAL",RTP 1 SD [drm-blocked]
-https://streaming-live.rtp.pt/liverepeater/rtpClean1.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png" user-agent="RTP Play/1.0.36" group-title="|PT|🇵🇹 PORTUGAL",RTP 2 HD [drm-blocked]
+#EXTINF:0 tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png" user-agent="RTP Play/1.0.36" group-title="|PT|🇵🇹 PORTUGAL",RTP 2 [drm-blocked]
 https://streaming-live.rtp.pt/liverepeater/rtpClean2HD.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png" user-agent="RTP Play/1.0.36" group-title="|PT|🇵🇹 PORTUGAL",RTP 2 HD [drm-blocked]
+#EXTINF:0 tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png" user-agent="RTP Play/1.0.36" group-title="|PT|🇵🇹 PORTUGAL",RTP 2
 https://streaming-live-app.rtp.pt/liverepeater/smil:rtp2HD.smil/rtp_playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png" user-agent="RTP Play/1.0.36" group-title="|PT|🇵🇹 PORTUGAL",RTP 2 SD [drm-blocked]
-https://streaming-live.rtp.pt/liverepeater/rtpClean2.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png" user-agent="RTP Play/1.0.36" group-title="|PT|🇵🇹 PORTUGAL",RTP 3 HD 
-https://streaming-live-app.rtp.pt/liverepeater/smil:rtpnHD.smil/rtp_playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png" user-agent="RTP Play/1.0.36" group-title="|PT|🇵🇹 PORTUGAL",RTP 3 HD
-https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
+https://streaming-live.rtp.pt/livetvhls/rtpnHD.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png" user-agent="RTP Play/1.0.36" group-title="|PT|🇵🇹 PORTUGAL",RTP 3 HD
+https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png" user-agent="RTP Play/1.0.36" group-title="|PT|🇵🇹 PORTUGAL",RTP 3 SD
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png" user-agent="RTP Play/1.0.36" group-title="|PT|🇵🇹 PORTUGAL",RTP 3 SD
+https://streaming-live.rtp.pt/liverepeater/smil:rtpn.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png" group-title="|PT|🇵🇹 PORTUGAL",RTP I
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png" group-title="|PT|🇵🇹 PORTUGAL",RTP ACORES HD
@@ -713,16 +709,16 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png" group-title="|PT|🇵🇹 PORTUGAL",EURONEWS PT
 https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png" group-title="|PT|🇵🇹 PORTUGAL",CNN PORTUGAL
+https://video-auth7.iol.pt/edge_servers/cnn-720p/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/WVzhVbc/portoc.png" group-title="|PT|🇵🇹 PORTUGAL",PORTO CANAL
 https://streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/WVzhVbc/portoc.png" group-title="|PT|🇵🇹 PORTUGAL",PORTO CANAL
 https://streamer-b02.videos.sapo.pt/live/portocanal/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/pyXp0bk/tvi.png" group-title="|PT|🇵🇹 PORTUGAL",TVI
-https://video-auth2.iol.pt/live_edge/tvi_abr/edge_servers/tvi-480p/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/pyXp0bk/tvi.png" group-title="|PT|🇵🇹 PORTUGAL",TVI
+#EXTINF:0 tvg-logo="https://i.ibb.co/pyXp0bk/tvi.png" group-title="|PT|🇵🇹 PORTUGAL",TVI HD
 https://video-auth2.iol.pt/edge_servers/tvi-720_passthrough/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/pyXp0bk/tvi.png" group-title="|PT|🇵🇹 PORTUGAL",TVI
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTYvMjAyMiAxMjo0MDoyOCBQTSZoYXNoX3ZhbHVlPW9HRjBtVnE5UFowb3NWQlR1aGFVRkE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD03YWE1Y2RlYy1hYzk1LTRhY2EtODQ3My1kODRiZGZkN2MyYTM=/
+#EXTINF:0 tvg-logo="https://i.ibb.co/pyXp0bk/tvi.png" group-title="|PT|🇵🇹 PORTUGAL",TVI SD
+https://video-auth2.iol.pt/live_edge/tvi_abr/edge_servers/tvi-480p/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/pyXp0bk/tvi.png" group-title="|PT|🇵🇹 PORTUGAL",TVI INT
 https://video-auth6.iol.pt/edge_servers/tviinternacional-720p/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/pyXp0bk/tvi.png" group-title="|PT|🇵🇹 PORTUGAL",TVI REALITY
@@ -731,14 +727,10 @@ https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireali
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/6r1xHn6/sic.png" group-title="|PT|🇵🇹 PORTUGAL",SIC INT
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/6r1xHn6/sic.png" group-title="|PT|🇵🇹 PORTUGAL",SIC NOTICIAS
-https://videos.impresa.pt/videos/hls/sicnot/2022/11/15/b5a44be0-79f0-4ccf-aa7c-17e294256bed/ft_qatar-empresario-portugues.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/6r1xHn6/sic.png" group-title="|PT|🇵🇹 PORTUGAL",SIC [geo-blocked]
 https://sic.live.impresa.pt/sic.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/6r1xHn6/sic.png" group-title="|PT|🇵🇹 PORTUGAL",SIC NOTICIAS [geo-blocked]
 https://sicnot.live.impresa.pt/sicnot.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png" group-title="|PT|🇵🇹 PORTUGAL",CNN PORTUGAL
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTYvMjAyMiAxMjo0MDoyOSBQTSZoYXNoX3ZhbHVlPWxjWjRYUGE2WWhRelgxNHlTanBlREE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD03MjgxMmUwMi1jOTk5LTQ2YmMtYWUxNS0wNzJmYzI0NDQ2Nzk=/
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png" group-title="|MA|🇲🇦 MAROC",AL AOULA LAAYOUNE
