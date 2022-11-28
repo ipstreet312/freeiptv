@@ -31,7 +31,7 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8
 https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_092/HD/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/BPpZPBn/arte.png" group-title="|FR|🇫🇷 FRANCE",ARTE FR
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" user-agent="hls-cdn1" group-title="|FR|🇫🇷 FRANCE",TF1 [worldcup-badSD]
+#EXTINF:0 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" user-agent="hls-cdn1" group-title="|FR|🇫🇷 FRANCE",TF1 [worldcup-blocked]
 https://tf1-hls-live-cdn1.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png" group-title="|FR|🇫🇷 FRANCE",M6
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
