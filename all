@@ -121,7 +121,7 @@ https://hls-m013.live-lv3.canalplus-cdn.net/live/disk/c8-hd/hls-ios-fhddvr-prese
 http://www.callofliberty.fr/stream/CSTAR/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Sm9PtLR/cstar.png" group-title="|FR|🇫🇷 GENERALISTE",CSTAR [drm-blocked]
 https://hls-m013.live-lv3.canalplus-cdn.net/live/disk/cstar-hd/hls-ios-fhddvr-preset/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/fdYg3Lz/rmcstory.png" user-agent="hls" group-title="|FR|🇫🇷 GENERALISTE",RMC STORY
+#EXTINF:0 tvg-logo="https://i.ibb.co/fdYg3Lz/rmcstory.png" group-title="|FR|🇫🇷 GENERALISTE",RMC STORY
 http://gratuittv.free.fr/Files/rmcstory/live/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/fdYg3Lz/rmcstory.png" group-title="|FR|🇫🇷 GENERALISTE",RMC STORY [drm-blocked]
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$NUMERO_23/index.m3u8?start=LIVE&end=END
