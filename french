@@ -1,189 +1,189 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png" group-title="|FR|🇫🇷 INFORMATION",BFM TV
 https://bcovlive-a.akamaihd.net/f3c53617100e4fd7a0fbdf9e784a650e/eu-central-1/876450610001/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png" group-title="|FR|🇫🇷 INFORMATION",BFM TV
+#EXTINF:0 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png",BFM TV
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
-#EXTINF:0 tvg-logo="https://i.ibb.co/Zfcrrr1/lci.png" group-title="|FR|🇫🇷 INFORMATION",LCI
+#EXTINF:0 tvg-logo="https://i.ibb.co/Zfcrrr1/lci.png",LCI
 https://lci-hls-live-cdn1.tf1.fr/out/v1/1330f53e0d214a9ead65ac455bf79786/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/Zfcrrr1/lci.png" group-title="|FR|🇫🇷 INFORMATION",LCI
+#EXTINF:0 tvg-logo="https://i.ibb.co/Zfcrrr1/lci.png",LCI
 https://lci-hls-live-cdn1.tf1.fr/out/v1/ab1865540d984279bc8579683bcfcff0/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png" group-title="|FR|🇫🇷 INFORMATION",CNEWS
+#EXTINF:0 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png",CNEWS
 https://hls-m010.live-lv3.canalplus-cdn.net/live/disk/cnews-clair-hd/ios-v3-hd-clair/cnews-clair-hd.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png" group-title="|FR|🇫🇷 INFORMATION",CNEWS
+#EXTINF:0 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png",CNEWS
 https://hls-m010.live-lv3.canalplus-cdn.net/live/disk/cnews-clair-hd/ios-hddvrplus-clair/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/XkLHrbC/frinfo2bl.png" group-title="|FR|🇫🇷 INFORMATION",FRANCE INFO
+#EXTINF:0 tvg-logo="https://i.ibb.co/XkLHrbC/frinfo2bl.png",FRANCE INFO
 https://raw.githubusercontent.com/Sibprod/streams/main/files/France_Info/master_TV.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/XkLHrbC/frinfo2bl.png" group-title="|FR|🇫🇷 INFORMATION",FRANCE INFO [mix-issue]
+#EXTINF:0 tvg-logo="https://i.ibb.co/XkLHrbC/frinfo2bl.png",FRANCE INFO [mix-issue]
 https://origin2.live.salto.fr/pool_u81ytesz/ftvi/saltohda/hls_long_enc_ftvi/NA/vpnjbv4/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png" group-title="|FR|🇫🇷 INFORMATION",EURONEWS FR
+#EXTINF:0 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",EURONEWS FR
 https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png" group-title="|FR|🇫🇷 INFORMATION",EURONEWS FR
+#EXTINF:0 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",EURONEWS FR
 https://euronews.alteox.app/hls/fr_stream.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png" group-title="|FR|🇫🇷 INFORMATION",EURONEWS FR
+#EXTINF:0 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",EURONEWS FR
 https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/drk4BWw/tv5inf.png" group-title="|FR|🇫🇷 INFORMATION",TV5MONDE INFO
+#EXTINF:0 tvg-logo="https://i.ibb.co/drk4BWw/tv5inf.png",TV5MONDE INFO
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/hKP8X8B/f24.png" group-title="|FR|🇫🇷 INFORMATION",FRANCE 24 FR
+#EXTINF:0 tvg-logo="https://i.ibb.co/hKP8X8B/f24.png",FRANCE 24 FR
 https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_092/HD/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/hcPj99k/fgro.png" group-title="|FR|🇫🇷 INFORMATION",LE FIGARO LIVE
+#EXTINF:0 tvg-logo="https://i.ibb.co/hcPj99k/fgro.png",LE FIGARO LIVE
 https://d358c6mfrono1y.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0ppx9nh29jpk7-prod/490bc6dd-734b-4242-8810-294896740082/2.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/nR2HsVr/ln24.png" group-title="|FR|🇫🇷 INFORMATION",LN24 BE
+#EXTINF:0 tvg-logo="https://i.ibb.co/nR2HsVr/ln24.png",LN24 BE
 https://live.digiteka.com/1/bEg0RmFLb1JMYXRI/dGhqbmIw/hls/live/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/j68q1Bp/i24.png" group-title="|FR|🇫🇷 INFORMATION",I24 NEWS FR
+#EXTINF:0 tvg-logo="https://i.ibb.co/j68q1Bp/i24.png",I24 NEWS FR
 https://bcovlive-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/playlist-all.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/PmmR72J/lcp.png" group-title="|FR|🇫🇷 INFORMATION",LCP
+#EXTINF:0 tvg-logo="https://i.ibb.co/PmmR72J/lcp.png",LCP
 http://www.callofliberty.fr/stream/LCP/master.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/PmmR72J/lcp.png" group-title="|FR|🇫🇷 INFORMATION",PUBLIC-SENAT
+#EXTINF:0 tvg-logo="https://i.ibb.co/PmmR72J/lcp.png",PUBLIC-SENAT
 http://www.callofliberty.fr/stream/PublicSenat/master.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/HDB0sdh/bfmbusiness.png" group-title="|FR|🇫🇷 INFORMATION",BFM BUSINESS
+#EXTINF:0 tvg-logo="https://i.ibb.co/HDB0sdh/bfmbusiness.png",BFM BUSINESS
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
-#EXTINF:0 tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png" group-title="|FR|🇫🇷 INFORMATION",BFM ALPES
+#EXTINF:0 tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png",BFM ALPES
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_ALPESDUSUD/index.m3u8?start=LIVE&end=END
-#EXTINF:0 tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png" group-title="|FR|🇫🇷 INFORMATION",BFM ALSACE
+#EXTINF:0 tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png",BFM ALSACE
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_ALSACE/index.m3u8?start=LIVE&end=END
-#EXTINF:0 tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png" group-title="|FR|🇫🇷 INFORMATION",BFM H.PROVENCE
+#EXTINF:0 tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png",BFM H.PROVENCE
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_HAUTEPROVENCE/index.m3u8?start=LIVE&end=END
-#EXTINF:0 tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png" group-title="|FR|🇫🇷 INFORMATION",BFM LILLE
+#EXTINF:0 tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png",BFM LILLE
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLILLE/index.m3u8?start=LIVE&end=END
-#EXTINF:0 tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png" group-title="|FR|🇫🇷 INFORMATION",BFM LITTORAL
+#EXTINF:0 tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png",BFM LITTORAL
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLITTORAL/index.m3u8?start=LIVE&end=END
-#EXTINF:0 tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png" group-title="|FR|🇫🇷 INFORMATION",BFM LYON
+#EXTINF:0 tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png",BFM LYON
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_LYON/index.m3u8?start=LIVE&end=END
-#EXTINF:0 tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png" group-title="|FR|🇫🇷 INFORMATION",BFM MARSEILLE
+#EXTINF:0 tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png",BFM MARSEILLE
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_MARSEILLEPROV/index.m3u8?start=LIVE&end=END
-#EXTINF:0 tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png" group-title="|FR|🇫🇷 INFORMATION",BFM NICE
+#EXTINF:0 tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png",BFM NICE
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NICECOTEDAZUR/index.m3u8?start=LIVE&end=END
-#EXTINF:0 tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png" group-title="|FR|🇫🇷 INFORMATION",BFM NORMANDIE
+#EXTINF:0 tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png",BFM NORMANDIE
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NORMANDIE/index.m3u8?start=LIVE&end=END
-#EXTINF:0 tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png" group-title="|FR|🇫🇷 INFORMATION",BFM PARIS
+#EXTINF:0 tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png",BFM PARIS
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_PARIS/index.m3u8?start=LIVE&end=END
-#EXTINF:0 tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png" group-title="|FR|🇫🇷 INFORMATION",BFM TOULON
+#EXTINF:0 tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png",BFM TOULON
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?start=LIVE&end=END
 
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" user-agent="hls-cdn1" group-title="|FR|🇫🇷 GENERALISTE",TF1 [worldcup-blocked]
+#EXTINF:0 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" group-title="|FR|🇫🇷 GENERALISTE",TF1 [worldcup-blocked]
 https://tf1-hls-live-cdn1.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png" group-title="|FR|🇫🇷 GENERALISTE",M6
+#EXTINF:0 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png" group-title="|FR|🇫🇷 GENERALISTE",M6
+#EXTINF:0 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6
 https://raw.githubusercontent.com/Sibprod/streams/main/files/M6/master.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png" group-title="|FR|🇫🇷 GENERALISTE",M6 [mix-issue]
+#EXTINF:0 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6 [mix-issue]
 https://origin2-6play.live.6cloud.fr/pool_u81ytesz/m6/sixplayhde/hls_short_enc_m6/NA/vpnjbv4/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/6RYpdNz/m6int.png" group-title="|FR|🇫🇷 GENERALISTE",M6 INTERNATIONAL
+#EXTINF:0 tvg-logo="https://i.ibb.co/6RYpdNz/m6int.png",M6 INTERNATIONAL
 https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/LNRd253/w9.png" group-title="|FR|🇫🇷 GENERALISTE",W9
+#EXTINF:0 tvg-logo="https://i.ibb.co/LNRd253/w9.png",W9
 https://raw.githubusercontent.com/Sibprod/streams/main/files/W9/master.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/LNRd253/w9.png" group-title="|FR|🇫🇷 GENERALISTE",W9 [mix-issue]
+#EXTINF:0 tvg-logo="https://i.ibb.co/LNRd253/w9.png",W9 [mix-issue]
 https://origin2-6play.live.6cloud.fr/pool_u81ytesz/w9/sixplayhde/hls_short_enc_w9/NA/vpnjbv4/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png" group-title="|FR|🇫🇷 GENERALISTE",FRANCE 2
+#EXTINF:0 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png",FRANCE 2
 https://raw.githubusercontent.com/Sibprod/streams/main/files/France_2/master.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png" group-title="|FR|🇫🇷 GENERALISTE",FRANCE 2 [mix-issue]
+#EXTINF:0 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png",FRANCE 2 [mix-issue]
 https://hdfauth.ftven.fr/esi/TA?url=https://simulcast-p.ftven.fr/simulcast/France_2/hls_fr2/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/y8PjbJ4/fr3bl.png" group-title="|FR|🇫🇷 GENERALISTE",FRANCE 3
+#EXTINF:0 tvg-logo="https://i.ibb.co/y8PjbJ4/fr3bl.png",FRANCE 3
 https://raw.githubusercontent.com/Sibprod/streams/main/files/France_3/master.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/y8PjbJ4/fr3bl.png" group-title="|FR|🇫🇷 GENERALISTE",FRANCE 3 [mix-issue]
+#EXTINF:0 tvg-logo="https://i.ibb.co/y8PjbJ4/fr3bl.png",FRANCE 3 [mix-issue]
 https://hdfauth.ftven.fr/esi/TA?url=https://simulcast-p.ftven.fr/simulcast/France_3/hls_fr3/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/VgcrtZ5/fr4blok.png" group-title="|FR|🇫🇷 GENERALISTE",FRANCE 4
+#EXTINF:0 tvg-logo="https://i.ibb.co/VgcrtZ5/fr4blok.png",FRANCE 4
 https://raw.githubusercontent.com/Sibprod/streams/main/files/France_4/master.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/VgcrtZ5/fr4blok.png" group-title="|FR|🇫🇷 GENERALISTE",FRANCE 4 [mix-issue]
+#EXTINF:0 tvg-logo="https://i.ibb.co/VgcrtZ5/fr4blok.png",FRANCE 4 [mix-issue]
 https://hdfauth.ftven.fr/esi/TA?url=https://simulcast-p.ftven.fr/simulcast/France_4/hls_fr4/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/N9d4yXt/fr5bl.png" group-title="|FR|🇫🇷 GENERALISTE",FRANCE 5
+#EXTINF:0 tvg-logo="https://i.ibb.co/N9d4yXt/fr5bl.png",FRANCE 5
 https://raw.githubusercontent.com/Sibprod/streams/main/files/France_5/master.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/N9d4yXt/fr5bl.png" group-title="|FR|🇫🇷 GENERALISTE",FRANCE 5 [mix-issue]
+#EXTINF:0 tvg-logo="https://i.ibb.co/N9d4yXt/fr5bl.png",FRANCE 5 [mix-issue]
 https://hdfauth.ftven.fr/esi/TA?url=https://simulcast-p.ftven.fr/simulcast/France_5/hls_fr5/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/BPpZPBn/arte.png" group-title="|FR|🇫🇷 GENERALISTE",ARTE FR
+#EXTINF:0 tvg-logo="https://i.ibb.co/BPpZPBn/arte.png",ARTE FR
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/pQ7kLNY/tv5fbs.png" group-title="|FR|🇫🇷 GENERALISTE",TV5MONDE FBS
+#EXTINF:0 tvg-logo="https://i.ibb.co/pQ7kLNY/tv5fbs.png",TV5MONDE FBS
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/420Bjqt/tv5europe.png" group-title="|FR|🇫🇷 GENERALISTE",TV5MONDE EUR [geo-blocked]
+#EXTINF:0 tvg-logo="https://i.ibb.co/420Bjqt/tv5europe.png",TV5MONDE EUR [geo-blocked]
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/ftYS2bk/CANAL-logo.png" group-title="|FR|🇫🇷 GENERALISTE",CANAL+ EN CLAIR
+#EXTINF:0 tvg-logo="https://i.ibb.co/ftYS2bk/CANAL-logo.png",CANAL+ EN CLAIR
 https://hls-m007.live-lv3.canalplus-cdn.net/live/disk/canalplusclair-hd/hls-ios-fhd-clair/canalplusclair-hd.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/hKVyKj4/tmc.png" group-title="|FR|🇫🇷 GENERALISTE",TMC
+#EXTINF:0 tvg-logo="https://i.ibb.co/hKVyKj4/tmc.png",TMC
 https://tmc-hls-live-cdn1.tf1.fr/out/v1/982927d0b5d24bd58ac42184b10c63d7/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/4VS27Jw/tfx.png" group-title="|FR|🇫🇷 GENERALISTE",TFX
+#EXTINF:0 tvg-logo="https://i.ibb.co/4VS27Jw/tfx.png",TFX
 https://tfx-hls-live-cdn1.tf1.fr/out/v1/818e38d791854222b71a950791fb7002/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/9Y4PHKP/tf1sf.png" group-title="|FR|🇫🇷 GENERALISTE",TF1 SERIES FILMS
+#EXTINF:0 tvg-logo="https://i.ibb.co/9Y4PHKP/tf1sf.png",TF1 SERIES FILMS
 https://tsf-hls-live-cdn1.tf1.fr/out/v1/0326aeefae1a405c9a9732d6f80a66df/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/R3KG4L9/cherie25.png" group-title="|FR|🇫🇷 GENERALISTE",CHERIE 25
+#EXTINF:0 tvg-logo="https://i.ibb.co/R3KG4L9/cherie25.png",CHERIE 25
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/6spXX2y/nrj12.png" group-title="|FR|🇫🇷 GENERALISTE",NRJ 12
+#EXTINF:0 tvg-logo="https://i.ibb.co/6spXX2y/nrj12.png",NRJ 12
 https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/nzh88j8/6ter.png" group-title="|FR|🇫🇷 GENERALISTE",6TER
+#EXTINF:0 tvg-logo="https://i.ibb.co/nzh88j8/6ter.png",6TER
 https://raw.githubusercontent.com/Sibprod/streams/main/files/6Ter/master.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/nzh88j8/6ter.png" group-title="|FR|🇫🇷 GENERALISTE",6TER [mix-issue]
+#EXTINF:0 tvg-logo="https://i.ibb.co/nzh88j8/6ter.png",6TER [mix-issue]
 https://origin2-6play.live.6cloud.fr/pool_u81ytesz/6ter/sixplayhde/hls_short_enc_6ter/NA/vpnjbv4/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/cQbcrGZ/c8.png" group-title="|FR|🇫🇷 GENERALISTE",C8
+#EXTINF:0 tvg-logo="https://i.ibb.co/cQbcrGZ/c8.png",C8
 http://www.callofliberty.fr/stream/C8/master.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/cQbcrGZ/c8.png" group-title="|FR|🇫🇷 GENERALISTE",C8 [drm-blocked]
+#EXTINF:0 tvg-logo="https://i.ibb.co/cQbcrGZ/c8.png",C8 [drm-blocked]
 https://hls-m013.live-lv3.canalplus-cdn.net/live/disk/c8-hd/hls-ios-fhddvr-preset/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/Sm9PtLR/cstar.png" group-title="|FR|🇫🇷 GENERALISTE",CSTAR
+#EXTINF:0 tvg-logo="https://i.ibb.co/Sm9PtLR/cstar.png",CSTAR
 http://www.callofliberty.fr/stream/CSTAR/master.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/Sm9PtLR/cstar.png" group-title="|FR|🇫🇷 GENERALISTE",CSTAR [drm-blocked]
+#EXTINF:0 tvg-logo="https://i.ibb.co/Sm9PtLR/cstar.png",CSTAR [drm-blocked]
 https://hls-m013.live-lv3.canalplus-cdn.net/live/disk/cstar-hd/hls-ios-fhddvr-preset/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/fdYg3Lz/rmcstory.png" group-title="|FR|🇫🇷 GENERALISTE",RMC STORY
+#EXTINF:0 tvg-logo="https://i.ibb.co/fdYg3Lz/rmcstory.png",RMC STORY
 http://gratuittv.free.fr/Files/rmcstory/live/master.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/fdYg3Lz/rmcstory.png" group-title="|FR|🇫🇷 GENERALISTE",RMC STORY [drm-blocked]
+#EXTINF:0 tvg-logo="https://i.ibb.co/fdYg3Lz/rmcstory.png",RMC STORY [drm-blocked]
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$NUMERO_23/index.m3u8?start=LIVE&end=END
-#EXTINF:0 tvg-logo="https://i.ibb.co/VS4xR2g/rmcdecou.png" group-title="|FR|🇫🇷 GENERALISTE",RMC DECOUVERTE [drm-blocked]
+#EXTINF:0 tvg-logo="https://i.ibb.co/VS4xR2g/rmcdecou.png",RMC DECOUVERTE [drm-blocked]
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$RMC_DECOUVERTE/index.m3u8?start=LIVE&end=END
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/ByN83p3/funradtv.png" group-title="|FR|🇫🇷 SOCIETE",FUN RADIO TV
 https://livevideo.infomaniak.com/streaming/livecast/funradiovisionhd/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/g3YTn6c/geneok.png" group-title="|FR|🇫🇷 SOCIETE",GENERATIONS TV
+#EXTINF:0 tvg-logo="https://i.ibb.co/g3YTn6c/geneok.png",GENERATIONS TV
 https://edge.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/BPzb19X/melody.png" group-title="|FR|🇫🇷 SOCIETE",MELODY
+#EXTINF:0 tvg-logo="https://i.ibb.co/BPzb19X/melody.png",MELODY
 https://live.creacast.com/telemelody/smil:telemelody-211112.smil/master.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/M5P1TMG/clubbing.png" group-title="|FR|🇫🇷 SOCIETE",CLUBBING TV
+#EXTINF:0 tvg-logo="https://i.ibb.co/M5P1TMG/clubbing.png",CLUBBING TV
 https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/2hgmDs6/traceurb.png" group-title="|FR|🇫🇷 SOCIETE",TRACE URBAN
+#EXTINF:0 tvg-logo="https://i.ibb.co/2hgmDs6/traceurb.png",TRACE URBAN
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/443jKxq/techco.png" group-title="|FR|🇫🇷 SOCIETE",TECH&CO
+#EXTINF:0 tvg-logo="https://i.ibb.co/443jKxq/techco.png",TECH&CO
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?start=LIVE&end=END
-#EXTINF:0 tvg-logo="https://i.ibb.co/443jKxq/techco.png" group-title="|FR|🇫🇷 SOCIETE",TECH&CO
+#EXTINF:0 tvg-logo="https://i.ibb.co/443jKxq/techco.png",TECH&CO
 https://bcovlive-a.akamaihd.net/df743f86a96e492790ba96a09ede4149/eu-central-1/6306058915001/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="|FR|🇫🇷 SOCIETE",L'EQUIPE TV
+#EXTINF:0 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png",L'EQUIPE TV
 https://d3awaj0f2u3w26.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/8fd3efae-4468-4ca0-9486-c6cdcb7b65d7/2.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="|FR|🇫🇷 SOCIETE",L'EQUIPE TV 2
+#EXTINF:0 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png",L'EQUIPE TV 2
 https://d2l55nvfkhk4sg.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg7go1lqzgpny-ssai-prd/435d04a5-ab47-47c5-a2c1-bae01ae6d0c1/2.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/p1stMyz/sportenfr.webp" group-title="|FR|🇫🇷 SOCIETE",SPORT EN FRANCE
+#EXTINF:0 tvg-logo="https://i.ibb.co/p1stMyz/sportenfr.webp",SPORT EN FRANCE
 https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/sWxH6cv/tracesports.png" group-title="|FR|🇫🇷 SOCIETE",TRACE SPORTS
+#EXTINF:0 tvg-logo="https://i.ibb.co/sWxH6cv/tracesports.png",TRACE SPORTS
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/X2NQhjG/pitchoun.png" group-title="|FR|🇫🇷 SOCIETE",TV PITCHOUN
+#EXTINF:0 tvg-logo="https://i.ibb.co/X2NQhjG/pitchoun.png",TV PITCHOUN
 https://live.tvradio-pitchoun.fr/hls/live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png" group-title="|FR|🇫🇷 SOCIETE",GULLI
+#EXTINF:0 tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png",GULLI
 https://origin2-6play.live.6cloud.fr/pool_u81ytesz/gulli/sixplaysd/hls_short/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png" group-title="|FR|🇫🇷 SOCIETE",GULLI
+#EXTINF:0 tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png",GULLI
 https://raw.githubusercontent.com/Sibprod/streams/main/files/Gulli/master.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/bdpqXfQ/tiji.png" group-title="|FR|🇫🇷 SOCIETE",TIJI
+#EXTINF:0 tvg-logo="https://i.ibb.co/bdpqXfQ/tiji.png",TIJI
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/vmk02Tc/tiji.png" group-title="|FR|🇫🇷 SOCIETE",TIJI [mix-issue]
+#EXTINF:0 tvg-logo="https://i.ibb.co/vmk02Tc/tiji.png",TIJI [mix-issue]
 https://origin2.live.salto.fr/pool_u81ytesz/tiji/saltohdd/hls_long_enc_tiji/NA/vpnjbv4/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/17qH7MS/canalj.png" group-title="|FR|🇫🇷 SOCIETE",CANAL J [mix-issue]
+#EXTINF:0 tvg-logo="https://i.ibb.co/17qH7MS/canalj.png",CANAL J [mix-issue]
 https://origin2.live.salto.fr/pool_u81ytesz/canalj/saltohdd/hls_long_enc_canalj/NA/vpnjbv4/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/Jpk0d48/tv5tivi.png" group-title="|FR|🇫🇷 SOCIETE",TV5MONDE TiVi [geo-blocked]
+#EXTINF:0 tvg-logo="https://i.ibb.co/Jpk0d48/tv5tivi.png",TV5MONDE TiVi [geo-blocked]
 https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/80d8phW/paris1ere.png" group-title="|FR|🇫🇷 SOCIETE",PARIS PREMIERE [mix-issue]
+#EXTINF:0 tvg-logo="https://i.ibb.co/80d8phW/paris1ere.png",PARIS PREMIERE [mix-issue]
 https://origin2-6play.live.6cloud.fr/pool_u81ytesz/pp/sixplayhde/hls_short_enc_pp/NA/vpnjbv4/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/4RKk092/teva.png" group-title="|FR|🇫🇷 SOCIETE",TEVA [mix-issue]
+#EXTINF:0 tvg-logo="https://i.ibb.co/4RKk092/teva.png",TEVA [mix-issue]
 https://origin2-6play.live.6cloud.fr/pool_u81ytesz/teva/sixplayhde/hls_short_enc_teva/NA/vpnjbv4/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/grBSqt4/novela.png" group-title="|FR|🇫🇷 SOCIETE",TELE NOVELA TV
+#EXTINF:0 tvg-logo="https://i.ibb.co/grBSqt4/novela.png",TELE NOVELA TV
 https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/883phd1/ktook.png" group-title="|FR|🇫🇷 SOCIETE",KTO
+#EXTINF:0 tvg-logo="https://i.ibb.co/883phd1/ktook.png",KTO
 https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/VvRpRty/myzen.png" group-title="|FR|🇫🇷 SOCIETE",MY ZEN TV
+#EXTINF:0 tvg-logo="https://i.ibb.co/VvRpRty/myzen.png",MY ZEN TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/HGpZ369/luxe.png" group-title="|FR|🇫🇷 SOCIETE",LUXE TV
+#EXTINF:0 tvg-logo="https://i.ibb.co/HGpZ369/luxe.png",LUXE TV
 https://alchimie-luxe-fr-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/LYbF1Wt/fashionok.png" group-title="|FR|🇫🇷 SOCIETE",FASHION TV
+#EXTINF:0 tvg-logo="https://i.ibb.co/LYbF1Wt/fashionok.png",FASHION TV
 https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/LYbF1Wt/fashionok.png" group-title="|FR|🇫🇷 SOCIETE",FASHION TV
+#EXTINF:0 tvg-logo="https://i.ibb.co/LYbF1Wt/fashionok.png",FASHION TV
 https://fashiontv-fashiontv-loriginal-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/LYbF1Wt/fashionok.png" group-title="|FR|🇫🇷 SOCIETE",FASHION TV
+#EXTINF:0 tvg-logo="https://i.ibb.co/LYbF1Wt/fashionok.png",FASHION TV
 https://fash1043.cloudycdn.services/slive/ftv_paris_adaptive.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/LgSzMCy/museum.webp" group-title="|FR|🇫🇷 SOCIETE",MUSEUM
+#EXTINF:0 tvg-logo="https://i.ibb.co/LgSzMCy/museum.webp",MUSEUM
 https://live2.creacast.com/museum-france/smil:museum-france.smil/master.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/WPbxmgn/tv5style.png" group-title="|FR|🇫🇷 SOCIETE",TV5MONDE STYLE [geo-blocked]
+#EXTINF:0 tvg-logo="https://i.ibb.co/WPbxmgn/tv5style.png",TV5MONDE STYLE [geo-blocked]
 https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/index.m3u8
