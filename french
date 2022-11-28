@@ -91,12 +91,12 @@ https://hdfauth.ftven.fr/esi/TA?url=https://simulcast-p.ftven.fr/simulcast/Franc
 https://raw.githubusercontent.com/Sibprod/streams/main/files/France_5/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/N9d4yXt/fr5bl.png" group-title="|FR|🇫🇷 GENERALISTE",FRANCE 5 [mix-issue]
 https://hdfauth.ftven.fr/esi/TA?url=https://simulcast-p.ftven.fr/simulcast/France_5/hls_fr5/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/BPpZPBn/arte.png" group-title="|FR|🇫🇷 GENERALISTE",ARTE FR
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/pQ7kLNY/tv5fbs.png" group-title="|FR|🇫🇷 GENERALISTE",TV5MONDE FBS
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/420Bjqt/tv5europe.png" group-title="|FR|🇫🇷 GENERALISTE",TV5MONDE EUR [geo-blocked]
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/BPpZPBn/arte.png" group-title="|FR|🇫🇷 GENERALISTE",ARTE FR
-https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/ftYS2bk/CANAL-logo.png" group-title="|FR|🇫🇷 GENERALISTE",CANAL+ EN CLAIR
 https://hls-m007.live-lv3.canalplus-cdn.net/live/disk/canalplusclair-hd/hls-ios-fhd-clair/canalplusclair-hd.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/hKVyKj4/tmc.png" group-title="|FR|🇫🇷 GENERALISTE",TMC
