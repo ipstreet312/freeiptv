@@ -157,18 +157,8 @@ https://live.tvradio-pitchoun.fr/hls/live.m3u8
 https://origin2-6play.live.6cloud.fr/pool_u81ytesz/gulli/sixplaysd/hls_short/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png",GULLI
 https://raw.githubusercontent.com/Sibprod/streams/main/files/Gulli/master.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/bdpqXfQ/tiji.png",TIJI
-https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/vmk02Tc/tiji.png",TIJI [mix-issue]
-https://origin2.live.salto.fr/pool_u81ytesz/tiji/saltohdd/hls_long_enc_tiji/NA/vpnjbv4/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/17qH7MS/canalj.png",CANAL J [mix-issue]
-https://origin2.live.salto.fr/pool_u81ytesz/canalj/saltohdd/hls_long_enc_canalj/NA/vpnjbv4/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Jpk0d48/tv5tivi.png",TV5MONDE TiVi [geo-blocked]
 https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/80d8phW/paris1ere.png",PARIS PREMIERE [mix-issue]
-https://origin2-6play.live.6cloud.fr/pool_u81ytesz/pp/sixplayhde/hls_short_enc_pp/NA/vpnjbv4/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/4RKk092/teva.png",TEVA [mix-issue]
-https://origin2-6play.live.6cloud.fr/pool_u81ytesz/teva/sixplayhde/hls_short_enc_teva/NA/vpnjbv4/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/grBSqt4/novela.png",TELE NOVELA TV
 https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/883phd1/ktook.png",KTO
