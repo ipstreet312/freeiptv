@@ -12,7 +12,7 @@ https://hls-m010.live-lv3.canalplus-cdn.net/live/disk/cnews-clair-hd/ios-v3-hd-c
 #EXTINF:0 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png",CNEWS
 https://hls-m010.live-lv3.canalplus-cdn.net/live/disk/cnews-clair-hd/ios-hddvrplus-clair/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/XkLHrbC/frinfo2bl.png",FRANCE INFO
-https://raw.githubusercontent.com/Sibprod/streams/main/files/FTV/France-Info-TV/master.m3u8
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ftvi.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/XkLHrbC/frinfo2bl.png",FRANCE INFO [mix-issue]
 https://origin2.live.salto.fr/pool_u81ytesz/ftvi/saltohda/hls_long_enc_ftvi/NA/vpnjbv4/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",EURONEWS FR
@@ -66,29 +66,25 @@ https://tf1-hls-live-cdn1.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m
 #EXTINF:0 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6
-https://raw.githubusercontent.com/Sibprod/streams/main/files/M6/master.m3u8
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/m6.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6 [mix-issue]
 https://origin2-6play.live.6cloud.fr/pool_u81ytesz/m6/sixplayhde/hls_short_enc_m6/NA/vpnjbv4/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/6RYpdNz/m6int.png",M6 INTERNATIONAL
 https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/LNRd253/w9.png",W9
-https://raw.githubusercontent.com/Sibprod/streams/main/files/W9/master.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/LNRd253/w9.png",W9 [mix-issue]
-https://origin2-6play.live.6cloud.fr/pool_u81ytesz/w9/sixplayhde/hls_short_enc_w9/NA/vpnjbv4/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png",FRANCE 2
-https://raw.githubusercontent.com/Sibprod/streams/main/files/FTV/France-2/master.m3u8
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ftv2.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png",FRANCE 2 [mix-issue]
 https://hdfauth.ftven.fr/esi/TA?url=https://simulcast-p.ftven.fr/simulcast/France_2/hls_fr2/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/y8PjbJ4/fr3bl.png",FRANCE 3
-https://raw.githubusercontent.com/Sibprod/streams/main/files/FTV/France-3/master.m3u8
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ftv3.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/y8PjbJ4/fr3bl.png",FRANCE 3 [mix-issue]
 https://hdfauth.ftven.fr/esi/TA?url=https://simulcast-p.ftven.fr/simulcast/France_3/hls_fr3/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/VgcrtZ5/fr4blok.png",FRANCE 4
-https://raw.githubusercontent.com/Sibprod/streams/main/files/FTV/France-4/master.m3u8
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ftv4.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/VgcrtZ5/fr4blok.png",FRANCE 4 [mix-issue]
 https://hdfauth.ftven.fr/esi/TA?url=https://simulcast-p.ftven.fr/simulcast/France_4/hls_fr4/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/N9d4yXt/fr5bl.png",FRANCE 5
-https://raw.githubusercontent.com/Sibprod/streams/main/files/FTV/France-5/master.m3u8
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ftv5.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/N9d4yXt/fr5bl.png",FRANCE 5 [mix-issue]
 https://hdfauth.ftven.fr/esi/TA?url=https://simulcast-p.ftven.fr/simulcast/France_5/hls_fr5/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/BPpZPBn/arte.png",ARTE FR
@@ -109,8 +105,12 @@ https://tsf-hls-live-cdn1.tf1.fr/out/v1/0326aeefae1a405c9a9732d6f80a66df/index.m
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/6spXX2y/nrj12.png",NRJ 12
 https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/LNRd253/w9.png",W9
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/w9.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/LNRd253/w9.png",W9 [mix-issue]
+https://origin2-6play.live.6cloud.fr/pool_u81ytesz/w9/sixplayhde/hls_short_enc_w9/NA/vpnjbv4/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/nzh88j8/6ter.png",6TER
-https://raw.githubusercontent.com/Sibprod/streams/main/files/6Ter/master.m3u8
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/6ter.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/nzh88j8/6ter.png",6TER [mix-issue]
 https://origin2-6play.live.6cloud.fr/pool_u81ytesz/6ter/sixplayhde/hls_short_enc_6ter/NA/vpnjbv4/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/cQbcrGZ/c8.png",C8
