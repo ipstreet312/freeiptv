@@ -261,6 +261,8 @@ http://iptvmasterlink.dyndns.org:8080/BenguTurk/playlist.m3u8
 https://mn-nl.mncdn.com/blutv_ulketv2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/B4XX5Vx/akittv.png",AKIT TV
 http://akittv-live.ercdn.net/akittv/akittv.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/1X8nWHc/ahaber.png",A HABER
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=gPGJwXvfSds&m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/1RWhvy4/tvnet.png",TV NET
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/1RWhvy4/tvnet.png",TV NET
