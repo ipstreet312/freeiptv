@@ -313,6 +313,12 @@ https://startv.blutv.com/blutv_startv_live/live.m3u8
 https://dogus.daioncdn.net/startv/startv.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9
 #EXTINF:0 tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png",SHOW (backup)
 https://showtv.blutv.com/blutv_showtv_live/live.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV [tkn-blocked]
+https://trkvz-live.daioncdn.net/atv/atv.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV [tkn-blocked]
+https://trkvz-dev.daioncdn.net/atv/atv.m3u8?app=8672c3cb-70f1-4686-9158-cc03a23c6b0f
+#EXTINF:0 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV [tkn-blocked]
+https://trkvz-beta.daioncdn.net/atv/atv.m3u8?app=d1ce2d40-5256-4550-b02e-e73c185a314e
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/FVnG3Zr/360tv.png" group-title="|TR|🇹🇷 GENEL/2",360
@@ -345,6 +351,8 @@ https://mn-nl.mncdn.com/blutv_tv4/live.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=http://showmax.com.tr/canliyayin&m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/8dQdNrv/akilli22.png",AKILLI TV
 http://iptvmasterlink.dyndns.org:8080/AkilliTv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/2qrg9QF/a2022.png",A2 [tkn-blocked]
+https://trkvz-live.daioncdn.net/a2tv/a2tv.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/FVnG3Zr/360tv.png",360 (backup)
 https://mn-nl.mncdn.com/blutv_360tv/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/FVnG3Zr/360tv.png",360 (backup)
@@ -453,10 +461,14 @@ https://mn-nl.mncdn.com/blutv_taytv2/live.m3u8
 http://tjktv.ercdn.net/tjktv.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/0Yt6jbg/tjk.png",TJK TV [geo-blocked]
 http://tjktv-live.tjk.org/tjktv.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/bKKCbst/tivibuspor.png",TIVIBU SPOR [geo-blocked]
+http://dl1.webtv.ttnet.com.tr/konf/mob/web16009.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/M9kWXzt/trt3spor22c.png",TRT3 SPOR [offline]
 https://tv-trt3.live.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/xSjB51j/aspor.png",A SPOR [tkn-blocked]
 https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/xSjB51j/aspor.png",A SPOR [tkn-blocked]
+https://trkvz-beta.daioncdn.net/aspor/aspor.m3u8?app=45f847c4-04e8-419a-a561-2ebf87084765
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/d6Zfm2P/trtmuzik21c.png" group-title="|TR|🇹🇷 MÜZIK",TRT MÜZIK
