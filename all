@@ -893,6 +893,8 @@ https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a82
 http://ott-cdn.ucom.am/s65/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/GQ5FyHH/msnbc.jpg",MSNBC
 https://rtmp2.livenewsof.com:8443/live/smil:fx.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/VMm5SSz/realamv.png",REAL AMERICAS VOICE
+https://p1media-americasvoice-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/8MBM4M1/skyn.png",SKY NEWS
 https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/dPmZMqq/bbcn.png",BBC NEWS
