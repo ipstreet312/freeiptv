@@ -294,7 +294,7 @@ https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
 #EXTINF:0 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV
 http://mfe.cliptv.az/dash/ATV_Turk_HD.ism/playlist.mpd
 #EXTINF:0 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV
-https://ecanlitv4.etvserver.com/live_sd/atv/playlist.m3u8
+https://trkvz-live.daioncdn.net/atv/atv.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png",TRT 1 (backup)
 https://trt1.blutv.com/blutv_trt1_live/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png",TRT 1 (backup)
@@ -313,8 +313,12 @@ https://startv.blutv.com/blutv_startv_live/live.m3u8
 https://dogus.daioncdn.net/startv/startv.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9
 #EXTINF:0 tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png",SHOW (backup)
 https://showtv.blutv.com/blutv_showtv_live/live.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/4tyCssZ/fox.png",FOX [tkn-blocked]
+https://foxtv-live.daioncdn.net/foxtv/foxtv.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/4tyCssZ/fox.png",FOX [tkn-blocked]
+https://foxtv.daioncdn.net/foxtv/foxtv.m3u8?app=24e7a2e2-9156-4c02-a4fb-2bc599ffaf77
 #EXTINF:0 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV [tkn-blocked]
-https://trkvz-live.daioncdn.net/atv/atv.m3u8
+https://trkvz.daioncdn.net/atv/atv.m3u8?app=d1ce2d40-5256-4550-b02e-e73c185a314e
 #EXTINF:0 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV [tkn-blocked]
 https://trkvz-dev.daioncdn.net/atv/atv.m3u8?app=8672c3cb-70f1-4686-9158-cc03a23c6b0f
 #EXTINF:0 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV [tkn-blocked]
@@ -490,8 +494,6 @@ https://mn-nl.mncdn.com/blutv_dreamturk2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/B6N9KsN/powerturk22.png",POWER TÜRK
 http://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/B6N9KsN/powerturk22.png",POWER TÜRK
-https://mn-nl.mncdn.com/blutv_powerturk/powerturk_sd.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/B6N9KsN/powerturk22.png",POWER TÜRK
 https://waw1.artiyerelmedya.net/powerturktv/bant1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/wy1H8jM/pturkttaze.png",POWER TÜRK TAPTAZE
 http://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
@@ -535,6 +537,8 @@ http://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 http://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/cQX06mR/pplus.png",POWER PLUS +
 http://livetv.powerapp.com.tr/pplustv/pplustv.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/B6N9KsN/powerturk22.png",POWER TÜRK (backup)
+https://mn-nl.mncdn.com/blutv_powerturk/powerturk_sd.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/zhRwXbL/krpop.png",KRAL POP (backup)
 http://dygvideo.dygdigital.com/live/hls/puhukralpopdai?m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/zhRwXbL/krpop.png",KRAL POP (backup)
@@ -691,8 +695,6 @@ https://cdnlive.shooowit.net/rtvalive/smil:channel1.smil/playlist.m3u8
 https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/MkBCwH4/arag.png",ARAGON TV
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/R96SDW1/aragnot.jpg",ARAGON NOTICIAS
-https://cartv.streaming.aranova.es/hls/live/anoticias_canal2.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/VM5vGBV/la1.jpg",LA 1 CANARIAS
 https://ztnr.rtve.es/ztnr/5190066.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/ssGmhbH/la2.jpg",LA 2 CANARIAS
