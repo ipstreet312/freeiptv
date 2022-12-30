@@ -235,7 +235,7 @@ https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8
 https://krt.blutv.com/blutv_krt_live/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/4Mhmggc/tele1.png",TELE 1
 https://tele1.blutv.com/blutv_tele1_live/live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/BtYMK4q/halk21a.png",HALK TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BtYMK4q/halk21a.png",HALK TV
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/BtYMK4q/halk21a.png",HALK TV
 https://mn-nl.mncdn.com/blutv_halktv2/live.m3u8
@@ -274,9 +274,9 @@ https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236
 #EXTINF:0 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png",KANAL D
 https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png",KANAL D
-https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
+https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png",STAR
-https://dogus-live.daioncdn.net/startv/startv.m3u8
+https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png",STAR
 https://tv.ensonhaber.com/tv/tr/startv/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png",SHOW
@@ -287,7 +287,7 @@ https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/4tyCssZ/fox.png",FOX
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.fox.com.tr/canli-yayin&m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png",TV8
+#EXTINF:0 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" user-agent="Star Wars",TV8
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png",TV8
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
