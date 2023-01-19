@@ -205,6 +205,8 @@ https://bloomberght-live.daioncdn.net/bloomberght/bloomberght.m3u8
 https://mn-nl.mncdn.com/blutv_bloomberght2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/xS3zLQr/ekoturk.png",EKO TÜRK
 https://mn-nl.mncdn.com/blutv_ekoturk2/live.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/b2b6Zn0/businesschtr.jpg",BUSINESS CH TURK
+https://59cba4d34b678.streamlock.net/canlitv/businesschannelturk/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/MsC8cgb/mektv.png",MILLI EKONOMI
 https://cdn-mektv.yayin.com.tr/mektv/mektv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/wdwm0fn/haberturk.png",HABER TÜRK (backup)
@@ -241,9 +243,9 @@ https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 https://mn-nl.mncdn.com/blutv_halktv2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/FDjkCFQ/bbnturk.png",BBN TÜRK
 https://mn-nl.mncdn.com/blutv_bbnturk/live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/CB62fwD/cadde.png",CADDE
-https://www.youtube.com/watch?v=xgEgq2Sgp9s
-#EXTINF:0 tvg-logo="https://i.ibb.co/y04nCSJ/artii.png",ARTI
+#EXTINF:0 tvg-logo="https://i.ibb.co/CB62fwD/cadde.png",CADDE TV
+https://www.youtube.com/watch?v=eBaCiLPndFw
+#EXTINF:0 tvg-logo="https://i.ibb.co/y04nCSJ/artii.png",ARTI TV
 https://www.youtube.com/watch?v=xpoetRCJKqY
 #EXTINF:0 tvg-logo="https://i.ibb.co/1X8nWHc/ahaber.png",A HABER
 https://m.youtube.com/watch?v=g4QA9Sh_g_8
@@ -342,9 +344,9 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/1s3fHfm/k7tr1.png",KANAL 7
 https://mn-nl.mncdn.com/blutv_kanal72/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/0tc3PYz/beyaz22b.png",BEYAZ TV
-https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/0tc3PYz/beyaz22b.png",BEYAZ TV
-https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
+https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Fq0ZvYG/meltemtvt.png",MELTEM
 https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/sRNHKjS/tivi622.png",TIVI 6
@@ -373,6 +375,10 @@ https://tv.ensonhaber.com/tv/tr/360tv/index.m3u8
 https://kanal7.daioncdn.net/kanal7/kanal7.m3u8?app=f99587ad-1637-494d-8255-da35b09d17a1
 #EXTINF:0 tvg-logo="https://i.ibb.co/1s3fHfm/k7tr1.png",KANAL 7 (backup)
 https://live.kanal7.com/live/kanal7LiveMobile/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/0tc3PYz/beyaz22b.png",BEYAZ TV (backup)
+https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/0tc3PYz/beyaz22b.png",BEYAZ TV (backup)
+https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f34805c397d
 #EXTINF:0 tvg-logo="https://i.ibb.co/1Z22dCY/teve2.png",TEVE 2 (backup)
 https://demiroren.daioncdn.net/teve2/teve2.m3u8?app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd
 
