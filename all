@@ -437,6 +437,8 @@ https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 https://mn-nl.mncdn.com/blutv_trtcocuk_2/trtcocuk.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Zxd0j45/cartoonnetwork.png",CARTOON NETWORK TR
 https://mn-nl.mncdn.com/blutv_cartoonnetwork/live.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/w7nTsx3/boomerang.png",BOOMERANG TR
+https://mn-nl.mncdn.com/blutv_boomerang/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/3WmLjwG/trtspor22c.png",TRT SPOR [geo-blocked]
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/3WmLjwG/trtspor22c.png",TRT SPOR [geo-blocked]
