@@ -8,9 +8,9 @@ https://lci-hls-live-cdn1.tf1.fr/out/v1/1330f53e0d214a9ead65ac455bf79786/index.m
 #EXTINF:0 tvg-logo="https://i.ibb.co/Zfcrrr1/lci.png",LCI
 https://lci-hls-live-cdn1.tf1.fr/out/v1/ab1865540d984279bc8579683bcfcff0/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png",CNEWS
-https://hls-m010.live-lv3.canalplus-cdn.net/live/disk/cnews-clair-hd/ios-v3-hd-clair/cnews-clair-hd.m3u8
+https://hls-m013.live-lv3.canalplus-cdn.net/live/disk/cnews-clair-hd/hls-ios-fhd-clair/cnews-clair-hd.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png",CNEWS
-https://hls-m010.live-lv3.canalplus-cdn.net/live/disk/cnews-clair-hd/ios-hddvrplus-clair/index.m3u8
+https://hls-m013-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-ad-hd/hls-ios-fhd-clair/cnews-clair-ad-hd.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/XkLHrbC/frinfo2bl.png",FRANCE INFO
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/feed/fri.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/XkLHrbC/frinfo2bl.png",FRANCE INFO [mix-issue]
@@ -239,11 +239,11 @@ https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 https://mn-nl.mncdn.com/blutv_halktv2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/FDjkCFQ/bbnturk.png",BBN TÜRK
 https://mn-nl.mncdn.com/blutv_bbnturk/live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/CB62fwD/cadde.png",CADDE TV
+#EXTINF:0 tvg-logo="https://i.ibb.co/CB62fwD/cadde.png",CADDE TV [youtube-src]
 https://youtu.be/tQLNisrmdF4
-#EXTINF:0 tvg-logo="https://i.ibb.co/y04nCSJ/artii.png",ARTI TV
+#EXTINF:0 tvg-logo="https://i.ibb.co/y04nCSJ/artii.png",ARTI TV [youtube-src]
 https://www.youtube.com/watch?v=xpoetRCJKqY
-#EXTINF:0 tvg-logo="https://i.ibb.co/1X8nWHc/ahaber.png",A HABER
+#EXTINF:0 tvg-logo="https://i.ibb.co/1X8nWHc/ahaber.png",A HABER [youtube-src]
 https://www.youtube.com/watch?v=g4QA9Sh_g_8
 #EXTINF:0 tvg-logo="https://i.ibb.co/tXdf2YF/ulusal22.png",ULUSAL KANAL
 https://mn-nl.mncdn.com/blutv_ulusalkanal/blutv_ulusalkanal.smil/playlist.m3u8
@@ -293,13 +293,13 @@ https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/4tyCssZ/fox.png",FOX
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.fox.com.tr/canli-yayin&m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png",TV8
+#EXTINF:0 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png",TV8 [geo-blocked]
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png",TV8
+#EXTINF:0 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png",TV8 [geo-blocked]
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
 #EXTINF:0 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV
 http://mfe.cliptv.az/dash/ATV_Turk_HD.ism/playlist.mpd
-#EXTINF:0 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV
+#EXTINF:0 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV [youtube-src]
 https://youtu.be/1KXZDgP9W5E
 #EXTINF:0 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png",TRT 1 (backup)
 https://trt1.blutv.com/blutv_trt1_live/live.m3u8
