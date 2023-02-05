@@ -293,10 +293,10 @@ https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/4tyCssZ/fox.png",FOX
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.fox.com.tr/canli-yayin&m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png",TV8
+http://mfe01.cliptv.az/dash/TV_8_HD.ism/playlist.mpd
 #EXTINF:0 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png",TV8 [geo-blocked]
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png",TV8 [geo-blocked]
-https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
 #EXTINF:0 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV
 http://mfe.cliptv.az/dash/ATV_Turk_HD.ism/playlist.mpd
 #EXTINF:0 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV [youtube-src]
@@ -321,6 +321,8 @@ https://showtv.blutv.com/blutv_showtv_live/live.m3u8
 https://foxtv-live.daioncdn.net/foxtv/foxtv.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/4tyCssZ/fox.png",FOX [tkn-blocked]
 https://foxtv.daioncdn.net/foxtv/foxtv.m3u8?app=24e7a2e2-9156-4c02-a4fb-2bc599ffaf77
+#EXTINF:0 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png",TV8 [geo-blocked]
+https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
 #EXTINF:0 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV [tkn-blocked]
 https://trkvz-live.daioncdn.net/atv/atv.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV [tkn-blocked]
