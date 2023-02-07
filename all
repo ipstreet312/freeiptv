@@ -294,9 +294,9 @@ https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/4tyCssZ/fox.png",FOX
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.fox.com.tr/canli-yayin&m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png",TV8
-http://mfe01.cliptv.az/dash/TV_8_HD.ism/playlist.mpd
-#EXTINF:0 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png",TV8 [geo-blocked]
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png",TV8
+http://mfe.cliptv.az/dash/TV_8_HD.ism/playlist.mpd
 #EXTINF:0 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV
 http://mfe.cliptv.az/dash/ATV_Turk_HD.ism/playlist.mpd
 #EXTINF:0 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV [youtube-src]
