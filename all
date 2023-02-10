@@ -631,12 +631,8 @@ https://mako-streaming.akamaized.net/direct/hls/live/2035325/k12cc/index.m3u8?hd
 https://mako-streaming.akamaized.net/direct/hls/live/2033791/k12/index.m3u8?hdnea=
 #EXTINF:0 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png",KESHET 12 [mako-blocked]
 https://mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?hdnea=
-#EXTINF:0 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png",KESHET 12
-https://idiomatic-depot.000webhostapp.com/keshet.php
-#EXTINF:0 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png",KESHET 12
+#EXTINF:0 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png",KESHET 12 [from-mako]
 https://idiomatic-depot.000webhostapp.com/keshet.php?m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png",KESHET 12
-https://idiomatic-depot.000webhostapp.com/keshet.php?type=m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/MnSQCcr/R1322.jpg",RESHET 13
 https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/MnSQCcr/R1322.jpg",RESHET 13
