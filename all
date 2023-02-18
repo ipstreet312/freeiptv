@@ -1034,7 +1034,7 @@ https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
 http://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/ngKnxmq/dubaione.png",DUBAI ONE
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://ibb.co/hWwSbRD",DUBAI NOOR
+#EXTINF:0 tvg-logo="https://i.ibb.co/jMsSmvg/dubainoor.png",DUBAI NOOR
 http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/g4LTFCS/dubaisama.png",DUBAI SAMA
 http://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playlist.m3u8
@@ -1056,6 +1056,8 @@ https://itv1.broadcastcdn.net/KUK-CNNHD/index.m3u8
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/hdBrzcc/fox.png",FOX NEWS
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/hdBrzcc/fox.png",FOX NEWS
+https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/jJDxCxN/abc.jpg",ABC NEWS
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/jJDxCxN/abc.jpg",ABC NEWS
@@ -1112,8 +1114,6 @@ https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png",CNN INT [geo-blocked]
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/hdBrzcc/fox.png",FOX NEWS (backup)
-https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/mywSdSQ/att.png" group-title="📺 GITHUB.COM/IPSTREET312",➡️MORE-INFO : ☛ RECEPTIONIPTV.BLOGSPOT.COM
