@@ -243,10 +243,10 @@ https://tele1.blutv.com/blutv_tele1_live/live.m3u8
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/BtYMK4q/halk21a.png",HALK TV
 https://mn-nl.mncdn.com/blutv_halktv2/live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/FDjkCFQ/bbnturk.png",BBN TÜRK
-https://mn-nl.mncdn.com/blutv_bbnturk/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/CB62fwD/cadde.png",CADDE TV [youtube-src]
 https://youtu.be/tQLNisrmdF4
+#EXTINF:0 tvg-logo="https://i.ibb.co/WcTG5z0/szctv1.jpg",SÖZCÜ TV [youtube-src]
+https://www.youtube.com/watch?v=2r-B91zLZtc
 #EXTINF:0 tvg-logo="https://i.ibb.co/y04nCSJ/artii.png",ARTI TV [youtube-src]
 https://www.youtube.com/watch?v=xpoetRCJKqY
 #EXTINF:0 tvg-logo="https://i.ibb.co/1X8nWHc/ahaber.png",A HABER [youtube-src]
@@ -259,6 +259,8 @@ http://iptvmasterlink.dyndns.org:8080/UlusalKanal/playlist.m3u8
 https://tv.ensonhaber.com/tv/tr/benguturk/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/0MHPk8y/benguturk.png",BENGÜ TÜRK
 http://iptvmasterlink.dyndns.org:8080/BenguTurk/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/FDjkCFQ/bbnturk.png",BBN TÜRK
+https://mn-nl.mncdn.com/blutv_bbnturk/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/6m9Pb3t/tv5tr1.png",TV 5
 http://iptvmasterlink.dyndns.org:8080/Tv5/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/ZXts607/ulketv.png",ÜLKE
