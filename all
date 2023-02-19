@@ -947,8 +947,6 @@ https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/4g4VNx7/quds-tv.png",QUDS TV
 http://live.alqudstoday.tv:8080/hls/alqudstv/alqudstv.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/Fh1B0FF/palestinian.png" user-agent="Star Wars",PALESTINIAN TV
-http://cdg8.edge.technocdn.com/palestiniantv_source/live/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/TMFyykR/paltv.png",PAL TV
 https://live.paltodaytv.com/paltv/live/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/4Vfg55v/almasira.png",AL MASIRA
