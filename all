@@ -886,7 +886,7 @@ https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/vJj1gdb/onetvlb.jpg",ONE TV LBN
 https://live.3cd.io/v1/broadcast/one/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/ygKx229/lana1.png",LANA TV
-https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3u8
+https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/m3u8/SDI1-720p.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/w6B8G91/lanaplus.png",LANA PLUS
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc2/m3u8/sdi2-720p.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/JrFjqrc/nabaa.png",NABAA TV
@@ -945,6 +945,12 @@ https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/playlist.m3
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/dbFBq5k/Al-Jazeera-Mubasher.png",AL JAZEERA MUBASHER
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/nzjbYfR/asharq.png",ASHARQ NEWS
+https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/JcP5JHq/bbcaranw.png",BBC NEWS ARABIA
+https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/mobile_wifi_main_sd_abr_v2.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/JcP5JHq/bbcaranw.png",BBC NEWS ARABIA
+https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/dGjByMq/Sky-News-Arabia.png",SKY NEWS ARABIA
 https://stream.skynewsarabia.com/hls/sna.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/L8KP0z9/DW-arabic.png",DW ARABIC
@@ -973,6 +979,8 @@ https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/PjCYRWx/gulliar.jpg",GULLI ARABI
 https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8
+#EXTINF:0 tvg-logo=https://i.ibb.co/KX5tK6Q/Wanasa.png",WANASA
+https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/LYMKBP2/Sat7kids.png",SAT7 KIDS
 https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/ZWNRrrX/iqraa.png",IQRAA
