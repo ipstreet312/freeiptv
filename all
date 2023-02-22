@@ -394,25 +394,13 @@ https://embedlp.b-cdn.net/womantv.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/hLPsqNq/birtv.png",BIR TV
 https://live.artidijitalmedya.com/artidijital_birtv/birtv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/hLPsqNq/birtv.png",BIR TV
-https://live.artidijitalmedya.com/artidijital_birtv/birtv/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/hLPsqNq/birtv.png",BIR TV
-http://live.artidijitalmedya.com/artidijital_birtv/birtv/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/hLPsqNq/birtv.png",BIR TV
 https://waw1.artiyerelmedya.net/birtv/bant1/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/hLPsqNq/birtv.png",BIR TV
-http://yerelmedya.tv:1935/birtv/bant1/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/Zd6fMvZ/filtr.png",FIL TV
-https://cdn.videobulut.com/35/3811/npMXAKZTZbC1/npMXAKZTZbC1.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Fq20RQN/cn1t.png",CINE 1
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/fMK1swz/cine1tv.jpg" user-agent="Star Wars",CINE 1
-https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/fNsYjvD/cine1.jpg",CINE 1
-http://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/fNsYjvD/cine1.jpg",CINE 1
+#EXTINF:0 tvg-logo="https://i.ibb.co/Fq20RQN/cn1t.png",CINE 1
 http://waw1.artiyerelmedya.net/cine1/bant1/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/fNsYjvD/cine1.jpg",CINE 1
-https://yerelmedya.tv:1935/cine1/bant1/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/Zd6fMvZ/filtr.png",FIL TV
+https://cdn.videobulut.com/35/3811/npMXAKZTZbC1/npMXAKZTZbC1.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/1Ty8Z3X/bizimev.png",BIZIM EV TV
 https://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png",TRT BELGESEL (backup)
