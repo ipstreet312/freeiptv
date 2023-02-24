@@ -747,17 +747,17 @@ https://streaming-live.rtp.pt/liverepeater/rtpClean2HD.smil/manifest.mpd
 https://streaming-live-app.rtp.pt/liverepeater/smil:rtp2HD.smil/rtp_playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/HnqCkQj/rtp3.jpg" user-agent="RTP Play/1.0.36",RTP 3 [drm-blocked]
 https://streaming-live.rtp.pt/livetvhls/rtpnHD.smil/manifest.mpd
-#EXTINF:0 tvg-logo="https://i.ibb.co/HnqCkQj/rtp3.jpg" user-agent="RTP Play/1.0.36",RTP 3 HD
+#EXTINF:0 tvg-logo="https://i.ibb.co/HnqCkQj/rtp3.jpg" user-agent="RTP Play/1.0.36",RTP 3
 https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/HnqCkQj/rtp3.jpg" user-agent="RTP Play/1.0.36",RTP 3 HD
+#EXTINF:0 tvg-logo="https://i.ibb.co/HnqCkQj/rtp3.jpg" user-agent="RTP Play/1.0.36",RTP 3
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/HnqCkQj/rtp3.jpg" user-agent="RTP Play/1.0.36",RTP 3 SD
+#EXTINF:0 tvg-logo="https://i.ibb.co/HnqCkQj/rtp3.jpg" user-agent="RTP Play/1.0.36",RTP 3
 https://streaming-live.rtp.pt/liverepeater/smil:rtpn.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png",RTP I
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/9GMzcw7/rtpaco.jpg",RTP ACORES HD
+#EXTINF:0 tvg-logo="https://i.ibb.co/9GMzcw7/rtpaco.jpg",RTP ACORES
 https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/9GMzcw7/rtpaco.jpg",RTP ACORES SD
+#EXTINF:0 tvg-logo="https://i.ibb.co/9GMzcw7/rtpaco.jpg",RTP ACORES
 https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/bvwwcB9/rtpmad.jpg",RTP MADEIRA
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
@@ -771,7 +771,7 @@ https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
 https://video-auth7.iol.pt/edge_servers/cnn-720p/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/6r1xHn6/sic.png",SIC INT
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/pyXp0bk/tvi.png",TVI HD
+#EXTINF:0 tvg-logo="https://i.ibb.co/pyXp0bk/tvi.png",TVI
 https://video-auth2.iol.pt/edge_servers/tvi-720_passthrough/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/pyXp0bk/tvi.png",TVI INT
 https://video-auth6.iol.pt/edge_servers/tviinternacional-720p/chunks.m3u8
