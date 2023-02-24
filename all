@@ -342,6 +342,8 @@ https://showtv.blutv.com/blutv_showtv_live/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/4tyCssZ/fox.png",FOX [tkn-blocked]
 https://foxtv-live.daioncdn.net/foxtv/foxtv.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/4tyCssZ/fox.png",FOX [tkn-blocked]
+https://foxtv-live-ad.ercdn.net/foxtv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/4tyCssZ/fox.png",FOX [tkn-blocked]
 https://foxtv.daioncdn.net/foxtv/foxtv.m3u8?app=24e7a2e2-9156-4c02-a4fb-2bc599ffaf77
 #EXTINF:0 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png",TV8 (backup)
 http://mfe.cliptv.az/dash/TV_8_HD.ism/playlist.mpd
