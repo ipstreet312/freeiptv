@@ -893,7 +893,7 @@ http://live.watania1.tn:1935/live/watanya1.stream/playlist.m3u8
 http://live.watania2.tn:1935/live/watanya2.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/8DxdBPf/Attessia9.png",ATTASIA 9
 https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/FHr5bcj/lbc.png",LBC INT
+#EXTINF:0 tvg-logo="https://i.ibb.co/YhMgggj/lbcb.jpg",LBC INT
 https://rotanastudios-lbc-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png",MTV LBN
 https://1537084837.rsc.cdn77.org/1537084837/tracks-v2a1/mono.m3u8
@@ -1118,9 +1118,11 @@ https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 #EXTINF:0 tvg-logo="https://i.ibb.co/CKTjvj8/nbc.jpg",NBC NEWS
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_ca_nbcnewsnow_001.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/jJDxCxN/abc.jpg",ABC NEWS
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/jJDxCxN/abc.jpg",ABC NEWS
 https://d2fewflvrapcwe.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fdwnvbyln7gak-ssai-prd/ABCNewsLive_Disney.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/jJDxCxN/abc.jpg",ABC NEWS
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/jJDxCxN/abc.jpg",ABC NEWS
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/YD3G64y/cbs.jpg",CBS NEWS
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/YD3G64y/cbs.jpg",CBS NEWS
