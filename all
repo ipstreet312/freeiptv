@@ -642,7 +642,7 @@ https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/7nYM8MK/arutz24tvtrp.png",MAKO 24
 https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/video_10801920_p_1.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/7nYM8MK/arutz24tvtrp.png",MAKO 24
-https://cdnip.000webhostapp.com/ch24i.php?m3u8
+https://cdnip.000webhostapp.com/ch24.php?m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/zP5vjLD/knesset.png",HAKNESSET 99
 https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/1rSGfFw/N12n.png",NEWS 12
@@ -674,7 +674,7 @@ https://mako-streaming.akamaized.net/direct/hls/live/2033791/k12/index.m3u8?hdne
 #EXTINF:0 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png",KESHET 12 [mako-src]
 https://mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?hdnea=
 #EXTINF:0 tvg-logo="https://i.ibb.co/7nYM8MK/arutz24tvtrp.png",MAKO 24 [mako-src]
-https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24/index.m3u8?hdnea=
+https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/index.m3u8?hdnea=
 #EXTINF:0 tvg-logo="https://i.ibb.co/1rSGfFw/N12n.png",NEWS 12 [mako-src]
 https://mako-streaming.akamaized.net/n12/hls/live/2041434/n12s/index.m3u8?hdnea=
 
