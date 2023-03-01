@@ -33,6 +33,8 @@ https://d358c6mfrono1y.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da
 https://live.digiteka.com/1/bEg0RmFLb1JMYXRI/dGhqbmIw/hls/live/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/j68q1Bp/i24.png",I24 NEWS FR
 https://bcovlive-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/playlist-all.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/ZgqnqnJ/cgtnfr.png",CGTN FRANÇAIS
+http://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/sq11nQ1/rdicanada.png",RDI CANADA
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/MZLCTmN/monacoinfo.png",MONACO INFO
@@ -757,6 +759,8 @@ https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
 https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/56TvMjR/etbs.jpg",EITB DEPORTE
 https://multimedia.eitb.eus/live-content/oka3hd-hls/master.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/CH8JGfJ/cgtnes.png",CGTN ESPAÑOL
+http://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/3YZFCjp/rtp1.jpg" user-agent="RTP Play/1.0.36" group-title="|PT|🇵🇹 PORTUGAL",RTP 1
@@ -953,6 +957,12 @@ https://live.paltodaytv.com/paltv/live/playlist.m3u8
 https://svs.itworkscdn.net/almasiralive/almasira.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/zGHHGbj/alkhalij.jpg",AL KHALIJ TV
 https://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/MG43H4H/hala.png",PANET 30 HALA
+https://live1.panet.co.il/edge_abr/halaTV/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/MG43H4H/hala.png",PANET 30 HALA
+https://gstream4.panet.co.il/edge/halaTV/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/fqTYrGY/33.png",KAN 33 MAKAN
+https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/jLYWYh7/Al-Jazeera.png" group-title="|AR|🇸🇦 THEMATICS/1",AL JAZEERA
@@ -979,6 +989,8 @@ https://stream.skynewsarabia.com/hls/sna.m3u8
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/njBtvts/cgtnar.png",CGTN ARABIC
 https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/j68q1Bp/i24.png",I24 NEWS AR
+https://bcovlive-a.akamaihd.net/773a2fa387914315ad11e6957cd54f6e/eu-central-1/5377161796001/playlist-all.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/vPkb8TQ/trtar.png",TRT ARABIYA
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/D7w9h7Q/rt.png",RT ARABIC
