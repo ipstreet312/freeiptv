@@ -573,10 +573,10 @@ http://dygvideo.dygdigital.com/live/hls/kraltv?m3u8
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/swtn1kV/trtturk.png",TRT TÜRK
 https://mn-nl.mncdn.com/blutv_trtturk2/live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/THj0Jrg/eurod22.png",EURO D
-https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/WvhGGP0/showturk1.png",SHOW TÜRK
 https://mn-nl.mncdn.com/blutv_showturk2/live.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/THj0Jrg/eurod22.png",EURO D
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Lg90xsB/eurostar22.png",EURO STAR
 https://mn-nl.mncdn.com/blutv_eurostar2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/cDxKJy1/k7avr1.png",KANAL 7 AVRUPA
@@ -987,7 +987,7 @@ https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
 https://bcovlive-a.akamaihd.net/773a2fa387914315ad11e6957cd54f6e/eu-central-1/5377161796001/playlist-all.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/vPkb8TQ/trtar.png",TRT ARABIYA
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/D7w9h7Q/rt.png",RT ARABIC
+#EXTINF:0 tvg-logo="https://i.ibb.co/D7w9h7Q/rt.png",RT ARABIC [censure-blocked]
 https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Fs6CgPG/Al-Hiwar.png",AL HIWAR
 https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
