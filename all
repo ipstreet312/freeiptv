@@ -751,6 +751,8 @@ https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
 https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/56TvMjR/etbs.jpg",EITB DEPORTE
 https://multimedia.eitb.eus/live-content/oka3hd-hls/master.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/84XLZJq/dw.png",DW ESPAÑOL
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/CH8JGfJ/cgtnes.png",CGTN ESPAÑOL
 http://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 
@@ -1145,6 +1147,8 @@ https://p1media-americasvoice-1.roku.wurl.com/manifest/playlist.m3u8
 https://d2jiqiw4g5lj5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AmericasVoiceChannel-prod/AVSamsung/AVSamsung.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/d0yj6WR/pbs.webp",PBS AMERICA
 https://pbsaaaaaa-pbs-samsung-uk-vl4xp.amagi.tv/playlist/pbsAAAAAA-pbs-samsung-uk/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/d0yj6WR/pbs.webp",PBS AMERICA
+https://pbs-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/8MBM4M1/skyn.png",SKY NEWS
 https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/dPmZMqq/bbcn.png",BBC NEWS
@@ -1183,6 +1187,8 @@ https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/rwbrckj/pressir.png",PRESS TV
 https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/rwbrckj/pressir.png",PRESS TV
+https://live1.presstv.ir/live/presstv.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/MGW5Vv9/aljaz.png",AL JAZEERA NEWS 
 https://live-hls-web-aje.getaj.net/AJE/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/s9gLmqv/cgtnch.png",CGTN NEWS
@@ -1193,7 +1199,7 @@ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/mywSdSQ/att.png" group-title="📺 GITHUB.COM/IPSTREET312",➡️MORE-INFO : ☛ RECEPTIONIPTV.BLOGSPOT.COM
+#EXTINF:0 tvg-logo="https://i.ibb.co/mywSdSQ/att.png" group-title="|📺|👨‍💻GITHUB.COM/IPSTREET312",➡️MORE-INFO : ☛ RECEPTIONIPTV.BLOGSPOT.COM
 https://github.com/ipstreet312/freeiptv/raw/master/feed/blogv.ts
 #EXTINF:0,Video Test Player
 http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
