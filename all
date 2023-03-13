@@ -825,31 +825,31 @@ https://video-auth6.iol.pt/live_tvi_reality/live_tvi_reality/playlist.m3u8?wmsAu
 https://video-auth4.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-720_passthrough/playlist.m3u8?wmsAuthSign=
 
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png" group-title="|MA|🇲🇦 MAROC",AL AOULA LAAYOUNE
+#EXTINF:0 tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png" group-title="|MA|🇲🇦 MAROC",AL AOULA LAAYOUNE الأولى
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png",Al AOULA INT
+#EXTINF:0 tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png",Al AOULA INT الأولى
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/dp5Z2dh/2m.png",2M MONDE
+#EXTINF:0 tvg-logo="https://i.ibb.co/dp5Z2dh/2m.png",2M MONDE الثانية 
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/Wk8BWg4/arryadia.png",ARRIADIA
+#EXTINF:0 tvg-logo="https://i.ibb.co/Wk8BWg4/arryadia.png",ARRIADIA الرياضية 
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/k8gk0Hb/arrabiaa.png",ARRABIAA
+#EXTINF:0 tvg-logo="https://i.ibb.co/k8gk0Hb/arrabiaa.png",ARRABIAA الثقافية
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/5kp5CmP/almaghribia.png",AL MAGHRIBIA
+#EXTINF:0 tvg-logo="https://i.ibb.co/5kp5CmP/almaghribia.png",AL MAGHRIBIA المغربية الإخبارية
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/Gxn4XrB/assadissa.png",ASSADISSA
+#EXTINF:0 tvg-logo="https://i.ibb.co/Gxn4XrB/assadissa.png",ASSADISSA القرآن الكريم
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/SXCqs9r/aflamtv.png",AFLAM [offline]
+#EXTINF:0 tvg-logo="https://i.ibb.co/SXCqs9r/aflamtv.png",AFLAM [offline] أفلام
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/aflamtv/hls_snrt/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/rmRc08Z/tamazight.png",TAMAZIGHT
+#EXTINF:0 tvg-logo="https://i.ibb.co/rmRc08Z/tamazight.png",TAMAZIGHT الأمازيغية
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/pdd2VqB/chada.jpg",CHADA TV
+#EXTINF:0 tvg-logo="https://i.ibb.co/pdd2VqB/chada.jpg",CHADA TV شدى
 https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/rfwFbLk/telemaroc.gif",TELE MAROC
+#EXTINF:0 tvg-logo="https://i.ibb.co/rfwFbLk/telemaroc.gif",TELE MAROC قناة المغرب
 https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/Jx8GW4D/m24.png",M24 TV
+#EXTINF:0 tvg-logo="https://i.ibb.co/Jx8GW4D/m24.png",M24 TV للأنباء
 https://63df3191463ce.streamlock.net/live/ngrp:Live2.stream_all/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/rQJcGTc/medi1tv.png",MEDI 1 MG
+#EXTINF:0 tvg-logo="https://i.ibb.co/rQJcGTc/medi1tv.png",MEDI 1 MG العربية
 http://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/rQJcGTc/medi1tv.png",MEDI 1 AR
 http://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8
