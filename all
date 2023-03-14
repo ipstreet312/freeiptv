@@ -766,7 +766,7 @@ https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/chunklist_b640000_slpor.m
 #EXTINF:0 tvg-logo="https://i.ibb.co/tbFT1V2/rtp2.jpg",RTP 2
 https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/chunklist_b640000_slpor.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/HnqCkQj/rtp3.jpg",RTP 3
-https://streaming-live.rtp.pt/liverepeater/rtpnHD.smil/playlist.m3u8
+https://streaming-live.rtp.pt/liverepeater/rtpnHD.smil/chunklist_b640000_slpor.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png",RTP I
 https://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",EURONEWS PT
@@ -783,8 +783,6 @@ https://video-auth6.iol.pt/edge_servers/tviinternacional-720p/playlist.m3u8
 https://video-auth2.iol.pt/edge_servers/tvificcao-720p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/xYNTr2v/tvirea.jpg",TVI REALITY
 https://video-auth2.iol.pt/edge_servers/tvireality-720_passthrough/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/9GMzcw7/rtpaco.jpg",RTP ACORES
-https://streaming-live.rtp.pt/liverepeater/rtpacoresHD.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/9GMzcw7/rtpaco.jpg",RTP ACORES
 https://streaming-live.rtp.pt/liverepeater/rtpacores.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/bvwwcB9/rtpmad.jpg",RTP MADEIRA
@@ -826,7 +824,9 @@ https://streaming-live.rtp.pt/liverepeater/rtp2.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/HnqCkQj/rtp3.jpg",RTP 3 (backup)
 https://streaming-live.rtp.pt/liverepeater/rtpn.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/HnqCkQj/rtp3.jpg",RTP 3 (backup)
-https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/chunklist_b640000_slpor.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/9GMzcw7/rtpaco.jpg",RTP ACORES (backup)
+https://streaming-live.rtp.pt/liverepeater/rtpacoresHD.smil/chunklist_b640000_slpor.m3u8
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png" group-title="|MA|🇲🇦 MAROC",AL AOULA LAAYOUNE الأولى
