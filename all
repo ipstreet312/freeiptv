@@ -767,14 +767,14 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 http://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/3YZFCjp/rtp1.jpg" group-title="|PT|🇵🇹 PORTUGAL",RTP 1
+#EXTINF:0 tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png" group-title="|PT|🇵🇹 PORTUGAL",RTP I
+https://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/3YZFCjp/rtp1.jpg",RTP 1
 https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/chunklist_b640000_slpor.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/tbFT1V2/rtp2.jpg",RTP 2
 https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/chunklist_b640000_slpor.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/HnqCkQj/rtp3.jpg",RTP 3
 https://streaming-live.rtp.pt/liverepeater/rtpnHD.smil/chunklist_b640000_slpor.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png",RTP I
-https://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",EURONEWS PT
 https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",EURONEWS PT
