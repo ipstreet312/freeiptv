@@ -334,7 +334,7 @@ https://youtu.be/1KXZDgP9W5E
 #EXTINF:0 tvg-logo="https://i.ibb.co/FVnG3Zr/360tv.png",360
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/FVnG3Zr/360tv.png",360
-https://mn-nl.mncdn.com/360tv_live/360tv.smil/chunklist.m3u8
+https://tv.ensonhaber.com/tv/tr/360tv/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/1Z22dCY/teve2.png",TEVE 2
 https://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/1Z22dCY/teve2.png",TEVE 2
@@ -379,10 +379,10 @@ https://trkvz.daioncdn.net/atv/atv.m3u8?app=d1ce2d40-5256-4550-b02e-e73c185a314e
 https://trkvz-dev.daioncdn.net/atv/atv.m3u8?app=8672c3cb-70f1-4686-9158-cc03a23c6b0f
 #EXTINF:0 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV [tkn-blocked]
 https://trkvz-beta.daioncdn.net/atv/atv.m3u8?app=d1ce2d40-5256-4550-b02e-e73c185a314e
+#EXTINF:0 tvg-logo="https://i.ibb.co/FVnG3Zr/360tv.png",360 [tkn-blocked]
+https://mn-nl.mncdn.com/360tv_live/360tv.smil/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/FVnG3Zr/360tv.png",360 (backup)
 https://mn-nl.mncdn.com/blutv_360tv/live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/FVnG3Zr/360tv.png",360 (backup)
-https://tv.ensonhaber.com/tv/tr/360tv/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/1s3fHfm/k7tr1.png",KANAL 7 (backup)
 https://kanal7.daioncdn.net/kanal7/kanal7.m3u8?app=f99587ad-1637-494d-8255-da35b09d17a1
 #EXTINF:0 tvg-logo="https://i.ibb.co/1s3fHfm/k7tr1.png",KANAL 7 (backup)
