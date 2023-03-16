@@ -262,7 +262,7 @@ http://akittv-live.ercdn.net/akittv/akittv.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/PhwYjQ7/24tv.png",24
 https://mn-nl.mncdn.com/kanal24/kanal24.smil/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/PhwYjQ7/24tv.png",24
-https://kanal24.blutv.com/blutv_kanal24_live/live.m3u8
+https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/1RWhvy4/tvnet.png",TV NET
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/1RWhvy4/tvnet.png",TV NET
@@ -282,9 +282,9 @@ https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/CB62fwD/cadde.png",CADDE TV [youtube-src]
 https://youtu.be/tQLNisrmdF4
 #EXTINF:0 tvg-logo="https://i.ibb.co/y04nCSJ/artii.png",ARTI TV [youtube-src]
-https://www.youtube.com/watch?v=xpoetRCJKqY
+https://youtu.be/xpoetRCJKqY
 #EXTINF:0 tvg-logo="https://i.ibb.co/1X8nWHc/ahaber.png",A HABER [youtube-src]
-https://www.youtube.com/watch?v=g4QA9Sh_g_8
+https://youtu.be/g4QA9Sh_g_8
 #EXTINF:0 tvg-logo="https://i.ibb.co/BtYMK4q/halk21a.png",HALK TV (backup)
 https://halktv.daioncdn.net/halktv/halktv.m3u8?app=c86957d3-74a7-44da-9ad2-dc358c769609
 #EXTINF:0 tvg-logo="https://i.ibb.co/wdwm0fn/haberturk.png",HABER TÜRK (backup)
@@ -296,7 +296,7 @@ https://tv.ensonhaber.com/tv/tr/ntv/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png",NTV (backup)
 http://dygvideo.dygdigital.com/live/hls/puhuntvdai?m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/PhwYjQ7/24tv.png",24 (backup)
-https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
+https://kanal24.blutv.com/blutv_kanal24_live/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/PhwYjQ7/24tv.png",24 (backup)
 https://tv.ensonhaber.com/tv/tr/24tv/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/vJJzR8G/tgrthab22.png",TGRT HABER (backup)
