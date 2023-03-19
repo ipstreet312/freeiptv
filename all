@@ -959,7 +959,7 @@ https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
 https://live.3cd.io/v1/broadcast/one/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png",ONE TV LBN
 https://1333578254.rsc.cdn77.org/1333578254/tracks-v4a1/mono.m3u8
-#EXTINF:0,NBN TV LB
+#EXTINF:0 tvg-logo="https://i.ibb.co/TMjxb1b/nbn.png",NBN TV LBN
 https://live-server-2.splitstream.io/37823898-78bc-4e88-b14b-6eb04526e72d/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/ygKx229/lana1.png",LANA TV
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/m3u8/SDI1-720p.m3u8
@@ -999,6 +999,8 @@ https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
 https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/n333gP9/rayanqdm.png",AL RAYYAN QADEEM
 https://svs.itworkscdn.net/alrayyanqadeemlive/alrayyanqadeem.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/1KcjbKf/almayadeen.png",AL MAYADEEN
+https://lmdstrm.cdn.octivid.com/mayadeen-live/smil:mayadeen.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/4g4VNx7/quds-tv.png",QUDS TV
 http://live.alqudstoday.tv:8080/hls/alqudstv/alqudstv.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/TMFyykR/paltv.png",PAL TV
@@ -1013,39 +1015,39 @@ https://live1.panet.co.il/edge_abr/halaTV/playlist.m3u8
 https://gstream4.panet.co.il/edge/halaTV/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/fqTYrGY/33.png",KAN 33 MAKAN
 https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
-#EXTINF:0,KAS QATAR 1
+#EXTINF:0 tvg-logo="https://i.ibb.co/3h4XCtZ/kasqatar.png",KAS QATAR 1
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1ctfsd/master.m3u8
-#EXTINF:0,KAS QATAR 2
+#EXTINF:0 tvg-logo="https://i.ibb.co/3h4XCtZ/kasqatar.png",KAS QATAR 2
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2nbcq/master.m3u8
-#EXTINF:0,KAS QATAR 3
+#EXTINF:0 tvg-logo="https://i.ibb.co/3h4XCtZ/kasqatar.png",KAS QATAR 3
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3actfsdc/master.m3u8
-#EXTINF:0,KAS QATAR 4
+#EXTINF:0 tvg-logo="https://i.ibb.co/3h4XCtZ/kasqatar.png",KAS QATAR 4
 https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNh2.smil/playlist.m3u8
-#EXTINF:0,YAS TV
+#EXTINF:0 tvg-logo="https://i.ibb.co/Q6tZWdh/yas.png",YAS TV
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
-#EXTINF:0,A ONE
+#EXTINF:0 tvg-logo="https://i.ibb.co/S6xK2x9/aone.jpg",A ONE
 http://master.starmena-cloud.com/hls/a1jo.m3u8
-#EXTINF:0,KAB 1
+#EXTINF:0 tvg-logo="https://i.ibb.co/qMyBBdb/kab.png",KAB 1
 https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
-#EXTINF:0,AL WOUSTA
+#EXTINF:0 tvg-logo="https://i.ibb.co/fFZ3kZj/alwousta.png",AL WOUSTA
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
-#EXTINF:0,ATFAL
+#EXTINF:0 tvg-logo="https://i.ibb.co/5TZPHf6/atfal.jpg",ATFAL
 https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8
-#EXTINF:0,YEMEN MAHRIAH
+#EXTINF:0 tvg-logo="https://i.ibb.co/VCfg2xY/almahriah.png",YEMEN MAHRIAH
 https://master.starmena-cloud.com/hls/almahriah.m3u8
-#EXTINF:0,OMAN 1
+#EXTINF:0 tvg-logo="https://i.ibb.co/GJVSFNt/oman.png",OMAN 1
 https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist_b900000_t64NDgwcA==.m3u8
-#EXTINF:0,OMAN MUNASHER
+#EXTINF:0 tvg-logo="https://i.ibb.co/GJVSFNt/oman.png",OMAN MUNASHER
 https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist_b900000_t64NDgwcA==.m3u8
-#EXTINF:0,OMAN CULTURE
+#EXTINF:0 tvg-logo="https://i.ibb.co/GJVSFNt/oman.png",OMAN CULTURE
 https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist_b900000_t64NDgwcA==.m3u8
-#EXTINF:0,AL JAYLIA
+#EXTINF:0 tvg-logo="https://i.ibb.co/PFCf0SG/jaylia.jpg",AL JAYLIA
 https://media2.livaat.com/AL-Jaleyah/tracks-v1a1/mono.m3u8
-#EXTINF:0,ETHAD
+#EXTINF:0 tvg-logo="https://i.ibb.co/740Znb4/ittihad.png",ETIHAD
 https://live.alittihad.tv:444/ittihad/playlist.m3u8
-#EXTINF:0,AL ALAM IR
+#EXTINF:0 tvg-logo="https://i.ibb.co/XDC5cBX/alalam.png",AL ALAM IR
 https://live2.alalam.ir/alalam.m3u8
-#EXTINF:0,AL HAQIQA
+#EXTINF:0 tvg-logo="https://i.ibb.co/PYwbLwJ/haqiqat.jpg",AL HAQIQA
 https://jmc-live.ercdn.net/alhaqiqa/alhaqiqa.m3u8
 
 
@@ -1109,7 +1111,7 @@ https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist.m3u8
 https://jmc-live.ercdn.net/iqraa/iqraa.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/ZWNRrrX/iqraa.png",IQRAA EUR
 https://jmc-live.ercdn.net/iqraaeurope/iqraaeurope.m3u8
-#EXTINF:0,IQRAA 2
+#EXTINF:0 tvg-logo="https://i.ibb.co/ZWNRrrX/iqraa.png",IQRAA 2
 https://cdn5.iqsat.net/iqb/f0c1abab1c44d5f01879991c979a6821.sdp/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/FwDhYDv/saudi6.png",SAUDI CH 6
 https://edge.taghtia.com/sa/6.m3u8
@@ -1119,11 +1121,11 @@ https://edge.taghtia.com/sa/7.m3u8
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/cygNtwH/bahrain-quaran.png",BAHRAIN QURAN
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
-#EXTINF:0,AL QAMAR
+#EXTINF:0 tvg-logo="https://i.ibb.co/dQtMFVT/qamar.jpg",AL QAMAR
 https://cdn5.iqsat.net/iq/8c17d37e0f5c88b1e9c7e1f8f82bc980.sdp/playlist.m3u8
-#EXTINF:0,ALMASIRA MUBASHER
+#EXTINF:0 tvg-logo="https://i.ibb.co/ypj95gJ/almasirah.png",ALMASIRA MUBASHER
 https://svs.itworkscdn.net/almasiramubacherlive/almasira.smil/almasiramubacherpublish/almasira/playlist.m3u8
-#EXTINF:0,TEN ARABIC
+#EXTINF:0 tvg-logo="https://i.ibb.co/Ch3FNj9/tenar.jpg",TEN WEYYAK
 https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Mgm51w6/sat7ara.webp",SAT7 ARABIC
 https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist.m3u8
@@ -1205,9 +1207,9 @@ https://rotanastudios-rotanadrama-1-eu.xiaomi.wurl.tv/playlist.m3u8
 https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/RC0XZrb/rotanaplus.png",ROTANA PLUS
 https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
-#EXTINF:0,MELODY DRAMA
+#EXTINF:0 tvg-logo="https://i.ibb.co/nLJLxbN/weyyak.jpg",MELODY DRAMA
 https://weyyak-live.akamaized.net/weyyak_drama/tracks-v2a1/mono.m3u8
-#EXTINF:0,MELODY HITS
+#EXTINF:0 tvg-logo="https://i.ibb.co/nLJLxbN/weyyak.jpg",MELODY MIX
 https://weyyak-live.akamaized.net/weyyak_mix/tracks-v2a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/5RGbN6g/Zee-Afam.png",ZEE AFLAM
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
@@ -1223,21 +1225,21 @@ http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/playlist.m
 http://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/xDs4dGV/dubaizaman.png",DUBAI ZAMAN
 http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8
-#EXTINF:0,SHADID 1
+#EXTINF:0 tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png",SHADID 1
 https://cdxaws-ak.akamaized.net/v1/channel/Shahid_Al_Oula__/index_hls.m3u8
-#EXTINF:0,SHADID SHAM
+#EXTINF:0 tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png",SHADID SHAM
 https://cdxaws-ak.akamaized.net/v1/channel/Al_Sham--/index_hls.m3u8
-#EXTINF:0,SHADID MAQALEB
+#EXTINF:0 tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png",SHADID MAQALEB
 https://cdxaws-ak.akamaized.net/v1/channel/Maqaleb--/index_hls.m3u8
-#EXTINF:0,SHADID AL ZAEEM
+#EXTINF:0 tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png",SHADID AL ZAEEM
 https://cdxaws-ak.akamaized.net/v1/channel/AlZaeem--/index_hls.m3u8
-#EXTINF:0,SHADID AL MASRAH
+#EXTINF:0 tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png",SHADID AL MASRAH
 https://cdxaws-ak.akamaized.net/v1/channel/Al_Masrah/index_hls.m3u8
-#EXTINF:0,SHADID COMEDY
+#EXTINF:0 tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png",SHADID COMEDY
 https://cdxaws-ak.akamaized.net/v1/channel/Comedy---/index_hls.m3u8
-#EXTINF:0,SHADID AL ZARAQ
+#EXTINF:0 tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png",SHADID AL ZARAQ
 https://cdxaws-ak.akamaized.net/v1/channel/Ma_Al_Zaraq/index_hls.m3u8
-#EXTINF:0,SHADID AL USTURA
+#EXTINF:0 tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png",SHADID AL USTURA
 https://cdxaws-ak.akamaized.net/v1/channel/Al_Ostoura_/index_hls.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/0mtj39x/Mekameleen.png",MEKAMELEEN
 http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
