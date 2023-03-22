@@ -353,8 +353,6 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/sRNHKjS/tivi622.png",TIVI 6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/sRNHKjS/tivi622.png",TIVI 6
-http://yerelmedya.tv:1935/tivi6/bant1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png",TRT 1 [geo-blocked]
 https://trt1.blutv.com/blutv_trt1_live/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png",TRT 1 (backup)
@@ -431,12 +429,8 @@ https://s01.webcaster.cloud/wmtv/live_1080p.m3u8
 https://embedlp.b-cdn.net/womantv.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/hLPsqNq/birtv.png",BIR TV
 https://live.artidijitalmedya.com/artidijital_birtv/birtv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/hLPsqNq/birtv.png",BIR TV
-http://yerelmedya.tv:1935/birtv/bant1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Fq20RQN/cn1t.png",CINE 1
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/Fq20RQN/cn1t.png",CINE 1
-http://yerelmedya.tv:1935/cine1/bant1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Zd6fMvZ/filtr.png",FIL TV
 https://cdn.videobulut.com/1/3811/jR3hh28nu2MV/jR3hh28nu2MV.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/1Ty8Z3X/bizimev.png",BIZIM EV TV
@@ -547,14 +541,12 @@ http://livetv.powerapp.com.tr/pplustv/pplustv.smil/playlist.m3u8
 http://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/FgCW885/pturkakustik.png",POWER TÜRK AKUSTIK
 http://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/cQfPfgR/tatlises.png",TATLISES
-https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/cQfPfgR/tatlises.png",TATLISES
-http://yerelmedya.tv:1935/tatlisestv/bant1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Jqzzby7/milyontv.png",MILYON TV
 https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Jqzzby7/milyontv.png",MILYON TV
 https://mn-nl.mncdn.com/blutv_milyontv/milyontv_sd.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/cQfPfgR/tatlises.png",TATLISES
+https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/wSPFds2/nr1turk.png",NUMBER ONE TÜRK
 https://mn-nl.mncdn.com/blutv_nr1turk2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/jJWLsCQ/nr1ask.jpg",NUMBER ONE TÜRK ASK
@@ -632,7 +624,7 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d91
 #EXTINF:0 tvg-logo="https://i.ibb.co/Cm1kp8f/sat7turk.png",SAT 7 TÜRK
 https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Cm1kp8f/sat7turk.png",SAT 7 TÜRK
-http://yerelmedya.tv:1935/sat7turk/bant1/playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/jwgqtSB/dosttv.png",DOST TV
 https://dost.stream.emsal.im/tv/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/tHfxLTn/rehbertv.png",REHBER TV
