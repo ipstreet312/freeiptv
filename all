@@ -1037,6 +1037,18 @@ https://live.alittihad.tv:444/ittihad/playlist.m3u8
 https://live2.alalam.ir/alalam.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/PYwbLwJ/haqiqat.jpg",AL HAQIQA
 https://jmc-live.ercdn.net/alhaqiqa/alhaqiqa.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/Dr7jn2L/baynounah.png",BAYNOUNAH
+https://baynounah.cdn.mangomolo.com/btv/smil:btv.stream.smil/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/nkfS0P4/palsat.jpg",PAL-SAT
+http://htvpalsat.mada.ps:8888/audeh/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/0yytb9K/yementoday.png",YEMEN TODAY
+https://video.yementdy.tv/hls/yementoday.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/wK6B1QV/utv.png",UTV IRAQI
+https://mn-nl.mncdn.com/utviraqi2/64c80359/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/8jK0ZR5/alrasheed.png",AL RASHEED
+https://media1.livaat.com/AL-RASHEED-HD/tracks-v1/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/C2c1NJN/alraimedia.png",ALRAIMEDIA
+https://svs.itworkscdn.net/itwlive/itw.smil/itw_chunks.m3u8
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/jLYWYh7/Al-Jazeera.png" group-title="|AR|🇸🇦 THEMATICS/1",AL JAZEERA
@@ -1109,6 +1121,8 @@ https://edge.taghtia.com/sa/7.m3u8
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/cygNtwH/bahrain-quaran.png",BAHRAIN QURAN
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/pZJLjc1/salam.png",SALAM
+https://b01c02nl.mediatriple.net/videoonlylive/mtiwaxdzdfggbnlive/broadcast_5d1b0969c3188.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/dQtMFVT/qamar.jpg",AL QAMAR
 https://cdn5.iqsat.net/iq/8c17d37e0f5c88b1e9c7e1f8f82bc980.sdp/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/ypj95gJ/almasirah.png",ALMASIRA MUBASHER
@@ -1290,6 +1304,8 @@ https://vs-hls-push-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_ch
 #EXTINF:0 tvg-logo="https://i.ibb.co/dPmZMqq/bbcn.png",BBC NEWS
 https://vs-hls-push-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/8MBM4M1/skyn.png",SKY NEWS
+https://i.mjh.nz/PlutoTV/55b285cd2665de274553d66f-alt.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/8MBM4M1/skyn.png",SKY NEWS
 https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/dpMQyVx/gbn.png",GB NEWS
 https://amg01076-lightningintern-gbnews-samsunguk-0lu52.amagi.tv/playlist/amg01076-lightningintern-gbnews-samsunguk/playlist.m3u8
@@ -1351,5 +1367,5 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
 #EXTINF:0,DM Lounge
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2664
-#EXTINF:0,DM Smart
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/95d6544c-4164-11ec-9c7c-2cf753b8a203/0/master.m3u8
+#EXTINF:0,DM Lounge 2
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/8ef13d2a-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=FR&vendor=samsung
