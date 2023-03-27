@@ -1049,10 +1049,10 @@ https://mn-nl.mncdn.com/utviraqi2/64c80359/chunklist.m3u8
 https://media1.livaat.com/AL-RASHEED-HD/tracks-v1/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/C2c1NJN/alraimedia.png",ALRAIMEDIA
 https://svs.itworkscdn.net/itwlive/itw.smil/itw_chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/Wk8yNmX/alshoob.png" user-agent="Star Wars",AL SHOOB
-https://cdg8.edge.technocdn.com/alshoobtv/live/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/hf0WsKb/watanegt.png" user-agent="Star Wars",WATAN MASR
-http://cdg8.edge.technocdn.com/watantv/live/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/Wk8yNmX/alshoob.png" user-agent="VLC/3.0.18 LibVLC/3.0.18",AL SHOOB
+https://cdg8.edge.technocdn.com:443/alshoobtv/live/chunks.m3u8?nimblesessionid=147774711
+#EXTINF:0 tvg-logo="https://i.ibb.co/hf0WsKb/watanegt.png" user-agent="VLC/3.0.18 LibVLC/3.0.18",WATAN MASR
+https://cdg8.edge.technocdn.com/watantv/live/playlist.m3u8
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/jLYWYh7/Al-Jazeera.png" group-title="|AR|🇸🇦 THEMATICS/1",AL JAZEERA
