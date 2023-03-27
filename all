@@ -1047,6 +1047,8 @@ http://htvpalsat.mada.ps:8888/audeh/tracks-v1a1/mono.m3u8
 http://htvmada.mada.ps:8888/ajyal/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/0yytb9K/yementoday.png",YEMEN TODAY
 https://video.yementdy.tv/hls/yementoday.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/230j3Kr/yemenshabab.png",YEMEN SHABAB
+https://master.starmena-cloud.com/hls/yemenshabab.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/wK6B1QV/utv.png",UTV IRAQI
 https://mn-nl.mncdn.com/utviraqi2/64c80359/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/8jK0ZR5/alrasheed.png",AL RASHEED
