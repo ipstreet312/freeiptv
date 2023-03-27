@@ -987,10 +987,6 @@ https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/playlist.m3u8
 https://svs.itworkscdn.net/alrayyanqadeemlive/alrayyanqadeem.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/1KcjbKf/almayadeen.png",AL MAYADEEN
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/4g4VNx7/quds-tv.png",QUDS TV
-http://live.alqudstoday.tv:8080/hls/alqudstv/alqudstv.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/TMFyykR/paltv.png",PAL TV
-https://live.paltodaytv.com/paltv/live/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/4Vfg55v/almasira.png",AL MASIRA
 https://svs.itworkscdn.net/almasiralive/almasira.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/zGHHGbj/alkhalij.jpg",AL KHALIJ TV
@@ -1041,12 +1037,14 @@ https://jmc-live.ercdn.net/alhaqiqa/alhaqiqa.m3u8
 https://baynounah.cdn.mangomolo.com/btv/smil:btv.stream.smil/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/gJcnzXw/rajeen.png",RAJEEN
 https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/4g4VNx7/quds-tv.png",QUDS TV
+http://live.alqudstoday.tv:8080/hls/alqudstv/alqudstv.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/TMFyykR/paltv.png",PAL TV
+https://live.paltodaytv.com/paltv/live/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/nkfS0P4/palsat.jpg",PAL-SAT
 http://htvpalsat.mada.ps:8888/audeh/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/QY3T3r6/ajyal.png",AJYAL
 http://htvmada.mada.ps:8888/ajyal/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/QY3T3r6/ajyal.png",AJYAL
-http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/0yytb9K/yementoday.png",YEMEN TODAY
 https://video.yementdy.tv/hls/yementoday.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/wK6B1QV/utv.png",UTV IRAQI
@@ -1073,10 +1071,6 @@ https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/playlist.m3
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/dbFBq5k/Al-Jazeera-Mubasher.png",AL JAZEERA MUBASHER
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/mNnyV1K/alhurra.png",AL HURRA
-https://mbnvvideoingest-i.akamaihd.net/hls/live/1004673/MBNV_ALHURRA_MAIN/merge.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/mNnyV1K/alhurra.png",AL HURRA
-https://mbnvvideoingest-i.akamaihd.net/hls/live/1004673/MBNV_ALHURRA_MAIN/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/mNnyV1K/alhurra.png",AL HURRA
 https://mbnv-video-ingest.akamaized.net/hls/live/2038904/MBNV_ALHURRA_MAIN_HLS/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/nzjbYfR/asharq.png",ASHARQ NEWS
