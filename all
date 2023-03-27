@@ -1049,10 +1049,10 @@ https://mn-nl.mncdn.com/utviraqi2/64c80359/chunklist.m3u8
 https://media1.livaat.com/AL-RASHEED-HD/tracks-v1/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/C2c1NJN/alraimedia.png",ALRAIMEDIA
 https://svs.itworkscdn.net/itwlive/itw.smil/itw_chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/Wk8yNmX/alshoob.png",AL SHOOB
-https://cdg8.edge.technocdn.com/alshoobtv/live/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/hf0WsKb/watanegt.png",WATAN MASR
-https://cdg8.edge.technocdn.com/watantv/live/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/Wk8yNmX/alshoob.png" user-agent="Star Wars",AL SHOOB
+https://cdg8.edge.technocdn.com/alshoobtv/live/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/hf0WsKb/watanegt.png" user-agent="Star Wars",WATAN MASR
+http://cdg8.edge.technocdn.com/watantv/live/playlist.m3u8
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/jLYWYh7/Al-Jazeera.png" group-title="|AR|🇸🇦 THEMATICS/1",AL JAZEERA
@@ -1083,6 +1083,10 @@ https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/j68q1Bp/i24.png",I24 NEWS AR
 https://bcovlive-a.akamaihd.net/773a2fa387914315ad11e6957cd54f6e/eu-central-1/5377161796001/playlist-all.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/hKP8X8B/f24.png",FRANCE 24 AR
+https://live.cache-stream.workers.dev/stream/UCdTyuXgmJkG_O8_75eqej-w/live.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/hKP8X8B/f24.png",FRANCE 24 AR
+https://ythls.onrender.com/channel/UCdTyuXgmJkG_O8_75eqej-w.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/vPkb8TQ/trtar.png",TRT ARABIYA
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/D7w9h7Q/rt.png",RT ARABIC [censure-blocked]
