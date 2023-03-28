@@ -7,8 +7,6 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
 https://hls-m013-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-ad-hd/hls-ios-fhd-clair/cnews-clair-ad-hd.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png",CNEWS
 https://hls-m013.live-lv3.canalplus-cdn.net/live/disk/cnews-clair-hd/hls-ios-fhd-clair/cnews-clair-hd.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/XkLHrbC/frinfo2bl.png",FRANCE INFO
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/feed/fri.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",EURONEWS FR
 https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",EURONEWS FR
@@ -75,26 +73,14 @@ https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/420Bjqt/tv5europe.png",TV5MONDE EUR [geo-blocked]
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png",FRANCE 2
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/feed/fr2.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/y8PjbJ4/fr3bl.png",FRANCE 3
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/feed/fr3.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/VgcrtZ5/fr4blok.png",FRANCE 4
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/feed/fr4.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/N9d4yXt/fr5bl.png",FRANCE 5
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/feed/fr5.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/feed/m6.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/feed/m6s.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/6RYpdNz/m6int.png",M6 INTERNATIONAL
 https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/LNRd253/w9.png",W9
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/feed/w9.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/LNRd253/w9.png",W9
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/feed/w9s.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/nzh88j8/6ter.png",6TER
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/feed/6ter.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/nzh88j8/6ter.png",6TER [mix-issue]
