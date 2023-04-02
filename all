@@ -1361,11 +1361,11 @@ https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/mywSdSQ/att.png" group-title="|📡|👨‍💻GITHUB.COM/IPSTREET312",➡️MORE-INFO : ☛ RECEPTIONIPTV.BLOGSPOT.COM
+#EXTINF:0 tvg-logo="https://i.ibb.co/mywSdSQ/att.png" group-title="|📡|👨‍💻GITHUB.COM/IPSTREET312",MORE-INFO➡️: ☛RECEPTIONIPTV.BLOGSPOT.COM
 https://github.com/ipstreet312/freeiptv/raw/master/feed/blogv.ts
-#EXTINF:0,📺Video Test Player
+#EXTINF:0,Video Test Player📺
 http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
-#EXTINF:0,⭐--- | OTHER | ---
+#EXTINF:0,--- | OTHER⭐ | ---
 http://empty/
 #EXTINF:0,DM English
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
