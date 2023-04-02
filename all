@@ -139,10 +139,8 @@ https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/2hgmDs6/traceurb.png",TRACE URBAN
 https://amg01131-tracetv-traceurbanuk-samsunguk-6r213.amagi.tv/playlist/amg01131-tracetv-traceurbanuk-samsunguk/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/443jKxq/techco.png",TECH&CO
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?start=LIVE&end=END
-#EXTINF:0 tvg-logo="https://i.ibb.co/443jKxq/techco.png",TECH&CO
-https://bcovlive-a.akamaihd.net/df743f86a96e492790ba96a09ede4149/eu-central-1/6306058915001/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/sWxH6cv/tracesports.png",TRACE SPORTS
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png",L'EQUIPE TV
 https://d3awaj0f2u3w26.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/8fd3efae-4468-4ca0-9486-c6cdcb7b65d7/2.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png",L'EQUIPE TV 2
@@ -151,12 +149,12 @@ https://d2l55nvfkhk4sg.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da
 https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/p1stMyz/sportenfr.webp",SPORT EN FRANCE PLUS
 https://amg00712-alchimie-sportenfrance-samsungfr-d00n9.amagi.tv/playlist/amg00712-alchimie-sportenfrance-samsungfr/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/sWxH6cv/tracesports.png",TRACE SPORTS
-https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/443jKxq/techco.png",TECH&CO
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?start=LIVE&end=END
+#EXTINF:0 tvg-logo="https://i.ibb.co/443jKxq/techco.png",TECH&CO
+https://bcovlive-a.akamaihd.net/df743f86a96e492790ba96a09ede4149/eu-central-1/6306058915001/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/MMpFXQL/gong.jpg",GONG
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01596-gongnetworks-gong-samsungfr/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png",GULLI
-https://origin2-6play.live.6cloud.fr/pool_u81ytesz/gulli/sixplaysd/hls_short/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/X2NQhjG/pitchoun.png",TV PITCHOUN
 https://live.tvradio-pitchoun.fr/hls/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Jpk0d48/tv5tivi.png",TV5MONDE TiVi [geo-blocked]
@@ -1307,8 +1305,6 @@ https://vs-hls-push-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_ch
 https://vs-hls-push-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/8MBM4M1/skyn.png",SKY NEWS
 https://i.mjh.nz/PlutoTV/55b285cd2665de274553d66f-alt.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/8MBM4M1/skyn.png",SKY NEWS
-https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/dpMQyVx/gbn.png",GB NEWS
 https://amg01076-lightningintern-gbnews-samsunguk-0lu52.amagi.tv/playlist/amg01076-lightningintern-gbnews-samsunguk/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/XWNXpVg/talk.png",TALK NEWS
@@ -1355,6 +1351,8 @@ https://live-hls-web-aje.getaj.net/AJE/master.m3u8
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/D7w9h7Q/rt.png",RT NEWS [censure-blocked]
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/8MBM4M1/skyn.png",SKY NEWS [geo-blocked]
+https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png",CNN INT [geo-blocked]
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
