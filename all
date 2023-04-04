@@ -275,10 +275,14 @@ https://tv.ensonhaber.com/tv/tr/haberturk/index.m3u8
 https://ciner.daioncdn.net/haberturktv/haberturktv.m3u8?app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b
 #EXTINF:0 tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png",NTV (backup)
 https://tv.ensonhaber.com/tv/tr/ntv/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png",NTV (backup)
+http://canli.haber365.com.tr/tr/ntv/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/PhwYjQ7/24tv.png",24 (backup)
 https://kanal24.blutv.com/blutv_kanal24_live/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/PhwYjQ7/24tv.png",24 (backup)
 https://tv.ensonhaber.com/tv/tr/24tv/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/vJJzR8G/tgrthab22.png",TGRT HABER (backup)
+http://canli.haber365.com.tr/tr/tgrthaber/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/vJJzR8G/tgrthab22.png",TGRT HABER (backup)
 https://tv.ensonhaber.com/tv/tr/tgrthaber/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/HXKrJRC/blght22.png",BLOOMBERG HT (backup)
@@ -524,19 +528,29 @@ https://mn-nl.mncdn.com/blutv_milyontv/milyontv_sd.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/cQfPfgR/tatlises.png",TATLISES
 https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/wSPFds2/nr1turk.png",NUMBER ONE TÜRK
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/wSPFds2/nr1turk.png",NUMBER ONE TÜRK
 https://mn-nl.mncdn.com/blutv_nr1turk2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/jJWLsCQ/nr1ask.jpg",NUMBER ONE TÜRK ASK
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/jJWLsCQ/nr1ask.jpg",NUMBER ONE TÜRK ASK
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e18f9c54e6.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/824MwJ6/nr1damar.jpg",NUMBER ONE TÜRK DAMAR
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/824MwJ6/nr1damar.jpg",NUMBER ONE TÜRK DAMAR
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/LR5v10B/nr1dance.jpg",NUMBER ONE TÜRK DANCE
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/LR5v10B/nr1dance.jpg",NUMBER ONE TÜRK DANCE
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2aa89e721.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/bQHyST5/nr1tv.png",NUMBER ONE
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17cd6360b_1/playlist.m3u8
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/bQHyST5/nr1tv.png",NUMBER ONE
 https://mn-nl.mncdn.com/blutv_nr12/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/9grLJCS/fone22.png",FASHION ONE
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/9grLJCS/fone22.png",FASHION ONE
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/xhfcTC7/powertv.png",POWER TV
 http://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/xhfcTC7/powertv.png",POWER TV
@@ -549,6 +563,8 @@ http://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
 https://mn-nl.mncdn.com/blutv_powerturk/powerturk_sd.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/xhfcTC7/powertv.png",POWER TV (backup)
 https://mn-nl.mncdn.com/blutv_power2/live.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/bQHyST5/nr1tv.png",NUMBER ONE (backup)
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17cd6360b_1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/zhRwXbL/krpop.png",KRAL POP (backup)
 http://dygvideo.dygdigital.com/live/hls/puhukralpopdai?m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/zhRwXbL/krpop.png",KRAL POP (backup)
