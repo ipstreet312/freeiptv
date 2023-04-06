@@ -76,6 +76,8 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/420Bjqt/tv5europe.png",TV5MONDE EUR [geo-blocked]
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/feed/m6apr23.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/6RYpdNz/m6int.png",M6 INTERNATIONAL
 https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index.m3u8
@@ -150,11 +152,11 @@ https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/p1stMyz/sportenfr.webp",SPORT EN FRANCE PLUS
 https://amg00712-alchimie-sportenfrance-samsungfr-d00n9.amagi.tv/playlist/amg00712-alchimie-sportenfrance-samsungfr/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png",GULLI
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/feed/gullihdapr23.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png",GULLI
 https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2hyb21h_gulli/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png",GULLI
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/feed/gulliapr23.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/X2NQhjG/pitchoun.png",TV PITCHOUN
-https://live.tvradio-pitchoun.fr/hls/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Jpk0d48/tv5tivi.png",TV5MONDE TiVi [geo-blocked]
 https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/MMpFXQL/gong.jpg",GONG
