@@ -131,7 +131,7 @@ https://yourhostserver/ftvfr5.php?m3u8
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/ByN83p3/funradtv.png" group-title="|FR|🇫🇷 SOCIÉTÉ",FUN RADIO TV BE
 https://livevideo.infomaniak.com/streaming/livecast/funradiovisionhd/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/6v9HBBg/nrjrdtv.png",NRJ TV BE
+#EXTINF:0 tvg-logo="https://i.ibb.co/6v9HBBg/nrjrdtv.png" user-agent="Star Wars",NRJ TV BE
 https://tv.ngroup.be/live/ngrp:nrj_all/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/g3YTn6c/geneok.png",GENERATIONS TV
 https://edge.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
