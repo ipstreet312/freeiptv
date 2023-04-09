@@ -132,7 +132,7 @@ https://yourhostserver/ftvfr5.php?m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/ByN83p3/funradtv.png" group-title="|FR|🇫🇷 SOCIÉTÉ",FUN RADIO TV BE
 https://livevideo.infomaniak.com/streaming/livecast/funradiovisionhd/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/6v9HBBg/nrjrdtv.png" user-agent="Star Wars",NRJ TV BE
-https://tv.ngroup.be/live/ngrp:nrj_all/playlist.m3u8
+https://tv.ngroup.be/live/ngrp:nrj_all/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/6v9HBBg/nrjrdtv.png" user-agent="Firefox",NRJ TV BE
 https://tv.ngroup.be/live/ngrp:nrj_all/chunklist_w1735061430_b3268608.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/g3YTn6c/geneok.png",GENERATIONS TV
@@ -941,8 +941,6 @@ http://live.watania2.tn:1935/live/watanya2.stream/playlist.m3u8
 https://shls-live-ak.akamaized.net/out/v1/119ae95bbc91462093918a7c6ba11415/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/8DxdBPf/Attessia9.png",ATTASIA 9
 https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/S7G1hPG/sahel.png",SAHEL TV
-https://5ac31d8a4c9af.streamlock.net/saheltv/_definst_/myStream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/YhMgggj/lbcb.jpg",LBC
 https://rotanastudios-lbc-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png",MTV LBN
@@ -987,6 +985,12 @@ https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
 https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/d58T05P/Syria-tv.jpg",SYRIA TV
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/S7G1hPG/sahel.png",SAHEL TV
+https://5ac31d8a4c9af.streamlock.net/saheltv/_definst_/myStream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/S7G1hPG/sahel.png",SAHEL TV
+https://5ac31d8a4c9af.streamlock.net/saheltv/_definst_/myStream/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/S7G1hPG/sahel.png",SAHEL TV
+https://5ac31d8a4c9af.streamlock.net/saheltv/_definst_/myStream/chunklist_w1855519830.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/dp728rg/rayan.png",AL RAYYAN
 https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/n333gP9/rayanqdm.png",AL RAYYAN QADEEM
