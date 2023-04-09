@@ -129,8 +129,10 @@ https://yourhostserver/ftvfr4.php?m3u8
 https://yourhostserver/ftvfr5.php?m3u8
 
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/ByN83p3/funradtv.png" group-title="|FR|🇫🇷 SOCIÉTÉ",FUN RADIO TV
+#EXTINF:0 tvg-logo="https://i.ibb.co/ByN83p3/funradtv.png" group-title="|FR|🇫🇷 SOCIÉTÉ",FUN RADIO TV BE
 https://livevideo.infomaniak.com/streaming/livecast/funradiovisionhd/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/6v9HBBg/nrjrdtv.png",NRJ TV BE
+https://tv.ngroup.be/live/ngrp:nrj_all/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/g3YTn6c/geneok.png",GENERATIONS TV
 https://edge.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/BPzb19X/melody.png",MELODY
@@ -933,8 +935,12 @@ https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8
 http://live.watania1.tn:1935/live/watanya1.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/TM8sRjr/watanya-2.png",WATANIA 2
 http://live.watania2.tn:1935/live/watanya2.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/stZxQHF/nessma.png",NESSMA
+https://shls-live-ak.akamaized.net/out/v1/119ae95bbc91462093918a7c6ba11415/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/8DxdBPf/Attessia9.png",ATTASIA 9
 https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/S7G1hPG/sahel.png",SAHEL TV
+https://5ac31d8a4c9af.streamlock.net/saheltv/_definst_/myStream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/YhMgggj/lbcb.jpg",LBC
 https://rotanastudios-lbc-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png",MTV LBN
