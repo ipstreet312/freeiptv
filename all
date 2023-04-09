@@ -131,10 +131,6 @@ https://yourhostserver/ftvfr5.php?m3u8
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/ByN83p3/funradtv.png" group-title="|FR|🇫🇷 SOCIÉTÉ",FUN RADIO TV BE
 https://livevideo.infomaniak.com/streaming/livecast/funradiovisionhd/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/6v9HBBg/nrjrdtv.png" user-agent="Star Wars",NRJ TV BE
-https://tv.ngroup.be/live/ngrp:nrj_all/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/6v9HBBg/nrjrdtv.png" user-agent="Firefox",NRJ TV BE
-https://tv.ngroup.be/live/ngrp:nrj_all/chunklist_w1735061430_b3268608.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/g3YTn6c/geneok.png",GENERATIONS TV
 https://edge.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/BPzb19X/melody.png",MELODY
@@ -985,12 +981,6 @@ https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
 https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/d58T05P/Syria-tv.jpg",SYRIA TV
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/S7G1hPG/sahel.png",SAHEL TV
-https://5ac31d8a4c9af.streamlock.net/saheltv/_definst_/myStream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/S7G1hPG/sahel.png",SAHEL TV
-https://5ac31d8a4c9af.streamlock.net/saheltv/_definst_/myStream/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/S7G1hPG/sahel.png",SAHEL TV
-https://5ac31d8a4c9af.streamlock.net/saheltv/_definst_/myStream/chunklist_w1855519830.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/dp728rg/rayan.png",AL RAYYAN
 https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/n333gP9/rayanqdm.png",AL RAYYAN QADEEM
@@ -1067,6 +1057,8 @@ https://media1.livaat.com/AL-RASHEED-HD/tracks-v1/index.m3u8
 https://svs.itworkscdn.net/alraitvlive/alraitv.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/mFb5JL3/qaftv.png",QAF
 https://mn-nl.mncdn.com/qaf/live/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/S7G1hPG/sahel.png",SAHEL TV [hls-issue]
+https://5ac31d8a4c9af.streamlock.net/saheltv/_definst_/myStream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/bbL4K5C/daawah.png",DAAWAH [ontv-blocked]
 https://cdg8.edge.technocdn.com/daawahtv/live/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Wk8yNmX/alshoob.png",AL SHOOB [ontv-blocked]
