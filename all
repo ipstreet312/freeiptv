@@ -133,6 +133,8 @@ https://yourhostserver/ftvfr5.php?m3u8
 https://livevideo.infomaniak.com/streaming/livecast/funradiovisionhd/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/6v9HBBg/nrjrdtv.png" user-agent="Star Wars",NRJ TV BE
 https://tv.ngroup.be/live/ngrp:nrj_all/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/6v9HBBg/nrjrdtv.png" user-agent="Firefox",NRJ TV BE
+https://tv.ngroup.be/live/ngrp:nrj_all/chunklist_w1735061430_b3268608.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/g3YTn6c/geneok.png",GENERATIONS TV
 https://edge.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/BPzb19X/melody.png",MELODY
