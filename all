@@ -937,7 +937,7 @@ http://live.watania2.tn:1935/live/watanya2.stream/playlist.m3u8
 https://shls-live-ak.akamaized.net/out/v1/119ae95bbc91462093918a7c6ba11415/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/8DxdBPf/Attessia9.png",ATTASIA 9
 https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/YhMgggj/lbcb.jpg",LBC
+#EXTINF:0 tvg-logo="https://i.ibb.co/YhMgggj/lbcb.jpg",LBC LBN
 https://rotanastudios-lbc-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png",MTV LBN
 https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
@@ -947,6 +947,8 @@ https://live.3cd.io/v1/broadcast/one/playlist.m3u8
 https://1333578254.rsc.cdn77.org/1333578254/tracks-v4a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/wR2jkMz/nbnlb.png",NBN TV LBN
 https://live-server-2.splitstream.io/37823898-78bc-4e88-b14b-6eb04526e72d/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/Svnqq8G/otv.jpg",OTV LBN
+http://62.182.82.104/OTV/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:0 tvg-logo="https://i.ibb.co/ygKx229/lana1.png",LANA TV
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/m3u8/SDI1-720p.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/w6B8G91/lanaplus.png",LANA PLUS
@@ -967,6 +969,8 @@ https://edge.taghtia.com/sa/2.m3u8
 https://edge.taghtia.com/sa/3.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/y4xS49d/jordan-tv.png",JORDAN TV
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png",ROYA TV
+https://shls-live-ak.akamaized.net/out/v1/f1d7243984224a7e94bc34ff60d9fd53/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png",ROYA TV
 https://royatv-live.daioncdn.net/royatv/royatv.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png",ROYA TV
