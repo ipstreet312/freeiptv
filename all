@@ -252,7 +252,7 @@ https://tv.ensonhaber.com/tv/tr/tvnet/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/PhwYjQ7/24tv.png",24
 https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/PhwYjQ7/24tv.png",24
-https://kanal24.blutv.com/blutv_kanal24_live/live.m3u8
+https://tv.ensonhaber.com/tv/tr/24tv/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/hB9yNXV/yol22.png",YOL TV
 http://stream.yol.tv:9485/medialive/yol.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/hB9yNXV/yol22.png",YOL TV
@@ -282,7 +282,7 @@ http://canli.haber365.com.tr/tr/ntv/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png",NTV (backup)
 https://mn-nl.mncdn.com/blutv_ntv2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/PhwYjQ7/24tv.png",24 (backup)
-https://tv.ensonhaber.com/tv/tr/24tv/index.m3u8
+https://kanal24.blutv.com/blutv_kanal24_live/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/vJJzR8G/tgrthab22.png",TGRT HABER (backup)
 http://canli.haber365.com.tr/tr/tgrthaber/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/vJJzR8G/tgrthab22.png",TGRT HABER (backup)
