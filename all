@@ -845,10 +845,12 @@ https://streaming-live.rtp.pt/liverepeater/rtpacoresHD.smil/chunklist_b640000_sl
 http://live.watania1.tn:1935/live/watanya1.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/TM8sRjr/watanya-2.png",WATANIA 2
 http://live.watania2.tn:1935/live/watanya2.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/stZxQHF/nessma.png",NESSMA
-https://shls-live-ak.akamaized.net/out/v1/119ae95bbc91462093918a7c6ba11415/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/8DxdBPf/Attessia9.png",ATTASIA 9
 https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/stZxQHF/nessma.png",NESSMA
+https://shls-live-ak.akamaized.net/out/v1/119ae95bbc91462093918a7c6ba11415/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/HzvjJq6/samira.png",SAMIRA TV
+https://shls-live-ak.akamaized.net/out/v1/2daff8b433344d659bd5079224afc3ab/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/HzvjJq6/samira.png",SAMIRA TV
 https://d2p6676ajpsg1j.cloudfront.net/out/v1/2daff8b433344d659bd5079224afc3ab/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png",AL AOULA LAAYOUNE الأولى
@@ -947,12 +949,14 @@ https://1333578254.rsc.cdn77.org/1333578254/tracks-v4a1/mono.m3u8
 https://live-server-2.splitstream.io/37823898-78bc-4e88-b14b-6eb04526e72d/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Svnqq8G/otv.jpg",OTV LBN
 http://62.182.82.104/OTV/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:0 tvg-logo="https://i.ibb.co/JrFjqrc/nabaa.png",NABAA TV
+https://5dc7d824154d0.streamlock.net/live/Nabaa/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/h872gKg/taha.png",TAHA TV
+https://media2.livaat.com/TAHA-TV/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/ygKx229/lana1.png",LANA TV
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/m3u8/SDI1-720p.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/w6B8G91/lanaplus.png",LANA PLUS
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc2/m3u8/sdi2-720p.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/JrFjqrc/nabaa.png",NABAA TV
-https://5dc7d824154d0.streamlock.net/live/Nabaa/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/HVLDcrR/abudhabi.png",ABU DHABI
 https://admdn2ta.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/yV6Jhjg/alemarat.png",AL EMARAT
