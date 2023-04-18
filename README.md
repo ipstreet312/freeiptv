@@ -1,5 +1,6 @@
-# freeiptv how to use links explained here : https://receptioniptv.blogspot.com/ 
+# freeiptv how to use links explained here : https://receptioniptv.blogspot.com/
 
+https://receptioniptv.blogspot.com/2023/04/how-to-build-link-including-php-to-get.html
 
 <img src="http://i.ibb.co/19nnp7n/Screenshot-20220929-084632.png">
 
