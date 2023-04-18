@@ -23,6 +23,8 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
 https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_092/HD/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/hcPj99k/fgro.png",LE FIGARO IDF
 https://static.lefigaro.fr/secom/tnt.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/hcPj99k/fgro.png",LE FIGARO IDF
+https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/hcPj99k/fgro.png",LE FIGARO LIVE
 https://d358c6mfrono1y.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0ppx9nh29jpk7-prod/490bc6dd-734b-4242-8810-294896740082/2.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/nR2HsVr/ln24.png",LN24 BE
@@ -347,6 +349,10 @@ https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png",TRT 1 [geo-blocked]
 https://trt1.blutv.com/blutv_trt1_live/live.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png",TRT 1 [geo-blocked]
+http://tv-trt1-persona-live.medya.trt.com.tr/master.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png",TRT 1 (backup)
+https://d1u68oyra9spme.cloudfront.net/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png",TRT 1 (backup)
 https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png",KANAL D (backup)
