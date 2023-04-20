@@ -1439,3 +1439,45 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2664
 #EXTINF:0,DM Lounge 2
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/8ef13d2a-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=FR&vendor=samsung
+#EXTINF:0,TF1
+https://live-tf1-hls-dai.cdn-1.diff.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m3u8
+#EXTINF:0,AFRICA 24
+https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
+#EXTINF:0,FRANCE 24 ES DEV
+https://live.cache-stream.workers.dev/stream/UCUdOoVWuWmgo1wByzcsyKDQ/live.m3u8
+#EXTINF:0,FRANCE 24 ES ONR
+https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
+#EXTINF:0,TV5MONDE MOYEN-ORIENT
+https://ott.tv5monde.com/Content/HLS/Live/channel(orient)/variant.m3u8
+#EXTINF:0,TV5MONDE PACIFIQUE
+https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
+#EXTINF:0,EUROPE BY SAT
+https://euc-live.fl.freecaster.net/live/eucom/ebs.m3u8
+#EXTINF:0,EUROPE BY SAT +
+https://euc-live.fl.freecaster.net/live/eucom/ebsp.m3u8
+#EXTINF:0,MATELE BE
+https://live.matele.be/hls/live.m3u8
+#EXTINF:0,CATALUNYA 8
+https://mdstrm.com/live-stream-playlist/636bd70b44680408872dbfc6.m3u8
+#EXTINF:0,A3 CINE
+https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
+#EXTINF:0,TENERIFE 4
+https://5940924978228.streamlock.net/Directo4/Directo4/playlist.m3u8
+#EXTINF:0,24H CANARIAS
+https://ztnr.rtve.es/ztnr/5473142.m3u8
+#EXTINF:0,24H CATALUNYA
+https://ztnr.rtve.es/ztnr/4952053.m3u8
+#EXTINF:0,BEL RTL
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/ffmpeg/bel_rtl.m3u8
+#EXTINF:0,CLUB RTL
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/ffmpeg/club_rtl.m3u8
+#EXTINF:0,PLUG RTL
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/ffmpeg/plug_rtl.m3u8
+#EXTINF:0,RTL PLAY
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/ffmpeg/rtl_play.m3u8
+#EXTINF:0,RTL TVI
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/ffmpeg/rtl_tvi.m3u8
+#EXTINF:0,BEL RTL
+https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
+#EXTINF:0,RTL TVI
+https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
