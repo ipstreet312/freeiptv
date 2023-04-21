@@ -328,9 +328,9 @@ https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png",TRT 1
 https://trt1.blutv.com/blutv_trt1_live/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png",KANAL D
-https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png",KANAL D
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png",KANAL D
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=da2109ea-5dfe-4107-89ab-23593336ed61
 #EXTINF:0 tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png",STAR
 https://dogus-live.daioncdn.net/startv/startv.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png",STAR
@@ -378,7 +378,7 @@ https://trt1.persona.video/master.m3u8?hls=1
 #EXTINF:0 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png",TRT 1 [geo-blocked]
 http://tv-trt1-persona-live.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png",KANAL D (backup)
-https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=da2109ea-5dfe-4107-89ab-23593336ed61
+https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png",STAR (backup)
 http://dygvideo.dygdigital.com/live/hls/stardai?m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png",STAR (backup)
@@ -727,7 +727,7 @@ https://ztnr.rtve.es/ztnr/1688877.m3u8
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/bKLFcnD/a3cine.png",A3 CINE
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/VxsP7sV/plus24.png",RTVE +24
+#EXTINF:0 tvg-logo="https://i.ibb.co/VxsP7sV/plus24.png",RTVE +24 (events)
 https://rtvelivestream.akamaized.net/hls/nxrtgolumi/mastdp/stream1.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/fqg1vfr/24h.png",TVE 24 H
 https://ztnr.rtve.es/ztnr/1694255.m3u8
@@ -1473,3 +1473,9 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2664
 #EXTINF:0 tvg-logo="https://i.ibb.co/pKt53kX/dl1.png",DELUXE MUSIC Lounge Extra
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/8ef13d2a-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=FR&vendor=samsung
+#EXTINF:0, D INDEX 4 S
+https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
+#EXTINF:0, D INDEX 4 H
+http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
+#EXTINF:0, D PLAYL H
+http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
