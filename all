@@ -727,6 +727,8 @@ https://ztnr.rtve.es/ztnr/1688877.m3u8
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/bKLFcnD/a3cine.png",A3 CINE
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/VxsP7sV/plus24.png",RTVE +24
+https://rtvelivestream.akamaized.net/hls/nxrtgolumi/mastdp/stream1.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/fqg1vfr/24h.png",TVE 24 H
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/fqg1vfr/24h.png",TVE 24 H
@@ -739,8 +741,6 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4625
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2577
 #EXTINF:0 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",EURONEWS ES
 https://euronews-es.alteox.stream/hZ7B3QHSwWH01nbn/ewnsabres_spa_720p33.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/VxsP7sV/plus24.png",EVENTS RTVE +24
-https://rtvelivestream.akamaized.net/hls/nxrtgolumi/mastdp/stream1.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/cQwqfFC/ees.jpg",EL PAIS
 https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/8xh76zN/parl.jpg",CANAL PARLAMENTO
@@ -1013,8 +1013,6 @@ https://5dc7d824154d0.streamlock.net/live/Nabaa/playlist.m3u8
 https://media2.livaat.com/TAHA-TV/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/ygKx229/lana1.png",LANA TV
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/m3u8/SDI1-720p.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/w6B8G91/lanaplus.png",LANA PLUS
-https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc2/m3u8/sdi2-720p.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/HVLDcrR/abudhabi.png",ABU DHABI
 https://admdn2ta.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/yV6Jhjg/alemarat.png",AL EMARAT
