@@ -187,16 +187,10 @@ https://d3awaj0f2u3w26.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da
 https://d2l55nvfkhk4sg.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg7go1lqzgpny-ssai-prd/435d04a5-ab47-47c5-a2c1-bae01ae6d0c1/2.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/p1stMyz/sportenfr.webp",SPORT EN FRANCE
 https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/p1stMyz/sportenfr.webp",SPORT EN FRANCE PLUS
-https://amg00712-alchimie-sportenfrance-samsungfr-d00n9.amagi.tv/playlist/amg00712-alchimie-sportenfrance-samsungfr/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png",GULLI
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/feed/gullihdapr23.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png",GULLI
 https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2hyb21h_gulli/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png",GULLI
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/feed/gulliapr23.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/Jpk0d48/tv5tivi.png",TV5MONDE TiVi [geo-area]
-https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/MMpFXQL/gong.jpg",GONG
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01596-gongnetworks-gong-samsungfr/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/443jKxq/techco.png",TECH&CO
@@ -229,6 +223,10 @@ https://fash1043.cloudycdn.services/slive/ftv_paris_adaptive.smil/playlist.m3u8
 https://34963c1506c8467bb8132d8a9ae4fedc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_FashionTV/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/WPbxmgn/tv5style.png",TV5MONDE STYLE [geo-area]
 https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/Jpk0d48/tv5tivi.png",TV5MONDE TiVi [geo-area]
+https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png",GULLI (backup)
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/feed/gulliapr23.m3u8
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/F5FcvbZ/flash4ok.png" group-title="|TR|🇹🇷 HABER",FLASH HABER
