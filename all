@@ -27,12 +27,12 @@ https://static.lefigaro.fr/secom/tnt.m3u8
 https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/hcPj99k/fgro.png",LE FIGARO LIVE
 https://d358c6mfrono1y.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0ppx9nh29jpk7-prod/490bc6dd-734b-4242-8810-294896740082/2.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/nR2HsVr/ln24.png",LN24 BE
-https://live.digiteka.com/1/bEg0RmFLb1JMYXRI/dGhqbmIw/hls/live/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/j68q1Bp/i24.png",I24 NEWS FR
 https://bcovlive-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/playlist-all.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/ZgqnqnJ/cgtnfr.png",CGTN FRANÇAIS
 http://news.cgtn.com/resource/live/french/cgtn-f.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/nR2HsVr/ln24.png",LN24 BE
+https://live.digiteka.com/1/bEg0RmFLb1JMYXRI/dGhqbmIw/hls/live/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/MZLCTmN/monacoinfo.png",MONACO INFO
 https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/sq11nQ1/rdicanada.png",RDI CANADA
@@ -181,12 +181,12 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 https://amg01131-tracetv-traceurbanuk-samsunguk-6r213.amagi.tv/playlist/amg01131-tracetv-traceurbanuk-samsunguk/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/sWxH6cv/tracesports.png",TRACE SPORTS
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/p1stMyz/sportenfr.webp",SPORT EN FRANCE
+https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png",L'EQUIPE LIVE 1
 https://d3awaj0f2u3w26.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/8fd3efae-4468-4ca0-9486-c6cdcb7b65d7/2.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png",L'EQUIPE LIVE 2
 https://d2l55nvfkhk4sg.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg7go1lqzgpny-ssai-prd/435d04a5-ab47-47c5-a2c1-bae01ae6d0c1/2.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/p1stMyz/sportenfr.webp",SPORT EN FRANCE
-https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png",GULLI
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/feed/gullihdapr23.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png",GULLI
