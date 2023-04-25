@@ -1,5 +1,7 @@
 #!/usr/bin/env python
+
 # Thanks to LITUATUI user on github
+
 # Get the stream URL of Porto Canal and put it in porto_canal.txt
 
 import os, requests, json, time, sys
