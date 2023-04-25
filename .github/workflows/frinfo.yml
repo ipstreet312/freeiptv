@@ -30,13 +30,7 @@ jobs:
       
       
       - name: Main
-        run: |
-          pwd
-          chmod +x feed/frinfo.sh
-          ./feed/frinfo.sh
-          #cd feed
-          #python3 frinfo.py > ../frinfo.m3u8
-          echo "m3u grabbed"
+        run: sh feed/frinfo.sh
         
       - name: git add
         run: |
