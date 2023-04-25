@@ -1483,3 +1483,35 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2664
 #EXTINF:0 tvg-logo="https://i.ibb.co/pKt53kX/dl1.png",DELUXE MUSIC Lounge Extra
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/8ef13d2a-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=FR&vendor=samsung
+#EXTINF:0,PORTO IO
+https://ipstreet312.github.io/freeiptv3/portocanal.m3u8
+#EXTINF:0,PUBLIC IO
+https://ipstreet312.github.io/freeiptv3/PublicSenat.m3u8
+#EXTINF:0,PORTO RAW
+https://raw.githubusercontent.com/ipstreet312/freeiptv3/main/portocanal.m3u8
+#EXTINF:0,PUBLIC RAW
+https://raw.githubusercontent.com/ipstreet312/freeiptv3/main/PublicSenat.m3u8
+#EXTINF:0,TVI L0
+https://raw.githubusercontent.com/ipstreet312/freeiptv3/main/tvi0l.m3u8
+#EXTINF:0,TVI L1
+https://raw.githubusercontent.com/ipstreet312/freeiptv3/main/tvi1l.m3u8
+#EXTINF:0,TVI L2
+https://raw.githubusercontent.com/ipstreet312/freeiptv3/main/tvi2l.m3u8
+#EXTINF:0,TVI L3
+https://raw.githubusercontent.com/ipstreet312/freeiptv3/main/tvi3l.m3u8
+#EXTINF:0,TVI LA
+https://raw.githubusercontent.com/ipstreet312/freeiptv3/main/tvia.m3u8
+#EXTINF:0,TVI LB
+https://raw.githubusercontent.com/ipstreet312/freeiptv3/main/tvib.m3u8
+#EXTINF:0,TVI P0
+https://ipstreet312.github.io/freeiptv3/tvi0l.m3u8
+#EXTINF:0,TVI P1
+https://ipstreet312.github.io/freeiptv3/tvi1l.m3u8
+#EXTINF:0,TVI P2
+https://ipstreet312.github.io/freeiptv3/tvi2l.m3u8
+#EXTINF:0,TVI P3
+https://ipstreet312.github.io/freeiptv3/tvi3l.m3u8
+#EXTINF:0,TVI PA
+https://ipstreet312.github.io/freeiptv3/tvia.m3u8
+#EXTINF:0,TVI PB
+https://ipstreet312.github.io/freeiptv3/tvib.m3u8
