@@ -1,5 +1,5 @@
 #! /usr/bin/python3
-
+# Thanks to pshanmu3 user on github
 import requests
 import os
 import sys
