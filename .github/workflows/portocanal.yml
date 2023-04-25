@@ -24,7 +24,6 @@ jobs:
       - name: commit
         run: |
           git pull
-          cd feed
           git add portocanal.m3u8
           git commit -m "Update streams"
           git push origin main
