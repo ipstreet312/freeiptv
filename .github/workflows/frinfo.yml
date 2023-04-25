@@ -30,7 +30,7 @@ jobs:
       
       
       - name: Main
-        run: sh frinfo.sh
+        run: sh ./feed/frinfo.sh
         
       - name: git add
         run: |
