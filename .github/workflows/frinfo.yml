@@ -32,7 +32,7 @@ jobs:
       - name: Main
         run: |
           pwd
-          chmod +x frinfo.sh
+          chmod +x feed/frinfo.sh
           ./feed/frinfo.sh
           #cd feed
           #python3 frinfo.py > ../frinfo.m3u8
