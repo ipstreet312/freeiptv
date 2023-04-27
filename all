@@ -235,7 +235,7 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/index.m3u8
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/feed/gulliapr23.m3u8
 
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/Bt6frts/trthaber.png" group-title="|TR|🇹🇷 HABER/1",TRT HABER
+#EXTINF:0 tvg-logo="https://i.ibb.co/Bt6frts/trthaber.png" group-title="|TR|🇹🇷 HABER-1",TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Bt6frts/trthaber.png",TRT HABER
 https://mn-nl.mncdn.com/blutv_trthaber2/live.m3u8
@@ -287,7 +287,7 @@ https://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8
 https://mn-nl.mncdn.com/blutv_bloomberght2/live.m3u8
 
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/F5FcvbZ/flash4ok.png" group-title="|TR|🇹🇷 HABER/2",FLASH HABER
+#EXTINF:0 tvg-logo="https://i.ibb.co/F5FcvbZ/flash4ok.png" group-title="|TR|🇹🇷 HABER-2",FLASH HABER
 https://mn-nl.mncdn.com/blutv_flashtv/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/F5FcvbZ/flash4ok.png",FLASH HABER
 https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8
@@ -1173,7 +1173,7 @@ https://cdg8.edge.technocdn.com/alshoobtv/live/playlist.m3u8
 https://cdg8.edge.technocdn.com/watantv/live/playlist.m3u8
 
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/jLYWYh7/Al-Jazeera.png" group-title="|AR|🇸🇦 THEMATICS/1",AL JAZEERA
+#EXTINF:0 tvg-logo="https://i.ibb.co/jLYWYh7/Al-Jazeera.png" group-title="|AR|🇸🇦 THEMATICS-1",AL JAZEERA
 http://live-hls-web-aja.getaj.net/AJA/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/hcCJkhq/Al-Arabiya.png",AL ARABIYA
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
@@ -1275,7 +1275,7 @@ https://5aafcc5de91f1.streamlock.net/ctvchannel.tv/ctv.smil/playlist.m3u8
 https://58cc65c534c67.streamlock.net/ctvchannel.tv/ctv.smil/playlist.m3u8
 
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png" group-title="|AR|🇸🇦 THEMATICS/2",MBC 1
+#EXTINF:0 tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png" group-title="|AR|🇸🇦 THEMATICS-2",MBC 1
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/bvbsV1Z/mbc3.png",MBC 3
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
