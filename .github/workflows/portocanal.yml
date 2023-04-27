@@ -2,7 +2,7 @@
 name: Update Porto Canal
 on:
   schedule:
-    - cron: "30 */6 * * *"
+    - cron: "10 04,16 * * *"
   
   workflow_dispatch:
 
