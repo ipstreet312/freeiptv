@@ -5,7 +5,7 @@ name: Frinfo
 # Controls when the workflow will run
 on:
   schedule:
-    - cron: '20 04,16 * * *'
+    - cron: '20 01,09,17 * * *'
   
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
