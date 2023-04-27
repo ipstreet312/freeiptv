@@ -2,7 +2,7 @@
 name: update portugals
 on:
   schedule:
-    - cron: "0 */9 * * *"
+    - cron: "00 04,16 * * *"
     
   workflow_dispatch:
 
