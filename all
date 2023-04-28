@@ -763,12 +763,18 @@ https://mako-streaming.akamaized.net/n12/hls/live/2041434/n12s/index.m3u8?hdnea=
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/VM5vGBV/la1.jpg" group-title="|ES|🇪🇸 ESPAÑA",TVE LA 1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/VM5vGBV/la1.jpg" group-title="|ES|🇪🇸 ESPAÑA",TVE LA 1
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/ssGmhbH/la2.jpg",TVE LA 2
 https://ztnr.rtve.es/ztnr/1688885.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/ssGmhbH/la2.jpg",TVE LA 2
+https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/VxsP7sV/plus24.png",RTVE EVENT
+https://ztnr.rtve.es/ztnr/6108703.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/VxsP7sV/plus24.png",RTVE EVENT
+https://rtvelivestream.akamaized.net/hls/nxrtgolumi/mastdp/stream1.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/bKLFcnD/a3cine.png",A3 CINE
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/VxsP7sV/plus24.png",RTVE EVENTS
-https://rtvelivestream.akamaized.net/hls/nxrtgolumi/mastdp/stream1.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/fqg1vfr/24h.png",TVE 24 H
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/fqg1vfr/24h.png",TVE 24 H
@@ -1437,6 +1443,8 @@ https://vs-hls-push-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_ch
 https://vs-hls-push-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/8MBM4M1/skyn.png",SKY NEWS
 https://i.mjh.nz/PlutoTV/55b285cd2665de274553d66f-alt.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/8MBM4M1/skyn.png",SKY NEWS
+https://live.cache-stream.workers.dev/stream/UCoMdktPbSTixAyNGwb-UYkQ/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/dpMQyVx/gbn.png",GB NEWS
 https://amg01076-lightningintern-gbnews-samsunguk-0lu52.amagi.tv/playlist/amg01076-lightningintern-gbnews-samsunguk/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/XWNXpVg/talk.png",TALK NEWS
@@ -1505,27 +1513,17 @@ https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/mywSdSQ/att.png" group-title="|📡|👨‍💻GITHUB.COM/IPSTREET312",MORE-INFO➡️: ☛RECEPTIONIPTV.BLOGSPOT.COM
 https://github.com/ipstreet312/freeiptv/raw/master/feed/blogv.ts
-#EXTINF:0,Video Test Player📺
+#EXTINF:0,Video Test Player📺🎥
 http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
-#EXTINF:0,--- | SPECIALS⭐ | ---
+#EXTINF:0 tvg-logo="https://i.ibb.co/TTPvPwL/nrjrad.png",📻🎶NRJ RADIO Fr 
+http://cdn.nrjaudio.fm/audio1/fr/30001/mp3_128.mp3
+#EXTINF:0,--- | SPECIALS🤩❤️👍 | ---
 http://empty/
-#EXTINF:0 tvg-logo="https://i.ibb.co/44mYxL7/dm1.png",DELUXE MUSIC English
+#EXTINF:0 tvg-logo="https://i.ibb.co/44mYxL7/dm1.png",DELUXE MUSIC⭐ English
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/44mYxL7/dm1.png",DELUXE MUSIC Deutsch
+#EXTINF:0 tvg-logo="https://i.ibb.co/44mYxL7/dm1.png",DELUXE MUSIC⭐ Deutsch
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/pKt53kX/dl1.png",DELUXE MUSIC Lounge
+#EXTINF:0 tvg-logo="https://i.ibb.co/pKt53kX/dl1.png",DELUXE MUSIC⭐ Lounge
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2664
-#EXTINF:0 tvg-logo="https://i.ibb.co/pKt53kX/dl1.png",DELUXE MUSIC Lounge Extra
+#EXTINF:0 tvg-logo="https://i.ibb.co/pKt53kX/dl1.png",DELUXE MUSIC⭐ Lounge Extra
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/8ef13d2a-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=FR&vendor=samsung
-#EXTINF:0 user-agent="VLC/3.0.18 LibVLC/3.0.18",UA HS
-https://live.cache-stream.workers.dev/stream/UCUVZ7T_kwkxDOGFcDlFI-hg/live.m3u8
-#EXTINF:0 user-agent="VLC/3.0.18 LibVLC/3.0.18",UA HH
-http://live.cache-stream.workers.dev/stream/UCUVZ7T_kwkxDOGFcDlFI-hg/live.m3u8
-#EXTINF:0 user-agent="Star Wars",SW HH
-https://live.cache-stream.workers.dev/stream/UCUVZ7T_kwkxDOGFcDlFI-hg/live.m3u8
-#EXTINF:0,HH
-http://live.cache-stream.workers.dev/stream/UCUVZ7T_kwkxDOGFcDlFI-hg/live.m3u8
-#EXTINF:0,HS
-https://live.cache-stream.workers.dev/stream/UCUVZ7T_kwkxDOGFcDlFI-hg/live.m3u8
-#EXTINF:-1,MN HS
-https://live.cache-stream.workers.dev/stream/UCUVZ7T_kwkxDOGFcDlFI-hg/live.m3u8
