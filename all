@@ -253,8 +253,6 @@ https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
 https://mn-nl.mncdn.com/blutv_haberglobal2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png",TV 100
 https://tv100.blutv.com/blutv_tv100_live/live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png",TV 100
-https://live.cache-stream.workers.dev/stream/UCndsdUW_oPLqpQJY9J8oIRg/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png",CNN TÜRK
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png",CNN TÜRK
@@ -267,6 +265,8 @@ https://tv.ensonhaber.com/tv/tr/ntv/index.m3u8
 https://bloomberght-live.daioncdn.net/bloomberght/bloomberght.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/HXKrJRC/blght22.png",BLOOMBERG HT
 https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/GkNZYWd/tv100eko.png",TV 100 EKONOMI
+https://live.cache-stream.workers.dev/stream/UCndsdUW_oPLqpQJY9J8oIRg/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/xS3zLQr/ekoturk.png",EKO TÜRK
 https://mn-nl.mncdn.com/blutv_ekoturk2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/xS3zLQr/ekoturk.png",EKO TÜRK
@@ -781,9 +781,9 @@ https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/ssGmhbH/la2.jpg",TVE LA 2
 https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/SRbKtLk/rtve.png",RTVE PLAY
+#EXTINF:0 tvg-logo="https://i.ibb.co/SRbKtLk/rtve.png",RTVE SOMOS CINE
 https://ztnr.rtve.es/ztnr/5836726.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/SRbKtLk/rtve.png",RTVE PLAY
+#EXTINF:0 tvg-logo="https://i.ibb.co/SRbKtLk/rtve.png",RTVE SOMOS CINE
 https://rtvelivestream.akamaized.net/hls/nxrtgolumi/music/stream1.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/bKLFcnD/a3cine.png",A3 CINE
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
