@@ -26,7 +26,7 @@ https://ythls.onrender.com/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/XkLHrbC/frinfo2bl.png",FRANCE INFO (backup rescue)
 https://ythls.onrender.com/channel/UCO6K_kkdP-lnSCiO3tPx7WA.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/XkLHrbC/frinfo2bl.png",FRANCE INFO (backup secure)
-https://ch1b.000webhostapp.com/ftvfri.php?m3u8
+https://xxx.000webhostapp.com/ftvfri.php?m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/PmmR72J/lcp.png",PUBLIC SENAT
 https://raw.githubusercontent.com/pshanmu3/dailymotion_to_m3u8/main/PublicSenat.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Zfcrrr1/lci.png",LCI
@@ -106,13 +106,13 @@ https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/ftYS2bk/CANAL-logo.png",CANAL+ EN CLAIR
 https://hls-m007.live-lv3.canalplus-cdn.net/live/disk/canalplusclair-hd/hls-ios-fhd-clair/canalplusclair-hd.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png",FRANCE 2 [ftv_php]
-https://ch1b.000webhostapp.com/ftvfr2.php?m3u8
+https://xxx.000webhostapp.com/ftvfr2.php?m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/y8PjbJ4/fr3bl.png",FRANCE 3 [ftv_php]
-https://ch1b.000webhostapp.com/ftvfr3.php?m3u8
+https://xxx.000webhostapp.com/ftvfr3.php?m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/VgcrtZ5/fr4blok.png",FRANCE 4 [ftv_php]
-https://ch1b.000webhostapp.com/ftvfr4.php?m3u8
+https://xxx.000webhostapp.com/ftvfr4.php?m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/N9d4yXt/fr5bl.png",FRANCE 5 [ftv_php]
-https://ch1b.000webhostapp.com/ftvfr5.php?m3u8
+https://xxx.000webhostapp.com/ftvfr5.php?m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/NyHqX5R/belrtl.png",BEL RTL
 https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/NyHqX5R/belrtl.png",BEL RTL
@@ -735,11 +735,11 @@ https://bcovlive-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/53
 https://bcovlive-a.akamaihd.net/773a2fa387914315ad11e6957cd54f6e/eu-central-1/5377161796001/playlist-all.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/kq4XM0Y/ynet.png",YNET NEWS
 https://ynet-live-01.ynet-pic1.yit.co.il/ynet/live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/jzRyjBn/walla.png",WALLA NEWS
+#EXTINF:0 tvg-logo="https://i.ibb.co/jzRyjBn/walla.png",WALLA ! +
 https://amg01742-walla-wallanews-ono-2eohr.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/jzRyjBn/walla.png",WALLA NEWS
+#EXTINF:0 tvg-logo="https://i.ibb.co/jzRyjBn/walla.png",WALLA ! +
 https://live.wcdn.co.il/news/prog_index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/jzRyjBn/walla.png",WALLA NEWS
+#EXTINF:0 tvg-logo="https://i.ibb.co/jzRyjBn/walla.png",WALLA ! +
 https://live.wcdn.co.il/yes/prog_index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/93bQz4t/kabalah.png",KABBALAH 96
 http://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8
