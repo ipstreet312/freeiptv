@@ -984,7 +984,9 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/aflamtv/hls_snrt/index.m
 #EXTINF:0 tvg-logo="https://i.ibb.co/rmRc08Z/tamazight.png",TAMAZIGHT الأمازيغية
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/rfwFbLk/telemaroc.gif",TELE MAROC قناة المغرب
-https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
+https://api.new.livestream.com/accounts/27130247/events/9197096/live.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/rfwFbLk/telemaroc.gif",TELE MAROC قناة المغرب
+https://player-api.new.livestream.com/accounts/27130247/events/9197096/broadcasts/236057668.secure.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Jx8GW4D/m24.png",M24 TV للأنباء
 https://63df3191463ce.streamlock.net/live/ngrp:Live2.stream_all/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/pdd2VqB/chada.jpg",CHADA TV شدى
