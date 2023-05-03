@@ -892,7 +892,7 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4623
 #EXTINF:0 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",EURONEWS PT
 https://euronews-pt.alteox.stream/ZDDHAtoCwYaP90ao/ewnsabrpt_por_720p33.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png",CNN PORTUGAL
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjMgNDoyMDozNyBBTSZoYXNoX3ZhbHVlPTAxUStQaktkY1llMitlaHNhY0FXbkE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1iYjA0YTg2ZS03YTFjLTRkNzItYWU5MC02Y2EzMThjYjI0N2U=
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjMgNDoyMjo0NiBQTSZoYXNoX3ZhbHVlPU1WRUpsR0ZTNExuYmFFSDA5dGJSQ1E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1jNmRhZmE2MS00YTkyLTRlOTktOGY4Ni1kMDk0MmNmYmFhZTA=
 #EXTINF:0 tvg-logo="https://i.ibb.co/1QHfvZJ/sicnoc.png",SIC NOTICIAS
 https://cdnapisec.kaltura.com/p/4526593/sp/4526593/playManifest/entryId/1_j8ztwihx/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/6r1xHn6/sic.png",SIC
@@ -900,9 +900,9 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 #EXTINF:0 tvg-logo="https://i.ibb.co/dJZR1gD/sicnov.png",SIC NOVELAS
 https://cdnapisec.kaltura.com/p/4526593/sp/4526593/playManifest/entryId/1_kfaion7y/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/pyXp0bk/tvi.png",TVI
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjMgNDoyMDozOCBBTSZoYXNoX3ZhbHVlPThKbTgwNGZYay9oQ0FFWnlWd2VucUE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD03OTI2MjdmNS01MGZiLTRlYWEtOTIzNS1hOGY0MjhmOTRhYzI=
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjMgNDoyMjo0NyBQTSZoYXNoX3ZhbHVlPTZNT0JNSXBGTHZETi83Mld5STYrR2c9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1kZjg1ZTEyMC0zNTY4LTQwOWQtOGU4NS03M2FjYWNiZGYwNjY=
 #EXTINF:0 tvg-logo="https://i.ibb.co/pyXp0bk/tvi.png",TVI INT
-https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjMgNDoyMDozOCBBTSZoYXNoX3ZhbHVlPTZ2dDJSdlE1TTd1Qmd4bWk3RVNSWVE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD03ODY0OGMxYy01YmFkLTRlODQtYjE0Ni0wODMxMDYwNDVlNTg=
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjMgNDoyMjo0NyBQTSZoYXNoX3ZhbHVlPTZhYzkzd0ZONFZ6NEVrem00bS9DZHc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0yMDExM2I2Ny0wNzQ4LTQyNTMtODc3Zi1jZmY1NDM0NTg1NzM=
 #EXTINF:0 tvg-logo="https://i.ibb.co/hg8wkqj/tvific.jpg",TVI FICCAO
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/xYNTr2v/tvirea.jpg",TVI REALITY
