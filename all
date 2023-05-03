@@ -311,6 +311,10 @@ https://ythls.onrender.com/channel/UCPTF3NxWzcBD8rNnJuGQOSA.m3u8
 https://mn-nl.mncdn.com/blutv_ulusalkanal/blutv_ulusalkanal.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/tXdf2YF/ulusal22.png",ULUSAL KANAL
 https://stream.guventechnology.com:19360/ulusaltv/ulusaltv.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/6m9Pb3t/tv5tr1.png",TV5
+https://live.cache-stream.workers.dev/stream/UCP-0oW3M7DpjmPDutckOjiA/live.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/6m9Pb3t/tv5tr1.png",TV5
+https://ythls.onrender.com/channel/UCP-0oW3M7DpjmPDutckOjiA.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/FDjkCFQ/bbnturk.png",BBN TÜRK
 https://mn-nl.mncdn.com/blutv_bbnturk/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/FDjkCFQ/bbnturk.png",BBN TÜRK
@@ -1257,9 +1261,9 @@ https://jmc-live.ercdn.net/iqraa/iqraa.m3u8
 https://jmc-live.ercdn.net/iqraaeurope/iqraaeurope.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/S3Wm3q9/iqraanew.png",IQRAA 2
 https://cdn5.iqsat.net/iqb/f0c1abab1c44d5f01879991c979a6821.sdp/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/FwDhYDv/saudi6.png",SAUDI CH 6
+#EXTINF:0 tvg-logo="https://i.ibb.co/FwDhYDv/saudi6.png",SAUDI CH 6 SUNNAH
 https://edge.taghtia.com/sa/6.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/9p3b0MW/saudi7.png",SAUDI CH 7
+#EXTINF:0 tvg-logo="https://i.ibb.co/9p3b0MW/saudi7.png",SAUDI CH 7 KABE
 https://edge.taghtia.com/sa/7.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/GnfgKbs/alquran.png",QURAN
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
