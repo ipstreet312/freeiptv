@@ -419,6 +419,10 @@ http://dygvideo.dygdigital.com/live/hls/stardai?m3u8
 https://dogus.daioncdn.net/startv/startv.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9
 #EXTINF:0 tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png",STAR (backup)
 https://startv.blutv.com/blutv_startv_live/live.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png",SHOW (backup)
+https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png",SHOW (backup)
+http://canli.haber365.com.tr/tr/showtv/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/4tyCssZ/fox.png",FOX (backup)
 https://ythls.onrender.com/channel/UCJe13zu6MyE6Oueac41KAqg.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/4tyCssZ/fox.png",FOX [tkn-blocked]
@@ -571,9 +575,9 @@ https://trkvz-beta.daioncdn.net/aspor/aspor.m3u8?app=45f847c4-04e8-419a-a561-2eb
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/d6Zfm2P/trtmuzik21c.png",TRT MÜZİK
 https://mn-nl.mncdn.com/blutv_trtmuzik2/live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/zhRwXbL/krpop.png",KRAL - KRAL POP
+#EXTINF:0 tvg-logo="https://i.ibb.co/6401NQw/kraltv.png",KRAL - KRAL POP
 http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/zhRwXbL/krpop.png",KRAL - KRAL POP
+#EXTINF:0 tvg-logo="https://i.ibb.co/6401NQw/kraltv.png",KRAL - KRAL POP
 https://dogus-live.daioncdn.net/kralpoptv/kralpoptv.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/4SsJS4R/dreamturk.png",DREAM TÜRK
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
@@ -635,9 +639,9 @@ https://mn-nl.mncdn.com/blutv_powerturk/powerturk_sd.smil/playlist.m3u8
 https://mn-nl.mncdn.com/blutv_power2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/bQHyST5/nr1tv.png",NUMBER ONE (backup)
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17cd6360b_1/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/zhRwXbL/krpop.png",KRAL POP (backup)
+#EXTINF:0 tvg-logo="https://i.ibb.co/6401NQw/kraltv.png",KRAL - KRAL POP (backup)
 http://dygvideo.dygdigital.com/live/hls/puhukralpopdai?m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/zhRwXbL/krpop.png",KRAL POP (backup)
+#EXTINF:0 tvg-logo="https://i.ibb.co/6401NQw/kraltv.png",KRAL - KRAL POP (backup)
 https://dogus.daioncdn.net/kralpoptv/kralpoptv.m3u8?app=f38a38b4-ce55-4040-8676-9826937d6128
 
 
