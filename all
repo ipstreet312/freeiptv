@@ -468,17 +468,17 @@ https://tv.ensonhaber.com/tv/tr/tlc/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/pXncfpb/tv422.png",TV 4
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/pXncfpb/tv422.png",TV 4
-https://mn-nl.mncdn.com/blutv_tv4/live.m3u8
+https://mn-nl.mncdn.com/blutv_tv4/live.m3u88
+#EXTINF:0 tvg-logo="https://i.ibb.co/t8tLqdz/cne12.png",CINE 1
+https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/hLPsqNq/birtv.png",BIR TV
+https://live.artidijitalmedya.com/artidijital_birtv/birtv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/1Ty8Z3X/bizimev.png",BIZIM EV TV
+https://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/DKHDfbr/wmtv.png",WOMAN KADIN TV
 https://s01.webcaster.cloud/wmtv/live_1080p.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/DKHDfbr/wmtv.png",WOMAN KADIN TV
-https://embedlp.b-cdn.net/womantv.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/hLPsqNq/birtv.png",BIR TV
-https://live.artidijitalmedya.com/artidijital_birtv/birtv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/Fq20RQN/cn1t.png",CINE 1
-https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/1Ty8Z3X/bizimev.png",BIZIM EV TV
-https://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/playlist.m3u8
+https://embedlp.b-cdn.net/womantv.m3u
 #EXTINF:0 tvg-logo="https://i.ibb.co/2qrg9QF/a2022.png",A2 [tkn-blocked]
 https://trkvz-live.daioncdn.net/a2tv/a2tv.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/kxjKk89/showmax.png",SHOW MAX [tkn-blocked]
