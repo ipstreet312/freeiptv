@@ -773,7 +773,7 @@ https://mako-streaming.akamaized.net/n12/hls/live/2041434/n12s/index.m3u8?hdnea=
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/VM5vGBV/la1.jpg" group-title="|ES|🇪🇸 ESPAÑA",TVE LA 1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/VM5vGBV/la1.jpg" group-title="|ES|🇪🇸 ESPAÑA",TVE LA 1
+#EXTINF:0 tvg-logo="https://i.ibb.co/VM5vGBV/la1.jpg",TVE LA 1
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/ssGmhbH/la2.jpg",TVE LA 2
 https://ztnr.rtve.es/ztnr/1688885.m3u8
