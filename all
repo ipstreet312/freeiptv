@@ -81,6 +81,8 @@ https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4620
 #EXTINF:0 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",EURONEWS FR (backup)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2572
+#EXTINF:0 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",EURONEWS FR (backup)
+https://shls-live-ak.akamaized.net/out/v1/302a3ad418214d3f94460738a805b930/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Zfcrrr1/lci.png",LCI [tkn-blocked]
 https://live-lci-hls.cdn-0.diff.tf1.fr/out/v1/917aad4fa72f42f7ba7f486226f54bc4/lci-cmaf/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/XkLHrbC/frinfo2bl.png",FRANCE INFO [find-host]
@@ -726,11 +728,11 @@ https://bcovlive-a.akamaihd.net/773a2fa387914315ad11e6957cd54f6e/eu-central-1/53
 #EXTINF:0 tvg-logo="https://i.ibb.co/kq4XM0Y/ynet.png",YNET NEWS
 https://ynet-live-01.ynet-pic1.yit.co.il/ynet/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/jzRyjBn/walla.png",WALLA ! +
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01742-walla-wallanews-ono/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/jzRyjBn/walla.png",WALLA ! +
 https://live.wcdn.co.il/news/prog_index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/jzRyjBn/walla.png",WALLA ! +
 https://live.wcdn.co.il/yes/prog_index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/jzRyjBn/walla.png",WALLA ! +
-https://amg01742-walla-wallanews-ono-2eohr.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/93bQz4t/kabalah.png",KABBALAH 96
 http://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/bJVPhHD/hidabroot.png",HIDABROOT 97
@@ -1495,6 +1497,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca1da6c593a5d78f0e7ed
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2571
 #EXTINF:0 tvg-logo="https://i.ibb.co/R4xVMYc/enews.png",EURONEWS EN
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4619
+#EXTINF:0 tvg-logo="https://i.ibb.co/R4xVMYc/enews.png",EURONEWS EN
+https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/gFjck13/ebssat.png",EUROPE BY SAT
 https://euc-live.fl.freecaster.net/live/eucom/ebs.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/gFjck13/ebssat.png",EUROPE BY SAT +
