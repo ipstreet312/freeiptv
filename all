@@ -76,13 +76,13 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?start=LIVE&
 #EXTINF:0 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png",BFM TV (backup)
 https://mit2-cdn-edge-live06.pfd.sfr.net/bfm-ncdn-live-premium-pal1.pfd.sfr.net/sid=054akapminjaseksmkrg/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
 #EXTINF:0 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",EURONEWS FR (backup)
+https://shls-live-ak.akamaized.net/out/v1/302a3ad418214d3f94460738a805b930/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",EURONEWS FR (backup)
 https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",EURONEWS FR (backup)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4620
 #EXTINF:0 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",EURONEWS FR (backup)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2572
-#EXTINF:0 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",EURONEWS FR (backup)
-https://shls-live-ak.akamaized.net/out/v1/302a3ad418214d3f94460738a805b930/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Zfcrrr1/lci.png",LCI [tkn-blocked]
 https://live-lci-hls.cdn-0.diff.tf1.fr/out/v1/917aad4fa72f42f7ba7f486226f54bc4/lci-cmaf/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/XkLHrbC/frinfo2bl.png",FRANCE INFO [find-host]
@@ -665,6 +665,8 @@ https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
 https://canli.haber365.com.tr/tr/tgrteu/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Sc4DY66/emtv.webp",TV EM
 http://win1.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/Sc4DY66/emtv.webp",TV EM
+http://cdn-tvem.yayin.com.tr/TVEM/TVEM/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/zh5Fqv8/kanalb.png",KANAL B
 https://mn-nl.mncdn.com/blutv_kanalb2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/FX1SqtR/cantv.jpg",CAN TV
@@ -1494,11 +1496,11 @@ https://euronews-en.alteox.stream/yfUs9DZPzDuRswvV/ewnsabren_eng_720p33.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/R4xVMYc/enews.png",EURONEWS EN
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca1da6c593a5d78f0e7edcelivestitch/master.m3u8?deviceDNT=%7BTARGETOPT%7D&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung
 #EXTINF:0 tvg-logo="https://i.ibb.co/R4xVMYc/enews.png",EURONEWS EN
+https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/R4xVMYc/enews.png",EURONEWS EN
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2571
 #EXTINF:0 tvg-logo="https://i.ibb.co/R4xVMYc/enews.png",EURONEWS EN
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4619
-#EXTINF:0 tvg-logo="https://i.ibb.co/R4xVMYc/enews.png",EURONEWS EN
-https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/gFjck13/ebssat.png",EUROPE BY SAT
 https://euc-live.fl.freecaster.net/live/eucom/ebs.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/gFjck13/ebssat.png",EUROPE BY SAT +
