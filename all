@@ -1033,6 +1033,8 @@ https://api.new.livestream.com/accounts/27130247/events/9197096/live.m3u8
 https://63df3191463ce.streamlock.net/live/ngrp:Live2.stream_all/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/pdd2VqB/chada.jpg",CHADA TV شدى
 https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/pdd2VqB/chada.jpg",CHADA TV شدى
+https://test-streamer.eagrpservices.com/video/live/720p/chada.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/rQJcGTc/medi1tv.png",MEDI 1 MG العربية
 http://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/rQJcGTc/medi1tv.png",MEDI 1 AR العربية
@@ -1367,6 +1369,8 @@ https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15c
 https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/LZR8RK4/rotanamusic.png",ROTANA MUSIC
 https://rotanastudios-rotanamusic-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/LZR8RK4/rotanamusic.png",ROTANA MUSIC
+https://ssc-1-ak.akamaized.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/RC0XZrb/rotanaplus.png",ROTANA PLUS
 https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/PN8G6F8/rotanakids.png",ROTANA KIDS
