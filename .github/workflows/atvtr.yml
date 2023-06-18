@@ -1,0 +1,29 @@
+name: Update Atvtr
+on:
+  schedule:
+    - cron: "10 */4 * * *"
+  
+  workflow_dispatch:
+
+jobs:
+  Update-streams:
+    runs-on: ubuntu-latest
+    steps:
+    
+      - name: checkout
+        uses: actions/checkout@v3
+
+      - name: update Atvtr
+        run: sh feed/atvtr.sh
+
+      - name: setup git config
+        run: |
+          git config user.name "Atvtr Bot"
+          git config user.email "<>"
+
+      - name: commit
+        run: |
+          git pull
+          git add feed/atvtr.m3u8
+          git commit -m "Update streams"
+          git push origin master
