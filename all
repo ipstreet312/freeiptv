@@ -861,6 +861,8 @@ https://ztnr.rtve.es/ztnr/3987218.m3u8
 https://ztnr.rtve.es/ztnr/4952053.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/xmGNS4w/tvcata.jpg",TV3 CATALUNYA INT
 https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/xmGNS4w/tvcata.jpg",TV3 CATALUNYA 24H
+https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/5kpD2Jv/cat8.png",CATALUNYA 8
 https://mdstrm.com/live-stream-playlist/636bd70b44680408872dbfc6.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/crzKf1n/tenerife4.jpg",TENERIFE 4
@@ -1466,6 +1468,8 @@ https://d2fewflvrapcwe.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:0 tvg-logo="https://i.ibb.co/jJDxCxN/abc.jpg",ABC NEWS
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/jJDxCxN/abc.jpg",ABC NEWS
+https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/jJDxCxN/abc.jpg",ABC NEWS
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/YD3G64y/cbs.jpg",CBS NEWS
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
@@ -1473,6 +1477,8 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 https://dai.google.com/linear/hls/event/EezGs5EpSjSr-sYjB2qysw/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/YD3G64y/cbs.jpg",CBS NEWS
 https://dai.google.com/ssai/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/YD3G64y/cbs.jpg",CBS NEWS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6231ec93779a9d00079ba8e2livestitch/master.m3u8?deviceDNT=%7BTARGETOPT%7D&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung
 #EXTINF:0 tvg-logo="https://i.ibb.co/FxZYHhM/cnbc.jpg",CNBC NEWS
 https://vidplus.pc.cdn.bitgravity.com/cnbceu-origin/live_720p/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/FxZYHhM/cnbc.jpg",CNBC NEWS
@@ -1495,6 +1501,8 @@ https://vs-hls-push-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_ch
 https://i.mjh.nz/PlutoTV/55b285cd2665de274553d66f-alt.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/8MBM4M1/skyn.png",SKY NEWS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/55b285cd2665de274553d66flivestitch/master.m3u8?deviceDNT=%7BTARGETOPT%7D&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung
+#EXTINF:0 tvg-logo="https://i.ibb.co/8MBM4M1/skyn.png",SKY NEWS
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_skynewsamericas_001.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/dpMQyVx/gbn.png",GB NEWS
 https://amg01076-lightningintern-gbnews-samsunguk-0lu52.amagi.tv/playlist/amg01076-lightningintern-gbnews-samsunguk/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/dpMQyVx/gbn.png",GB NEWS
