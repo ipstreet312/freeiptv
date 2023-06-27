@@ -745,28 +745,46 @@ https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/video_7201
 https://contactgbs.mmdlive.lldns.net/contactgbs/a40693c59c714fecbcba2cee6e5ab957/manifest.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/zP5vjLD/knesset.png",HAKNESSET 99 כנסת
 https://contact.gostreaming.tv/Accessibility/myStream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/Yc5Yf1q/sport5il.png",SPORT 5 STUDIO RADIO LIVE
+#EXTINF:0 tvg-logo="https://i.ibb.co/Yc5Yf1q/sport5il.png",SPORT5 STUDIO RADIO LIVE
 https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/jzRyjBn/walla.png",WALLA ! +
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01742-walla-wallanews-ono/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/jzRyjBn/walla.png",WALLA ! +
+https://amg01742-walla-wallanews-ono-btlna.amagi.tv/playlist/amg01742-walla-wallanews-ono/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/jzRyjBn/walla.png",WALLA ! + (rescue)
+https://live.wcdn.co.il/news/prog_index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/jzRyjBn/walla.png",WALLA ! + (rescue)
+https://live.wcdn.co.il/yes/prog_index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/kq4XM0Y/ynet.png",YNET NEWS
 https://ynet-live-01.ynet-pic1.yit.co.il/ynet/live.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/kq4XM0Y/ynet.png",YNET NEWS (feed)
+https://ynet-live-03.ynet-pic1.yit.co.il/ynet/live.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/kq4XM0Y/ynet.png",YNET NEWS (feed)
+https://ynet-live-05.ynet-pic1.yit.co.il/ynet/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/93bQz4t/kabalah.png",KABBALAH 96
 http://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/bJVPhHD/hidabroot.png",HIDABROOT 97
 https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/Ph3cBMj/musayof.jpg",MUSAYOF מוסאיוף
+http://wowza.media-line.co.il/Musayof-Live/livestream.sdp/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/j68q1Bp/i24.png",I24 NEWS FR
 https://bcovlive-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/playlist-all.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/j68q1Bp/i24.png",I24 NEWS AR
 https://bcovlive-a.akamaihd.net/773a2fa387914315ad11e6957cd54f6e/eu-central-1/5377161796001/playlist-all.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/2g7Sw4c/21.jpg",SHOPPING 21
 https://shoppingil-rewriter.vidnt.com/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/3RwfT5M/bigbil.png",BIG BROTHER IL [geo-blocked]
+https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/MG43H4H/hala.png",PANET 30 HALA هلا
 https://live1.panet.co.il/edge_abr/halaTV/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/MG43H4H/hala.png",PANET 30 HALA هلا
 https://gstream4.panet.co.il/edge/halaTV/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/fqTYrGY/33.png",KAN 33 MAKAN مكان
 https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/gj3pVwr/9il.png",IZRAIL 9 канал
+http://50.7.231.221:8081/185/index.m3u8?wmsAuthSign=okad
+#EXTINF:0 tvg-logo="https://i.ibb.co/vYNTjKK/shelanu.jpg",SHELANU GOD-IL
+https://1247634592.rsc.cdn77.org/1247634592/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png",KAN 11 כאן (backlink)
 https://cdnapisec.kaltura.com/p/2717431/sp/2717431/playManifest/entryId/1_sdqcljik/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png",KAN 11 כאן (backlink)
@@ -775,12 +793,6 @@ https://cdnapisec.kaltura.com/p/2717431/sp/2717431/playManifest/entryId/1_8ji7g6
 https://cdnapisec.kaltura.com/p/2717431/sp/2717431/playManifest/entryId/1_vd30ud46/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/fqTYrGY/33.png",KAN 33 MAKAN مكان (backlink)
 https://cdnapisec.kaltura.com/p/2717431/sp/2717431/playManifest/entryId/1_vw6qllis/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/jzRyjBn/walla.png",WALLA ! + (rescue)
-https://amg01742-walla-wallanews-ono-btlna.amagi.tv/playlist/amg01742-walla-wallanews-ono/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/jzRyjBn/walla.png",WALLA ! + (rescue)
-https://live.wcdn.co.il/news/prog_index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/jzRyjBn/walla.png",WALLA ! + (rescue)
-https://live.wcdn.co.il/yes/prog_index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png",KESHET 12 קשת [find-host]
 https://PuthereYourserverHostaddress/k12.php?m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png",KESHET 12 קשת [find-host]
