@@ -685,6 +685,8 @@ https://canli.haber365.com.tr/tr/tgrteu/index.m3u8
 https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/zh5Fqv8/kanalb.png",KANAL B
 https://mn-nl.mncdn.com/blutv_kanalb2/live.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/YtfMXjN/kavrupa.png",KANAL AVRUPA
+https://api-tv27.yayin.com.tr/kanalavrupa/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/FX1SqtR/cantv.jpg",CAN TV
 http://canbroadcast.com:7000/canlican/tv.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/6B8M20v/on422.png",ON4 TV
