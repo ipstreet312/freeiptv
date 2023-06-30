@@ -24,6 +24,6 @@ jobs:
       - name: commit
         run: |
           git pull
-          git add all
+          git add all.m3u
           git commit -m "update stream"
           git push origin master
