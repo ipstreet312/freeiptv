@@ -1133,6 +1133,8 @@ https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
 https://live.3cd.io/v1/broadcast/one/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/wR2jkMz/nbnlb.png",NBN TV LBN
 http://62.182.82.104/NBN/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:0 tvg-logo="https://i.ibb.co/zH7W9tX/volbn.png",VOICE OF LEBANON
+https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Svnqq8G/otv.jpg",OTV LBN
 http://62.182.82.104/OTV/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:0 tvg-logo="https://i.ibb.co/JrFjqrc/nabaa.png",NABAA TV
