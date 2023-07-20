@@ -1,0 +1,30 @@
+# Thanks to LITUATUI user on github
+name: Update Porto Canal
+on:
+  schedule:
+    - cron: "10 */4 * * *"
+  
+  workflow_dispatch:
+
+jobs:
+  Update-streams:
+    runs-on: ubuntu-latest
+    steps:
+    
+      - name: checkout
+        uses: actions/checkout@v3
+
+      - name: update PortoCanal
+        run: sh feed/portocanal.sh
+
+      - name: setup git config
+        run: |
+          git config user.name "PortoC Bot"
+          git config user.email "<>"
+
+      - name: commit
+        run: |
+          git pull
+          git add feed/portocanal.m3u8
+          git commit -m "Update streams"
+          git push origin master
