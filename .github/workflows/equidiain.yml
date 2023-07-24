@@ -1,5 +1,5 @@
 # Thanks to LITUATUI user on github
-name: update portugals
+name: update equidiain
 on:
   schedule:
     - cron: "07 */4 * * *"
