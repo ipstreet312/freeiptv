@@ -1,4 +1,4 @@
-name: equi
+name: equi2
 on:
   schedule:
     - cron: '00 */4 * * *'
