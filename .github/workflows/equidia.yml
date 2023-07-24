@@ -4,7 +4,7 @@ name: equidia
 # Controls when the workflow will run
 on:
   schedule:
-    - cron: '00 */2 * * *'
+    - cron: '00 */4 * * *'
   
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
