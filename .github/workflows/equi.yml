@@ -9,10 +9,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v2
 
       - name: update equi
-        run: sh feed/equi.sh
+        run: sh ./feed/equi.sh
 
       - name: setup git config
         run: |
@@ -22,6 +22,6 @@ jobs:
       - name: commit
         run: |
           git pull
-          git add feed/equi.m3u8
+          git add ./feed/equi.m3u8
           git commit -m "Update-build"
           git push origin master
