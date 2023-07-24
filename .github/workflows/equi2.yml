@@ -1,0 +1,25 @@
+name: equi
+on:
+  schedule:
+    - cron: '00 */4 * * *'
+  workflow_dispatch:
+  
+jobs:
+  Update-build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: config
+        run: |
+          git config --global user.email "<>"
+          git config --global user.name "equi bot"
+      - name: Main
+        run: sh ./feed/equi.sh
+      - name: git add
+        run: |
+          git add -A
+          ls -la 
+      - name: commit & push
+        run: |
+          git commit -m "links are updated"
+          git push
