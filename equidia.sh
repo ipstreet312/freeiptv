@@ -1,5 +1,4 @@
 #!/bin/bash
-
-python3 equidia.py > ../equidia.m3u8
-
-echo m3u grabbed
+cd feed
+python3 equidia.py > equidia.m3u8
+exit 0
