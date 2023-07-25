@@ -29,7 +29,7 @@ jobs:
       
       
       - name: Main
-        run: sh /equidia.sh
+        run: sh ../equidia.sh
         
       - name: git add
         run: |
