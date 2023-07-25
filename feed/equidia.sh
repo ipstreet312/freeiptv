@@ -1,4 +1,6 @@
 #!/bin/bash
-cd feed
-python3 equidia.py > equidia.m3u
-exit 0
+echo $(dirname $0)
+cd $(dirname $0)
+python3 equidia.py > ../feed/equidia.m3u8
+
+echo m3u grabbed
