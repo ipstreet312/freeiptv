@@ -1,6 +1,10 @@
 #!/bin/bash
 
-cd ressources/dmotion/py/frinfo
+file_path="/ressources/dmotion/py/frinfo/frinfo.py"
+file_directory=$(dirname "$file_path")
+
+# Change the working directory to the file's directory
+cd "$file_directory"
 
 python frinfo.py > frinfo.m3u8
 
