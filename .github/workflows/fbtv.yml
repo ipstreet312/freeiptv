@@ -30,7 +30,7 @@ jobs:
       
       - name: Change working directory and run your shell script
         working-directory: ./ressources/dmotion/py/fbtv
-        run: sh ./fbtv.sh
+        run: sh fbtv.sh
         
       - name: git add
         run: |
