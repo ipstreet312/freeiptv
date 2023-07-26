@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd ressources/dmotion/py/frinfo
+cd $HOME/ressources/dmotion/py/frinfo
 
 python frinfo.py > frinfo.m3u8
 
