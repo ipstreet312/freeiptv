@@ -28,9 +28,8 @@ jobs:
           git config --global user.email "<>"
           git config --global user.name "fbtv bot"
       
-      - name: Change working directory and run your shell script
-        working-directory: ./ressources/dmotion/py/fbtv
-        run: sh fbtv.sh
+      - name: run shell script
+        run: sh ressources/dmotion/py/frinfo/fbtv.sh
         
       - name: git add
         run: |
