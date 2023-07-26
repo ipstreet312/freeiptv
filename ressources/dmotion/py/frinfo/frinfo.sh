@@ -1,7 +1,5 @@
 #!/bin/bash
 
-file_path="freeiptv/ressources/dmotion/py/frinfo/frinfo.py"
-
 cd /home/runner/work/freeiptv/freeiptv/ressources/dmotion/py/frinfo
 
 python frinfo.py > frinfo.m3u8
