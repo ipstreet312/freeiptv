@@ -29,8 +29,8 @@ jobs:
           git config --global user.name "szctv bot"
       
       
-      - name: Main
-        run: sh ./ressources/dmotion/py/szctv/szctv.sh
+      - name: run shell script
+        run: sh ressources/dmotion/py/szctv/szctv.sh
         
       - name: git add
         run: |
