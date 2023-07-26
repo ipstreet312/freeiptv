@@ -1,10 +1,8 @@
 #!/bin/bash
 
 file_path="freeiptv/ressources/dmotion/py/frinfo/frinfo.py"
-file_directory=$(dirname "$file_path")
 
-# Change the working directory to the file's directory
-cd "$file_directory"
+cd /home/runner/work/freeiptv/freeiptv/ressources/dmotion/py/frinfo
 
 python frinfo.py > frinfo.m3u8
 
