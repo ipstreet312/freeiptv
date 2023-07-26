@@ -1,6 +1,6 @@
 #!/bin/bash
 
-file_path="/ressources/dmotion/py/frinfo/frinfo.py"
+file_path="freeiptv/ressources/dmotion/py/frinfo/frinfo.py"
 file_directory=$(dirname "$file_path")
 
 # Change the working directory to the file's directory
