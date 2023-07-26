@@ -28,9 +28,8 @@ jobs:
           git config --global user.email "<>"
           git config --global user.name "frinfo bot"
       
-      - name: Change working directory and run your shell script
-        working-directory: ./ressources/dmotion/py/frinfo
-        run: sh frinfo.sh
+      - name: run shell script
+        run: sh ressources/dmotion/py/frinfo/frinfo.sh
         
       - name: git add
         run: |
