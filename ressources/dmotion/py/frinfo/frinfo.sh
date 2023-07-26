@@ -1,7 +1,8 @@
 #!/bin/bash
-# Thanks to pshanmu3 user on github
-echo $(dirname $0)
-cd $(dirname $0)
+
+cd ressources/dmotion/py/frinfo
 python3 frinfo.py > ../ressources/dmotion/py/frinfo/frinfo.m3u8
 
 echo m3u grabbed
+
+# exit 0
