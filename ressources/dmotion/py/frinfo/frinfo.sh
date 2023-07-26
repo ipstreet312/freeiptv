@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd "ressources/dmotion/py/frinfo"
+cd "freeiptv/ressources/dmotion/py/frinfo"
 
 python3 frinfo.py > frinfo.m3u8
 
