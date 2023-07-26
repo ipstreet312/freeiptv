@@ -29,7 +29,7 @@ jobs:
           git config --global user.name "frinfo bot"
       
       - name: Change working directory and run your shell script
-        working-directory: /ressources/dmotion/py/frinfo
+        working-directory: ./ressources/dmotion/py/frinfo
         run: sh frinfo.sh
         
       - name: git add
