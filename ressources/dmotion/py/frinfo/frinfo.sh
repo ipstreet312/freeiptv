@@ -1,8 +1,8 @@
 #!/bin/bash
 
-cd $HOME/ressources/dmotion/py/frinfo
+cd "ressources/dmotion/py/frinfo"
 
-python frinfo.py > frinfo.m3u8
+python3 frinfo.py > frinfo.m3u8
 
 exit 0
 
