@@ -29,7 +29,7 @@ jobs:
           git config --global user.name "fbtv bot"
       
       - name: run shell script
-        run: sh ressources/dmotion/py/frinfo/fbtv.sh
+        run: sh ressources/dmotion/py/fbtv/fbtv.sh
         
       - name: git add
         run: |
