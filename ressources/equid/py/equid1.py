@@ -13,8 +13,7 @@ response = session.get('https://mediainfo.tf1.fr/mediainfocombo/L_LCI?format=hls
 if response.status_code == 200:
     response_json = json.loads(response.text)
     g1 = response_json["delivery"]["url"]
-    res2 = requests.get(g1)
-    data = res2.text
+    data = g1.text
     print(data)
 else:
     print("La requête n'a pas abouti avec le code :", response.status_code)
