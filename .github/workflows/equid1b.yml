@@ -1,0 +1,28 @@
+name: update Equid1
+on:
+  schedule:
+    - cron: "05 */2 * * *"
+    
+  workflow_dispatch:
+
+jobs:
+  update-stream:
+    runs-on: ubuntu-latest
+    steps:
+    
+      - name: checkout
+        uses: actions/checkout@v3
+
+      - name: update Equid1
+        run: sh ressources/equid/py/equid1b.sh
+
+      - name: setup git config
+        run: |
+          git config user.name "equid1b bot"
+          git config user.email "<>"
+      - name: commit
+        run: |
+          git pull
+          git add all.m3u
+          git commit -m "update stream"
+          git push origin master
