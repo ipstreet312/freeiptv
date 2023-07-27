@@ -419,6 +419,8 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/sRNHKjS/tivi622.png",TIVI 6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/Sc4DY66/emtv.webp",EM TV
+https://cdn-tvem.yayin.com.tr/TVEM/TVEM/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png",TRT 1 (backup)
 https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png",TRT 1 (backup)
@@ -1395,6 +1397,12 @@ https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/in
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/m5gGgfJ/mbcbollywood.png",MBC BOLLYWOOD
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png",MBC MOVIES
+https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index_2.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png",MBC MOVIES ACTION
+https://cdxaws-ak.akamaized.net/v1/channel/Movies_Action/index_hls/3.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png",MBC MOVIES THRILLER
+https://cdxaws-ak.akamaized.net/v1/channel/Movies_Thriller/index_hls/3.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/7W5nWYV/rotanacinema.png",ROTANA CINEMA
 https://rotanastudios-rotanacinema-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/7W5nWYV/rotanacinema.png",ROTANA CINEMA
@@ -1645,5 +1653,3 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2664
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/8ef13d2a-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=FR&vendor=samsung
 #EXTINF:0,STREAM CHECK Input Entry1
 https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
-#EXTINF:0,STREAM CHECK Input Entry2
-https://ipstreet312.github.io/freeiptv/ressources/equid/py/equid1.m3u8
