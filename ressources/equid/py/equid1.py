@@ -8,11 +8,11 @@ headers = {
 }
 
 session = requests.Session()
-response = session.get('https://equidia-live2-p-api.hexaglobe.net/0d62898eeb26305306d2af3e6ec3d54d/64b8fb4b/equidia/equidia-website-web-1/live2/stream_info.php')
+response = session.get('https://mediainfo.tf1.fr/mediainfocombo/L_LCI?format=hls')
 
 if response.status_code == 200:
     response_json = json.loads(response.text)
-    g1 = response_json["primary"]
+    g1 = response_json["delivery"][0]["url"]
     res2 = requests.get(g1)
     data = res2.text
     print(data)
