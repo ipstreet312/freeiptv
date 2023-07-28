@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 # Thanks to pshanmu3 user on github
-name: FbTv
+name: fbtv action
 
 # Controls when the workflow will run
 on:
@@ -28,7 +28,7 @@ jobs:
           git config --global user.email "<>"
           git config --global user.name "fbtv bot"
       
-      - name: run shell script
+      - name: updating fbtv
         run: sh ressources/dmotion/py/fbtv/fbtv.sh
         
       - name: git add
@@ -38,5 +38,5 @@ jobs:
           
       - name: commit & push
         run: |
-          git commit -m "links are updated"
+          git commit -m "update fbtv"
           git push
