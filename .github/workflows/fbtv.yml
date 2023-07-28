@@ -38,5 +38,5 @@ jobs:
           
       - name: commit & push
         run: |
-          git commit -m "update fbtv"
+          git commit -m "fbtv updated"
           git push
