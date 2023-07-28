@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 # Thanks to pshanmu3 user on github
-name: Frinfo
+name: frinfo action
 
 # Controls when the workflow will run
 on:
@@ -28,7 +28,7 @@ jobs:
           git config --global user.email "<>"
           git config --global user.name "frinfo bot"
       
-      - name: run shell script
+      - name: updating frinfo
         run: sh ressources/dmotion/py/frinfo/frinfo.sh
         
       - name: git add
@@ -38,5 +38,5 @@ jobs:
           
       - name: commit & push
         run: |
-          git commit -m "links are updated"
+          git commit -m "frinfo updated"
           git push
