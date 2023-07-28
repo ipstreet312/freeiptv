@@ -1,5 +1,5 @@
 # Thanks to LITUATUI user on github
-name: update portugals
+name: tvi-pt action
 on:
   schedule:
     - cron: "00 04,16 * * *"
@@ -14,16 +14,16 @@ jobs:
       - name: checkout
         uses: actions/checkout@v3
 
-      - name: update Portugals
+      - name: updating tvi-pt
         run: sh ressources/tvipt/sh/tvipt.sh
 
       - name: setup git config
         run: |
-          git config user.name "portugals bot"
+          git config user.name "tvi-pt bot"
           git config user.email "<>"
       - name: commit
         run: |
           git pull
           git add all.m3u
-          git commit -m "update stream"
+          git commit -m "tvi-pt updated"
           git push origin master
