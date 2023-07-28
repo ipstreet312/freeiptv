@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: lci1
+name: lci pre-action
 # Controls when the workflow will run
 on:
   schedule:
@@ -25,9 +25,9 @@ jobs:
       - name: config
         run: |
           git config --global user.email "<>"
-          git config --global user.name "equid1a bot"
+          git config --global user.name "lci pre bot"
       
-      - name: run shell script
+      - name: updating pre lci
         run: sh ressources/byg/py/lci1a.sh
         
       - name: git add
@@ -37,5 +37,5 @@ jobs:
           
       - name: commit & push
         run: |
-          git commit -m "links are updated"
+          git commit -m "lci preupdated"
           git push
