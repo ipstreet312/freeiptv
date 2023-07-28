@@ -1,5 +1,5 @@
 # Thanks to LITUATUI user on github
-name: Update Porto Canal
+name: portocanal action
 on:
   schedule:
     - cron: "10 */4 * * *"
@@ -14,17 +14,17 @@ jobs:
       - name: checkout
         uses: actions/checkout@v3
 
-      - name: update PortoCanal
+      - name: updating portocanal
         run: sh ressources/dmotion/py/portocanal/portocanal.sh
 
       - name: setup git config
         run: |
-          git config user.name "PortoC Bot"
+          git config user.name "portocanal bot"
           git config user.email "<>"
 
       - name: commit
         run: |
           git pull
           git add ressources/dmotion/py/portocanal/portocanal.m3u8
-          git commit -m "Update streams"
+          git commit -m "portocanal updated"
           git push origin master
