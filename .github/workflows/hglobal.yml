@@ -1,0 +1,30 @@
+# Thanks to LITUATUI user on github
+name: hglobal action
+on:
+  schedule:
+    - cron: "45 */4 * * *"
+  
+  workflow_dispatch:
+
+jobs:
+  Update-streams:
+    runs-on: ubuntu-latest
+    steps:
+    
+      - name: checkout
+        uses: actions/checkout@v3
+
+      - name: updating hglobal
+        run: sh ressources/dmotion/py/hglobal/hglobal.sh
+
+      - name: setup git config
+        run: |
+          git config user.name "hglobal bot"
+          git config user.email "<>"
+
+      - name: commit
+        run: |
+          git pull
+          git add ressources/dmotion/py/hglobal/hglobal.m3u8
+          git commit -m "hglobal updated"
+          git push origin master
