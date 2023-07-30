@@ -1,0 +1,30 @@
+# Thanks to LITUATUI user on github
+name: ulke action
+on:
+  schedule:
+    - cron: "40 */4 * * *"
+  
+  workflow_dispatch:
+
+jobs:
+  Update-streams:
+    runs-on: ubuntu-latest
+    steps:
+    
+      - name: checkout
+        uses: actions/checkout@v3
+
+      - name: updating ulke
+        run: sh ressources/dmotion/py/ulke/ulke.sh
+
+      - name: setup git config
+        run: |
+          git config user.name "ulke bot"
+          git config user.email "<>"
+
+      - name: commit
+        run: |
+          git pull
+          git add ressources/dmotion/py/ulke/ulke.m3u8
+          git commit -m "ulke updated"
+          git push origin master
