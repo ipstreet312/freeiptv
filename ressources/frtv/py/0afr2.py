@@ -10,7 +10,7 @@ print('#EXT-X-MEDIA:TYPE=AUDIO,URI="France_2-mp4a_96000_fra=20000.m3u8",GROUP-ID
 print('#EXT-X-STREAM-INF:BANDWIDTH=3032655,AVERAGE-BANDWIDTH=2756959,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=25.000,AUDIO="audio-AACL-96",SUBTITLES="text"')
 s = requests.Session()
 response = s.get(f'https://hdfauth.ftven.fr/esi/TA?url=https://simulcast-p.ftven.fr/simulcast/France_2/hls_fr2/index.m3u8')
-print(response.text)
+#print(response.text)
 
 string = response.text
 new_string = string.replace("index", "France_2-avc1_2500000=10001")
