@@ -1675,3 +1675,17 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
 https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
 #EXTINF:-1,STREAM CHECK Input Entry2
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-live.m3u8
+#EXTINF:-1,01
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/test/01.m3u
+#EXTINF:-1,01a
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/test/01a.m3u8
+#EXTINF:-1,02
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/test/02.m3u
+#EXTINF:-1,02a
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/test/02a.m3u8
+#EXTINF:-1,03
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/test/03.m3u
+#EXTINF:-1,03a
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/test/03a.m3u8
+#EXTINF:-1 tvg-id="Equidia.fr" tvg-chno="1",Equidia
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-live.m3u8
