@@ -97,7 +97,7 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/d
 https://raw.githubusercontent.com/pshanmu3/dailymotion_to_m3u8/main/C8.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1
 https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI5MC4yNC4zMy43MiIsImNtY2QiOiIiLCJleHAiOjE2OTA4NTI1NzAsImdpZCI6ImU2NDU0ZDQ0LTk1MzUtNDYyZi04M2RlLTZlMWRmNDcxZGZkNSIsImlhdCI6MTY5MDgzODE3MCwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjoyMDAwMDAwLCJzdGVtIjoiL291dC92MS83ODA1NDJmNTE2ZjE0M2ZjOGFkOWJmMTQ2MjIzMTZlNy90ZjEtY21hZiIsInN1YiI6ImU2NDU0ZDQ0LTk1MzUtNDYyZi04M2RlLTZlMWRmNDcxZGZkNSJ9.YqY6RksTnMZFI3slECvj7dx_uMjGHa5l7QRAiwP9RxU/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png" user-agent="Star Wars",FRANCE 2
+#EXTINF:0 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png",FRANCE 2
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/frtv/py/0fr2.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/pQ7kLNY/tv5fbs.png",TV5MONDE FBSM
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
@@ -1547,10 +1547,8 @@ https://dai.google.com/linear/hls/event/EezGs5EpSjSr-sYjB2qysw/master.m3u8
 https://dai.google.com/ssai/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/YD3G64y/cbs.jpg",CBS NEWS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6231ec93779a9d00079ba8e2livestitch/master.m3u8?deviceDNT=%7BTARGETOPT%7D&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung
-#EXTINF:0 tvg-logo="https://i.ibb.co/FxZYHhM/cnbc.jpg",CNBC NEWS
+#EXTINF:0 tvg-logo="https://i.ibb.co/FxZYHhM/cnbc.jpg",CNBC NEWS [downlink]
 https://vidplus.pc.cdn.bitgravity.com/cnbceu-origin/live/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/FxZYHhM/cnbc.jpg",CNBC NEWS
-http://ott-cdn.ucom.am/s65/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/VMm5SSz/realamv.png",REAL AMERICAS VOICE
 https://p1media-americasvoice-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/VMm5SSz/realamv.png",REAL AMERICAS VOICE
@@ -1677,33 +1675,3 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2664
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/8ef13d2a-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=FR&vendor=samsung
 #EXTINF:0,STREAM CHECK Input Entry1
 https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188",FRANCE 2 A0
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/frtv/py/0fr2.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188",FRANCE 2 A1
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/test/A1.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188",FRANCE 2 A2
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/test/A2.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188",FRANCE 2 A3
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/test/A3.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188",FRANCE 2 A4
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/test/A4.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188",FRANCE 2 A5
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/test/A5.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png",FRANCE 2 A5nUA
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/test/A5.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Safari/537.36",FRANCE 2 A5
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/frtv/py/0fr2.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Safari/537.36",FRANCE 2 A5
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/test/A1.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png",FRANCE 2 B1
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/test/B1.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png",FRANCE 2 B1a
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/test/B1a.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png",FRANCE 2 B2
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/test/B2.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png",FRANCE 2 B2a
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/test/B2a.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png",FRANCE 2 B3
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/test/B3.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png",FRANCE 2 B3a
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/test/B3a.m3u8
