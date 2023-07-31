@@ -36,5 +36,6 @@ for link in links:
     extracted_part = extract_desired_part(link)
     if extracted_part:
         desired_parts.append(extracted_part)
-
-print(desired_parts)
+            
+result = ' '.join(desired_parts)
+print(result)
