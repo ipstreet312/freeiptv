@@ -1,0 +1,31 @@
+name: equidv2 action
+on:
+  schedule:
+    - cron: '25 */4 * * *'
+  
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+
+      - uses: actions/checkout@v2
+
+      - name: config
+        run: |
+          git config --global user.email "<>"
+          git config --global user.name "equidv2 bot"
+      
+      - name: updating equidv2
+        run: sh ressources/froth/py/equidv2.sh
+        
+      - name: git add
+        run: |
+          git add -A
+          ls -la 
+          
+      - name: commit & push
+        run: |
+          git commit -m "equidv2 updated"
+          git push
