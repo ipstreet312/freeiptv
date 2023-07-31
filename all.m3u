@@ -191,6 +191,8 @@ https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
 https://d3awaj0f2u3w26.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/8fd3efae-4468-4ca0-9486-c6cdcb7b65d7/2.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png",L'EQUIPE LIVE 2
 https://d2l55nvfkhk4sg.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg7go1lqzgpny-ssai-prd/435d04a5-ab47-47c5-a2c1-bae01ae6d0c1/2.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/p0CLPqT/equidia.png",EQUIDIA
+https://equidia-live2-p30-cdn.hexaglobe.net/2b9a3d9405314d68425cfe57219bf2d6/64c7bABC/equidia/equidia-mobileapp-ios-1/eqdlivepri_fre.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png",GULLI
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/gullihd.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png",GULLI
@@ -1673,19 +1675,3 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2664
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/8ef13d2a-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=FR&vendor=samsung
 #EXTINF:0,STREAM CHECK Input Entry1
 https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
-#EXTINF:-1,STREAM CHECK Input Entry2
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-live.m3u8
-#EXTINF:-1,01
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/test/01.m3u
-#EXTINF:-1,01a
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/test/01a.m3u8
-#EXTINF:-1,02
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/test/02.m3u
-#EXTINF:-1,02a
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/test/02a.m3u8
-#EXTINF:-1,03
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/test/03.m3u
-#EXTINF:-1,03a
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/test/03a.m3u8
-#EXTINF:-1 tvg-id="Equidia.fr" tvg-chno="1",Equidia
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-live.m3u8
