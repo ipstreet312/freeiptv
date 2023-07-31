@@ -1,7 +1,7 @@
 name: equidi1 action
 on:
   schedule:
-    - cron: "13 */4 * * *"
+    - cron: "26 */4 * * *"
     
   workflow_dispatch:
 
