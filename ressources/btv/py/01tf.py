@@ -16,8 +16,10 @@ response = s.get('http://www.callofliberty.fr/stream/TF1/master.m3u8', headers=h
 
 #print(response.text)
 
+
+
 def extract_desired_part(url):
-    pattern = r'tf1\.fr/(.*?)/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index_4'
+    pattern = r'http:\\www.callofliberty.fr\HLS-AES\(.*?)_4.m3u8'
 
     match = re.search(pattern, url)
     
