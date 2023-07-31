@@ -1,4 +1,4 @@
-name: equidia action
+name: equidi1 action
 on:
   schedule:
     - cron: "13 */4 * * *"
