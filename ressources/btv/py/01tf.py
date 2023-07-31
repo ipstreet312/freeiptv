@@ -11,4 +11,4 @@ headers={
 
 s = requests.Session()
 response = s.get('http://www.callofliberty.fr/stream/TF1/master.m3u8', headers=headers)
-print(response)
+print(response.text)
