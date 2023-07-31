@@ -28,7 +28,7 @@ def extract_desired_part(url):
     
     return extracted_part
 
-links = re.findall(r'https?://\S+', response)
+links = re.findall(r'https?://\S+', response.text)
 
 desired_parts = []
 
@@ -37,4 +37,4 @@ for link in links:
     if extracted_part:
         desired_parts.append(extracted_part)
 
-print(desired_parts.text)
+print(desired_parts)
