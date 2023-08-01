@@ -100,11 +100,11 @@ https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJj
 #EXTINF:0 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png",FRANCE 2
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/frtv/py/0fr2.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/y8PjbJ4/fr3bl.png",FRANCE 3
-https://simulcast-p.ftven.fr/ZXhwPTE2OTA4ODQzNTF+YWNsPSUyZip+aG1hYz1kNjc1MzM0NzRlNTk5OGRkOGE5YjBlZWE1NTU3ZGJhNjNlYjI2YmFmZjYyOWI5OTk4ZjdjMTM1NTRlOTEzNGHI/simulcast/France_3/hls_fr3/index.m3u8?hdnea=exp=1690863351~acl=%2f*~hmac=52731d832d0b1868e1d7a6b15773cd366c40a952eb0f3c27ef2ad4ac0eafcGHI
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/frtv/py/0fr3.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/VgcrtZ5/fr4blok.png",FRANCE 4
-https://simulcast-p.ftven.fr/ZXhwPTE2OTA4ODQzNTF+YWNsPSUyZip+aG1hYz1kNjc1MzM0NzRlNTk5OGRkOGE5YjBlZWE1NTU3ZGJhNjNlYjI2YmFmZjYyOWI5OTk4ZjdjMTM1NTRlOTEzNDEF/simulcast/France_4/hls_fr4/index.m3u8?hdnea=exp=1690863351~acl=%2f*~hmac=52731d832d0b1868e1d7a6b15773cd366c40a952eb0f3c27ef2ad4ac0eafcDEF
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/frtv/py/0fr4.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/N9d4yXt/fr5bl.png",FRANCE 5
-https://simulcast-p.ftven.fr/ZXhwPTE2OTA4ODQzNTF+YWNsPSUyZip+aG1hYz1kNjc1MzM0NzRlNTk5OGRkOGE5YjBlZWE1NTU3ZGJhNjNlYjI2YmFmZjYyOWI5OTk4ZjdjMTM1NTRlOTEzNABC/simulcast/France_5/hls_fr5/index.m3u8?hdnea=exp=1690863351~acl=%2f*~hmac=52731d832d0b1868e1d7a6b15773cd366c40a952eb0f3c27ef2ad4ac0eafcABC
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/frtv/py/0fr5.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/pQ7kLNY/tv5fbs.png",TV5MONDE FBSM
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/BPpZPBn/arte.png",ARTE FR
