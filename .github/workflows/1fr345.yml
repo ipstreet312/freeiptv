@@ -2,7 +2,7 @@ name: 1fr345 action
 
 on:
   schedule:
-    - cron: '* */4 * * *'
+    - cron: '01 */4 * * *'
   
   workflow_dispatch:
 
