@@ -99,6 +99,12 @@ https://raw.githubusercontent.com/pshanmu3/dailymotion_to_m3u8/main/C8.m3u8
 https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI5MC4yNC4zMy43MiIsImNtY2QiOiIiLCJleHAiOjE2OTA4NzQzNTcsImdpZCI6IjdjYWQ2NGE3LTFhOTUtNDE5MS1hYmQ3LWYxY2ZjOWU2ZWIyZiIsImlhdCI6MTY5MDg1OTk1NywiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjoyMDAwMDAwLCJzdGVtIjoiL291dC92MS83ODA1NDJmNTE2ZjE0M2ZjOGFkOWJmMTQ2MjIzMTZlNy90ZjEtY21hZiIsInN1YiI6IjdjYWQ2NGE3LTFhOTUtNDE5MS1hYmQ3LWYxY2ZjOWU2ZWIyZiJ9.5nZphtFovaA_i7bnjRrmNuRXcj8DkcHpgYvs8BQFf2Y/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png",FRANCE 2
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/frtv/py/0fr2.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/y8PjbJ4/fr3bl.png",FRANCE 3
+https://simulcast-p.ftven.fr/ZXhwPTE2OTA4ODQzNTF+YWNsPSUyZip+aG1hYz1kNjc1MzM0NzRlNTk5OGRkOGE5YjBlZWE1NTU3ZGJhNjNlYjI2YmFmZjYyOWI5OTk4ZjdjMTM1NTRlOTEzNGHI/simulcast/France_3/hls_fr3/index.m3u8?hdnea=exp=1690863351~acl=%2f*~hmac=52731d832d0b1868e1d7a6b15773cd366c40a952eb0f3c27ef2ad4ac0eafcGHI
+#EXTINF:0 tvg-logo="https://i.ibb.co/VgcrtZ5/fr4blok.png",FRANCE 4
+https://simulcast-p.ftven.fr/ZXhwPTE2OTA4ODQzNTF+YWNsPSUyZip+aG1hYz1kNjc1MzM0NzRlNTk5OGRkOGE5YjBlZWE1NTU3ZGJhNjNlYjI2YmFmZjYyOWI5OTk4ZjdjMTM1NTRlOTEzNDEF/simulcast/France_4/hls_fr4/index.m3u8?hdnea=exp=1690863351~acl=%2f*~hmac=52731d832d0b1868e1d7a6b15773cd366c40a952eb0f3c27ef2ad4ac0eafcDEF
+#EXTINF:0 tvg-logo="https://i.ibb.co/N9d4yXt/fr5bl.png",FRANCE 5
+https://simulcast-p.ftven.fr/ZXhwPTE2OTA4ODQzNTF+YWNsPSUyZip+aG1hYz1kNjc1MzM0NzRlNTk5OGRkOGE5YjBlZWE1NTU3ZGJhNjNlYjI2YmFmZjYyOWI5OTk4ZjdjMTM1NTRlOTEzNABC/simulcast/France_5/hls_fr5/index.m3u8?hdnea=exp=1690863351~acl=%2f*~hmac=52731d832d0b1868e1d7a6b15773cd366c40a952eb0f3c27ef2ad4ac0eafcABC
 #EXTINF:0 tvg-logo="https://i.ibb.co/pQ7kLNY/tv5fbs.png",TV5MONDE FBSM
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/BPpZPBn/arte.png",ARTE FR
@@ -133,14 +139,6 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8
 https://ott.tv5monde.com/Content/HLS/Live/channel(orient)/variant.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/x8YnkQ2/tv5.png",TV5MONDE PACIFIQUE [geo-area]
 https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png",FRANCE 2 [find-host]
-https://PuthereYourserverHostaddress/fr2curl.php?m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/y8PjbJ4/fr3bl.png",FRANCE 3 [find-host]
-https://PuthereYourserverHostaddress/fr3curl.php?m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/VgcrtZ5/fr4blok.png",FRANCE 4 [find-host]
-https://PuthereYourserverHostaddress/fr4curl.php?m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/N9d4yXt/fr5bl.png",FRANCE 5 [find-host]
-https://PuthereYourserverHostaddress/fr5curl.php?m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/cQbcrGZ/c8.png",C8 [drm-blocked]
 https://hls-m013.live-lv3.canalplus-cdn.net/live/disk/c8-hd/hls-ios-fhddvr-preset/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/cQbcrGZ/c8.png",C8 [drm-blocked]
@@ -171,6 +169,14 @@ https://live-tmc-hls.cdn-0.diff.tf1.fr/out/v1/44fcb1c776284f2da7c11ef948d7ef34/t
 https://live-tfx-hls.cdn-0.diff.tf1.fr/out/v1/54408d0e39304776bf7b2ce4b1599123/tfx-cmaf/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/9Y4PHKP/tf1sf.png",TF1 SERIES-FILMS [tkn-blocked]
 https://live-tsf-hls.cdn-0.diff.tf1.fr/out/v1/9990671b96634d799552358352b2570a/tf1-series-film-cmaf/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png",FRANCE 2 [find-host]
+https://PuthereYourserverHostaddress/fr2curl.php?m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/y8PjbJ4/fr3bl.png",FRANCE 3 [find-host]
+https://PuthereYourserverHostaddress/fr3curl.php?m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/VgcrtZ5/fr4blok.png",FRANCE 4 [find-host]
+https://PuthereYourserverHostaddress/fr4curl.php?m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/N9d4yXt/fr5bl.png",FRANCE 5 [find-host]
+https://PuthereYourserverHostaddress/fr5curl.php?m3u8
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/ByN83p3/funradtv.png" group-title="|FR|🇫🇷 SOCIÉTÉ",FUN RADIO TV BE
@@ -999,8 +1005,6 @@ https://streaming-live.rtp.pt/liverepeater/rtpmadeira.smil/playlist.m3u8
 https://streaming-live.rtp.pt/liverepeater/rtpmem.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/zZwMM3d/arparl.png",AR PARLAMENTO
 https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/WVzhVbc/portoc.png",PORTO CANAL (offline)
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/portocanal/portocanal.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/HnqCkQj/rtp3.jpg",RTP 3 (backup)
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/chunklist_b640000_slpor.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/HnqCkQj/rtp3.jpg",RTP 3 (backup)
