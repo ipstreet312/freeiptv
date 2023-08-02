@@ -1419,11 +1419,13 @@ https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/in
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/m5gGgfJ/mbcbollywood.png",MBC BOLLYWOOD
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png",MBC MOVIES
-https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index_2.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png",MBC MOVIES ACTION
+#EXTINF:0 tvg-logo="https://i.ibb.co/mc475nQ/shadidblck.jpg",MBC MOVIES
+https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/mc475nQ/shadidblck.jpg",MBC AFLAM
+https://shls-live-ak.akamaized.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/mc475nQ/shadidblck.jpg",MBC MOVIES ACTION
 https://cdxaws-ak.akamaized.net/v1/channel/Movies_Action/index_hls/3.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png",MBC MOVIES THRILLER
+#EXTINF:0 tvg-logo="https://i.ibb.co/mc475nQ/shadidblck.jpg",MBC MOVIES THRILLER
 https://cdxaws-ak.akamaized.net/v1/channel/Movies_Thriller/index_hls/3.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/7W5nWYV/rotanacinema.png",ROTANA CINEMA
 https://rotanastudios-rotanacinema-1-eu.xiaomi.wurl.tv/playlist.m3u8
@@ -1475,21 +1477,21 @@ http://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playli
 http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/MD9vwnv/dubairacing.png",DUBAI RACING
 https://dmisvthvll.cdn.mgmlcdn.com/events/smil:events.stream.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png",SHADID 1
+#EXTINF:0 tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png",SHAHID 1
 https://cdxaws-ak.akamaized.net/v1/channel/Shahid_Al_Oula__/index_hls.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png",SHADID SHAM
+#EXTINF:0 tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png",SHAHID SHAM
 https://cdxaws-ak.akamaized.net/v1/channel/Al_Sham--/index_hls.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png",SHADID MAQALEB
+#EXTINF:0 tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png",SHAHID MAQALEB
 https://cdxaws-ak.akamaized.net/v1/channel/Maqaleb--/index_hls.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png",SHADID AL ZAEEM
+#EXTINF:0 tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png",SHAHID AL ZAEEM
 https://cdxaws-ak.akamaized.net/v1/channel/AlZaeem--/index_hls.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png",SHADID AL MASRAH
+#EXTINF:0 tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png",SHAHID AL MASRAH
 https://cdxaws-ak.akamaized.net/v1/channel/Al_Masrah/index_hls.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png",SHADID COMEDY
+#EXTINF:0 tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png",SHAHID COMEDY
 https://cdxaws-ak.akamaized.net/v1/channel/Comedy---/index_hls.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png",SHADID AL ZARAQ
+#EXTINF:0 tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png",SHAHID AL ZARAQ
 https://cdxaws-ak.akamaized.net/v1/channel/Ma_Al_Zaraq/index_hls.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png",SHADID AL USTURA
+#EXTINF:0 tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png",SHAHID AL USTURA
 https://cdxaws-ak.akamaized.net/v1/channel/Al_Ostoura_/index_hls.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/0mtj39x/Mekameleen.png",MEKAMELEEN
 http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
