@@ -28,7 +28,7 @@ jobs:
           git config --global user.email "<>"
           git config --global user.name "maisontrvx bot"
       
-      - name: updating fbtv
+      - name: updating maisontrvx
         run: sh ressources/dmotion/py/maisontrvx/maisontrvx.sh
         
       - name: git add
