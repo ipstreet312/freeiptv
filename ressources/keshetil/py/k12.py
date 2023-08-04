@@ -13,7 +13,7 @@ s = requests.Session()
 toki = s.get('https://mass.mako.co.il/ClicksStatistics/entitlementsServicesV2.jsp?et=ngt&lp=/direct/hls/live/2033791/k12/index.m3u8?as=1&rv=AKAMAI').json()['tickets'][0]['ticket']
 master = 'https://mako-streaming.akamaized.net/direct/hls/live/2033791/k12/index.m3u8'
 final_master = f'{master}?{toki}'
-print(final_master)
+#print(final_master)
 
 def get_specific_line_online(url, line_number):
     response = requests.get(url)
