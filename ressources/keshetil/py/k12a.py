@@ -11,4 +11,4 @@ master = 'https://mako-streaming.akamaized.net/direct/hls/live/2033791/k12/index
 final_master = f'{master}?{toki}'
 #print(final_master)
 chunks = s.get(final_master)
-print(chunks)
+print(chunks.text)
