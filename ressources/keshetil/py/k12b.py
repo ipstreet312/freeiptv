@@ -9,7 +9,7 @@ print('#EXT-X-VERSION:3')
 print('#EXT-X-INDEPENDENT-SEGMENTS')
 print('#EXT-X-STREAM-INF:BANDWIDTH=2622400,AVERAGE-BANDWIDTH=2525600,CODECS="avc1.4d4028,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=50.000')
 s = requests.Session()
-chunky = s.get('https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/keshetil/py/k12.m3u8')
+chunky = s.get('https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/keshetil/py/k12a.txt')
 
 def get_specific_line_online(url, line_number):
     response = requests.get(url)
