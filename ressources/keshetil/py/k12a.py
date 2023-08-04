@@ -5,10 +5,14 @@ import os
 import sys
 import json
 
+headers = {
+    'User-Agent': 'VLC/3.0.18 LibVLC/3.0.18'
+}
+
 s = requests.Session()
-toki = s.get('https://mass.mako.co.il/ClicksStatistics/entitlementsServicesV2.jsp?et=ngt&lp=/direct/hls/live/2033791/k12/index.m3u8?as=1&rv=AKAMAI').json()['tickets'][0]['ticket']
+toki = s.get('https://mass.mako.co.il/ClicksStatistics/entitlementsServicesV2.jsp?et=ngt&lp=/direct/hls/live/2033791/k12/index.m3u8?as=1&rv=AKAMAI', headers=headers).json()['tickets'][0]['ticket']
 master = 'https://mako-streaming.akamaized.net/direct/hls/live/2033791/k12/index.m3u8'
 final_master = f'{master}?{toki}'
 print(final_master)
-#chunks = s.get(final_master)
-#print(chunks.text)
+chunks = s.get(final_master, headers=headers)
+print(chunks.text)
