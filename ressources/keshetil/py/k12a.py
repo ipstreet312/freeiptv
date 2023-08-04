@@ -10,5 +10,5 @@ toki = s.get('https://mass.mako.co.il/ClicksStatistics/entitlementsServicesV2.js
 master = 'https://mako-streaming.akamaized.net/direct/hls/live/2033791/k12/index.m3u8'
 final_master = f'{master}?{toki}'
 #print(final_master)
-chunks = s.get('final_master')
+chunks = s.get(final_master)
 print(chunks)
