@@ -11,7 +11,7 @@ print('#EXT-X-INDEPENDENT-SEGMENTS')
 print('#EXT-X-STREAM-INF:BANDWIDTH=2622400,AVERAGE-BANDWIDTH=2525600,CODECS="avc1.4d4028,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=50.000')
 
 headers = {
-    'User-Agent': 'VLC/3.0.18 LibVLC/3.0.18'
+    'User-Agent': 'SmartOs Tv'
 }
 
 s = requests.Session()
