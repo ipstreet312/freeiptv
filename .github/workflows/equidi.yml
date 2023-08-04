@@ -1,0 +1,32 @@
+name: equidia action
+
+on:
+  schedule:
+    - cron: '55 */4 * * *'
+  
+  workflow_dispatch:
+
+jobs:
+  runscript:
+    runs-on: ubuntu-latest
+    steps:
+
+      - uses: actions/checkout@v2
+      
+      - name: config
+        run: |
+          git config --global user.email "<>"
+          git config --global user.name "equidia bot"
+      
+      - name: updating equidia
+        run: sh ressources/oth/py/equidi.sh
+        
+      - name: git add
+        run: |
+          git add -A
+          ls -la 
+          
+      - name: commit & push
+        run: |
+          git commit -m "equidia updated"
+          git push
