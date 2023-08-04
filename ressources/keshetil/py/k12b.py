@@ -22,9 +22,9 @@ def get_specific_line_online(url, line_number):
     else:
         return None
 
-chunks = get_specific_line_online(chunky, 11)
-if chunks:
-    chunked = f'https://mako-streaming.akamaized.net/direct/hls/live/2033791/k12/{chunks}'
+chunkres = get_specific_line_online(chunky, 11)
+if chunkres:
+    chunked = f'https://mako-streaming.akamaized.net/direct/hls/live/2033791/k12/{chunkres}'
     print(chunked)
 else:
     print("Failed to get the specific line from the online file.")
