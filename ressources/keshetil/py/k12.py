@@ -9,14 +9,19 @@ print('#EXTM3U')
 print('#EXT-X-VERSION:3')
 print('#EXT-X-INDEPENDENT-SEGMENTS')
 print('#EXT-X-STREAM-INF:BANDWIDTH=2622400,AVERAGE-BANDWIDTH=2525600,CODECS="avc1.4d4028,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=50.000')
+
+headers = {
+    'User-Agent': 'VLC/3.0.18 LibVLC/3.0.18'
+}
+
 s = requests.Session()
-toki = s.get('https://mass.mako.co.il/ClicksStatistics/entitlementsServicesV2.jsp?et=ngt&lp=/direct/hls/live/2033791/k12/index.m3u8?as=1&rv=AKAMAI').json()['tickets'][0]['ticket']
+toki = s.get('https://mass.mako.co.il/ClicksStatistics/entitlementsServicesV2.jsp?et=ngt&lp=/direct/hls/live/2033791/k12/index.m3u8?as=1&rv=AKAMAI', headers=headers).json()['tickets'][0]['ticket']
 master = 'https://mako-streaming.akamaized.net/direct/hls/live/2033791/k12/index.m3u8'
 final_master = f'{master}?{toki}'
 print(final_master)
 
 def get_specific_line_online(url, line_number):
-    response = requests.get(url)
+    response = requests.get(url, headers=headers)
     if response.status_code == 200:
         lines = response.text.split('\n')
         if 1 <= line_number <= len(lines):
