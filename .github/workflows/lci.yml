@@ -1,7 +1,7 @@
 name: lci action
 on:
   schedule:
-    - cron: "08 */2 * * *"
+    - cron: "08 */3 * * *"
     
   workflow_dispatch:
 
