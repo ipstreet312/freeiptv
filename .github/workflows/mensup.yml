@@ -5,7 +5,7 @@ name: mensup action
 # Controls when the workflow will run
 on:
   schedule:
-    - cron: '55 */4 * * *'
+    - cron: '55 */5 * * *'
   
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
