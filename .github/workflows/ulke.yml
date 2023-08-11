@@ -2,7 +2,7 @@
 name: ulke action
 on:
   schedule:
-    - cron: "40 */4 * * *"
+    - cron: "40 */5 * * *"
   
   workflow_dispatch:
 
