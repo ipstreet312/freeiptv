@@ -1707,14 +1707,14 @@ https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/nP9xpck/trtw.png",TRT WORLD
 https://mn-nl.mncdn.com/blutv_trtworld2/live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/rwbrckj/pressir.png",PRESS TV [censure-ifany]
-https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/rwbrckj/pressir.png",PRESS TV [censure-ifany]
-https://live1.presstv.ir/live/presstv.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/MGW5Vv9/aljaz.png",AL JAZEERA NEWS 
 https://live-hls-web-aje.getaj.net/AJE/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/s9gLmqv/cgtnch.png",CGTN NEWS
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/rwbrckj/pressir.png",PRESS TV [censure-ifany]
+https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/rwbrckj/pressir.png",PRESS TV [censure-ifany]
+https://live1.presstv.ir/live/presstv.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/D7w9h7Q/rt.png",RT NEWS [censure-blocked]
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/8MBM4M1/skyn.png",SKY NEWS [geo-blocked]
