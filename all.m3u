@@ -222,11 +222,11 @@ https://bcovlive-a.akamaihd.net/df743f86a96e492790ba96a09ede4149/eu-central-1/63
 #EXTINF:0 tvg-logo="https://i.ibb.co/TLPBT2L/topsante.png",TOP SANTE
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/topsante/topsante.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/TLPBT2L/topsante.png",TOP SANTE
-https://d3tuo4zu8l334y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x8ri0qojo9mfh/master.m3u8
+https://d3tuo4zu8l334y.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x8ri0qojo9mfh/e5997ac8-9e9c-42cc-a2ef-633dc0a4f5a3/2.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/d66k2fw/maisontrvx.png",MAISON & TRAVAUX
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/maisontrvx/maisontrvx.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/d66k2fw/maisontrvx.png",MAISON & TRAVAUX
-https://d387lnkgycbwl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sdi2aweg8u1y4/master.m3u8
+https://d387lnkgycbwl.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sdi2aweg8u1y4/761cde02-1df4-4a1a-ad50-7033ede188ef/2.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/grBSqt4/novela.png",TELE NOVELA TV
 https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/JB18vMW/bblack.png",BBLACK! AFRICA
@@ -1456,10 +1456,6 @@ https://shls-live-ak.akamaized.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index
 #EXTINF:0 tvg-logo="https://i.ibb.co/xzdqq9y/mbcdrama.png",MBC DRAMA PLUS
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/BnhWg65/mbcmasr.png",MBC MASR 1
-https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/BnhWg65/mbcmasr.png",MBC MASR 1
-https://shls-masr-ak.akamaized.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/BnhWg65/mbcmasr.png",MBC MASR 1 USA
 https://shls-live-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/M7B22HL/mbcmasr2.jpg",MBC MASR 2
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
@@ -1479,9 +1475,7 @@ https://shls-live-ak.akamaized.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index
 https://cdxaws-ak.akamaized.net/v1/channel/Movies_Action/index_hls/3.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/mc475nQ/shadidblck.jpg",MBC MOVIES THRILLER
 https://cdxaws-ak.akamaized.net/v1/channel/Movies_Thriller/index_hls/3.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/7W5nWYV/rotanacinema.png",ROTANA CINEMA
-https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/7W5nWYV/rotanacinema.png",ROTANA CINEMA
+#EXTINF:0 tvg-logo="https://i.ibb.co/7W5nWYV/rotanacinema.png",ROTANA CINEMA MASR
 https://rotanastudios-rotanacinema-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/7W5nWYV/rotanacinema.png",ROTANA CINEMA MASR
 https://shls-masr2-ak.akamaized.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
@@ -1489,6 +1483,8 @@ https://shls-masr2-ak.akamaized.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/inde
 https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/7W5nWYV/rotanacinema.png",ROTANA CINEMA KSA
 https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/7W5nWYV/rotanacinema.png",ROTANA CINEMA KSA
+https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/LZR8RK4/rotanamusic.png",ROTANA MUSIC
 https://rotanastudios-rotanamusic-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/LZR8RK4/rotanamusic.png",ROTANA MUSIC
@@ -1563,6 +1559,10 @@ https://live1.presstv.ir/live/ifilmar_720p/index.m3u8
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/c1zsKkv/Zee-Alwan.png",ZEE ALWAN
 https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/BnhWg65/mbcmasr.png",MBC MASR 1 [offlink]
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/BnhWg65/mbcmasr.png",MBC MASR 1 [offlink]
+https://shls-masr-ak.akamaized.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png" group-title="|EN|ℹ️ WORLD",CNN INT
@@ -1732,4 +1732,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2664
 #EXTINF:0 tvg-logo="https://i.ibb.co/pKt53kX/dl1.png",DELUXE MUSIC⭐ Lounge Extra 🤩❤️👍
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/8ef13d2a-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=FR&vendor=samsung
 #EXTINF:0,CHECK Input Entry Test Stream A1
-http://empty
+https://d3tuo4zu8l334y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x8ri0qojo9mfh/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:0,CHECK Input Entry Test Stream A1
+https://d3tuo4zu8l334y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x8ri0qojo9mfh/master.m3u8?deviceDNT=%7BTARGETOPT%7D&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung
+
