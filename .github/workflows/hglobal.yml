@@ -2,7 +2,7 @@
 name: hglobal action
 on:
   schedule:
-    - cron: "45 */4 * * *"
+    - cron: "45 */5 * * *"
   
   workflow_dispatch:
 
