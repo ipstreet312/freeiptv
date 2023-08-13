@@ -1039,6 +1039,8 @@ https://streaming-live.rtp.pt/liverepeater/rtpmadeira.smil/playlist.m3u8
 https://streaming-live.rtp.pt/liverepeater/rtpmem.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/zZwMM3d/arparl.png",AR PARLAMENTO
 https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/V3Hk3KC/adb.png",ADB TV
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/HnqCkQj/rtp3.jpg",RTP 3 (backup)
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/chunklist_b640000_slpor.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/HnqCkQj/rtp3.jpg",RTP 3 (backup)
@@ -1326,13 +1328,13 @@ http://live-hls-web-aja.getaj.net/AJA/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/hcCJkhq/Al-Arabiya.png",AL ARABIYA
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/h27qpLJ/araby1.png",AL ARABY
-https://alarabyta.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b1150000.m3u8
+https://alarabyta.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/h27qpLJ/araby1.png",AL ARABY
-https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b1150000.m3u8
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/s107QNv/araby2.png",AL ARABY 2
-https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist_b1150000.m3u8
+https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/s107QNv/araby2.png",AL ARABY 2
-https://alarabyta.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist_b1150000.m3u8
+https://alarabyta.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/nc8F1dj/Al-Hadath.png",AL HADATH
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/dbFBq5k/Al-Jazeera-Mubasher.png",AL JAZEERA MUBASHER
@@ -1529,6 +1531,8 @@ https://weyyak-live.akamaized.net/weyyak_drama/tracks-v2a1/mono.m3u8
 https://weyyak-live.akamaized.net/weyyak_mix/tracks-v2a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/BCK1L31/DubaiTV.png",DUBAI TV
 http://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/BCK1L31/DubaiTV.png",DUBAI TV
+https://dmieigthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/ngKnxmq/dubaione.png",DUBAI ONE
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/jMsSmvg/dubainoor.png",DUBAI NOOR
