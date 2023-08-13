@@ -41,13 +41,14 @@ for link in links:
             
 result = ' '.join(desired_parts)
 
-
 updated_content = f"{result}.m3u8"
+
+target_line = "tf1-cmaf"
 
 # Open the file for in-place editing
 with fileinput.FileInput("all.m3u", inplace=True) as file:
     for line in file:
-        if "tf1-cmaf" in line:
+        if target_line in line:
             print(updated_content)
         else:
             print(line, end="")
