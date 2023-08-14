@@ -1,5 +1,5 @@
 #!/bin/bash
 
-python3 ressources/oth/py/equidi.py > ressources/oth/py/equidi.m3u8
+python3 ressources/div/py/equidi.py > ressources/div/py/equidi.m3u8
 
 exit 0
