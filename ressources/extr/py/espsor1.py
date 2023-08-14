@@ -13,4 +13,9 @@ headers={
 
 s = requests.Session()
 response = s.get('https://stream.castr.com/63b43410861d94a9eee067fb/live_947330308dd911edb85c8181cb9b11a8/index.m3u8', headers=headers)
-print(response.text)
+base_url = "https://stream.castr.com/63b43410861d94a9eee067fb/live_947330308dd911edb85c8181cb9b11a8/"
+lines = (response.text).split('\n')
+modified_line = base_url + lines[2]
+lines[2] = modified_line
+modified_response = '\n'.join(lines)
+print(modified_response)
