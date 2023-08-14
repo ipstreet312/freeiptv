@@ -19,7 +19,7 @@ jobs:
           git config --global user.name "espsor1 bot"
       
       - name: updating espsor1
-        run: sh ressources/oth/py/espsor1.sh
+        run: sh ressources/extr/py/espsor1.sh
         
       - name: git add
         run: |
