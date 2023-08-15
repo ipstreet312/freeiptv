@@ -217,6 +217,8 @@ https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2h
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01596-gongnetworks-gong-samsungfr/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/tcYgz6h/mensup.png",MEN'S UP TV
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/mensup/mensup.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/myjfNTH/motorsport.png",MOTORSPORT TV
+https://amg00712-alchimie-motosporttv-samsungfr-0coue.amagi.tv/playlist/amg00712-alchimie-motosporttv-samsungfr/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/443jKxq/techco.png",TECH&CO
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?start=LIVE&end=END
 #EXTINF:0 tvg-logo="https://i.ibb.co/443jKxq/techco.png",TECH&CO
@@ -709,8 +711,6 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17c
 http://dygvideo.dygdigital.com/live/hls/puhukralpopdai?m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/6401NQw/kraltv.png",KRAL - KRAL POP (backup)
 https://dogus.daioncdn.net/kralpoptv/kralpoptv.m3u8?app=f38a38b4-ce55-4040-8676-9826937d6128
-#EXTINF:0 tvg-logo="https://i.ibb.co/xS417WJ/pturkiyiler.png",POWER TÜRK EN İYİLER [offline]
-https://listen.powerapp.com.tr/pturkeniyiler/eniyiler.smil/playlist.m3u8
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/xzZk0Yq/trtavaz.png" group-title="|TR|🇹🇷 DİĞER",TRT AVAZ
