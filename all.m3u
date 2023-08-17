@@ -989,14 +989,14 @@ https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/CH8JGfJ/cgtnes.png",CGTN ESPAÑOL
 http://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/pRYF5QL/hispantv.png",PRESS HISPAN TV
+https://cdnlive.presstv.ir/cdnlive/smil:live.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",EURONEWS ES (backup)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2577
 #EXTINF:0 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",EURONEWS ES (backup)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4625
 #EXTINF:0 tvg-logo="https://i.ibb.co/QnMxFJD/madr.jpg",TELE MADRID (offlink)
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/pRYF5QL/hispantv.png",PRESS HISPAN TV
-https://cdnlive.presstv.ir/cdnlive/smil:live.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/D7w9h7Q/rt.png",RT ESPAÑOL [censure-blocked]
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
