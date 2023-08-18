@@ -541,6 +541,8 @@ https://mn-nl.mncdn.com/blutv_tv4/live.m3u8
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/hLPsqNq/birtv.png",BİR TV
 https://live.artidijitalmedya.com/artidijital_birtv/birtv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/1Ty8Z3X/bizimev.png",BİZİM EV TV
+https://bizimev.blutv.com/blutv_bizimev/bizimev_sd.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/DKHDfbr/wmtv.png",WOMAN KADIN TV
 https://s01.webcaster.cloud/wmtv/live_1080p.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/DKHDfbr/wmtv.png",WOMAN KADIN TV
@@ -575,8 +577,6 @@ http://dygvideo.dygdigital.com/live/hls/tlctvdai?m3u8
 https://dogus.daioncdn.net/tlc/tlc.m3u8?app=1aca0aa1-06e3-41ff-a8e5-38d7df475469
 #EXTINF:0 tvg-logo="https://i.ibb.co/DKHDfbr/wmtv.png",WOMAN KADIN TV (backup)
 https://mn-nl.mncdn.com/blutv_womantv/womantv_sd.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/1Ty8Z3X/bizimev.png",BİZİM EV TV (offline)
-https://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/playlist.m3u8
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/YjkMYbF/trtcocuk21a.png" group-title="|TR|🇹🇷 ÇOCUK/SPOR",TRT ÇOCUK
@@ -665,6 +665,10 @@ http://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
 http://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/cQfPfgR/tatlises.png",TATLISES
 https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/Jqzzby7/milyontv.png",MİLYON TV
+https://milyontv.blutv.com/blutv_milyontv/milyontv_sd.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/Jqzzby7/milyontv.png",MİLYON TV
+https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/wSPFds2/nr1turk.png",NUMBER ONE TÜRK
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/wSPFds2/nr1turk.png",NUMBER ONE TÜRK
@@ -707,10 +711,6 @@ http://dygvideo.dygdigital.com/live/hls/puhukralpopdai?m3u8
 https://dogus.daioncdn.net/kralpoptv/kralpoptv.m3u8?app=f38a38b4-ce55-4040-8676-9826937d6128
 #EXTINF:0 tvg-logo="https://i.ibb.co/xhfcTC7/powertv.png",POWER TV (backup)
 https://live.artidijitalmedya.com/artidijital_powertv/powertv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/Jqzzby7/milyontv.png",MİLYON TV (offline)
-https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/Jqzzby7/milyontv.png",MİLYON TV (offlink)
-https://mn-nl.mncdn.com/blutv_milyontv/milyontv_sd.smil/playlist.m3u8
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/xzZk0Yq/trtavaz.png" group-title="|TR|🇹🇷 DİĞER",TRT AVAZ
