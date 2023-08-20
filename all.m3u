@@ -1141,6 +1141,10 @@ http://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
 http://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/rQJcGTc/medi1tv.png",MEDI 1 FR العربية
 http://streaming1.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/pdd2VqB/chada.jpg",CHADA TV شدى (ifany)
+https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/pdd2VqB/chada.jpg",CHADA TV شدى (ifany)
+https://test-streamer.eagrpservices.com/video/live/720p/chada.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/9tsD8WP/TV2Al.png",TV2 ALGERIE [hta_dz-off]
 https://cdn02.hta.dz/abr_htatv/CANAL_ALGERIE/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/xY39PSC/TV1-ENTV.png",TV1 ENTV [hta_dz-off]
@@ -1191,10 +1195,6 @@ https://cdn02.hta.dz/abr_htatv/Beur_TV/playlist.m3u8
 https://cdn02.hta.dz/abr_htatv/EL_DJAZAIRIA_TV/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/h9yh1nr/lina.png",LINA TV [downline]
 https://cdn02.hta.dz/abr_htatv/Lina_TV/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/pdd2VqB/chada.jpg",CHADA TV شدى [downlink]
-https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/pdd2VqB/chada.jpg",CHADA TV شدى [downlink]
-https://test-streamer.eagrpservices.com/video/live/720p/chada.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/H4N2sNS/cna.png",CNA
 https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8
 
@@ -1733,12 +1733,22 @@ https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a82
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/mywSdSQ/att.png" group-title="|📡|👨‍💻👉GITHUB.COM/IPSTREET312",|ℹ️|MORE-INFO➡️: ☛RECEPTIONIPTV.BLOGSPOT.COM 📻🎶📺🎥
 https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/blogv.ts
-#EXTINF:0 tvg-logo="https://i.ibb.co/44mYxL7/dm1.png",DELUXE MUSIC⭐ English 🤩❤️👍
+#EXTINF:0 tvg-logo="https://i.ibb.co/6t2ztJT/dlxmsc.png",DELUXE MUSIC⭐ English 🤩❤️👍
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/44mYxL7/dm1.png",DELUXE MUSIC⭐ Deutsch 🤩❤️👍
+#EXTINF:0 tvg-logo="https://i.ibb.co/jZWbT2g/dlxfbk.png",DELUXE MUSIC⭐ Flashback 🤩❤️👍
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/2ks2Ys7/dlxdnc.png",DELUXE MUSIC⭐ Dance 🤩❤️👍
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/WBKwntS/dlxrap.png",DELUXE MUSIC⭐ Rap 🤩❤️👍
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/mDFLYx3/dlxrck.png",DELUXE MUSIC⭐ Rock 🤩❤️👍
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65181/65181_264_live.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/TmL52ct/dlxde.png",DELUXE MUSIC⭐ Deutsch 🤩❤️👍
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/pKt53kX/dl1.png",DELUXE MUSIC⭐ Lounge 🤩❤️👍
+#EXTINF:0 tvg-logo="https://i.ibb.co/RpfpWkr/dlxlng.png",DELUXE MUSIC⭐ Lounge 🤩❤️👍
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2664
+#EXTINF:0 tvg-logo="https://i.ibb.co/RpfpWkr/dlxlng.png",DELUXE MUSIC⭐ Lounge 🤩❤️👍
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2489
 #EXTINF:0 tvg-logo="https://i.ibb.co/pKt53kX/dl1.png",DELUXE MUSIC⭐ Lounge Extra 🤩❤️👍
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/8ef13d2a-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=FR&vendor=samsung
 #EXTINF:0,CHECK Input Entry Test Stream A0
