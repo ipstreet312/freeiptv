@@ -27,8 +27,8 @@ jobs:
 
       - name: Replace Text
         run: |
-          sed -i "s/tf1-cmaf.*/${{ steps.fetch_content.outputs.content }}/g" all.m3u
-
+          sed -i "/tf1-cmaf/ c $(echo '${{ steps.fetch_content.outputs.content }}')" all.m3u
+    
       - name: Commit and Push Changes
         run: |
           git config --local user.name "0tf Action"
