@@ -100,13 +100,13 @@ https://raw.githubusercontent.com/pshanmu3/dailymotion_to_m3u8/main/C8.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1 (part-time)
 https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI5MC4yNC4zMy43MiIsImNtY2QiOiIiLCJleHAiOjE2OTI2NTY1NjksImdpZCI6IjM4OWJkM2I2LTFlNDktNDM0Mi05N2U0LWVkMWM1MjE5YzU2ZiIsImlhdCI6MTY5MjY0MjE2OSwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjoyMDAwMDAwLCJzdGVtIjoiL291dC92MS83ODA1NDJmNTE2ZjE0M2ZjOGFkOWJmMTQ2MjIzMTZlNy90ZjEtY21hZiIsInN1YiI6IjM4OWJkM2I2LTFlNDktNDM0Mi05N2U0LWVkMWM1MjE5YzU2ZiJ9.Q5KqWBF4yQdYsdjHhAZe1p45jBof-X2yb100_ryj9WE/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png",FRANCE 2
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/frtv/py/0fr2.m3u8
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr2.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/y8PjbJ4/fr3bl.png",FRANCE 3
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/frtv/py/0fr3.m3u8
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr3.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/VgcrtZ5/fr4blok.png",FRANCE 4
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/frtv/py/0fr4.m3u8
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr4.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/N9d4yXt/fr5bl.png",FRANCE 5
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/frtv/py/0fr5.m3u8
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr5.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/pQ7kLNY/tv5fbs.png",TV5MONDE FBSM
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/BPpZPBn/arte.png",ARTE FR
@@ -1753,5 +1753,5 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2664
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2489
 #EXTINF:0 tvg-logo="https://i.ibb.co/pKt53kX/dl1.png",DELUXE MUSIC⭐ Lounge Extra 🤩❤️👍
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/8ef13d2a-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=FR&vendor=samsung
-#EXTINF:0,CHECK Input Entry Test Stream A0
+#EXTINF:0,CHECK Input Entry Test Stream A01
 https://empty
