@@ -19,7 +19,7 @@ jobs:
           git config --global user.name "0afr2345 bot"
       
       - name: updating 0afr2345
-        run: sh ${GITHUB_WORKSPACE}/ressources/frtv/py/0afr2345.sh
+        run: sh ressources/frtv/py/0afr2345.sh
         
       - name: git add
         run: |
