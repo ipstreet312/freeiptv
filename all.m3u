@@ -398,7 +398,7 @@ http://akittv-live.ercdn.net/akittv/akittv.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/y04nCSJ/artii.png",ARTI TV
 https://new.cache-stream.workers.dev/stream/UCxVicskgBc8OD66iLKc7Uaw/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/y04nCSJ/artii.png",ARTI TV
-https://new.cache-stream.workers.dev/stream/z9ZhgZGxqM8/live.m3u8
+https://ythls.onrender.com/channel/UCxVicskgBc8OD66iLKc7Uaw.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/hB9yNXV/yol22.png",YOL TV
 http://stream.yol.tv:9485/medialive/yol.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/hB9yNXV/yol22.png",YOL TV
@@ -1207,6 +1207,8 @@ https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
 https://live.3cd.io/v1/broadcast/one/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/zH7W9tX/volbn.png",VOICE OF LBN
 https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/ygKx229/lana1.png",LANA TV
+https://eitc3.secure2.footprint.net/hls/LTV.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/JrFjqrc/nabaa.png",NABAA TV
 https://5dc7d824154d0.streamlock.net/live/Nabaa/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/h872gKg/taha.png",TAHA TV
@@ -1288,7 +1290,7 @@ https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklis
 #EXTINF:0 tvg-logo="https://i.ibb.co/GJVSFNt/oman.png",OMAN SPORT
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/PFCf0SG/jaylia.jpg",AL JAYLIA
-https://media2.livaat.com/AL-Jaleyah/tracks-v1a1/mono.m3u8
+https://media2.livaat.com/AL-Jaleyah/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/740Znb4/ittihad.png",ETIHAD
 https://live.alittihad.tv:444/ittihad/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/PYwbLwJ/haqiqat.jpg",AL HAQIQA
@@ -1310,7 +1312,7 @@ https://master.starmena-cloud.com/hls/yemenshabab.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/wK6B1QV/utv.png",UTV IRAQI
 https://mn-nl.mncdn.com/utviraqi2/64c80359/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/8jK0ZR5/alrasheed.png",AL RASHEED
-https://media1.livaat.com/AL-RASHEED-HD/tracks-v1/index.m3u8
+https://media1.livaat.com/AL-RASHEED-HD/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/mFb5JL3/qaftv.png",QAF
 https://mn-nl.mncdn.com/qaf/live/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png",ROYA TV (backup)
