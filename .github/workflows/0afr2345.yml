@@ -1,4 +1,4 @@
-name: 0afr2345 action
+name: 0afr Action
 
 on:
   schedule:
@@ -16,9 +16,9 @@ jobs:
       - name: config
         run: |
           git config --global user.email "<>"
-          git config --global user.name "0afr2345 bot"
+          git config --global user.name "0afr Bot"
       
-      - name: updating 0afr2345
+      - name: updating 0afr
         run: sh ressources/frtv/py/0afr2345.sh
         
       - name: git add
@@ -28,5 +28,5 @@ jobs:
           
       - name: commit & push
         run: |
-          git commit -m "0afr2345 updated"
+          git commit -m "0afr Updated"
           git push
