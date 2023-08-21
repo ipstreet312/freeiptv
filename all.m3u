@@ -1352,7 +1352,7 @@ https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203
 #EXTINF:0 tvg-logo="https://i.ibb.co/nzjbYfR/asharq.png",ASHARQ NEWS
 https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/m4tvbmp/inewsar.png",INEWS IQ
-https://svs.itworkscdn.net/inewsiqlive/inewsiq.smil/inewsiqpublish/inewsiq/chunks.m3u8
+https://svs.itworkscdn.net/inewsiqlive/inewsiq.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/JcP5JHq/bbcaranw.png",BBC NEWS ARABIA
 https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/mobile_wifi_main_sd_abr_v2.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/JcP5JHq/bbcaranw.png",BBC NEWS ARABIA
@@ -1420,7 +1420,7 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtiwaxdzdfggbnlive/broadcast_5d1b
 #EXTINF:0 tvg-logo="https://i.ibb.co/dQtMFVT/qamar.jpg",AL QAMAR
 https://cdn5.iqsat.net/iq/8c17d37e0f5c88b1e9c7e1f8f82bc980.sdp/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/ypj95gJ/almasirah.png",ALMASIRA MUBASHER
-https://svs.itworkscdn.net/almasiramubacherlive/almasira.smil/almasiramubacherpublish/almasira/playlist.m3u8
+https://svs.itworkscdn.net/almasiramubacherlive/almasira.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/TkVK043/ekbariya.png",AL EKHBARIA
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/HPzRmd3/alistiqama.png",AL ISTIQAMA
