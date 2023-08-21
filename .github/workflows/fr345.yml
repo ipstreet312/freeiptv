@@ -1,0 +1,32 @@
+name: fr345 action
+
+on:
+  schedule:
+    - cron: '23 */4 * * *'
+  
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    
+      - uses: actions/checkout@v2
+
+      - name: config
+        run: |
+          git config --global user.email "<>"
+          git config --global user.name "fr345 bot"
+      
+      - name: updating fr345
+        run: sh ressources/ftv/py/fr345.sh
+        
+      - name: git add
+        run: |
+          git add -A
+          ls -la 
+          
+      - name: commit & push
+        run: |
+          git commit -m "fr345 updated"
+          git push
