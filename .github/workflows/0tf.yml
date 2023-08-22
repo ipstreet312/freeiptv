@@ -32,6 +32,7 @@ jobs:
       - name: Commit and Push Changes
         run: |
           git config --local user.name "0tf Action"
+          git config user.email "<>"
           git add all.m3u
           git commit -m "0tf updated"
           git push
