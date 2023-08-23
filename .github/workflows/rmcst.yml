@@ -28,7 +28,7 @@ jobs:
           git config --global user.email "<>"
           git config --global user.name "rmcst bot"
       
-      - name: updating bsmart
+      - name: updating rmcst
         run: sh ressources/dmotion/py/rmcst/rmcst.sh
         
       - name: git add
