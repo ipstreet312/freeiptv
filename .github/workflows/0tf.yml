@@ -2,7 +2,7 @@ name: 0tf
 
 on:
   schedule:
-    - cron: '38 */03 * * *'
+    - cron: '39 */03 * * *'
   push:
     branches:
       - main
