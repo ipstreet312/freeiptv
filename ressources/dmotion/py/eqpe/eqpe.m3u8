@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:RESOLUTION=1280x720,FRAME-RATE=25.000000,BANDWIDTH=2179072,CODECS="avc1.64001f,mp4a.40.2",NAME="720"
-Key 'qualities' or its subkeys not found in the JSON data.
+An error occurred: HTTPSConnectionPool(host='www.dailymotion.com', port=443): Max retries exceeded with url: /player/metadata/video/x2lefik (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fda9c14af20>, 'Connection to 62.210.135.99 timed out. (connect timeout=None)'))
