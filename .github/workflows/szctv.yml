@@ -30,7 +30,7 @@ jobs:
       
       
       - name: updating szctv
-        run: sh ressources/dmotion/py/szctv/szctv.sh
+        run: python3 ressources/dmotion/py/szctv/szctv.py > ressources/dmotion/py/szctv/szctv.m3u8
         
       - name: git add
         run: |
