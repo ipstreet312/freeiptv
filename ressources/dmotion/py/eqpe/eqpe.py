@@ -4,15 +4,6 @@ import requests
 import os
 import sys
 
-proxies = {}
-
-if len(sys.argv) == 2:
-    proxy_url = "http://62.210.135.99:80"
-    proxies = {
-        'http': proxy_url,
-        'https': proxy_url
-    }
-
 na = 'https://empty'
 print('#EXTM3U')
 print('#EXT-X-VERSION:3')
@@ -20,8 +11,8 @@ print('#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000')
 
 try:
     s = requests.Session()
-    response = s.get(f'https://www.dailymotion.com/player/metadata/video/x2lefik', proxies=proxies).json()['qualities']['auto'][0]['url']
-    m3u = s.get(response, proxies=proxies).text
+    response = s.get(f'https://www.dailymotion.com/player/metadata/video/x8i9j7s').json()['qualities']['auto'][0]['url']
+    m3u = s.get(response).text
     m3u = m3u.strip().split('\n')[1:]
     d = {}
     cnd = True
