@@ -366,7 +366,7 @@ https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/BtYMK4q/halk21a.png",HALK TV
 https://halktvdvr.blutv.com/blutv_halktv2_dvr/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/tXdf2YF/ulusal22.png",ULUSAL KANAL
-https://mn-nl.mncdn.com/blutv_ulusalkanal/blutv_ulusalkanal.smil/playlist.m3u8
+https://ulusalkanal.blutv.com/blutv_ulusalkanal/blutv_ulusalkanal.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/tXdf2YF/ulusal22.png",ULUSAL KANAL
 https://stream.guventechnology.com:19360/ulusaltv/ulusaltv.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/6m9Pb3t/tv5tr1.png",TV5
@@ -394,7 +394,7 @@ https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/PhwYjQ7/24tv.png",24
 https://ensonhaber-live.ercdn.net/tv24/tv24.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/ZXts607/ulketv.png",ÜLKE
-https://mn-nl.mncdn.com/blutv_ulketv2/live.m3u8
+https://ulketv.blutv.com/blutv_ulketv2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/ZXts607/ulketv.png",ÜLKE
 https://new.cache-stream.workers.dev/stream/UCi65FGbYYj-OzJm2luB_fNQ/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/B4XX5Vx/akittv.png",AKIT TV
@@ -540,7 +540,7 @@ http://canli.haber365.com.tr/tr/tlc/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/pXncfpb/tv422.png",TV 4
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/pXncfpb/tv422.png",TV 4
-https://mn-nl.mncdn.com/blutv_tv4/live.m3u8
+https://tv4.blutv.com/blutv_tv4/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/SnPFhXS/cnee12.png",CINE 1
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/hLPsqNq/birtv.png",BİR TV
@@ -580,13 +580,13 @@ http://dygvideo.dygdigital.com/live/hls/tlctvdai?m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Z1vHy41/tlc.png",TLC TR (backup)
 https://dogus.daioncdn.net/tlc/tlc.m3u8?app=1aca0aa1-06e3-41ff-a8e5-38d7df475469
 #EXTINF:0 tvg-logo="https://i.ibb.co/DKHDfbr/wmtv.png",WOMAN KADIN TV (backup)
-https://mn-nl.mncdn.com/blutv_womantv/womantv_sd.smil/playlist.m3u8
+https://womantv.blutv.com/blutv_womantv/womantv_sd.smil/playlist.m3u8
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/YjkMYbF/trtcocuk21a.png" group-title="|TR|🇹🇷 ÇOCUK/SPOR",TRT ÇOCUK
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/YjkMYbF/trtcocuk21a.png",TRT ÇOCUK
-https://trtcocukdvr.blutv.com/blutv_trtcocuk_dvr/live.m3u8
+https://trtcocuk.blutv.com/blutv_trtcocuk_2/trtcocuk.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/qDF8pHQ/tdcc.png",TRT DİYANET ÇOCUK
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/qDF8pHQ/tdcc.png",TRT DİYANET ÇOCUK
@@ -614,11 +614,11 @@ https://new.cache-stream.workers.dev/stream/xrf_RbM_MNk/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/3WmLjwG/trtspor22c.png",TRT SPOR [geo-blocked]
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/3WmLjwG/trtspor22c.png",TRT SPOR [geo-blocked]
-https://mn-nl.mncdn.com/blutv_trtspor/live.m3u8
+https://trtspor.blutv.com/blutv_trtspor/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/ky3qVPc/trtspory2.png",TRT SPOR2 YILDIZ [geo-blocked]
 https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/ky3qVPc/trtspory2.png",TRT SPOR2 YILDIZ [geo-blocked]
-https://mn-nl.mncdn.com/blutv_trtsporyildiz_2/trtsporyildiz.smil/playlist.m3u8
+https://trtsporyildiz.blutv.com/blutv_trtsporyildiz_2/trtsporyildiz.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/zfwmCCp/ilkoku22.png",TRT EBA ILK
 https://tv-e-okul00.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/zfwmCCp/ilkoku22.png",TRT EBA ILK
@@ -650,7 +650,7 @@ https://trkvz-beta.daioncdn.net/aspor/aspor.m3u8?app=45f847c4-04e8-419a-a561-2eb
 #EXTINF:0 tvg-logo="https://i.ibb.co/d6Zfm2P/trtmuzik21c.png" group-title="|TR|🇹🇷 MÜZİK",TRT MÜZİK
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/d6Zfm2P/trtmuzik21c.png",TRT MÜZİK
-https://mn-nl.mncdn.com/blutv_trtmuzik2/live.m3u8
+https://trtmuzik.blutv.com/blutv_trtmuzik2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/6401NQw/kraltv.png",KRAL - KRAL POP
 http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/6401NQw/kraltv.png",KRAL - KRAL POP
@@ -722,13 +722,9 @@ https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/swtn1kV/trtturk.png",TRT TÜRK
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/swtn1kV/trtturk.png",TRT TÜRK
-https://mn-nl.mncdn.com/blutv_trtturk2/live.m3u8
+https://trtturk.blutv.com/blutv_trtturk2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/cDxKJy1/k7avr1.png",KANAL 7 AVRUPA
 https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/THj0Jrg/eurod22.png",EURO D
-https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/THj0Jrg/eurod22.png",EURO D
-https://bozztv.com/inim03/live1/eurod/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/WvhGGP0/showturk1.png",SHOW TÜRK
 https://showturk.blutv.com/blutv_showturk2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/WvhGGP0/showturk1.png",SHOW TÜRK (geçici geçerli)
@@ -737,6 +733,8 @@ http://nimplus3.bozztv.com/showtvturk/showtvturk/playlist.m3u8
 https://bozztv.com/inim03/live1/showtvturk/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Lg90xsB/eurostar22.png",EURO STAR (geçici geçerli)
 http://nimplus3.bozztv.com/eurostar/eurostar/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/THj0Jrg/eurod22.png",EURO D (geçici geçerli)
+https://bozztv.com/inim03/live1/eurod/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/4KgqKnX/atvavrupa.png",ATV AVRUPA (geçici geçerli)
 http://nimplus3.bozztv.com/atvavrupa/atvavrupa/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/MCXCRcn/tgrteu1.png",TGRT EU
@@ -957,6 +955,8 @@ https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
 https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/5kpD2Jv/cat8.png",CATALUNYA 8
 https://mdstrm.com/live-stream-playlist/636bd70b44680408872dbfc6.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/crzKf1n/tenerife4.jpg",TENERIFE 4
+https://5940924978228.streamlock.net/Directo1/Directo1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/crzKf1n/tenerife4.jpg",TENERIFE 4
 https://5940924978228.streamlock.net/Directo2/Directo2/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/HKFVwnt/ceum.jpg",CEUTA RTV
@@ -1320,7 +1320,7 @@ http://live.alqudstoday.tv:8080/hls/alqudstv/alqudstv.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/TMFyykR/paltv.png",PAL TV
 https://live.paltodaytv.com/paltv/live/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/nkfS0P4/palsat.jpg",PAL-SAT
-http://htvpalsat.mada.ps:8888/audeh/tracks-v1a1/mono.m3u8
+http://htvpalsat.mada.ps:8888/audeh/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/0yytb9K/yementoday.png",YEMEN TODAY
 https://video.yementdy.tv/hls/yementoday.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/230j3Kr/yemenshabab.png",YEMEN SHABAB
@@ -1764,7 +1764,7 @@ https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/nP9xpck/trtw.png",TRT WORLD
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/nP9xpck/trtw.png",TRT WORLD
-https://mn-nl.mncdn.com/blutv_trtworld2/live.m3u8
+https://trtworld.blutv.com/blutv_trtworld2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/MGW5Vv9/aljaz.png",AL JAZEERA NEWS 
 https://live-hls-web-aje.getaj.net/AJE/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/s9gLmqv/cgtnch.png",CGTN NEWS
