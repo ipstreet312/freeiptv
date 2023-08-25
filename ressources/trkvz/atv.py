@@ -9,5 +9,5 @@ headers={
 }
 
 s = requests.Session()
-response = s.get('https://securevideotoken.tmgrup.com.tr/webtv/secure?url=https://trkvz.daioncdn.net/atv/atv.m3u8?ce=3&app=d1ce2d40-5256-4550-b02e-e73c185a314e', headers=headers).json()['Url']
+response = s.get('https://securevideotoken.tmgrup.com.tr/webtv/secure?url=https%3A%2F%2Ftrkvz.daioncdn.net%2Fatv%2Fatv.m3u8%3Fce%3D3%26app%3Dd1ce2d40-5256-4550-b02e-e73c185a314e', headers=headers).json()['Url']
 print(response)
