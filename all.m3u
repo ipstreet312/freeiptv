@@ -600,7 +600,7 @@ https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/867fC4z/fbtv22a.png",FENERBAHÇE TV
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/fbtv/fbtv.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/4Rm7Z6Z/sports22.png",SPORTS TV
-https://live.sportstv.com.tr/hls/low/sportstv.m3u8
+https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/4Rm7Z6Z/sports22.png",SPORTS TV
 https://sportstv.blutv.com/blutv_sportstv2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/BfM21nC/beinhaber.png",BIS HABER
@@ -633,6 +633,8 @@ https://tv-e-okul02.medya.trt.com.tr/master.m3u8
 https://ebal.blutv.com/blutv_ebal2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/YjkMYbF/trtcocuk21a.png",TRT ÇOCUK (backup)
 https://tv-trtcocuk.live.trt.com.tr/master.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/4Rm7Z6Z/sports22.png",SPORTS TV (backup)
+https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/0Yt6jbg/tjk.png",TJK TV [geo-blocked]
 http://tjktv.ercdn.net/tjktv.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/0Yt6jbg/tjk.png",TJK TV [geo-blocked]
