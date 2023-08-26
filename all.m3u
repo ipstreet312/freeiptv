@@ -119,8 +119,6 @@ https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/hKVyKj4/tmc.png",TMC
 https://live-tmc-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI5MC4yNC4zMy43MiIsImNtY2QiOiIiLCJleHAiOjE2OTMwMzQ2OTQsImdpZCI6Ijk2YzdiNmVhMWZjMTQyMGViM2ZmYWQ4NDRiZjg1OTg5IiwiaWF0IjoxNjkzMDIwMjk0LCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzQ0ZmNiMWM3NzYyODRmMmRhN2MxMWVmOTQ4ZDdlZjM0L3RtYy1jbWFmIiwic3ViIjoiOTZjN2I2ZWExZmMxNDIwZWIzZmZhZDg0NGJmODU5ODkifQ.h5HN8F_uAGahBMu2eItzK5hT2C-lNk_sdV7ECHCS-nQ/out/v1/44fcb1c776284f2da7c11ef948d7ef34/tmc-cmaf/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/fdYg3Lz/rmcstory.png",RMC STORY
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/rmcst/rmcst.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/ftYS2bk/CANAL-logo.png",CANAL+ EN CLAIR
 https://hls-m007.live-lv3.canalplus-cdn.net/live/disk/canalplusclair-hd/hls-ios-fhd-clair/canalplusclair-hd.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/NyHqX5R/belrtl.png",BEL RTL
@@ -159,10 +157,12 @@ https://hls-m013.live-lv3.canalplus-cdn.net/live/disk/cstar-hd/hls-ios-fhddvr-pr
 https://hls-m013.live-lv3.canalplus-cdn.net/live/disk/cstar-hd/hls-ios-fhd/cstar-hd.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Sm9PtLR/cstar.png",CSTAR [drm-blocked]
 https://hls-m013-live-aka-canalplus.akamaized.net/live/disk/cstar-ad-hd/hls-ios-fhd/cstar-ad-hd.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/fdYg3Lz/rmcstory.png",RMC STORY [drm-blocked]
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$NUMERO_23/index.m3u8?start=LIVE&end=END
 #EXTINF:0 tvg-logo="https://i.ibb.co/VS4xR2g/rmcdecou.png",RMC DECOUVERTE [drm-blocked]
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$RMC_DECOUVERTE/index.m3u8?start=LIVE&end=END
+#EXTINF:0 tvg-logo="https://i.ibb.co/fdYg3Lz/rmcstory.png",RMC STORY [drm-blocked]
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$NUMERO_23/index.m3u8?start=LIVE&end=END
+#EXTINF:0 tvg-logo="https://i.ibb.co/fdYg3Lz/rmcstory.png",RMC STORY [wrkflw-deact]
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/rmcst/rmcst.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6 [drm-blocked]
 https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/1b7883731a2a4c9daf16dde45a8162e9/dash_short_cenc10_m6_hdeindex.mpd
 #EXTINF:0 tvg-logo="https://i.ibb.co/LNRd253/w9.png",W9 [drm-blocked]
