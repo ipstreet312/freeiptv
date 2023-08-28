@@ -1215,6 +1215,8 @@ https://live.3cd.io/v1/broadcast/one/playlist.m3u8
 https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/ygKx229/lana1.png",LANA TV
 https://eitc3.secure2.footprint.net/hls/LTV.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/ygKx229/lana1.png",LANA TV
+https://eitc3.secure2.footprint.net/hls/LTV2.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/JrFjqrc/nabaa.png",NABAA TV
 https://5dc7d824154d0.streamlock.net/live/Nabaa/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/h872gKg/taha.png",TAHA TV
