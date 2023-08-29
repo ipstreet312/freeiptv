@@ -1677,6 +1677,8 @@ https://dai.google.com/ssai/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6231ec93779a9d00079ba8e2livestitch/master.m3u8?deviceDNT=%7BTARGETOPT%7D&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung
 #EXTINF:0 tvg-logo="https://i.ibb.co/FxZYHhM/cnbc.jpg",CNBC NEWS [downlink]
 https://vidplus.pc.cdn.bitgravity.com/cnbceu-origin/live/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/FxZYHhM/cnbc.jpg",CNBC NEWS
+https://new.cache-stream.workers.dev/stream/UCvJJ_dzjViJCoLf5uKUTwoA/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/VMm5SSz/realamv.png",REAL AMERICAS VOICE
 https://p1media-americasvoice-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/VMm5SSz/realamv.png",REAL AMERICAS VOICE
