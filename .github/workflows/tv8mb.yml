@@ -1,0 +1,36 @@
+name: tv8mb
+
+on:
+  schedule:
+    - cron: '28 */5 * * *'
+  
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: config
+        run: |
+          git config --global user.email "<>"
+          git config --global user.name "tv8mb bot"
+      
+      - name: grab m3u files
+        run: |
+          pwd
+          cd ./ressources/dmotion/py/tv8mb
+          python3 dailymotion.py "x3wqv8b" > tv8mb.m3u8
+          echo "m3u grabbed"
+        
+      - name: git add
+        run: |
+          git add -A
+          ls -la 
+          
+      - name: commit & push
+        run: |
+          git commit -m "tv8mb updated"
+          git push
