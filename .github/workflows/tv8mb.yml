@@ -22,7 +22,7 @@ jobs:
         run: |
           pwd
           cd ./ressources/dmotion/py/tv8mb
-          python3 dailymotion.py "x3wqv8b" > tv8mb.m3u8
+          python3 dmplatform.py "x3wqv8b" > tv8mb.m3u8
           echo "m3u grabbed"
         
       - name: git add
