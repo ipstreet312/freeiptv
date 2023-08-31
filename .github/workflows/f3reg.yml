@@ -1,7 +1,7 @@
 name: f3reg action
 on:
   schedule:
-    - cron: "30 */4 * * *"
+    - cron: "36 */4 * * *"
     
   workflow_dispatch:
 
@@ -14,7 +14,7 @@ jobs:
         uses: actions/checkout@v3
 
       - name: updating f3reg
-        run: sh ressources/ftv/sh/f3reg.sh
+        run: sh ressources/ftv/py/f3reg.sh
 
       - name: setup git config
         run: |
