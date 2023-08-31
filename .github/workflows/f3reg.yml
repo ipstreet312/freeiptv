@@ -1,0 +1,28 @@
+name: f3reg action
+on:
+  schedule:
+    - cron: "30 */4 * * *"
+    
+  workflow_dispatch:
+
+jobs:
+  update-stream:
+    runs-on: ubuntu-latest
+    steps:
+    
+      - name: checkout
+        uses: actions/checkout@v3
+
+      - name: updating f3reg
+        run: sh ressources/ftv/sh/f3reg.sh
+
+      - name: setup git config
+        run: |
+          git config user.name "f3reg bot"
+          git config user.email "<>"
+      - name: commit
+        run: |
+          git pull
+          git add all.m3u
+          git commit -m "f3reg updated"
+          git push origin master
