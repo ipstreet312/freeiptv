@@ -1,0 +1,37 @@
+name: f3reg1 action
+
+on:
+  schedule:
+    - cron: '30 */4 * * *'
+  
+  workflow_dispatch:
+
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+
+      # 
+      - name: config
+        run: |
+          git config --global user.email "<>"
+          git config --global user.name "f3reg1 bot"
+      
+      - name: updating f3reg1
+        run: python3 ressources/ftv/py/f3reg.py > ressources/ftv/py/f3reg.txt
+        
+      - name: git add
+        run: |
+          git add -A
+          ls -la 
+          
+      - name: commit & push
+        run: |
+          git commit -m "f3reg1 updated"
+          git push
