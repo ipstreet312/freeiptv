@@ -282,6 +282,8 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_PARIS/index.m3u8?start=LIVE&end=
 #EXTINF:0 tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png",BFM TOULON
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?start=LIVE&end=END
 #EXTINF:0 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",F3 PARIS IDF
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fidf.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",F3 PARIS IDF
 https://live-regions-p.ftven.fr/ZXhwPTE2OTM1NjQ2ODN+YWNsPSUyZip+aG1hYz0wZTcxOWViNDRlZDRlNDBiMDI0YjZmYmYxODI5M2YwYWZkODY1MzgwOWEwNzBlODI4MGRiMWMzZDhmYzY0ZjAx/hls/live/2037716/F3_Paris_IDF/stream04/streamPlaylist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",F3 RHONE ALPES
 https://live-regions-p.ftven.fr/ZXhwPTE2OTM1NjQ2ODN+YWNsPSUyZip+aG1hYz0wZTcxOWViNDRlZDRlNDBiMDI0YjZmYmYxODI5M2YwYWZkODY1MzgwOWEwNzBlODI4MGRiMWMzZDhmYzY0ZjAx/hls/live/2037721/F3_RhoneAlpes/stream04/streamPlaylist.m3u8
