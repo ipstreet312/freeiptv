@@ -1,0 +1,32 @@
+name: freg action
+
+on:
+  schedule:
+    - cron: '38 */4 * * *'
+  
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    
+      - uses: actions/checkout@v2
+
+      - name: config
+        run: |
+          git config --global user.email "<>"
+          git config --global user.name "freg bot"
+      
+      - name: updating freg
+        run: sh ressources/ftv/py/freg.sh
+        
+      - name: git add
+        run: |
+          git add -A
+          ls -la 
+          
+      - name: commit & push
+        run: |
+          git commit -m "freg updated"
+          git push
