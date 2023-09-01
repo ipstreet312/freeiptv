@@ -1,0 +1,35 @@
+name: lcpan action
+
+on:
+  schedule:
+    - cron: '57 */5 * * *'
+  
+  workflow_dispatch:
+
+jobs:
+
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+
+      - name: config
+        run: |
+          git config --global user.email "<>"
+          git config --global user.name "lcpan bot"
+      
+      - name: updating lcpan
+        run: python3 ressources/dmotion/py/lcpan/lcpan.py > ressources/dmotion/py/lcpan/lcpan.m3u8
+        
+      - name: git add
+        run: |
+          git add -A
+          ls -la 
+          
+      - name: commit & push
+        run: |
+          git commit -m "lcpan updated"
+          git push
