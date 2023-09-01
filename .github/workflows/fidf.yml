@@ -1,0 +1,32 @@
+name: fidf action
+
+on:
+  schedule:
+    - cron: '30 */4 * * *'
+  
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    
+      - uses: actions/checkout@v2
+
+      - name: config
+        run: |
+          git config --global user.email "<>"
+          git config --global user.name "fidf bot"
+      
+      - name: updating fr2
+        run: sh ressources/ftv/py/fidf.sh
+        
+      - name: git add
+        run: |
+          git add -A
+          ls -la 
+          
+      - name: commit & push
+        run: |
+          git commit -m "fidf updated"
+          git push
