@@ -7,8 +7,8 @@ headers = {
     "Referer": "http://www.callofliberty.fr/"
 }
 
-print(#EXTM3U)
-print(#EXT-X-STREAM-INF:RESOLUTION=848x477,FRAME-RATE=25.000000,BANDWIDTH=1359872,CODECS="avc1.64001e,mp4a.40.2",NAME="480")
+print('#EXTM3U')
+print('#EXT-X-STREAM-INF:RESOLUTION=848x477,FRAME-RATE=25.000000,BANDWIDTH=1359872,CODECS="avc1.64001e,mp4a.40.2",NAME="480"')
 
 master_url = "http://www.callofliberty.fr/stream/LCP/master1.m3u8"
 s = requests.Session()
