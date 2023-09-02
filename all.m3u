@@ -1477,6 +1477,8 @@ https://shls-live-ak.akamaized.net/out/v1/2daff8b433344d659bd5079224afc3ab/index
 https://d2p6676ajpsg1j.cloudfront.net/out/v1/2daff8b433344d659bd5079224afc3ab/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/9tsD8WP/TV2Al.png",TV2 ALGERIE
 https://bozztv.com/inim03/live1/giniko_canalalgerie/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/1vH6q4L/echounws.png",ECHOUROUK NEWS
+https://bledflix-echorouk-news.b-cdn.net/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png",AL AOULA LAAYOUNE الأولى
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png",Al AOULA INT الأولى
@@ -1872,9 +1874,9 @@ https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index
 #EXTINF:0 tvg-logo="https://i.ibb.co/mc475nQ/shadidblck.jpg",MBC AFLAM
 https://shls-live-ak.akamaized.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/mc475nQ/shadidblck.jpg",MBC MOVIES ACTION
-https://cdxaws-ak.akamaized.net/v1/channel/Movies_Action/index_hls/3.m3u8
+https://cdxaws-ak.akamaized.net/v1/channel/Movies_Action/index_hls.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/mc475nQ/shadidblck.jpg",MBC MOVIES THRILLER
-https://cdxaws-ak.akamaized.net/v1/channel/Movies_Thriller/index_hls/3.m3u8
+https://cdxaws-ak.akamaized.net/v1/channel/Movies_Thriller/index_hls.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/98TBSSm/mbcfmtv.png",MBC FM LIVE TV
 https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/7W5nWYV/rotanacinema.png",ROTANA CINEMA MASR
