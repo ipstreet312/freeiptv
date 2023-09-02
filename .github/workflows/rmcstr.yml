@@ -1,0 +1,35 @@
+name: rmcstr action
+
+on:
+  schedule:
+    - cron: '23 */5 * * *'
+  
+  workflow_dispatch:
+
+jobs:
+
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+
+      - name: config
+        run: |
+          git config --global user.email "<>"
+          git config --global user.name "rmcstr bot"
+      
+      - name: updating lcpan
+        run: python3 ressources/dmotion/py/rmcstr/rmcstr.py > ressources/dmotion/py/rmcstr/rmcstr.m3u8
+        
+      - name: git add
+        run: |
+          git add -A
+          ls -la 
+          
+      - name: commit & push
+        run: |
+          git commit -m "rmcstr updated"
+          git push
