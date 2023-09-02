@@ -103,8 +103,10 @@ https://live-tmc-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJj
 https://hls-m007.live-lv3.canalplus-cdn.net/live/disk/canalplusclair-hd/hls-ios-fhd-clair/canalplusclair-hd.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Sm9PtLR/cstar.png",C STAR
 http://www.callofliberty.fr/stream/CSTAR/master1.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/Sm9PtLR/cstar.png",C STAR
+http://www.callofliberty.fr/stream/CSTAR/02.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/fdYg3Lz/rmcstory.png",RMC STORY
-http://www.callofliberty.fr/stream/RMCSTORY/master1.m3u8
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/rmcstr/rmcstr.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/NyHqX5R/belrtl.png",BEL RTL
 https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/NyHqX5R/belrtl.png",BEL RTL
