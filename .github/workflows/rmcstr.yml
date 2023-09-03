@@ -2,7 +2,7 @@ name: rmcstr action
 
 on:
   schedule:
-    - cron: '23 */5 * * *'
+    - cron: '33 */4 * * *'
   
   workflow_dispatch:
 
