@@ -2,7 +2,7 @@ name: lyoncap
 
 on:
   schedule:
-    - cron: '28 */5 * * *'
+    - cron: '56 */5 * * *'
   
   workflow_dispatch:
 
