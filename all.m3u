@@ -1507,6 +1507,12 @@ http://streaming1.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8
 https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/pdd2VqB/chada.jpg",CHADA TV شدى (ifany)
 https://test-streamer.eagrpservices.com/video/live/720p/chada.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/pPwR2Tc/ennahar.png",ENNAHAR TV [referrer]
+https://ennahar-live.dzsecurity.net/fullres/EnnaharTV_First/chunks.m3u8|Referer=https://echorouk.dzsecurity.net/embed/echorouk.php
+#EXTINF:0 tvg-logo="https://i.ibb.co/yQmcHjz/echourouk.png",ECHOUROUK TV [referrer]
+https://echorouk-live-tv.dzsecurity.net/fullres/EchoroukTV_First/chunks.m3u8|Referer=https://echorouk.dzsecurity.net/embed/echorouk.php
+#EXTINF:0 tvg-logo="https://i.ibb.co/1vH6q4L/echounws.png",ECHOUROUK NEWS [referrer]
+https://echorouk-live-tv.dzsecurity.net/fullres/EchoroukNews_First/chunks.m3u8|Referer=https://echorouk.dzsecurity.net/embed/echorouk.php
 #EXTINF:0 tvg-logo="https://i.ibb.co/9tsD8WP/TV2Al.png",TV2 ALGERIE [hta_dz-off]
 https://cdn02.hta.dz/abr_htatv/CANAL_ALGERIE/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/xY39PSC/TV1-ENTV.png",TV1 ENTV [hta_dz-off]
