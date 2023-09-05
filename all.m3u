@@ -985,6 +985,10 @@ https://yayin30.haber100.com/live/diyartv/playlist.m3u8
 https://edge1.socialsmart.tv/drttv/bant1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",DRT DENIZLI
 http://stream2.taksimbilisim.com:1935/drt/smil:drt.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/54yqgpc/ekoltv.png",EKOL TV
+https://live.artidijitalmedya.com/artidijital_ekoltv/ekoltv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/54yqgpc/ekoltv.png",EKOL TV
+https://live.artidijitalmedya.com/artidijital_vizyon58/vizyon58/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",ER TV
 https://live.artidijitalmedya.com/artidijital_ertv/ertv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",ERCIS TV
@@ -1125,8 +1129,6 @@ http://mc1.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263f
 http://uskudarunv.mediatriple.net/uskudarunv/uskudar2/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",VIYANA TV
 http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",VIZYON 58 SIVAS
-https://live.artidijitalmedya.com/artidijital_vizyon58/vizyon58/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",VUSLAT TV
 https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",YASAM TV
