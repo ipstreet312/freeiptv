@@ -2175,3 +2175,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2489
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/8ef13d2a-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=FR&vendor=samsung
 #EXTINF:0,💐CHECK Input Entry Test Stream A01
 https://empty
+#EXTINF:0,Video Player Check
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
+#EXTINF:0,ELBILAD
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dzflix/elbilad.m3u8
+#EXTINF:0,ELBILADIN
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dzflix/elbilad1.m3u8
