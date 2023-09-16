@@ -1,0 +1,35 @@
+name: eqpe action
+
+on:
+  schedule:
+    - cron: '52 */5 * * *'
+  
+  workflow_dispatch:
+
+jobs:
+
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+
+      - name: config
+        run: |
+          git config --global user.email "<>"
+          git config --global user.name "eqpe bot"
+      
+      - name: updating eqpe
+        run: python3 ressources/dmotion/py/eqpe/eqpe.py > ressources/dmotion/py/eqpe/eqpe.m3u8
+        
+      - name: git add
+        run: |
+          git add -A
+          ls -la 
+          
+      - name: commit & push
+        run: |
+          git commit -m "eqpe updated"
+          git push
