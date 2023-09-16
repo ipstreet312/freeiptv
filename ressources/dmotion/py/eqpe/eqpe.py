@@ -26,7 +26,7 @@ def get_specific_line_online(url, line_number):
 
 chunks = get_specific_line_online(master_url, 3)
 
-prefix = "http://www.callofliberty.fr/HLS-AES/"
+prefix = "http://callofliberty.fr/HLS-AES/"
 index = chunks.find(prefix)
 
 if index != -1:
