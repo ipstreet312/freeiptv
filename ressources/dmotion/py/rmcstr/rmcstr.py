@@ -10,7 +10,7 @@ headers = {
 print('#EXTM3U')
 print('#EXT-X-STREAM-INF:RESOLUTION=848x477,FRAME-RATE=50.000000,BANDWIDTH=1667072,CODECS="avc1.64001f,mp4a.40.2",NAME="480@60"')
 
-master_url = "http://www.callofliberty.fr/stream/RMCSTORY/master1.m3u8"
+master_url = "http://www.callofliberty.fr/stream/RMCSTORY/master.m3u8"
 s = requests.Session()
 
 def get_specific_line_online(url, line_number):
