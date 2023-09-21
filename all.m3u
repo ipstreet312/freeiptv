@@ -27,7 +27,7 @@ https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/
 https://ythls.onrender.com/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/PmmR72J/lcp.png",PUBLIC SENAT
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/pblsnt/pblsnt.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/PmmR72J/lcp.png",LCP AN
+#EXTINF:0 tvg-logo="https://i.ibb.co/PmmR72J/lcp.png",LCP AN [n/a]
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/lcpan/lcpan.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/5j6DZrt/20mn.png",20 MINUTES TV IDF
 https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8
@@ -93,12 +93,8 @@ https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/R3KG4L9/cherie25.png",CHERIE 25
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/hKVyKj4/tmc.png",TMC
-.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/ftYS2bk/CANAL-logo.png",CANAL+ EN CLAIR
 https://hls-m007.live-lv3.canalplus-cdn.net/live/disk/canalplusclair-hd/hls-ios-fhd-clair/canalplusclair-hd.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/fdYg3Lz/rmcstory.png",RMC STORY
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/rmcstr/rmcstr.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/NyHqX5R/belrtl.png",BEL RTL
 https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/NyHqX5R/belrtl.png",BEL RTL
@@ -149,6 +145,8 @@ https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/00717d9970b045e78916ada1ea
 https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/597b48a710164c0da9a4386bf9f7bef2/dash_short_cenc10_6ter_hdeindex.mpd
 #EXTINF:0 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1 [ssl-blocked]
 https://live-tf1-hls-dai.cdn-1.diff.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/hKVyKj4/tmc.png",TMC [tkn-blocked]
+https://live-tmc-hls.cdn-0.diff.tf1.fr/out/v1/44fcb1c776284f2da7c11ef948d7ef34/tmc-cmaf/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/4VS27Jw/tfx.png",TFX [tkn-blocked]
 https://live-tfx-hls.cdn-0.diff.tf1.fr/out/v1/54408d0e39304776bf7b2ce4b1599123/tfx-cmaf/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/9Y4PHKP/tf1sf.png",TF1 SERIES-FILMS [tkn-blocked]
@@ -185,7 +183,7 @@ https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
 https://d3awaj0f2u3w26.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/8fd3efae-4468-4ca0-9486-c6cdcb7b65d7/2.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png",L'EQUIPE LIVE 2
 https://d2l55nvfkhk4sg.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg7go1lqzgpny-ssai-prd/435d04a5-ab47-47c5-a2c1-bae01ae6d0c1/2.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png",L'EQUIPE TV
+#EXTINF:0 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png",L'EQUIPE TV [n/a]
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/eqpe.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/p0CLPqT/equidia.png",EQUIDIA
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/extr/py/equidi.m3u8
@@ -1271,6 +1269,8 @@ https://ztnr.rtve.es/ztnr/6909845.m3u8
 https://ztnr.rtve.es/ztnr/1712295.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/BGy5vM5/clan.jpg",TVE CLAN
 https://ztnr.rtve.es/ztnr/5466990.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/6nC1wYw/kidz.png",KIDZ
+https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/GJ3Qw6b/peque.jpg",PEQUE TV
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Zxd0j45/cartoonnetwork.png",CARTOON NETWORK ES
