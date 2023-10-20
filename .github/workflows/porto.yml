@@ -1,0 +1,30 @@
+# Thanks to LITUATUI user on github
+name: porto action
+on:
+  schedule:
+    - cron: "40 */5 * * *"
+  
+  workflow_dispatch:
+
+jobs:
+  Update-streams:
+    runs-on: ubuntu-latest
+    steps:
+    
+      - name: checkout
+        uses: actions/checkout@v3
+
+      - name: updating porto
+        run: sh ressources/dmotion/py/porto/porto.sh
+
+      - name: setup git config
+        run: |
+          git config user.name "porto bot"
+          git config user.email "<>"
+
+      - name: commit
+        run: |
+          git pull
+          git add ressources/dmotion/py/porto/porto.m3u8
+          git commit -m "porto updated"
+          git push origin master
