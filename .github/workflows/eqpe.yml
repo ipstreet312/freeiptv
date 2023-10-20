@@ -22,7 +22,7 @@ jobs:
           git config --global user.name "eqpe bot"
       
       - name: updating eqpe
-        run: sh ressources/dmotion/py/eqpe/eqpe.m3u8
+        run: sh ressources/dmotion/py/eqpe/eqpe.sh
         
       - name: git add
         run: |
