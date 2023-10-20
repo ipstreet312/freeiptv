@@ -1,37 +1,58 @@
-#!/usr/bin/python3
-
+#! /usr/bin/python3
+# Thanks to pshanmu3 user on github
 import requests
+import os
+import sys
 
-headers = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0",
-    "Referer": "http://www.callofliberty.fr/"
-}
+proxies = {}
+if len(sys.argv) == 2:
+    proxies = {
+                'http' : sys.argv[1],
+                'https' : sys.argv[1]
+              }
+
+na = 'https://raw.githubusercontent.com/naveenland4/UTLive/main/assets/info.m3u8'
+def grab(line):
+    try:
+        _id = line.split('/')[4]
+        response = s.get(f'https://www.dailymotion.com/player/metadata/video/{_id}', proxies=proxies).json()['qualities']['auto'][0]['url']
+        m3u = s.get(response, proxies=proxies).text
+        m3u = m3u.strip().split('\n')[1:]
+        d = {}
+        cnd = True
+        for item in m3u:
+            if cnd:
+                resolution = item.strip().split(',')[2].split('=')[1]
+                if resolution not in d:
+                    d[resolution] = []
+            else:
+                d[resolution]= item
+            cnd = not cnd
+        #print(m3u)
+        m3u = d[max(d, key=int)]    
+    except Exception as e:
+        m3u = na
+    finally:
+        print(m3u)
 
 print('#EXTM3U')
-print('#EXT-X-STREAM-INF:RESOLUTION=848x477,FRAME-RATE=25.000000,BANDWIDTH=1359872,CODECS="avc1.64001e,mp4a.40.2",NAME="480"')
-
-master_url = "http://callofliberty.fr/lives/LEQUIPE/master.m3u8"
+print('#EXT-X-VERSION:3')
+print('#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000')
 s = requests.Session()
-
-def get_specific_line_online(url, line_number):
-    response = s.get(url, headers=headers)
-    if response.status_code == 200:
-        lines = response.text.split('\n')
-        if 1 <= line_number <= len(lines):
-            return lines[line_number - 1]
+with open('ressources/dmotion/py/eqpe/eqpe_info.txt') as f:
+    for line in f:
+        line = line.strip()
+        if not line or line.startswith('~~'):
+            continue
+        if not line.startswith('https:'):
+            line = line.split('|')
+            ch_name = line[0].strip()
+            grp_title = line[1].strip().title()
+            tvg_logo = line[2].strip()
+            tvg_id = line[3].strip()
         else:
-            return None
-    else:
-        return None
-
-chunks = get_specific_line_online(master_url, 3)
-
-prefix = "http://callofliberty.fr/HLS-AES/"
-index = chunks.find(prefix)
-
-if index != -1:
-    shortchunks = chunks[index + len(prefix):]
-else:
-    shortchunks = chunks
-
-print(shortchunks)
+            grab(line)
+            
+if 'temp.txt' in os.listdir():
+    os.system('rm temp.txt')
+    os.system('rm watch*')
