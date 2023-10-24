@@ -196,6 +196,8 @@ https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-l
 #EXTINF:0 tvg-logo="https://i.ibb.co/yPsXSFf/esprsorc.png",L'ESPRIT SORCIER TV
 https://194270.global.ssl.fastly.net/63b43410861d94a9eee067fb/live_947330308dd911edb85c8181cb9b11a8/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/HnSphLp/sqool.jpg",SQOOL TV
+https://new.cache-stream.workers.dev/stream/UCaEqMbRYYOmI3WrALMhxuIg/live.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/HnSphLp/sqool.jpg",SQOOL TV
 https://ythlsgo.onrender.com/channel/UCaEqMbRYYOmI3WrALMhxuIg.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png",GULLI
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/gullihd.m3u8
@@ -458,7 +460,7 @@ https://new.cache-stream.workers.dev/stream/UCzrGg6iyRDuUSnO0cQ5oLcA/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/KwXzY6B/apara.png",A PARA
 http://ythlsgo.onrender.com/channel/UCzrGg6iyRDuUSnO0cQ5oLcA.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/GkNZYWd/tv100eko.png",TV 100 EKONOMI
-https://new.cache-stream.workers.dev/stream/s79FesczwK4/live.m3u8
+https://new.cache-stream.workers.dev/stream/JpumghKBP34/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/BN9tk1q/tbmm22.png",TBMM TV
 https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/K6BKFqY/dha.png",DHA (feed)
@@ -847,8 +849,6 @@ http://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
 http://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/cQfPfgR/tatlises.png",TATLISES
 https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/Jqzzby7/milyontv.png",MİLYON TV
-https://milyontv.blutv.com/blutv_milyontv/milyontv_sd.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Jqzzby7/milyontv.png",MİLYON TV
 https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/wSPFds2/nr1turk.png",NUMBER ONE TÜRK
@@ -1783,7 +1783,7 @@ https://media1.livaat.com/AL-RASHEED-HD/index.m3u8
 https://mn-nl.mncdn.com/qaf/live/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png",ROYA TV (backup)
 https://roya.daioncdn.net/royatv/royatv.m3u8?app=8c1e143a-39cf-40b4-acb2-e78faa1f322d
-#EXTINF:0 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png",ROYA TV (backup)
+#EXTINF:0 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png",ROYA TV [geoblocked]
 https://weyyak-live.akamaized.net/weyyak_roya/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/80JQ9zg/teleliban.webp",TL LIBAN [geo-blocked]
 https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
@@ -1867,10 +1867,10 @@ https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/PjCYRWx/gulliar.jpg",GULLI ARABI
 https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/Ch3FNj9/tenar.jpg",TEN WEYYAK
-https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/LYMKBP2/Sat7kids.png",SAT7 KIDS
 https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/Ch3FNj9/tenar.jpg",TEN WEYYAK  [geoblocked]
+https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/S3Wm3q9/iqraanew.png",IQRAA
 https://iqraa-live.ercdn.net/iqraa/iqraa.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/S3Wm3q9/iqraanew.png",IQRAA
@@ -2027,7 +2027,7 @@ https://new.cache-stream.workers.dev/stream/UC65F33K2cXk9hGDbOQYhTOw/live.m3u8
 http://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/BCK1L31/DubaiTV.png",DUBAI TV
 https://dmieigthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/BCK1L31/DubaiTV.png",DUBAI TV
+#EXTINF:0 tvg-logo="https://i.ibb.co/BCK1L31/DubaiTV.png",DUBAI TV [geoblocked]
 https://weyyak-live.akamaized.net/weyyak_dubai_tv/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/ngKnxmq/dubaione.png",DUBAI ONE
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
@@ -2069,20 +2069,20 @@ https://cdxaws-ak.akamaized.net/v1/channel/Shahid_Al_Oula__/index_hls.m3u8
 https://cdxaws-ak.akamaized.net/v1/channel/Maqaleb--/index_hls.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/0mtj39x/Mekameleen.png",MEKAMELEEN
 http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/5RGbN6g/Zee-Afam.png",ZEE AFLAM
+#EXTINF:0 tvg-logo="https://i.ibb.co/5RGbN6g/Zee-Afam.png",ZEE AFLAM [geoblocked]
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/c1zsKkv/Zee-Alwan.png",ZEE ALWAN
+#EXTINF:0 tvg-logo="https://i.ibb.co/c1zsKkv/Zee-Alwan.png",ZEE ALWAN [geoblocked]
 https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/3WCfsRq/weyk.png",WEYYAK DRAMA
-https://weyyak-live.akamaized.net/weyyak_drama/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/3WCfsRq/weyk.png",WEYYAK MIX
-https://weyyak-live.akamaized.net/weyyak_mix/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/3WCfsRq/weyk.png",WEYYAK ACTION
-https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/3WCfsRq/weyk.png",WEYYAK NAWAEM
-https://weyyak-live.akamaized.net/weyyak_nawaem/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/kDhcymF/ifilm.png",IFILM AR
 https://cdnlive.presstv.ir/cdnlive/smil:ifilmar.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/3WCfsRq/weyk.png",WEYYAK DRAMA [geoblocked]
+https://weyyak-live.akamaized.net/weyyak_drama/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/3WCfsRq/weyk.png",WEYYAK MIX [geoblocked]
+https://weyyak-live.akamaized.net/weyyak_mix/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/3WCfsRq/weyk.png",WEYYAK ACTION [geoblocked]
+https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/3WCfsRq/weyk.png",WEYYAK NAWAEM [geoblocked]
+https://weyyak-live.akamaized.net/weyyak_nawaem/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/BnhWg65/mbcmasr.png",MBC MASR 1 [offlink]
 https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/BnhWg65/mbcmasr.png",MBC MASR 1 [offlink]
