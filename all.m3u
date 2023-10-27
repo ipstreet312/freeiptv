@@ -985,6 +985,10 @@ https://angr.radyotvonline.net/webtv/smil:kecioren.smil/chunklist_w976368300_b32
 https://waw2.artiyerelmedya.net/astv/bant1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",AS TV
 https://live.artidijitalmedya.com/artidijital_astv/astv/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/1RnLJpf/agro.png",AGRO TV
+https://yayin30.haber100.com/live/agrotv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/1RnLJpf/agro.png",AGRO TV
+https://pull1-poc.blutv.com/live/2HP3SG3F/2HP3SG3F_720p.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",BARTIN TV
 http://cdn-bartintv.yayin.com.tr/BARTINTV/BARTINTV/chunklist_w896416726.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",BEYKENT TV
@@ -1465,6 +1469,8 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion
 https://playout175.livextend.cloud/livenlin4/_definst_/2liveartvpub2/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/V3Hk3KC/adb.png",ADB TV
 https://streamer-a03.videos.sapo.pt/live/sobrenaturaltv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/DCzRYjV/mca.png",MCA
+https://video-auth2.iol.pt/live_hd2/live_hd2/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/HnqCkQj/rtp3.jpg",RTP 3 (backup)
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/chunklist_b640000_slpor.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/HnqCkQj/rtp3.jpg",RTP 3 (backup)
