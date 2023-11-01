@@ -1,5 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:7
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="group_A1",NAME="audio_3",DEFAULT=YES,URI="https://bledflix-el-bilad.b-cdn.net/media_3.m3u8"
-#EXT-X-STREAM-INF:BANDWIDTH=1333736,RESOLUTION=1024x576,CODECS="avc1.64001f,mp4a.40.2",AUDIO="group_A1"
+#EXT-X-STREAM-INF:BANDWIDTH=1333074,RESOLUTION=1024x576,CODECS="avc1.64001f,mp4a.40.2",AUDIO="group_A1"
 https://bledflix-el-bilad.b-cdn.net/media_0.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1033074,RESOLUTION=682x384,CODECS="avc1.64001e,mp4a.40.2",AUDIO="group_A1"
+https://bledflix-el-bilad.b-cdn.net/media_1.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=833074,RESOLUTION=426x240,CODECS="avc1.640015,mp4a.40.2",AUDIO="group_A1"
+https://bledflix-el-bilad.b-cdn.net/media_2.m3u8
