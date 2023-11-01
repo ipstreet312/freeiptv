@@ -1187,6 +1187,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01742-walla-wallanews-ono/playlist.
 https://ynet-live-01.ynet-pic1.yit.co.il/ynet/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/j68q1Bp/i24.png",I24 NEWS FR
 https://bcovlive-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/playlist-all.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/j68q1Bp/i24.png",I24 NEWS EN
+https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/playlist-all.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/j68q1Bp/i24.png",I24 NEWS AR
 https://bcovlive-a.akamaihd.net/773a2fa387914315ad11e6957cd54f6e/eu-central-1/5377161796001/playlist-all.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/MG43H4H/hala.png",PANET 30 HALA هلا
@@ -1509,6 +1511,8 @@ https://new.cache-stream.workers.dev/stream/UCJW9gatYczI191TunQxMGbA/live.m3u8
 https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/stZxQHF/nessma.png",NESSMA
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dzflix/nessma.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/JmRh3Xn/helwa.png",HELWA
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dzflix/helwa.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/HzvjJq6/samira.png",SAMIRA TV
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dzflix/samira.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/9tsD8WP/TV2Al.png",TV2 ALGERIE
@@ -1591,14 +1595,16 @@ https://cdn02.hta.dz/abr_htatv/AL24_News/playlist.m3u8
 https://cdn02.hta.dz/abr_htatv/EL_HEDDAF_TV/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/3MdNH7S/alanis.png",ALANIS TV [hta_dz-off]
 https://cdn02.hta.dz/abr_htatv/El_Fhama_TV/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/yQmcHjz/echourouk.png",ECHOUROUK TV [geo-blocked]
+#EXTINF:0 tvg-logo="https://i.ibb.co/yQmcHjz/echourouk.png",ECHOROUK TV [geo-blocked]
 https://echorouk-live-tv.dzsecurity.net/echo/EchoroukTV/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/yQmcHjz/echourouk.png",ECHOUROUK TV [hta_dz-off]
+#EXTINF:0 tvg-logo="https://i.ibb.co/yQmcHjz/echourouk.png",ECHOROUK TV [hta_dz-off]
 https://cdn02.hta.dz/abr_htatv/Echorouk_TV_HD/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/1vH6q4L/echounws.png",ECHOUROUK NEWS [geo-blocked]
+#EXTINF:0 tvg-logo="https://i.ibb.co/1vH6q4L/echounws.png",ECHOROUK NEWS [geo-blocked]
 https://echorouk-live-tv.dzsecurity.net/echo/EchoroukNews/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/1vH6q4L/echounws.png",ECHOUROUK NEWS  [hta_dz-off]
+#EXTINF:0 tvg-logo="https://i.ibb.co/1vH6q4L/echounws.png",ECHOROUK NEWS  [hta_dz-off]
 https://cdn02.hta.dz/abr_htatv/ECHOROUK_NEWS/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/1vH6q4L/echounws.png",ECHOROUK NEWS (backup)
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dzflix/echorouknews.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/PMpGQk6/beur.png",BEUR TV [hta_dz-off]
 https://cdn02.hta.dz/abr_htatv/Beur_TV/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/j8L3hMr/djaz1.png",EL DJAZAIRIA TV [downline]
@@ -2203,6 +2209,8 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/chunks.m3u8
 https://new.cache-stream.workers.dev/stream/UCQfwfsi5VrQ8yKZ-UWmAEFg/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/84XLZJq/dw.png",DW ENGLISH
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/j68q1Bp/i24.png",I24 NEWS EN
+https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/playlist-all.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/NCQtNX5/telesur.png",TELESUR ENG
 https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/rtqXSWm/arirang.png",ARIRANG WORLD
