@@ -825,6 +825,8 @@ http://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Jqzzby7/milyontv.png",MİLYON TV
 https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/Jqzzby7/milyontv.png",MİLYON TV
+https://pull1-poc.blutv.com/live/2ZJ6X7A9/2ZJ6X7A9_720p.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/wSPFds2/nr1turk.png",NUMBER ONE TÜRK
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/wSPFds2/nr1turk.png",NUMBER ONE TÜRK
@@ -1759,7 +1761,7 @@ http://live.alqudstoday.tv:8080/hls/alqudstv/alqudstv.m3u8
 https://pbc.furrera.ps/palestinehd/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/TMFyykR/paltv.png",PAL TV
 https://live.paltodaytv.com/paltv/live/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/nkfS0P4/palsat.jpg",PAL-SAT
+#EXTINF:0 tvg-logo="https://i.ibb.co/nkfS0P4/palsat.jpg",PAL SAT
 http://htvpalsat.mada.ps:8888/audeh/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/0yytb9K/yementoday.png",YEMEN TODAY
 https://video.yementdy.tv/hls/yementoday.m3u8
@@ -1801,7 +1803,7 @@ https://alarabyta.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/nc8F1dj/Al-Hadath.png",AL ARABIYA HADATH
 https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/R4vMgQV/alarabiyabus.jpg",AL ARABIA BUSINESS
+#EXTINF:0 tvg-logo="https://i.ibb.co/R4vMgQV/alarabiyabus.jpg",AL ARABIYA BUSINESS
 https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/dbFBq5k/Al-Jazeera-Mubasher.png",AL JAZEERA MUBASHER
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
