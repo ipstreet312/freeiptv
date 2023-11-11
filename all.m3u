@@ -2313,5 +2313,15 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
 http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
 #EXTINF:0,💐CHECK Input Entry Test Stream A01
 https://ythlsgo.onrender.com/channel/UCT67YOMntJxfRnO_9bXDpvw.m3u8
-#EXTINF:0,💐CHECK Input Entry Test Stream A02
+#EXTINF:0 user-agent="Firefox",RTP1HD PLYT APP
+https://streaming-live-app.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
+#EXTINF:0 user-agent="Firefox",RTP1 PLYT APP
+https://streaming-live-app.rtp.pt/liverepeater/rtp1.smil/rtp_playlist.m3u8
+#EXTINF:0 user-agent="Firefox",RTP1 PLYT
 https://streaming-live.rtp.pt/liverepeater/rtp1.smil/playlist.m3u8
+#EXTINF:0,RTP1 CH64 SLPR
+https://streaming-live.rtp.pt/liverepeater/rtp1.smil/chunklist_b640000_slpor.m3u8
+#EXTINF:0,RTP1 CH64 SLPT
+https://streaming-live.rtp.pt/liverepeater/rtp1.smil/chunklist_b640000_slpt.m3u8
+#EXTINF:0,RTP1 CH10 SLPR
+https://streaming-live.rtp.pt/liverepeater/rtp1.smil/chunklist_b100000_slpor.m3u8
