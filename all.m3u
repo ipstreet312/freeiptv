@@ -1438,7 +1438,7 @@ https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/chunklist_b640000_slpor.m
 #EXTINF:0 tvg-logo="https://i.ibb.co/tbFT1V2/rtp2.jpg",RTP 2
 https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/chunklist_b100000_slpor.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/HnqCkQj/rtp3.jpg",RTP 3
-https://streaming-live.rtp.pt/liverepeater/rtpnHD.smil/chunklist_b640000_slpor.m3u8
+https://streaming-live.rtp.pt/liverepeater/rtpn.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",EURONEWS PT
 https://euronews-euronews-portugues-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",EURONEWS PT
@@ -1480,7 +1480,7 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion
 #EXTINF:0 tvg-logo="https://i.ibb.co/HnqCkQj/rtp3.jpg",RTP 3 (backup)
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/chunklist_b640000_slpor.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/HnqCkQj/rtp3.jpg",RTP 3 (backup)
-https://streaming-live.rtp.pt/liverepeater/rtpn.smil/playlist.m3u8
+https://streaming-live.rtp.pt/liverepeater/rtpnHD.smil/chunklist_b640000_slpor.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/9GMzcw7/rtpaco.jpg",RTP ACORES (backup)
 https://streaming-live.rtp.pt/liverepeater/rtpacoresHD.smil/chunklist_b640000_slpor.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",EURONEWS PT (backup)
@@ -2312,4 +2312,4 @@ http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp
 #EXTINF:0,💐CHECK Input Entry Test Stream A01
 https://ythlsgo.onrender.com/channel/UCT67YOMntJxfRnO_9bXDpvw.m3u8
 #EXTINF:0,💐CHECK Input Entry Test Stream A02
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dzflix/nessma2.m3u8
+https://streaming-live.rtp.pt/liverepeater/rtp2.smil/playlist.m3u8
