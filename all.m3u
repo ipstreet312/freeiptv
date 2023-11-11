@@ -1478,11 +1478,11 @@ https://video-auth2.iol.pt/live_hd2/live_hd2/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/WVzhVbc/portoc.png",PORTO CANAL (mostly off)
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/porto/porto.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/tbFT1V2/rtp2.jpg",RTP 2 (backup)
-https://streaming-live.rtp.pt/liverepeater/rtp2HD.
-#EXTINF:0 tvg-logo="https://i.ibb.co/HnqCkQj/rtp3.jpg",RTP 3 (backup)
-https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/chunklist_b640000_slpor.m3u8
+https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/chunklist_b100000_slpor.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/HnqCkQj/rtp3.jpg",RTP 3 (backup)
 https://streaming-live.rtp.pt/liverepeater/rtpnHD.smil/chunklist_b640000_slpor.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/HnqCkQj/rtp3.jpg",RTP 3 (backup)
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/chunklist_b640000_slpor.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/9GMzcw7/rtpaco.jpg",RTP ACORES (backup)
 https://streaming-live.rtp.pt/liverepeater/rtpacoresHD.smil/chunklist_b640000_slpor.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",EURONEWS PT (backup)
