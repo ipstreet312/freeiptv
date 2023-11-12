@@ -1,0 +1,32 @@
+name: tvi-pt_ch action
+on:
+  schedule:
+    - cron: "00 04,16 * * *"
+    
+  workflow_dispatch:
+
+jobs:
+  update-stream:
+    runs-on: ubuntu-latest
+    steps:
+    
+      - name: checkout
+        uses: actions/checkout@v3
+
+      - name: updating tvi-pt_ch
+        run: sh ressources/tvipt/sh/tkn.sh
+
+      - name: setup git config
+        run: |
+          git config user.name "tvi-pt_ch bot"
+          git config user.email "<>"
+
+      - name: git add
+        run: |
+          git add -A
+          ls -la 
+          
+      - name: commit & push
+        run: |
+          git commit -m "tvi-pt_ch updated"
+          git push
