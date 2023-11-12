@@ -21,12 +21,13 @@ jobs:
           git config user.name "tvi-pt_ch bot"
           git config user.email "<>"
 
-      - name: git add
+      - name: Git add
         run: |
           git add -A
-          ls -la 
-          
-      - name: commit & push
-        run: |
-          git commit -m "tvi-pt_ch updated"
-          git push
+          git status
+
+      - name: Commit changes
+        run: git commit -m "tvi-pt_ch updated"
+
+      - name: Push changes
+        run: git push
