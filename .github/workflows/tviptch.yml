@@ -14,22 +14,15 @@ jobs:
         uses: actions/checkout@v3
 
       - name: updating tvi-pt_ch
-        run: |
-          chmod +x ressources/tvipt/sh/tviptch.sh
-          ./ressources/tvipt/sh/tviptch.sh
+        run: sh ressources/tvipt/sh/tviptch.sh
 
       - name: setup git config
         run: |
           git config user.name "tvi-pt_ch bot"
           git config user.email "<>"
-
-      - name: Git add
+      - name: commit
         run: |
-          git add -A
-          git status
-
-      - name: Commit changes
-        run: git commit -m "tvi-pt_ch updated"
-
-      - name: Push changes
-        run: git push
+          git pull
+          git add ressources/tvipt/sh/cnnpt.m3u8
+          git commit -m "tvi-pt_ch updated"
+          git push origin master
