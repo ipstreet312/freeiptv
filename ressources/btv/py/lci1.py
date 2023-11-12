@@ -15,4 +15,4 @@ print('#EXT-X-STREAM-INF:BANDWIDTH=1168895,AVERAGE-BANDWIDTH=1021120,RESOLUTION=
 new2_string = string.replace("index", "index_4")
 print(new2_string, end='')
 new3_string = string.replace("index", "index_6_0")
-print(f'#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="français",LANGUAGE="fra",DEFAULT=YES,AUTOSELECT=YES,URI="{new3_string}"', end='')
+print('#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="français",LANGUAGE="fra",DEFAULT=YES,AUTOSELECT=YES,URI="{}"'.format(new3_string), end='')
