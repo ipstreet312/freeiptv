@@ -25,5 +25,7 @@ jobs:
         run: |
           git pull
           git add ressources/tvipt/sh/cnnpt.m3u8
+          git add ressources/tvipt/sh/tvi.m3u8
+          git add ressources/tvipt/sh/tviint.m3u8
           git commit -m "tvi-pt_ch updated"
           git push origin master
