@@ -10,9 +10,9 @@ response = s.get(f'https://raw.githubusercontent.com/ipstreet312/freeiptv/master
 
 string = response.text
 new_string = string.replace("index", "index_1")
-print(new_string)
+print(new_string, end='')
 print('#EXT-X-STREAM-INF:BANDWIDTH=1168895,AVERAGE-BANDWIDTH=1021120,RESOLUTION=640x360,FRAME-RATE=25.000,CODECS="avc1.42C01E,mp4a.40.2",SUBTITLES="subtitles",AUDIO="audio_0"')
 new2_string = string.replace("index", "index_4")
-print(new2_string)
+print(new2_string, end='')
 new3_string = string.replace("index", "index_6_0")
-print(f'#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="français",LANGUAGE="fra",DEFAULT=YES,AUTOSELECT=YES,URI="{new3_string}"')
+print(f'#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="français",LANGUAGE="fra",DEFAULT=YES,AUTOSELECT=YES,URI="{new3_string}"', end='')
