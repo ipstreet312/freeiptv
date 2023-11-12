@@ -20,9 +20,11 @@ jobs:
         run: |
           git config user.name "tvi-pt_ch bot"
           git config user.email "<>"
+          git config core.autocrlf input
+          
       - name: commit
         run: |
           git pull
-          git add cnnpt.m3u8
+          git add ressources/tvipt/sh/cnnpt.m3u8
           git commit -m "tvi-pt_ch updated"
           git push origin master
