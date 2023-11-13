@@ -1,4 +1,4 @@
-# freeiptv how to use links explained here : https://receptioniptv.blogspot.com/
+# freeiptv how to use the "ALL.M3U" file link procedure explained here : https://receptioniptv.blogspot.com/
 
 <img src="http://i.ibb.co/19nnp7n/Screenshot-20220929-084632.png">
 
