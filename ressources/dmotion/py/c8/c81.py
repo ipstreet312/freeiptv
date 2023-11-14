@@ -26,7 +26,7 @@ else:
 url_part = fifth_line.split('"')[1]
 
 start_index = url_part.find('https://')
-end_index = url_part.find('key') + len('key')
+end_index = url_part.find('key')
 
 required_url_segment = url_part[start_index:end_index]
 print(required_url_segment + "m3u8")
