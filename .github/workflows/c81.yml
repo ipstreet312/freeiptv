@@ -1,0 +1,35 @@
+name: c81 action
+
+on:
+  schedule:
+    - cron: '46 */5 * * *'
+  
+  workflow_dispatch:
+
+jobs:
+
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v3
+
+      - name: config
+        run: |
+          git config --global user.email "<>"
+          git config --global user.name "c81 bot"
+      
+      - name: updating c81
+        run: python3 ressources/dmotion/py/c8/c81.py > ressources/dmotion/py/c8/c81.m3u8
+        
+      - name: git add
+        run: |
+          git add -A
+          ls -la 
+          
+      - name: commit & push
+        run: |
+          git commit -m "c81 updated"
+          git push
