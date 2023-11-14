@@ -1,0 +1,34 @@
+name: tmc1
+
+on:
+  schedule:
+    - cron: '29 */03 * * *'
+  push:
+    branches:
+      - main
+      
+  workflow_dispatch:
+  
+jobs:
+  inject_replace:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout freeiptv
+        uses: actions/checkout@v2
+        
+      - name: Fetch Content
+        id: fetch_content
+        env:
+          PRIVATE_REPO_TOKEN: ${{ secrets.PRIVATE_REPO_TOKEN }}
+        run: |
+          content=$(curl -H "Authorization: token $PRIVATE_REPO_TOKEN" -H "Accept: application/vnd.github.v3.raw" "https://raw.githubusercontent.com/ipstreet312/myrep/main/ressources/1ctm.m3u8")
+          echo "$content" > ressources/btv/py/tmc1.m3u8
+    
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.name "tmc1 Action"
+          git config user.email "<>"
+          git add ressources/btv/py/tmc1.m3u8
+          git commit -m "tmc1 updated"
+          git push
