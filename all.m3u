@@ -1245,8 +1245,12 @@ https://contactgbs.mmdlive.lldns.net/contactgbs/dd4f5f04932345f1b47c4bfb45fbd682
 https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/93bQz4t/kabalah.png",KABBALAH 96
 http://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/93bQz4t/kabalah.png",KABBALAH 96
+https://edge2.il.kab.tv/live/tv66-heb-high/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/bJVPhHD/hidabroot.png",HIDABROOT 97
 https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/bJVPhHD/hidabroot.png",HIDABROOT 97
+https://edge-fs-10.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Ph3cBMj/musayof.jpg",MUSAYOF מוסאיוף
 http://wowza.media-line.co.il/Musayof-Live/livestream.sdp/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/tMm7vdM/shelanug.jpg",SHELANU GOD-IL
