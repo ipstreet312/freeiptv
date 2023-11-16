@@ -2313,26 +2313,24 @@ https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a82
 https://bloomberg-bloomberg-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png" group-title="|GE-AM-AR|🇬🇪🇦🇲🇦🇿 CAUCASIAN",GPB 1
+#EXTINF:0 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png" group-title="|GE-AM-AZ|🇬🇪🇦🇲🇦🇿 CAUCASIAN",GPB 1
 http://tbs01-edge11.itdc.ge/gpbhd/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png",GBP 1
 https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png",GBP 2
 https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png",RUSTAVI 2
-http://tbs01-edge11.itdc.ge/rustavi2hqnew/mono.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png",IMEDI
-http://tbs01-edge11.itdc.ge/imedihd/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png",IMEDI
 https://tv.cdn.xsg.ge/imedihd/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png",ABAZA
-http://clients.apsny.camera/tv_abaza_tv/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png",IMEDI
+http://tbs01-edge11.itdc.ge/imedihd/mono.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png",RUSTAVI 2
+http://tbs01-edge11.itdc.ge/rustavi2hqnew/mono.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png",PALITRA
+https://livestream.palitra.ge/hls/palitratv/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png",FORMULA
 https://tv.cdn.xsg.ge/c4635/TVFormula/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png",MTAVARI ARKHI
 https://bozztv.com/36bay2/mtavariarxi/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png",PALITRA
-https://livestream.palitra.ge/hls/palitratv/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/tmkv6RC/armflag.png",H1 NEWS
 https://amtv1.livestreamingcdn.com/am3abr/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/tmkv6RC/armflag.png",H1 NEWS
@@ -2359,14 +2357,6 @@ https://edge02.odtv.az/o1/ictimai/playlist.m3u8
 https://edge02.odtv.az/o7/idman/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png",MEDENIYYET
 https://edge02.odtv.az/o1/medeniyyet/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png",MEDENIYYET
-https://str.yodacdn.net/medeniyyet/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png",QAFQAZ
-https://str1.yodacdn.net/qafkaz/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png",REAL
-https://str.yodacdn.net/real/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png",AZTV
-https://str.yodacdn.net/aztv/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png",ARB TV
 http://85.132.81.184:8080/arb/live/index.m3u8
 
