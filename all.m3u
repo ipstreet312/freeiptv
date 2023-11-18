@@ -111,6 +111,8 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/c8/c81.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/fdYg3Lz/rmcstory.png",RMC STORY
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/rmcstr/rmcstr.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/LNRd253/w9.png",W9 (FAI: k-net.fr💘)
+http://livetv.ktv.zone/11/play.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/NyHqX5R/belrtl.png",BEL RTL
 https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/NyHqX5R/belrtl.png",BEL RTL
@@ -2391,7 +2393,3 @@ http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp
 https://ythlsgo.onrender.com/channel/UCT67YOMntJxfRnO_9bXDpvw.m3u8
 #EXTINF:0,💐CHECK Input Entry Test Stream A02
 https://livestream.zazerconer.workers.dev/channel/UCT67YOMntJxfRnO_9bXDpvw.m3u8
-#EXTINF:0,W9 k-net
-http://livetv.ktv.zone/11/play.m3u8
-#EXTINF:0,W9 k-net 2
-https://livetv.ktv.zone/11/play.m3u8
