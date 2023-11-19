@@ -2147,7 +2147,7 @@ https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/in
 https://shls-masr-ak.akamaized.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
 
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png" group-title="|EN|ℹ️ WORLD WIDE",CNN INT
+#EXTINF:0 tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png" group-title="|EN|🇬🇧🇺🇸 WORLDWIDE-INTL ℹ️🌐",CNN INT
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png",CNN INT
 https://d30x5vsa85tvmd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7y561g9sa9uht/index.m3u8
@@ -2401,3 +2401,5 @@ http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp
 https://ythlsgo.onrender.com/channel/UCT67YOMntJxfRnO_9bXDpvw.m3u8
 #EXTINF:0,💐CHECK Input Entry Test Stream A02
 https://livestream.zazerconer.workers.dev/channel/UCT67YOMntJxfRnO_9bXDpvw.m3u8
+#EXTINF:0,Blank Empty Entry
+http://
