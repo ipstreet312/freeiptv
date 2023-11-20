@@ -162,7 +162,9 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/d
 #EXTINF:0 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6 [drm-blocked]
 https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/1b7883731a2a4c9daf16dde45a8162e9/dash_short_cenc10_m6_hdeindex.mpd
 #EXTINF:0 tvg-logo="https://i.ibb.co/LNRd253/w9.png",W9 [drm-blocked]
-https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/00717d9970b045e78916ada1eaf374d9/dash_short_cenc10_w9_hdeindex.mpd
+https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/82a128a679444d3c9b4d68c1616e239a/hls_short_fp00_w9_hdeindex.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/LNRd253/w9.png",W9 [drm-blocked]
+https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/2babf2563b5b420caa743430699c096b/dash_short_cenc10_scte_w9_hdeindex.mpd
 #EXTINF:0 tvg-logo="https://i.ibb.co/nzh88j8/6ter.png",6TER [drm-blocked]
 https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/597b48a710164c0da9a4386bf9f7bef2/dash_short_cenc10_6ter_hdeindex.mpd
 #EXTINF:0 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1 [ssl-blocked]
@@ -2409,7 +2411,3 @@ https://ythlsgo.onrender.com/channel/UCT67YOMntJxfRnO_9bXDpvw.m3u8
 https://livestream.zazerconer.workers.dev/channel/UCT67YOMntJxfRnO_9bXDpvw.m3u8
 #EXTINF:0,Blank Empty Entry
 http://
-#EXTINF:0,01
-https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/82a128a679444d3c9b4d68c1616e239a/hls_short_fp00_w9_hdeindex.m3u8
-#EXTINF:0,02
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/w9.m3u8
