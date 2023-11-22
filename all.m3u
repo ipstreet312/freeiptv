@@ -2316,7 +2316,7 @@ https://bloomberg-bloomberg-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png" group-title="|GE-AM-AZ|🇬🇪🇦🇲🇦🇿 CAUCASIAN",GPB 1
-http://tbs01-edge11.itdc.ge/gpbhd/mono.m3u8
+https://tbs01-edge11.itdc.ge/gpbhd/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png",GBP 1
 https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png",GBP 2
@@ -2327,8 +2327,6 @@ https://tv.cdn.xsg.ge/imedihd/index.m3u8
 https://tbs01-edge11.itdc.ge/imedihd/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png",RUSTAVI 2
 https://tbs01-edge11.itdc.ge/rustavi2hqnew/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png",RUSTAVI 2
-http://tbs01-edge11.itdc.ge/rustavi2hqnew/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png",PALITRA
 https://livestream.palitra.ge/hls/palitratv/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png",FORMULA
