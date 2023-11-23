@@ -1,0 +1,32 @@
+name: frsr action
+
+on:
+  schedule:
+    - cron: '43 */4 * * *'
+  
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    
+      - uses: actions/checkout@v2
+
+      - name: config
+        run: |
+          git config --global user.email "<>"
+          git config --global user.name "frsr bot"
+      
+      - name: updating freg
+        run: sh ressources/ftv/py/frsr.sh
+        
+      - name: git add
+        run: |
+          git add -A
+          ls -la 
+          
+      - name: commit & push
+        run: |
+          git commit -m "frsr updated"
+          git push
