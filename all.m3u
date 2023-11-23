@@ -197,6 +197,8 @@ https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/2hgmDs6/traceurb.png",TRACE URBAN
 https://amg01131-tracetv-traceurbanuk-samsunguk-6r213.amagi.tv/playlist/amg01131-tracetv-traceurbanuk-samsunguk/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/2hgmDs6/traceurb.png",TRACE URBAN
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-urban/encrypted.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/sWxH6cv/tracesports.png",TRACE SPORTS
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/p1stMyz/sportenfr.webp",SPORT EN FRANCE
@@ -360,7 +362,7 @@ https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/3y88kpg/telenantes.jpg",TELE NANTES
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Telenantes.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/xS8B1qS/tvvendee.png",TV VENDEE
-https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/TVVendee.m3u8
+https://streamer01.myvideoplace.tv/streamer02/hls/VDE_EVEN_PAD_130923_medium/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/fdcDJWF/tv78.png",TV 78
 https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/WpSPwkN/7alim.png",7 A LIMOGES
@@ -419,12 +421,12 @@ https://new.cache-stream.workers.dev/stream/UCQC0xLG_W0QpqAXQ4-yhwBA/live.m3u8
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/gnrcpltfrm/lyoncap.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/74fJt5v/8mblanc.png",TV8 MONTBLANC
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/8_Mont-Blanc.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/vDRB1fK/tvtloire.png",TVT TOURS
+https://lives.digiteka.com/stream/920f083a-9e61-4c09-9bc2-bdb664063aa9/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/yRLR4Ny/tl7l.png",TL7 LOIRE
 https://x5ct4nu/
 #EXTINF:0 tvg-logo="https://i.ibb.co/h2VX7Wj/tlcholt.png",TL CHOLETAIS
 https://x5aarnv/
-#EXTINF:0 tvg-logo="https://i.ibb.co/vDRB1fK/tvtloire.png",TVT TOURS
-https://x8lz1dw/
 #EXTINF:0 tvg-logo="https://i.ibb.co/c2CBDqt/grenoble.png",TELE GRENOBLE
 https://twitchplatform
 #EXTINF:0 tvg-logo="https://i.ibb.co/2qs2HxR/astv.png",ASTV
@@ -1369,6 +1371,10 @@ https://amg01602-themahqfrance-vivekanald-samsungspain-uu2zn.amagi.tv/playlist/a
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/vvhRkHZ/tracelatina.png",TRACE LATINA
 https://d3b13j525hja2q.cloudfront.net/23073/Latina/encrypted/4/prog_index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/vvhRkHZ/tracelatina.png",TRACE LATINA
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/encrypted.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/bNm7D0p/rlmdrd.png",REAL MADRID CINEVERSE
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/tKqg6vg/anda.jpg",SUR 1 ANDALUCIA
 https://cdnlive.codev8.net/rtvalive/channel1.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/tKqg6vg/anda.jpg",SUR 2 ANDALUCIA
