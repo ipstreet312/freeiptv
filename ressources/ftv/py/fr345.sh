@@ -18,7 +18,7 @@ fr4_content=$(cat "$input_file" | sed 's/France_2/France_4/g; s/hls_fr2/hls_fr4/
 fr5_content=$(cat "$input_file" | sed 's/France_2/France_5/g; s/hls_fr2/hls_fr5/g')
 noa_content=$(cat "$input_file" | sed 's/France_2/Regions_noa/g; s/hls_fr2/hls_noa/g')
 fri_content=$(cat "$input_file" | sed 's/France_2/France_Info/g; s/hls_fr2/hls_monde_frinfo/g')
-fsr_content=$(cat "$input_file" | sed 's/simulcast-p/live-series/g; s/simulcast/France_2/hls_fr2/bde12330-fbf2-44e7-8a7c-c5f31806460c_1000017564_HLS-francedomtom/g; s/France_2-avc1_2500000=10001/video_7201280_p_0/g; s/France_2-mp4a_96000_fra=20000/A_audio_1000017564_128_fr/g')
+fsr_content=$(cat "$input_file" | sed 's/simulcast-p/live-series/g; s/simulcast/\France_2/\hls_fr2/bde12330-fbf2-44e7-8a7c-c5f31806460c_1000017564_HLS-francedomtom/g; s/France_2-avc1_2500000=10001/video_7201280_p_0/g; s/France_2-mp4a_96000_fra=20000/A_audio_1000017564_128_fr/g')
 
 echo "$fr3_content" > "$output_dir/fr3.m3u8"
 echo "$fr4_content" > "$output_dir/fr4.m3u8"
