@@ -1171,16 +1171,16 @@ https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
 https://cdn-tokattvwebtv.yayin.com.tr/tokattvwebtv/tokattvwebtv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",TRAKYA TURK
 https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",TV35 İZMİR
-http://stream01.tv35.com.tr/hls2/tv35izmir.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",TV264 SAKARYA TV
-http://mc1.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",TRT KURDÎ
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",TURHAL WEB TV
 http://cdn-turhalwebtv.yayin.com.tr/turhalwebtv/turhalwebtv/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",TV1 KAYSERI
+#EXTINF:0 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",TV 1 KAYSERI
 https://edge1.socialsmart.tv/tv1/bant1/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",TV 264 SAKARYA
+http://mc1.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",TV 35 İZMİR
+http://stream01.tv35.com.tr/hls2/tv35izmir.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",TV 41 KOCAELI
 http://stream.taksimbilisim.com:1935/tv41/bant1/TV41.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",TV 52
@@ -1195,8 +1195,6 @@ https://edge1.socialsmart.tv/urfanatiktv/bant1/chunks.m3u8
 https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",TRAKYA TURK
 https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",TV 264 SAKARYA TV
-http://mc1.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",USKUDAR UNIVERSITE TV
 http://uskudarunv.mediatriple.net/uskudarunv/uskudar2/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",VAN GÖLÜ TV
