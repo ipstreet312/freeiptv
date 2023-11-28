@@ -2421,19 +2421,3 @@ https://ythlsgo.onrender.com/channel/UCT67YOMntJxfRnO_9bXDpvw.m3u8
 https://livestream.zazerconer.workers.dev/channel/UCT67YOMntJxfRnO_9bXDpvw.m3u8
 #EXTINF:0,Blank Empty Entry
 https://
-#EXTINF:0,NRJ HS CH
-https://tv.ngroup.be/live/ngrp:nrj_all/chunklist_w1657522594_b1046608.m3u8
-#EXTINF:0,NRJ HS PL
-https://tv.ngroup.be/live/ngrp:nrj_all/playlist.m3u8
-#EXTINF:0,NRJ HP CH
-http://tv.ngroup.be/live/ngrp:nrj_all/chunklist_w1657522594_b1046608.m3u8
-#EXTINF:0,NRJ HP PL
-http://tv.ngroup.be/live/ngrp:nrj_all/playlist.m3u8
-#EXTINF:0 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0",NRJ UA HP CH
-http://tv.ngroup.be/live/ngrp:nrj_all/chunklist_w1657522594_b1046608.m3u8
-#EXTINF:0 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0",NRJ UA HP PL
-http://tv.ngroup.be/live/ngrp:nrj_all/playlist.m3u8
-#EXTINF:0 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0",NRJ UA HS CH
-https://tv.ngroup.be/live/ngrp:nrj_all/chunklist_w1657522594_b1046608.m3u8
-#EXTINF:0 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0",NRJ UA HS PL
-https://tv.ngroup.be/live/ngrp:nrj_all/playlist.m3u8
