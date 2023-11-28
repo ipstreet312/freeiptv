@@ -271,6 +271,8 @@ https://live2.creacast.com/museum-france/smil:museum-france.smil/master.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/VvRpRty/myzen.png",MY ZEN
 https://amg01255-secomcofites-my-myzen-samsungfr-samsungfr-36vwz.amagi.tv/playlist/amg01255-secomcofites-my-myzen-samsungfr-samsungfr/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/VvRpRty/myzen.png",MY ZEN
+https://live.creacast.com/myzentv-france/myzentv-france.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/LYbF1Wt/fashionok.png",FASHION TV
 https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/LYbF1Wt/fashionok.png",FASHION TV
@@ -417,6 +419,10 @@ https://5aa375514fbab.streamlock.net:8090/tbzain/smil:kanaldude.smil/manifest.m3
 https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/1RVPRkx/bocal.png",TELE BOCAL
 https://new.cache-stream.workers.dev/stream/UCwDUKCll1qa877WP_MR-KEg/live.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/tLPxcFn/littoral.png",LITTORAL TV
+https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/QYJL1N7/tarn.png",TV TARN
+https://live.creacast.com/albi-tv-ch1/stream/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/nccDkr5/lmtv.png",LM TV SARTHE
 https://new.cache-stream.workers.dev/stream/UCidJ6dBJ7oEfdAVzqaL2nSg/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Jk1ND0P/mosaik.png",MOSAIK CRISTAL TV
@@ -2415,3 +2421,19 @@ https://ythlsgo.onrender.com/channel/UCT67YOMntJxfRnO_9bXDpvw.m3u8
 https://livestream.zazerconer.workers.dev/channel/UCT67YOMntJxfRnO_9bXDpvw.m3u8
 #EXTINF:0,Blank Empty Entry
 https://
+#EXTINF:0,NRJ HS CH
+https://tv.ngroup.be/live/ngrp:nrj_all/chunklist_w1657522594_b1046608.m3u8
+#EXTINF:0,NRJ HS PL
+https://tv.ngroup.be/live/ngrp:nrj_all/playlist.m3u8
+#EXTINF:0,NRJ HP CH
+http://tv.ngroup.be/live/ngrp:nrj_all/chunklist_w1657522594_b1046608.m3u8
+#EXTINF:0,NRJ HP PL
+http://tv.ngroup.be/live/ngrp:nrj_all/playlist.m3u8
+#EXTINF:0 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0",NRJ UA HP CH
+http://tv.ngroup.be/live/ngrp:nrj_all/chunklist_w1657522594_b1046608.m3u8
+#EXTINF:0 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0",NRJ UA HP PL
+http://tv.ngroup.be/live/ngrp:nrj_all/playlist.m3u8
+#EXTINF:0 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0",NRJ UA HS CH
+https://tv.ngroup.be/live/ngrp:nrj_all/chunklist_w1657522594_b1046608.m3u8
+#EXTINF:0 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0",NRJ UA HS PL
+https://tv.ngroup.be/live/ngrp:nrj_all/playlist.m3u8
