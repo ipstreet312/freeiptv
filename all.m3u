@@ -368,7 +368,7 @@ https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/3y88kpg/telenantes.jpg",TELE NANTES
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Telenantes.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/xS8B1qS/tvvendee.png",TV VENDEE
-https://streamer01.myvideoplace.tv/streamer02/hls/VDE_EVEN_PAD_130923_medium/index.m3u8
+https://streamer01.myvideoplace.tv/streamer02/hls/VDE_EVEN_PAD_130923.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/fdcDJWF/tv78.png",TV 78
 https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/WpSPwkN/7alim.png",7 A LIMOGES
