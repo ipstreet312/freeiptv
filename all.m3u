@@ -1345,7 +1345,11 @@ https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/index.m3u8
 https://mako-streaming.akamaized.net/n12/hls/live/2041434/n12s/index.m3u8?hdnea=
 
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/VM5vGBV/la1.jpg" group-title="|ES|🇪🇸 ESPAÑA",TVE LA 1
+#EXTINF:0 tvg-logo="https://i.ibb.co/ypn5DBD/tveint.png" group-title="|ES|🇪🇸 ESPAÑA",TVE INTERNACIONAL
+https://ztnr.rtve.es/ztnr/6891743.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/ypn5DBD/tveint.png",TVE INTERNACIONAL
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/VM5vGBV/la1.jpg",TVE LA 1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/VM5vGBV/la1.jpg",TVE LA 1
 https://dh6vo1bovy43s.cloudfront.net/La_1_ES.m3u8
@@ -1369,6 +1373,14 @@ https://ztnr.rtve.es/ztnr/5466990.m3u8
 https://ztnr.rtve.es/ztnr/5836726.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/99kVf9W/somoscine.png",TVE SOMOS CINE
 https://ztnr.rtve.es/ztnr/6909845.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/SRbKtLk/rtve.png",RTVE PLAY CADENA 1
+https://ztnr.rtve.es/ztnr/6108696.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/SRbKtLk/rtve.png",RTVE PLAY CADENA 2
+https://ztnr.rtve.es/ztnr/6108703.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/SRbKtLk/rtve.png",RTVE PLAY CADENA 3
+https://ztnr.rtve.es/ztnr/6108704.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/SRbKtLk/rtve.png",RTVE PLAY CADENA 4
+https://ztnr.rtve.es/ztnr/6108720.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/SRbKtLk/rtve.png",RTVE
 https://ztnr.rtve.es/ztnr/5562351.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/SRbKtLk/rtve.png",RTVE
@@ -1379,13 +1391,25 @@ https://euronews-euronews-spanish-2-us.plex.wurl.tv/playlist.m3u8
 https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/cQwqfFC/ees.jpg",EL PAIS
 https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/tMVTj53/elconf.jpg",EL CONFIDENCIAL TV
+https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/8xh76zN/parl.jpg",CANAL PARLAMENTO
 https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/8xh76zN/parl.jpg",CANAL DIPUTADOS
 https://congresodirecto.akamaized.net/hls/live/2038274/canal1/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/TthjhJ6/solmusica.png",SOL MÙSICA
 https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/6nC1wYw/kidz.png",KIDZ
+#EXTINF:0 tvg-logo="https://i.ibb.co/GsLm5g5/trece.png",TRECE INT
+https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/h17Kt3g/fastatres.jpg",ATRES CLÁSICOS
+https://fast-channels.atresmedia.com/648ef12c2bfab0e4507e0d61/648ef12c2bfab0e4507e0d61.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/h17Kt3g/fastatres.jpg",ATRES COMEDIA
+https://fast-channels.atresmedia.com/648ef23d2bfab0e4557e0d61/648ef23d2bfab0e4557e0d61.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/h17Kt3g/fastatres.jpg",ATRES FLOOXER
+https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/h17Kt3g/fastatres.jpg",ATRES MULTICINE
+https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/h17Kt3g/fastatres.jpg",ATRES KIDZ
 https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/GJ3Qw6b/peque.jpg",PEQUE TV
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
@@ -1405,10 +1429,16 @@ https://d3b13j525hja2q.cloudfront.net/23073/Latina/encrypted/4/prog_index.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/encrypted.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/bNm7D0p/rlmdrd.png",REAL MADRID CINEVERSE
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/tKqg6vg/anda.jpg",SUR 1 ANDALUCIA
+#EXTINF:0 tvg-logo="https://i.ibb.co/NLVj121/eltoro.png",EL TORO TV
+https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/Qb7LPVN/andartv.png",SUR 1 ANDALUCIA
 https://cdnlive.codev8.net/rtvalive/channel1.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/tKqg6vg/anda.jpg",SUR 2 ANDALUCIA
+#EXTINF:0 tvg-logo="https://i.ibb.co/Pt5ThHQ/andatv.png",SUR 2 ANDALUCIA
 https://cdnlive.codev8.net/rtvalive/channel22.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/LrnwFnz/andacocina.png",COCINA ANDALUCIA
+https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/hHKKnt3/andaturismo.png",TURISMO ANDALUCIA
+https://cloud.fastchannel.es/mic/manifiest/hls/aturismo/aturismo.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/MkBCwH4/arag.png",ARAGON TV
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/VM5vGBV/la1.jpg",LA 1 CANARIAS
@@ -1429,6 +1459,8 @@ https://ztnr.rtve.es/ztnr/4952053.m3u8
 https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/xmGNS4w/tvcata.jpg",TV3 CATALUNYA 24H
 https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/2F2XDFd/bondia.png",BON DIA TV
+https://directes-tv-int.ccma.cat/live-origin/bondia-hls/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/5kpD2Jv/cat8.png",CATALUNYA 8
 https://mdstrm.com/live-stream-playlist/636bd70b44680408872dbfc6.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/crzKf1n/tenerife4.jpg",TENERIFE 4
@@ -1457,6 +1489,8 @@ https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
 https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/56TvMjR/etbs.jpg",EITB DEPORTE
 https://multimedia.eitb.eus/live-content/oka3hd-hls/master.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/ySq76W3/rtva.png",ANDORRA DIFUSIÓ
+https://videos.rtva.ad/live/rtva/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/NCQtNX5/telesur.png",TELESUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/hKP8X8B/f24.png",FRANCE 24 ES
