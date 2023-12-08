@@ -12,7 +12,7 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/
 #EXTINF:0 tvg-logo="https://i.ibb.co/XkLHrbC/frinfo2bl.png",FRANCE INFO
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frin.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/XkLHrbC/frinfo2bl.png",FRANCE INFO
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/frinfo/frinfo.m3u8
+https://new.cache-stream.workers.dev/stream/UCO6K_kkdP-lnSCiO3tPx7WA/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/ZBqk6mK/lemedia.jpg",LE MEDIA TV
 https://new.cache-stream.workers.dev/stream/UCT67YOMntJxfRnO_9bXDpvw/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/ZBqk6mK/lemedia.jpg",LE MEDIA TV
@@ -72,9 +72,9 @@ https://rakuten-euronews-2-fr.samsung.wurl.tv/manifest/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",EURONEWS FR (backup)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d35bcaf1ff4a00078af0a6livestitch/master.m3u8?deviceDNT=%7BTARGETOPT%7D&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung
 #EXTINF:0 tvg-logo="https://i.ibb.co/XkLHrbC/frinfo2bl.png",FRANCE INFO (backup)
-https://new.cache-stream.workers.dev/stream/UCO6K_kkdP-lnSCiO3tPx7WA/live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/XkLHrbC/frinfo2bl.png",FRANCE INFO (backup)
 https://ythls.armelin.one/channel/UCO6K_kkdP-lnSCiO3tPx7WA.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/XkLHrbC/frinfo2bl.png",FRANCE INFO (backup)
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/frinfo/frinfo.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/XkLHrbC/frinfo2bl.png",FRANCE INFO [find-host]
 https://PuthereYourserverHostaddress/frijsoncurl.php?m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Zfcrrr1/lci.png",LCI [tkn-blocked]
