@@ -2449,7 +2449,10 @@ https://rtmp.baku.tv/live/bakutv_1080p.m3u8
 http://cdn-umudtv.yayin.com.tr/umudtv/smil:umudtv.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png",AZ NEWS
 https://swow1.socialsmart.tv/aznews/smil:aznews.smil/playlist.m3u8
-
+#EXTINF:0 tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png",AZ TV
+https://str.yodacdn.net/aztv/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png",ATV AZ
+https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_adaptive.m3u8
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/mywSdSQ/att.png" group-title="|📡|👨‍💻👉GITHUB.COM/IPSTREET312",|ℹ️|MORE-INFO➡️: ☛RECEPTIONIPTV.BLOGSPOT.COM 📻🎶📺🎥
 https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/blogv.ts
