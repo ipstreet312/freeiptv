@@ -2488,3 +2488,27 @@ https://ythlsgo.onrender.com/channel/UCT67YOMntJxfRnO_9bXDpvw.m3u8
 https://livestream.zazerconer.workers.dev/channel/UCT67YOMntJxfRnO_9bXDpvw.m3u8
 #EXTINF:0,Blank Empty Entry
 https://
+#EXTINF:0 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0",HTTPS MOZIL INDEX
+https://str.yodacdn.net/aztv/index.m3u8
+#EXTINF:0 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0",HTTPS MOZIL MONO
+https://str.yodacdn.net/aztv/tracks-v1a1/mono.m3u8
+#EXTINF:0 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0",HTTP MOZIL INDEX
+http://str.yodacdn.net/aztv/index.m3u8
+#EXTINF:0 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0",HTTP MOZIL MONO
+http://str.yodacdn.net/aztv/tracks-v1a1/mono.m3u8
+#EXTINF:0 user-agent="Star Wars",HTTPS STWRS INDEX
+https://str.yodacdn.net/aztv/index.m3u8
+#EXTINF:0 user-agent="Star Wars",HTTPS STWRS MONO
+https://str.yodacdn.net/aztv/tracks-v1a1/mono.m3u8
+#EXTINF:0 user-agent="Star Wars",HTTP STWRS INDEX
+http://str.yodacdn.net/aztv/index.m3u8
+#EXTINF:0 user-agent="Star Wars",HTTP STWRS MONO
+http://str.yodacdn.net/aztv/tracks-v1a1/mono.m3u8
+#EXTINF:0,HTTPS INDEX
+https://str.yodacdn.net/aztv/index.m3u8
+#EXTINF:0,HTTPS MONO
+https://str.yodacdn.net/aztv/tracks-v1a1/mono.m3u8
+#EXTINF:0,HTTP INDEX
+http://str.yodacdn.net/aztv/index.m3u8
+#EXTINF:0,HTTP MONO
+http://str.yodacdn.net/aztv/tracks-v1a1/mono.m3u8
