@@ -2459,57 +2459,57 @@ https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_adaptive.m3u8
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/Wv7WsCQ/luflag.png" group-title="|EU|🇪🇺 EUROPEAN COCKTAILTOUR🍸",----|LU: LUXEMBOURG|----
 https://empty
-#EXTINF:0,RTL LUX
+#EXTINF:0 tvg-logo="https://i.ibb.co/Wv7WsCQ/luflag.png",RTL LUX
 https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/YWZSCP6/itflag.png" group-title="|EU|🇪🇺 EUROPEAN COCKTAILTOUR🍸",----|IT: ITALIA|----
 https://empty
-#EXTINF:0,RAI ITALIA
+#EXTINF:0 tvg-logo="https://i.ibb.co/YWZSCP6/itflag.png",RAI ITALIA
 https://raievent7-live.akamaized.net/hls/live/619186/raievent7/raievent7/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/zX3VBJW/deflag.png" group-title="|EU|🇪🇺 EUROPEAN COCKTAILTOUR🍸",----|DE: GERMANY|----
 https://empty
-#EXTINF:0,TAGESSCHAU 24
+#EXTINF:0 tvg-logo="https://i.ibb.co/zX3VBJW/deflag.png",TAGESSCHAU 24
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
-#EXTINF:0,DAS ERSTE INT
+#EXTINF:0 tvg-logo="https://i.ibb.co/zX3VBJW/deflag.png",DAS ERSTE INT
 https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/54m0VVX/czflag.png" group-title="|EU|🇪🇺 EUROPEAN COCKTAILTOUR🍸",----|CZ: CZECHIA|----
 https://empty
-#EXTINF:0,OCKO 1
+#EXTINF:0 tvg-logo="https://i.ibb.co/54m0VVX/czflag.png",OCKO 1
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/qntqvLY/hrflag.png" group-title="|EU|🇪🇺 EUROPEAN COCKTAILTOUR🍸",----|HR: CROATIA|----
 https://empty
-#EXTINF:0,RTL HR
+#EXTINF:0 tvg-logo="https://i.ibb.co/qntqvLY/hrflag.png",RTL HR
 https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
-#EXTINF:0,HRT 1
+#EXTINF:0 tvg-logo="https://i.ibb.co/qntqvLY/hrflag.png",HRT 1
 https://webtvstream.bhtelecom.ba/hrt1.m3u8
-#EXTINF:0,HRT 2
+#EXTINF:0 tvg-logo="https://i.ibb.co/qntqvLY/hrflag.png",HRT 2
 https://webtvstream.bhtelecom.ba/hrt2.m3u8
-#EXTINF:0,HRT 3
+#EXTINF:0 tvg-logo="https://i.ibb.co/qntqvLY/hrflag.png",HRT 3
 https://webtvstream.bhtelecom.ba/hrt3.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/pfMgGY0/rsflag.png" group-title="|EU|🇪🇺 EUROPEAN COCKTAILTOUR🍸",----|RS: SERBIA|----
 https://empty
-#EXTINF:0,RTS 1
+#EXTINF:0 tvg-logo="https://i.ibb.co/pfMgGY0/rsflag.png",RTS 1
 https://webtvstream.bhtelecom.ba/rts1.m3u8
-#EXTINF:0,RTS 2
+#EXTINF:0 tvg-logo="https://i.ibb.co/pfMgGY0/rsflag.png",RTS 2
 https://webtvstream.bhtelecom.ba/rts2.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/q0cvLym/roflag.png" group-title="|EU|🇪🇺 EUROPEAN COCKTAILTOUR🍸",----|RO: ROMANIA|----
 https://empty
-#EXTINF:0,TVR INT
+#EXTINF:0 tvg-logo="https://i.ibb.co/q0cvLym/roflag.png",TVR INT
 https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/x2Z5rXB/moflag.png" group-title="|EU|🇪🇺 EUROPEAN COCKTAILTOUR🍸",----|MD: MOLDOVA|----
 https://empty
-#EXTINF:0,MOLDOVA 1
+#EXTINF:0 tvg-logo="https://i.ibb.co/x2Z5rXB/moflag.png",MOLDOVA 1
 https://v.trm.md/static/streaming-playlists/hls/f272ace4-32c2-4271-bbb6-7fc30a5c6105/master.m3u8
-#EXTINF:0,MOLDOVA 2
+#EXTINF:0 tvg-logo="https://i.ibb.co/x2Z5rXB/moflag.png",MOLDOVA 2
 https://v2.trm.md/static/streaming-playlists/hls/76541c86-d7de-4c73-b4c0-4fe6670b90a8/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/fkBX4Zh/grflag.png" group-title="|EU|🇪🇺 EUROPEAN COCKTAILTOUR🍸",----|GR: GREECE|----
 https://empty
-#EXTINF:0,ERT NEWS
+#EXTINF:0 tvg-logo="https://i.ibb.co/fkBX4Zh/grflag.png",ERT NEWS
 https://cbd537474fbad4634b64787657ff6456.msvdn.net/news/ert_news_main/mainabr/playlist_dvr.m3u8
-#EXTINF:0,ERT WORLD
+#EXTINF:0 tvg-logo="https://i.ibb.co/fkBX4Zh/grflag.png",ERT WORLD
 https://cbd537474fbad4634b64787657ff6456.msvdn.net/ertworld/ert_world_main/mainabr/playlist_dvr.m3u8
-#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/flag/az/rs.png" group-title="|EU|🇪🇺 EUROPEAN COCKTAILTOUR🍸",----|CY: CYPRUS|----
+#EXTINF:0 tvg-logo="https://i.ibb.co/xhrtLgq/cyflag.png" group-title="|EU|🇪🇺 EUROPEAN COCKTAILTOUR🍸",----|CY: CYPRUS|----
 https://empty
-#EXTINF:0,RIK INT
+#EXTINF:0 tvg-logo="https://i.ibb.co/xhrtLgq/cyflag.png",RIK INT
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 
 
