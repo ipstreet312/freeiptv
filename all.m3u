@@ -2457,16 +2457,43 @@ http://str.yodacdn.net/aztv/index.m3u8
 https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_adaptive.m3u8
 
 
+#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/flag/az/rs.png" group-title="|EU|🇪🇺 EUROPEAN COCKTAIL-TOUR🍸",---- | RS: SERBIA | ----
+https://empty
+#EXTINF:0,RTL LUX 1
+https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
+#EXTINF:0,RTL LUX 2
+https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
+#EXTINF:0,---- | CZ: CZECHIA | ----
+#EXTINF:0,RTL LUX 3
+https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
+#EXTINF:0,RTL LUX 4
+https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
+
+
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/flag/az/rs.png" group-title="|EU|🇪🇺 EUROPEAN COCKTAIL-TOUR🍸",----| RS: SERBIA |----
 https://empty
-#EXTINF:0,----| RS: SERBIA |----
+#EXTINF:0,RTL LUX 1
+https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
+#EXTINF:0,RTL LUX 2
+https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
+#EXTINF:0,----| CZ: CZECHIA |----
+#EXTINF:0,RTL LUX 3
+https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
+#EXTINF:0,RTL LUX 4
+https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/flag/az/rs.png" group-title="|EU|🇪🇺 EUROPEAN COCKTAIL-TOUR🍸",---- RS: SERBIA ----
 https://empty
-#EXTINF:0,---- RS: SERBIA ----
-https://empty
-#EXTINF:0,| RS: SERBIA |
-https://empty
-#EXTINF:0,RS: SERBIA
-https://empty
+#EXTINF:0,RTL LUX 1
+https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
+#EXTINF:0,RTL LUX 2
+https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
+#EXTINF:0,---- CZ: CZECHIA ----
+#EXTINF:0,RTL LUX 3
+https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
+#EXTINF:0,RTL LUX 4
+https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
 #EXTINF:0,RTL LUX 1
 https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
 #EXTINF:0,RTL LUX 2
