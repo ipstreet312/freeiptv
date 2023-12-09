@@ -414,7 +414,7 @@ https://new.cache-stream.workers.dev/stream/UCwVQAPo6tjC5w5yBBh0WEdA/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/1rDLsMp/puisstv.png",PUISSANCE TELEVISION
 https://new.cache-stream.workers.dev/stream/UCxSUslP_JMH3Bb50oXd1Nnw/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Tr2b0gV/natv.png",NA TV
-https://edge16.vedge.infomaniak.com/livecast/ik:naradio/manifest.m3u8
+https://livevideo.vedge.infomaniak.com/livecast/naradio/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/2Zb8Gmb/kdude.png",KANAL DUDE
 https://5aa375514fbab.streamlock.net:8090/tbzain/smil:kanaldude.smil/manifest.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/0q3DHhF/cannesler.png",CANNES LERINS TV
@@ -1081,6 +1081,8 @@ https://live.artidijitalmedya.com/artidijital_grt/grt/chunks.m3u8
 https://live.artidijitalmedya.com/artidijital_etv/etv/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",GÜNEY TV TARSUS
 https://live.artidijitalmedya.com/artidijital_guneytv/guneytv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",GÜNEY TV TARSUS
+https://edge1.socialsmart.tv/guneytv/bant1/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",GURBET 24 TV
 http://cdn1-gurbet24.yayin.com.tr/gurbet24/ngrp:gurbet24/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",HEDEF TV KOCAELİ
@@ -2455,122 +2457,56 @@ http://str.yodacdn.net/aztv/index.m3u8
 https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_adaptive.m3u8
 
 
-#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/flag/az/rs.png" group-title="|EU|🇪🇺 EUROPEAN COCKTAIL TOUR🍸",
-----| RS: SERBIA |----
-#EXTINF:0,RTS 1
-https://webtvstream.bhtelecom.ba/rts1.m3u8
-#EXTINF:0,RTS 2
-https://webtvstream.bhtelecom.ba/rts2.m3u8
-#EXTINF:0,NA TV
-https://livevideo.vedge.infomaniak.com/livecast/naradio/playlist.m3u8
-#EXTINF:0,GÜNEY TV
-https://edge1.socialsmart.tv/guneytv/bant1/chunks.m3u8
+#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/flag/az/rs.png" group-title="|EU|🇪🇺 EUROPEAN COCKTAIL-TOUR🍸",----| RS: SERBIA |----
+https://empty
+#EXTINF:0,----| RS: SERBIA |----
+https://empty
+#EXTINF:0,---- RS: SERBIA ----
+https://empty
+#EXTINF:0,| RS: SERBIA |
+https://empty
+#EXTINF:0,RS: SERBIA
+https://empty
 #EXTINF:0,RTL LUX 1
 https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
 #EXTINF:0,RTL LUX 2
 https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
 #EXTINF:0,RAI ITALIA
 https://raievent7-live.akamaized.net/hls/live/619186/raievent7/raievent7/playlist.m3u8
-#EXTINF:0,PBS
-https://pbs-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:0,LUXE
-https://alchimie-luxe-fr-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:0,DAS ERSTE 24
-https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master.m3u8
-#EXTINF:0,TAGESSCHAU 24
-https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
-#EXTINF:0,MOLDAVIA 1
-https://v.trm.md/static/streaming-playlists/hls/f272ace4-32c2-4271-bbb6-7fc30a5c6105/master.m3u8
-#EXTINF:0,MOLDAVIA 2
-https://v2.trm.md/static/streaming-playlists/hls/76541c86-d7de-4c73-b4c0-4fe6670b90a8/master.m3u8
-#EXTINF:0,YLE 1
-https://yletv.akamaized.net/hls/live/622365/yletv1fin/playlist.m3u8
-#EXTINF:0,YLE 2
-https://yletv.akamaized.net/hls/live/622366/yletv2fin/playlist.m3u8
-#EXTINF:0,OCKO 2
-https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
-#EXTINF:0,OCKO 1
-https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
-#EXTINF:0,OCKO EXPRES
-https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
-#EXTINF:0,ORF 1
-https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest.m3u8
-#EXTINF:0,ORF 2
-https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest.m3u8
-#EXTINF:0,ORF 3
-https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest.m3u8
-#EXTINF:0,OBS TVN
-https://obs.friendshipchurch.eu/tvn/mystream.m3u8
 #EXTINF:0,DAS ERSTE 24
 https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
-#EXTINF:0,DAS ERSTE
-https://mcdn.daserste.de/daserste/de/master.m3u8
-#EXTINF:0,DW DEUTSCH
-https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
-#EXTINF:0,DW DEUTSCH PLUS
-https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/index.m3u8
-#EXTINF:0,ZDF
-https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
-#EXTINF:0,ZDF 2
-https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
-#EXTINF:0,DR 1
-https://drlive01hls.akamaized.net/hls/live/2014185/drlive01/master.m3u8
-#EXTINF:0,DR 2
-https://drlive02hls.akamaized.net/hls/live/2014187/drlive02/master.m3u8
-#EXTINF:0,ERT 1
-http://cbd537474fbad4634b64787657ff6456.msvdn.net/ert1/ert_ev1_main/mainabr/playlist_dvr.m3u8
-#EXTINF:0,ERT 2
-http://cbd537474fbad4634b64787657ff6456.msvdn.net/ert2/ert_ev2_main/mainabr/playlist_dvr.m3u8
-#EXTINF:0,ERT 3
-http://cbd537474fbad4634b64787657ff6456.msvdn.net/ert3/ert_ev3_main/mainabr/playlist_dvr.m3u8
-#EXTINF:0,ERT NEWS
-https://cbd537474fbad4634b64787657ff6456.msvdn.net/news/ert_news_main/mainabr/playlist_dvr.m3u8
-#EXTINF:0,ERT WORLD
-https://cbd537474fbad4634b64787657ff6456.msvdn.net/ertworld/ert_world_main/mainabr/playlist_dvr.m3u8
-#EXTINF:0,ERT WORLD
-https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
-#EXTINF:0,CYBC
-http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+#EXTINF:0,TAGESSCHAU 24
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+#EXTINF:0,OCKO 1
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
+#EXTINF:0,OCKO 2
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
 #EXTINF:0,RTL HR
 https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
-#EXTINF:0,RTL KOCKICA
-https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
 #EXTINF:0,HRT 1
 https://webtvstream.bhtelecom.ba/hrt1.m3u8
 #EXTINF:0,HRT 2
 https://webtvstream.bhtelecom.ba/hrt2.m3u8
 #EXTINF:0,HRT 3
 https://webtvstream.bhtelecom.ba/hrt3.m3u8
-#EXTINF:0,LUXE FR
-https://alchimie-luxe-fr-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:0,LUXE EN
-https://alchimie-luxe-uk-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:0,SVT 2
-https://n5.stv.livebox.sk/stv-tv/addfd31846e34200883cc2b4e9e6c855/stv2.smil/playlist.m3u8
-#EXTINF:0,SVT 1
-https://n4.stv.livebox.sk/stv-tv/fe09ae603df84846978c9d960f699900/stv1.smil/playlist.m3u8
-#EXTINF:0,SVT 1
-https://svt1-c.akamaized.net/se/svt1/master.m3u8
-#EXTINF:0,SVT B
-https://svtb-c.akamaized.net/se/svtb/master.m3u8
-#EXTINF:0,SVT K
-https://svtk-c.akamaized.net/se/svtk/master.m3u8
-#EXTINF:0,TVR 1
-https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/index.m3u8
-#EXTINF:0,TVR 2
-https://mn-nl.mncdn.com/tvr2_test/smil:tvr2_test.smil/index.m3u8
-#EXTINF:0,TVR 3
-https://mn-nl.mncdn.com/tvr3_test/smil:tvr3_test.smil/index.m3u8
-#EXTINF:0,TVR INFO
-https://mn-nl.mncdn.com/tvrinfo/tvrinfo_mjuypp/index.m3u8
+#EXTINF:0,RTS 1
+https://webtvstream.bhtelecom.ba/rts1.m3u8
+#EXTINF:0,RTS 2
+https://webtvstream.bhtelecom.ba/rts2.m3u8
 #EXTINF:0,TVR INT
 https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/index.m3u8
-#EXTINF:0,TVP INFO
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpinfo
-#EXTINF:0,TVP INFO TYPE
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpinfo&type=m3u8
-#EXTINF:0,RAI NEWS 24
-https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
+#EXTINF:0,MOLDAVIA 1
+https://v.trm.md/static/streaming-playlists/hls/f272ace4-32c2-4271-bbb6-7fc30a5c6105/master.m3u8
+#EXTINF:0,MOLDAVIA 2
+https://v2.trm.md/static/streaming-playlists/hls/76541c86-d7de-4c73-b4c0-4fe6670b90a8/master.m3u8
+#EXTINF:0,ERT NEWS
+https://cbd537474fbad4634b64787657ff6456.msvdn.net/news/ert_news_main/mainabr/playlist_dvr.m3u8
+#EXTINF:0,ERT WORLD
+https://cbd537474fbad4634b64787657ff6456.msvdn.net/ertworld/ert_world_main/mainabr/playlist_dvr.m3u8
+#EXTINF:0,ERT WORLD
+https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
+#EXTINF:0,RIK CY
+http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/mywSdSQ/att.png" group-title="|📡|👨‍💻👉GITHUB.COM/IPSTREET312",|ℹ️|MORE-INFO➡️: ☛RECEPTIONIPTV.BLOGSPOT.COM 📻🎶📺🎥
