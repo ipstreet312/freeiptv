@@ -2457,50 +2457,22 @@ http://str.yodacdn.net/aztv/index.m3u8
 https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_adaptive.m3u8
 
 
-#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/flag/az/rs.png" group-title="|EU|🇪🇺 EUROPEAN COCKTAILTOUR1🍸",---- | RS: SERBIA1 | ----
+#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/flag/az/rs.png" group-title="|EU|🇪🇺 EUROPEAN COCKTAILTOUR🍸",----|RS:SERBIA|----
 https://empty
 #EXTINF:0,RTL LUX 1
 https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
 #EXTINF:0,RTL LUX 2
 https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
-#EXTINF:0,---- | CZ: CZECHIA1 | ----
+#EXTINF:0,----|CZ:CZECHIA|----
 https://empty
 #EXTINF:0,RTL LUX 3
 https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
 #EXTINF:0,RTL LUX 4
 https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
-
-
-#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/flag/az/rs.png" group-title="|EU|🇪🇺 EUROPEAN COCKTAILTOUR2🍸",----| RS: SERBIA2 |----
+#EXTINF:0,----|OK:TRUELIST|----
 https://empty
-#EXTINF:0,RTL LUX 1
+#EXTINF:0,RTL LUX
 https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
-#EXTINF:0,RTL LUX 2
-https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
-#EXTINF:0,----| CZ: CZECHIA2 |----
-https://empty
-#EXTINF:0,RTL LUX 3
-https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
-#EXTINF:0,RTL LUX 4
-https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
-
-
-#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/flag/az/rs.png" group-title="|EU|🇪🇺 EUROPEAN COCKTAILTOUR3🍸",---- RS: SERBIA3 ----
-https://empty
-#EXTINF:0,RTL LUX 1
-https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
-#EXTINF:0,RTL LUX 2
-https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
-#EXTINF:0,---- CZ: CZECHIA3 ----
-https://empty
-#EXTINF:0,RTL LUX 3
-https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
-#EXTINF:0,RTL LUX 4
-https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
-#EXTINF:0,RTL LUX 1
-https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
-#EXTINF:0,RTL LUX 2
-https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
 #EXTINF:0,RAI ITALIA
 https://raievent7-live.akamaized.net/hls/live/619186/raievent7/raievent7/playlist.m3u8
 #EXTINF:0,DAS ERSTE 24
@@ -2509,8 +2481,6 @@ https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 #EXTINF:0,OCKO 1
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
-#EXTINF:0,OCKO 2
-https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
 #EXTINF:0,RTL HR
 https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
 #EXTINF:0,HRT 1
@@ -2533,9 +2503,7 @@ https://v2.trm.md/static/streaming-playlists/hls/76541c86-d7de-4c73-b4c0-4fe6670
 https://cbd537474fbad4634b64787657ff6456.msvdn.net/news/ert_news_main/mainabr/playlist_dvr.m3u8
 #EXTINF:0,ERT WORLD
 https://cbd537474fbad4634b64787657ff6456.msvdn.net/ertworld/ert_world_main/mainabr/playlist_dvr.m3u8
-#EXTINF:0,ERT WORLD
-https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
-#EXTINF:0,RIK CY
+#EXTINF:0,RIK INT
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 
 
