@@ -13,9 +13,9 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frin.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/XkLHrbC/frinfo2bl.png",FRANCE INFO
 https://new.cache-stream.workers.dev/stream/UCO6K_kkdP-lnSCiO3tPx7WA/live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/ZBqk6mK/lemedia.jpg",LE MEDIA TV
+#EXTINF:0 tvg-logo="https://i.ibb.co/ZBqk6mK/lemedia.jpg",LE MÉDIA TV
 https://new.cache-stream.workers.dev/stream/UCT67YOMntJxfRnO_9bXDpvw/live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/ZBqk6mK/lemedia.jpg",LE MEDIA TV
+#EXTINF:0 tvg-logo="https://i.ibb.co/ZBqk6mK/lemedia.jpg",LE MÉDIA TV
 https://ythls.armelin.one/channel/UCT67YOMntJxfRnO_9bXDpvw.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",EURONEWS FR
 https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8
@@ -27,7 +27,7 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
 https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_092/HD/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/hKP8X8B/f24.png",FRANCE 24 FR
 https://new.cache-stream.workers.dev/stream/UCCCPCZNChQdGa9EkATeye4g/live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/PmmR72J/lcp.png",PUBLIC SENAT
+#EXTINF:0 tvg-logo="https://i.ibb.co/PmmR72J/lcp.png",PUBLIC SÉNAT
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/pblsnt/pblsnt.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/PmmR72J/lcp.png",LCP AN [n/a]
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/lcpan/lcpan.m3u8
@@ -101,7 +101,7 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/6spXX2y/nrj12.png",NRJ 12
 https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/R3KG4L9/cherie25.png",CHERIE 25
+#EXTINF:0 tvg-logo="https://i.ibb.co/R3KG4L9/cherie25.png",CHÉRIE 25
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/ftYS2bk/CANAL-logo.png",CANAL+ EN CLAIR
 https://hls-m007.live-lv3.canalplus-cdn.net/live/disk/canalplusclair-hd/hls-ios-fhd-clair/canalplusclair-hd.m3u8
@@ -147,7 +147,7 @@ https://hls-m013.live-lv3.canalplus-cdn.net/live/disk/cstar-hd/hls-ios-fhddvr-pr
 https://hls-m013.live-lv3.canalplus-cdn.net/live/disk/cstar-hd/hls-ios-fhd/cstar-hd.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Sm9PtLR/cstar.png",CSTAR [drm-blocked]
 https://hls-m013-live-aka-canalplus.akamaized.net/live/disk/cstar-ad-hd/hls-ios-fhd/cstar-ad-hd.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/VS4xR2g/rmcdecou.png",RMC DECOUVERTE [drm-blocked]
+#EXTINF:0 tvg-logo="https://i.ibb.co/VS4xR2g/rmcdecou.png",RMC DÉCOUVERTE [drm-blocked]
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$RMC_DECOUVERTE/index.m3u8?start=LIVE&end=END
 #EXTINF:0 tvg-logo="https://i.ibb.co/fdYg3Lz/rmcstory.png",RMC STORY [drm-blocked]
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$NUMERO_23/index.m3u8?start=LIVE&end=END
@@ -173,7 +173,7 @@ https://live-tf1-hls-dai.cdn-1.diff.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb615
 https://live-tmc-hls.cdn-0.diff.tf1.fr/out/v1/44fcb1c776284f2da7c11ef948d7ef34/tmc-cmaf/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/4VS27Jw/tfx.png",TFX [tkn-blocked]
 https://live-tfx-hls.cdn-0.diff.tf1.fr/out/v1/54408d0e39304776bf7b2ce4b1599123/tfx-cmaf/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/9Y4PHKP/tf1sf.png",TF1 SERIES-FILMS [tkn-blocked]
+#EXTINF:0 tvg-logo="https://i.ibb.co/9Y4PHKP/tf1sf.png",TF1 SÉRIES-FILMS [tkn-blocked]
 https://live-tsf-hls.cdn-0.diff.tf1.fr/out/v1/9990671b96634d799552358352b2570a/tf1-series-film-cmaf/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png",FRANCE 2 [find-host]
 https://PuthereYourserverHostaddress/fr2curl.php?m3u8
@@ -187,7 +187,7 @@ https://PuthereYourserverHostaddress/fr5curl.php?m3u8
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/ByN83p3/funradtv.png" group-title="|FR|🇫🇷 SOCIÉTÉ",FUN RADIO TV BE
 https://livevideo.infomaniak.com/streaming/livecast/funradiovisionhd/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/g3YTn6c/geneok.png",GENERATIONS TV
+#EXTINF:0 tvg-logo="https://i.ibb.co/g3YTn6c/geneok.png",GÉNÉRATIONS TV
 https://edge.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/BPzb19X/melody.png",MELODY
 https://live.creacast.com/telemelody/smil:telemelody-211112.smil/master.m3u8
@@ -243,9 +243,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60817e1aa6997500072d0d
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?start=LIVE&end=END
 #EXTINF:0 tvg-logo="https://i.ibb.co/443jKxq/techco.png",TECH&CO
 https://bcovlive-a.akamaihd.net/df743f86a96e492790ba96a09ede4149/eu-central-1/6306058915001/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/TLPBT2L/topsante.png",TOP SANTE
+#EXTINF:0 tvg-logo="https://i.ibb.co/TLPBT2L/topsante.png",TOP SANTÉ
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/topsante/topsante.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/TLPBT2L/topsante.png",TOP SANTE
+#EXTINF:0 tvg-logo="https://i.ibb.co/TLPBT2L/topsante.png",TOP SANTÉ
 https://d3tuo4zu8l334y.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x8ri0qojo9mfh/e5997ac8-9e9c-42cc-a2ef-633dc0a4f5a3/2.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/d66k2fw/maisontrvx.png",MAISON & TRAVAUX
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/maisontrvx/maisontrvx.m3u8
@@ -253,7 +253,7 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion
 https://d387lnkgycbwl.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sdi2aweg8u1y4/761cde02-1df4-4a1a-ad50-7033ede188ef/2.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/grBSqt4/novela.png",TELE NOVELA TV
 https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/4RKk092/teva.png",TEVA
+#EXTINF:0 tvg-logo="https://i.ibb.co/4RKk092/teva.png",TÉVA
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/teva.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/JB18vMW/bblack.png",BBLACK! AFRICA
 http://livevideo.vedge.infomaniak.com/livecast/ik:bblackafrica/manifest.m3u8
@@ -353,7 +353,7 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/flms.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",F3 POITOU CHARENTES
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fpch.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",F3 MIDI PYRENEES
+#EXTINF:0 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",F3 MIDI PYRÉNÉES
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fmpr.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",F3 LANGUEDOC
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fldr.m3u8
@@ -361,13 +361,13 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fpdl.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",F3 BRETAGNE
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fbre.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/xmhMMDN/tebeo.png",TEBEO TV
+#EXTINF:0 tvg-logo="https://i.ibb.co/xmhMMDN/tebeo.png",TÉBÉO TV
 https://lives.digiteka.com/stream/e0fe6433-554e-4568-9a7e-31969136d8ff/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/3k4Lv34/tvrennes.png",TVR RENNES
 https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/3y88kpg/telenantes.jpg",TELE NANTES
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Telenantes.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/xS8B1qS/tvvendee.png",TV VENDEE
+#EXTINF:0 tvg-logo="https://i.ibb.co/xS8B1qS/tvvendee.png",TV VENDÉE
 https://streamer01.myvideoplace.tv/streamer02/hls/VDE_EVEN_PAD_130923.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/fdcDJWF/tv78.png",TV 78
 https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8
@@ -389,35 +389,35 @@ https://lives.digiteka.com/stream/17c6dea8-fb3f-46fe-b170-2ac88cd5667b/index.m3u
 http://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/2nG96GF/tv3v.png",TV 3V
 https://tv3v.live-kd.com/live/tv3v/livestream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/4ZfHZhf/viamatele.png",VIA MATELE
+#EXTINF:0 tvg-logo="https://i.ibb.co/4ZfHZhf/viamatele.png",VIA MATÉLÉ
 https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/3My0NGd/viaocc.png",VIA OCCITANIE
 https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/nQP8st8/telepaese.png",VIA TELEPAESE
 https://srv.webtvmanager.fr:3118/live/viatelepaeselive.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/QM2Y7TV/angtl.jpg",ANGERS TELE
+#EXTINF:0 tvg-logo="https://i.ibb.co/QM2Y7TV/angtl.jpg",ANGERS TÉLÉ
 https://streamer01.myvideoplace.tv/streamer02/hls/ANG_RACC_PAD_110919.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/qkkHNPR/vosges.png",VOSGES TV
 https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/nMkybxK/weo1.png",WEO TV
+#EXTINF:0 tvg-logo="https://i.ibb.co/nMkybxK/weo1.png",WÉO TV
 https://lives.digiteka.com/stream/c58028c2-a58b-4526-9ec8-389cad4a71e8/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/KGNTppx/nancyweb.jpg",NANCY WEB TV
 https://edge.vedge.infomaniak.com/livecast/ik:nancy-webtv/manifest.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/MMDSDQ9/maurienne.png",MAURIENNE TV
 https://new.cache-stream.workers.dev/stream/UCva-htH2wvmKsG6SkcEJ4Vw/live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/dDbcFbF/lch32.png",LA CHAINE 32
+#EXTINF:0 tvg-logo="https://i.ibb.co/dDbcFbF/lch32.png",LA CHAÎNE 32
 https://new.cache-stream.workers.dev/stream/UChl0zP89T7yZyEwQkCfmmnQ/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/VNDPTDY/tgohelle.png",TELE GOHELLE
 https://videas.agglo-lenslievin.fr/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/6W98gzZ/tvpi.png",TVPI BAYONNE
 https://new.cache-stream.workers.dev/stream/UCwVQAPo6tjC5w5yBBh0WEdA/live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/1rDLsMp/puisstv.png",PUISSANCE TELEVISION
+#EXTINF:0 tvg-logo="https://i.ibb.co/1rDLsMp/puisstv.png",PUISSANCE TÉLÉVISION
 https://new.cache-stream.workers.dev/stream/UCxSUslP_JMH3Bb50oXd1Nnw/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Tr2b0gV/natv.png",NA TV
 https://livevideo.vedge.infomaniak.com/livecast/naradio/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/2Zb8Gmb/kdude.png",KANAL DUDE
 https://5aa375514fbab.streamlock.net:8090/tbzain/smil:kanaldude.smil/manifest.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/0q3DHhF/cannesler.png",CANNES LERINS TV
+#EXTINF:0 tvg-logo="https://i.ibb.co/0q3DHhF/cannesler.png",CANNES LÉRINS TV
 https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/1RVPRkx/bocal.png",TELE BOCAL
 https://new.cache-stream.workers.dev/stream/UCwDUKCll1qa877WP_MR-KEg/live.m3u8
@@ -439,7 +439,7 @@ https://lives.digiteka.com/stream/920f083a-9e61-4c09-9bc2-bdb664063aa9/index.m3u
 https://x5ct4nu/
 #EXTINF:0 tvg-logo="https://i.ibb.co/h2VX7Wj/tlcholt.png",TL CHOLETAIS
 https://x5aarnv/
-#EXTINF:0 tvg-logo="https://i.ibb.co/c2CBDqt/grenoble.png",TELE GRENOBLE
+#EXTINF:0 tvg-logo="https://i.ibb.co/c2CBDqt/grenoble.png",TÉLÉ GRENOBLE
 https://twitchplatform
 #EXTINF:0 tvg-logo="https://i.ibb.co/2qs2HxR/astv.png",ASTV
 https://twitchplatform
