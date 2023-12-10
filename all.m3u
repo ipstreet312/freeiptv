@@ -1971,12 +1971,6 @@ https://bcovlive-a.akamaihd.net/d30cbb3350af4cb7a6e05b9eb1bfd850/eu-west-1/60579
 https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/nzjbYfR/asharq.png",ASHARQ NEWS
 https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/nzjbYfR/asharq.png",ASHARQ NEWS PORTRAIT
-https://bcovlive-a.akamaihd.net/ed81ac1118414d4fa893d3a83ccec9be/eu-central-1/6203311941001/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/nzjbYfR/asharq.png",ASHARQ DOCS
-https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/nzjbYfR/asharq.png",ASHARQ DOCS
-https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/m4tvbmp/inewsar.png",INEWS IQ
 https://svs.itworkscdn.net/inewsiqlive/inewsiq.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/JcP5JHq/bbcaranw.png",BBC NEWS ARABIA
@@ -1999,6 +1993,10 @@ https://tv-trtarabi.live.trt.com.tr/master.m3u8
 https://live2.alalam.ir/alalam.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/D7w9h7Q/rt.png",RT ARABIC [censure-blocked]
 https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/nzjbYfR/asharq.png",ASHARQ DOCS
+https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/nzjbYfR/asharq.png",ASHARQ DOCS 2
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Fs6CgPG/Al-Hiwar.png",AL HIWAR
 https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/PNLHyhs/Al-Sharqiya-News.png",AL SHARQIYA
@@ -2067,6 +2065,8 @@ https://5aafcc5de91f1.streamlock.net/ctvchannel.tv/ctv.smil/playlist.m3u8
 https://58cc65c534c67.streamlock.net/ctvchannel.tv/ctv.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/nzjbYfR/asharq.png",ASHARQ NEWS (backup)
 https://shls-asharq-prod-dub.shahid.net/out/v1/3b6b4902cf8747a28619411239584002/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/nzjbYfR/asharq.png",ASHARQ NEWS (portrait mode)
+https://bcovlive-a.akamaihd.net/ed81ac1118414d4fa893d3a83ccec9be/eu-central-1/6203311941001/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/h27qpLJ/araby1.png",AL ARABY (backup)
 https://new.cache-stream.workers.dev/stream/UC65i3Fyq91uiUkIS0i5GLNQ/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/s107QNv/araby2.png",AL ARABY 2 (part-time)
@@ -2143,8 +2143,6 @@ https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e9110
 https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/7W5nWYV/rotanacinema.png",ROTANA CINEMA KSA
 https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/YL1wKY8/Duhkwabas.png",ROTANA DUHK WABASS
-https://daiconnect.com/live/hls/rotana/dwbass/.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/LZR8RK4/rotanamusic.png",ROTANA MUSIC
 https://rotanastudios-rotanamusic-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/LZR8RK4/rotanamusic.png",ROTANA MUSIC
@@ -2173,6 +2171,10 @@ https://rotanastudios-rotanacomedy-1-eu.xiaomi.wurl.tv/playlist.m3u8
 https://rotanastudios-rotanadrama-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Tw3gRvT/rotanadrama.png",ROTANA DRAMA
 https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/YL1wKY8/Duhkwabas.png",ROTANA DUHK WABASS
+https://daiconnect.com/live/hls/rotana/dwbass/.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/YL1wKY8/Duhkwabas.png",ROTANA DUHK WABASS
+https://daiconnect.com/live/hls/rotana/dwbass/2863b804cde7974b846f64583832be11/.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/dQV1zQG/cbclive.jpg",CBC LIVE
 https://new.cache-stream.workers.dev/stream/UCUHq39HXLyAjjMPIjsNRLpw/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/0jpsxm7/cbcsofra.png",CBC SOFRA
