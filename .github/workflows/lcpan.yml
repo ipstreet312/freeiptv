@@ -2,7 +2,7 @@ name: lcpan action
 
 on:
   schedule:
-    - cron: '57 */5 * * *'
+    - cron: '13 */4 * * *'
   
   workflow_dispatch:
 
