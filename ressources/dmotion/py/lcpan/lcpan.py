@@ -10,7 +10,7 @@ headers = {
 print('#EXTM3U')
 print('#EXT-X-STREAM-INF:RESOLUTION=848x477,FRAME-RATE=25.000000,BANDWIDTH=1359872,CODECS="avc1.64001e,mp4a.40.2",NAME="480"')
 
-master_url = "http://www.callofliberty.fr/live/LCP/master.m3u8"
+master_url = "http://s2.callofliberty.fr/direct/LCP/master.m3u8"
 s = requests.Session()
 
 def get_specific_line_online(url, line_number):
@@ -26,7 +26,7 @@ def get_specific_line_online(url, line_number):
 
 chunks = get_specific_line_online(master_url, 3)
 
-prefix = "http://www.callofliberty.fr/HLS-AES/"
+prefix = "http://s2.callofliberty.fr/HLS-AES/"
 index = chunks.find(prefix)
 
 if index != -1:
