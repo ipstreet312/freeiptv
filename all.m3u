@@ -58,6 +58,8 @@ https://new.cache-stream.workers.dev/stream/UC25EuGAePOPvPrUA5cmu3dQ/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Tm8bZHc/bsmart.png",B SMART
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/bsmart/bsmart.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/HDB0sdh/bfmbusiness.png",BFM BUSINESS
+https://bfmbusinessalive1.akamaized.net/r83ae0ed67cc245eeb3ee184cad01f768/eu-central-1/876450612001/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/HDB0sdh/bfmbusiness.png",BFM BUSINESS
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
 #EXTINF:0 tvg-logo="https://i.ibb.co/Nn5x9Hq/bloom.jpg",BLOOMBERG FR
 https://bloomberg-bloombergtv-1-fr.samsung.wurl.tv/manifest/playlist.m3u8
@@ -65,6 +67,8 @@ https://bloomberg-bloombergtv-1-fr.samsung.wurl.tv/manifest/playlist.m3u8
 https://mit2-cdn-edge-live06.pfd.sfr.net/bfm-ncdn-live-premium-pal1.pfd.sfr.net/sid=054akapminjaseksmkrg/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
 #EXTINF:0 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png",BFM TV (backup)
 https://d133u1kwyeqhav.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-cfh0ys5588w7f/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/HDB0sdh/bfmbusiness.png",BFM BUSINESS (backup)
+https://d3sp7wui50dz5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dxxit4lrci140/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",EURONEWS FR (backup)
 https://shls-live-ak.akamaized.net/out/v1/302a3ad418214d3f94460738a805b930/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",EURONEWS FR (backup)
@@ -235,6 +239,12 @@ https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01596-gongnetworks-gong-samsungfr/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/MMpFXQL/gong.jpg",GONG
 https://amg01596-gongnetworks-gong-samsungfr-2q4y3.amagi.tv/playlist/amg01596-gongnetworks-gong-samsungfr/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/443jKxq/techco.png",TECH&CO
+https://bcovlive-a.akamaihd.net/df743f86a96e492790ba96a09ede4149/eu-central-1/6306058915001/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/443jKxq/techco.png",TECH&CO
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?start=LIVE&end=END
+#EXTINF:0 tvg-logo="https://i.ibb.co/443jKxq/techco.png",TECH&CO
+https://diepwaqe4bq8t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a5iu62314y9pt/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/2SHJGsj/allocine.png",ALLO CINÉ
 https://d1yl6bf4hrzbr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5km3zs4zs9sp0/allo.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/80d8phW/paris1ere.png",PARIS 1ÈRE
@@ -243,10 +253,6 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/d
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/mensup/mensup.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/0sdMx5Z/mtrvsn.png",MOTORVISION TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60817e1aa6997500072d0d6d/master.m3u8?deviceDNT=%7BTARGETOPT%7D&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung
-#EXTINF:0 tvg-logo="https://i.ibb.co/443jKxq/techco.png",TECH&CO
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?start=LIVE&end=END
-#EXTINF:0 tvg-logo="https://i.ibb.co/443jKxq/techco.png",TECH&CO
-https://bcovlive-a.akamaihd.net/df743f86a96e492790ba96a09ede4149/eu-central-1/6306058915001/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/TLPBT2L/topsante.png",TOP SANTÉ
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/topsante/topsante.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/TLPBT2L/topsante.png",TOP SANTÉ
@@ -2475,25 +2481,25 @@ http://str.yodacdn.net/aztv/index.m3u8
 https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_adaptive.m3u8
 
 
-#EXTINF:0 group-title="|EU|🇪🇺 EUROPEAN COCKTAILTOUR🍸",----|LU: LUXEMBOURG|----
+#EXTINF:0 group-title="|EU|🇪🇺 EUROPEAN COCKTAILTOUR🍸",--- LU: LUXEMBOURG ---
 http://blank
 #EXTINF:0 tvg-logo="https://i.ibb.co/Wv7WsCQ/luflag.png",RTL LUX
 https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
-#EXTINF:0 group-title="|EU|🇪🇺 EUROPEAN COCKTAILTOUR🍸",----|IT: ITALIA|----
+#EXTINF:0,--- IT: ITALIA ---
 http://blank
 #EXTINF:0 tvg-logo="https://i.ibb.co/YWZSCP6/itflag.png",RAI ITALIA
 https://raievent7-live.akamaized.net/hls/live/619186/raievent7/raievent7/playlist.m3u8
-#EXTINF:0 group-title="|EU|🇪🇺 EUROPEAN COCKTAILTOUR🍸",----|DE: GERMANY|----
+#EXTINF:0,--- [DE: GERMANY] ---
 http://blank
 #EXTINF:0 tvg-logo="https://i.ibb.co/zX3VBJW/deflag.png",TAGESSCHAU 24
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/zX3VBJW/deflag.png",DAS ERSTE INT
 https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
-#EXTINF:0 group-title="|EU|🇪🇺 EUROPEAN COCKTAILTOUR🍸",----|CZ: CZECHIA|----
+#EXTINF:0,--- [CZ: CZECHIA] ---
 http://blank
 #EXTINF:0 tvg-logo="https://i.ibb.co/54m0VVX/czflag.png",OCKO 1
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
-#EXTINF:0 group-title="|EU|🇪🇺 EUROPEAN COCKTAILTOUR🍸",----|HR: CROATIA|----
+#EXTINF:0,--- HR: CROATIA ---
 http://blank
 #EXTINF:0 tvg-logo="https://i.ibb.co/qntqvLY/hrflag.png",RTL HR
 https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
@@ -2503,29 +2509,29 @@ https://webtvstream.bhtelecom.ba/hrt1.m3u8
 https://webtvstream.bhtelecom.ba/hrt2.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/qntqvLY/hrflag.png",HRT 3
 https://webtvstream.bhtelecom.ba/hrt3.m3u8
-#EXTINF:0 group-title="|EU|🇪🇺 EUROPEAN COCKTAILTOUR🍸",----|RS: SERBIA|----
+#EXTINF:0,--- RS: SERBIA ---
 http://blank
 #EXTINF:0 tvg-logo="https://i.ibb.co/pfMgGY0/rsflag.png",RTS 1
 https://webtvstream.bhtelecom.ba/rts1.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/pfMgGY0/rsflag.png",RTS 2
 https://webtvstream.bhtelecom.ba/rts2.m3u8
-#EXTINF:0 group-title="|EU|🇪🇺 EUROPEAN COCKTAILTOUR🍸",----|RO: ROMANIA|----
+#EXTINF:0,--- RO: ROMANIA ---
 http://blank
 #EXTINF:0 tvg-logo="https://i.ibb.co/q0cvLym/roflag.png",TVR INT
 https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/index.m3u8
-#EXTINF:0 group-title="|EU|🇪🇺 EUROPEAN COCKTAILTOUR🍸",----|MD: MOLDOVA|----
+#EXTINF:0,--- MD: MOLDOVA ---
 http://blank
 #EXTINF:0 tvg-logo="https://i.ibb.co/x2Z5rXB/moflag.png",MOLDOVA 1
 https://v.trm.md/static/streaming-playlists/hls/f272ace4-32c2-4271-bbb6-7fc30a5c6105/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/x2Z5rXB/moflag.png",MOLDOVA 2
 https://v2.trm.md/static/streaming-playlists/hls/76541c86-d7de-4c73-b4c0-4fe6670b90a8/master.m3u8
-#EXTINF:0 group-title="|EU|🇪🇺 EUROPEAN COCKTAILTOUR🍸",----|GR: GREECE|----
+#EXTINF:0,--- GR: GREECE ---
 http://blank
 #EXTINF:0 tvg-logo="https://i.ibb.co/fkBX4Zh/grflag.png",ERT NEWS
 https://cbd537474fbad4634b64787657ff6456.msvdn.net/news/ert_news_main/mainabr/playlist_dvr.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/fkBX4Zh/grflag.png",ERT WORLD
 https://cbd537474fbad4634b64787657ff6456.msvdn.net/ertworld/ert_world_main/mainabr/playlist_dvr.m3u8
-#EXTINF:0 group-title="|EU|🇪🇺 EUROPEAN COCKTAILTOUR🍸",----|CY: CYPRUS|----
+#EXTINF:0,--- CY: CYPRUS ---
 http://blank
 #EXTINF:0 tvg-logo="https://i.ibb.co/xhrtLgq/cyflag.png",RIK INT
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
