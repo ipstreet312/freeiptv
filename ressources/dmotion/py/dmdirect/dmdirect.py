@@ -13,7 +13,7 @@ def snif(line):
     finally:
         print(m3u8)
 
-with open('liste/dmid.txt') as f:
+with open('ressources/dmotion/py/dmdirect/dmid.txt') as f:
     for line in f:
         line = line.strip()
         if not line or line.startswith('~~'):
