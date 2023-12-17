@@ -8,11 +8,10 @@ def snif(line):
         url = f'https://www.dailymotion.com/player/metadata/video/{idvideo}'
         response = requests.get(url).json()
         m3u8 = response["qualities"]["auto"][0]["url"]
-        master = requests.get(m3u8).text
     except Exception as e:
-        master = 'https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/infos/barkers/info.m3u8'
+        m3u8 = 'https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/infos/barkers/info.m3u8'
     finally:
-        print(master)
+        print(m3u8)
 
 with open('liste/dmid.txt') as f:
     for line in f:
