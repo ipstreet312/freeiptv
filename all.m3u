@@ -439,8 +439,6 @@ https://live.creacast.com/albi-tv-ch1/stream/master.m3u8
 https://new.cache-stream.workers.dev/stream/UCidJ6dBJ7oEfdAVzqaL2nSg/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Jk1ND0P/mosaik.png",MOSAIK CRISTAL TV
 https://new.cache-stream.workers.dev/stream/UCQC0xLG_W0QpqAXQ4-yhwBA/live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/3NX9rPp/lyoncap.png",LYON CAPITALE TV
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/gnrcpltfrm/lyoncap.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/74fJt5v/8mblanc.png",TV8 MONTBLANC
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/8_Mont-Blanc.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/vDRB1fK/tvtloire.png",TVT TOURS
@@ -449,12 +447,18 @@ https://lives.digiteka.com/stream/920f083a-9e61-4c09-9bc2-bdb664063aa9/index.m3u
 https://x5ct4nu/
 #EXTINF:0 tvg-logo="https://i.ibb.co/h2VX7Wj/tlcholt.png",TL CHOLETAIS
 https://x5aarnv/
+#EXTINF:0 tvg-logo="https://i.ibb.co/3NX9rPp/lyoncap.png",LYON CAPITALE TV
+https://x7z3zqa/
 #EXTINF:0 tvg-logo="https://i.ibb.co/c2CBDqt/grenoble.png",TÉLÉ GRENOBLE
 https://twitchplatform
 #EXTINF:0 tvg-logo="https://i.ibb.co/2qs2HxR/astv.png",ASTV
 https://twitchplatform
 #EXTINF:0 tvg-logo="https://i.ibb.co/C99d8Z7/maritima.jpg",MARITIMA TV
 https://indisponible
+#EXTINF:0 tvg-logo="https://i.ibb.co/PxqLyjh/antreu.png",ANTENNE RÉUNION
+https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/PxqLyjh/antreu.png",ANTENNE RÉUNION
+https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
 #EXTINF:0 tvg-logo="https://i.ibb.co/XjzvmqL/tvmonaco.jpg",TV MONACO
 https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/2025/media.m3u8
 
@@ -950,7 +954,7 @@ https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/THj0Jrg/eurod22.png",EURO D (geçici geçerli)
 https://bozztv.com/inim03/live1/eurod/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Lg90xsB/eurostar22.png",EURO STAR (geçici geçerli)
-https://bozztv.com/inim03/live1/eurostar/playlist.m3u8
+https://gineu8.bozztv.com/gin-trn10/gt-eurostar/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/MCXCRcn/tgrteu1.png",TGRT EU
 https://canli.haber365.com.tr/tr/tgrteu/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/1RnLJpf/agro.png",AGRO TV
