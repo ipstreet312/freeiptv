@@ -14,6 +14,9 @@ def snif(line):
     finally:
         print(m3u)
 
+output_fb = 'fb.m3u8'
+output_porto = 'porto.m3u8'
+
 with open('ressources/dmotion/py/dmdirect/dmid.txt') as f:
     for line in f:
         line = line.strip()
@@ -23,4 +26,11 @@ with open('ressources/dmotion/py/dmdirect/dmid.txt') as f:
             nom = line.strip()
             print(f'{nom}')
         else:
-            snif(line)
+            if '#fb' in line:
+                with open(output_fb, 'a') as file_fb:
+                    file_fb.write(line + '\n')
+                snif(line)
+            elif '#porto' in line:
+                with open(output_porto, 'a') as file_porto:
+                    file_porto.write(line + '\n')
+                snif(line)
