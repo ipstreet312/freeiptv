@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 import requests
 
-def snif(line, output_file):
+def snif(line):
     try:
         idvideo = line.split('/')[4]
         url = f'https://www.dailymotion.com/player/metadata/video/{idvideo}'
@@ -11,26 +11,34 @@ def snif(line, output_file):
     except Exception as e:
         m3u = 'https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/infos/barkers/info.m3u8'
     
-    with open(output_file, 'w') as file:
-        file.write(m3u)
+    return m3u
 
 output_fb = 'ressources/dmotion/py/dmdirect/fb.m3u8'
 output_porto = 'ressources/dmotion/py/dmdirect/porto.m3u8'
 
 with open('ressources/dmotion/py/dmdirect/dmid.txt') as f:
+    fb_lines = []
+    porto_lines = []
     for line in f:
         line = line.strip()
         if not line or line.startswith('~~'):
             continue
-        if not line.startswith('https:'):
-            nom = line.strip()
-            print(f'{nom}')
         else:
             if '#fb' in line:
-                with open(output_fb, 'a') as file_fb:
-                    file_fb.write(line + '\n')
-                snif(line, output_fb)
+                fb_lines.append(line)
             elif '#porto' in line:
-                with open(output_porto, 'a') as file_porto:
-                    file_porto.write(line + '\n')
-                snif(line, output_porto)
+                porto_lines.append(line)
+
+    if fb_lines:
+        with open(output_fb, 'a') as file_fb:
+            for line in fb_lines:
+                file_fb.write(line + '\n')
+                m3u_content = snif(line)
+                file_fb.write(m3u_content + '\n')
+
+    if porto_lines:
+        with open(output_porto, 'a') as file_porto:
+            for line in porto_lines:
+                file_porto.write(line + '\n')
+                m3u_content = snif(line)
+                file_porto.write(m3u_content + '\n')
