@@ -30,4 +30,4 @@ jobs:
         run: |
           git pull origin master
           git commit -m "dmdirectprx updated"
-          git push
+          git push origin master
