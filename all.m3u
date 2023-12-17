@@ -474,7 +474,7 @@ https://ensonhaber-live.ercdn.net/haberturk/haberturk.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png",HABER GLOBAL
 https://haberglobal.blutv.com/blutv_haberglobal2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png",HABER GLOBAL
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/hglobal/hglobal.m3u8
+https://new.cache-stream.workers.dev/stream/UCtc-a9ZUIg0_5HpsPxEO7Qg/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png",TV 100
 https://tv100.blutv.com/blutv_tv100_live/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png",TV 100
@@ -517,8 +517,8 @@ https://tv.ensonhaber.com/haberturk/haberturk.m3u8
 https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png",HABER GLOBAL (backup)
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png",HABER GLOBAL (backup)
-https://new.cache-stream.workers.dev/stream/UCtc-a9ZUIg0_5HpsPxEO7Qg/live.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png",HABER GLOBAL (off-action)
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/hglobal/hglobal.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png",NTV (backup)
 http://dogus.daioncdn.net/ntv/ntv.m3u8?ce=3&&app=7c4bb802-0c41-409e-8cd2-799984995694
 #EXTINF:0 tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png",NTV (backup)
