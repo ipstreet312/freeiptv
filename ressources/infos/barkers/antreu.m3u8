@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:5
+#EXT-X-MEDIA:TYPE=AUDIO,URI="https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd-mp4a_131600_fra=1.m3u8",GROUP-ID="audio-AACL-132",LANGUAGE="fr",NAME="French",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2"
+#EXT-X-STREAM-INF:BANDWIDTH=3061168,AVERAGE-BANDWIDTH=2782882,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=896x504,FRAME-RATE=50.000,AUDIO="audio-AACL-132"
+https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd-avc1_2499968=4.m3u8
