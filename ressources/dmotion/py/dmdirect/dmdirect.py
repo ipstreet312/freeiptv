@@ -20,6 +20,6 @@ with open('ressources/dmotion/py/dmdirect/dmid.txt') as f:
             continue
         if not line.startswith('https:'):
             nom = line.strip()
-            print(f'\n#{nom}')
+            print(f'{nom}')
         else:
             snif(line)
