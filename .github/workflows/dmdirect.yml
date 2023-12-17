@@ -19,7 +19,7 @@ jobs:
           git config --global user.name "dmdirect bot"
       
       - name: grab m3u files
-        run: sh ${GITHUB_WORKSPACE}/ressources/dmotion/py/dmdirect/dmdirect.sh
+        run: python3 ressources/dmotion/py/dmdirect/dmdirect.py
         
       - name: git add
         run: |
