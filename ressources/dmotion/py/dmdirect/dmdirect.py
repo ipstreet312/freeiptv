@@ -14,8 +14,8 @@ def snif(line):
     finally:
         print(m3u)
 
-output_fb = 'fb.m3u8'
-output_porto = 'porto.m3u8'
+output_fb = 'ressources/dmotion/py/dmdirect/fb.m3u8'
+output_porto = 'ressources/dmotion/py/dmdirect/porto.m3u8'
 
 with open('ressources/dmotion/py/dmdirect/dmid.txt') as f:
     for line in f:
