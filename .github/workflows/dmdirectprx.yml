@@ -1,0 +1,32 @@
+name: dmdirectprx
+
+on:
+  schedule:
+    - cron: '33 */4 * * *'
+  
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: config
+        run: |
+          git config --global user.email "<>"
+          git config --global user.name "dmdirectprx bot"
+      
+      - name: grab m3u files
+        run: python3 ressources/dmotion/py/dmdirect/dmdirectprx.py
+        
+      - name: git add
+        run: |
+          git add -A
+          ls -la 
+          
+      - name: commit & push
+        run: |
+          git commit -m "dmdirectprx updated"
+          git push
