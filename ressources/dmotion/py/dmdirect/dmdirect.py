@@ -7,11 +7,12 @@ def snif(line):
         idvideo = line.split('/')[4]
         url = f'https://www.dailymotion.com/player/metadata/video/{idvideo}'
         response = requests.get(url).json()
-        m3u8 = response["qualities"]["auto"][0]["url"]
+        stream_url = response['qualities']['auto'][0]['url']
+        m3u = requests.get(stream_url).text
     except Exception as e:
-        m3u8 = 'https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/infos/barkers/info.m3u8'
+        m3u = 'https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/infos/barkers/info.m3u8'
     finally:
-        print(m3u8)
+        print(m3u)
 
 with open('ressources/dmotion/py/dmdirect/dmid.txt') as f:
     for line in f:
