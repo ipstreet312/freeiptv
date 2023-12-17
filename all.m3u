@@ -56,7 +56,7 @@ https://rakuten-africanews-2-be.samsung.wurl.tv/manifest/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/XSYtYHZ/africanews.png",AFRICANEWS FR
 https://new.cache-stream.workers.dev/stream/UC25EuGAePOPvPrUA5cmu3dQ/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Tm8bZHc/bsmart.png",B SMART
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/bsmart/bsmart.m3u8
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/dmdirect/bsmart.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/HDB0sdh/bfmbusiness.png",BFM BUSINESS
 https://bfmbusinessalive1.akamaized.net/r83ae0ed67cc245eeb3ee184cad01f768/eu-central-1/876450612001/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/HDB0sdh/bfmbusiness.png",BFM BUSINESS
@@ -250,7 +250,7 @@ https://d1yl6bf4hrzbr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:0 tvg-logo="https://i.ibb.co/80d8phW/paris1ere.png",PARIS 1ÈRE
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/pp.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/tcYgz6h/mensup.png",MEN'S UP TV
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/mensup/mensup.m3u8
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/dmdirect/mensup.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/0sdMx5Z/mtrvsn.png",MOTORVISION TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60817e1aa6997500072d0d6d/master.m3u8?deviceDNT=%7BTARGETOPT%7D&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung
 #EXTINF:0 tvg-logo="https://i.ibb.co/TLPBT2L/topsante.png",TOP SANTÉ
@@ -275,6 +275,10 @@ http://livevideo.vedge.infomaniak.com/livecast/ik:bblackclassik/manifest.m3u8
 https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/883phd1/ktook.png",KTO
 https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/xJyNqdg/dieutv.png",DIEU TV
+https://cdn.katapy.io/cache/stream/katapytv/dieu/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/0FM2MbV/emci.png",EMCI TV
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/dmdirect/emcieu.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/LgSzMCy/museum.webp",MUSEUM
 https://live2.creacast.com/museum-france/smil:museum-france.smil/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/VvRpRty/myzen.png",MY ZEN
