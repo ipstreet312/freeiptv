@@ -1,8 +1,7 @@
-#! /usr/bin/python3
+#!/usr/bin/python3
 import requests
-import sys
 
-def snif(line):
+def snif(line, output_file):
     try:
         idvideo = line.split('/')[4]
         url = f'https://www.dailymotion.com/player/metadata/video/{idvideo}'
@@ -11,8 +10,9 @@ def snif(line):
         m3u = requests.get(stream_url).text
     except Exception as e:
         m3u = 'https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/infos/barkers/info.m3u8'
-    finally:
-        print(m3u)
+    
+    with open(output_file, 'w') as file:
+        file.write(m3u)
 
 output_fb = 'ressources/dmotion/py/dmdirect/fb.m3u8'
 output_porto = 'ressources/dmotion/py/dmdirect/porto.m3u8'
@@ -29,8 +29,8 @@ with open('ressources/dmotion/py/dmdirect/dmid.txt') as f:
             if '#fb' in line:
                 with open(output_fb, 'a') as file_fb:
                     file_fb.write(line + '\n')
-                snif(line)
+                snif(line, output_fb)
             elif '#porto' in line:
                 with open(output_porto, 'a') as file_porto:
                     file_porto.write(line + '\n')
-                snif(line)
+                snif(line, output_porto)
