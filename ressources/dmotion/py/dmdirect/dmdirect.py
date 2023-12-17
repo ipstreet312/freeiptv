@@ -13,10 +13,10 @@ def snif(line):
     
     return m3u
 
-output_fb = 'fb.m3u8'
-output_porto = 'porto.m3u8'
+output_fb = 'ressources/dmotion/py/dmdirect/fb.m3u8'
+output_porto = 'ressources/dmotion/py/dmdirect/porto.m3u8'
 
-with open('dmid.txt') as f:
+with open('ressources/dmotion/py/dmdirect/dmid.txt') as f:
     current_category = None
     for line in f:
         line = line.strip()
