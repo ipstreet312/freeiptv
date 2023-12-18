@@ -38,5 +38,6 @@ jobs:
           
       - name: commit & push
         run: |
+          git pull
           git commit -m "maisontrvx updated"
           git push
