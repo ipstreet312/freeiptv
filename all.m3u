@@ -197,7 +197,7 @@ https://PuthereYourserverHostaddress/fr5curl.php?m3u8
 https://livevideo.infomaniak.com/streaming/livecast/funradiovisionhd/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/g3YTn6c/geneok.png",GÉNÉRATIONS TV
 https://edge.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/BPzb19X/melody.png",MELODY
+#EXTINF:0 tvg-logo="https://i.ibb.co/BPzb19X/melody.png",MÉLODY
 https://live.creacast.com/telemelody/smil:telemelody-211112.smil/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/M5P1TMG/clubbing.png",CLUBBING TV
 https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
@@ -213,17 +213,17 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/p1stMyz/sportenfr.webp",SPORT EN FRANCE
 https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png",L'EQUIPE LIVE 1
+#EXTINF:0 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png",L'ÉQUIPE LIVE 1
 https://d3awaj0f2u3w26.cloudfront.net/11/media.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png",L'EQUIPE LIVE 2
+#EXTINF:0 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png",L'ÉQUIPE LIVE 2
 https://d2l55nvfkhk4sg.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg7go1lqzgpny-ssai-prd/435d04a5-ab47-47c5-a2c1-bae01ae6d0c1/2.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png",L'EQUIPE TV
+#EXTINF:0 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png",L'ÉQUIPE TV
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/equipe.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/p0CLPqT/equidia.png",EQUIDIA
+#EXTINF:0 tvg-logo="https://i.ibb.co/p0CLPqT/equidia.png",ÉQUIDIA
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/extr/py/equidi.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/p0CLPqT/equidia.png",EQUIDIA
+#EXTINF:0 tvg-logo="https://i.ibb.co/p0CLPqT/equidia.png",ÉQUIDIA
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/yPsXSFf/esprsorc.png",L'ESPRIT SORCIER TV
+#EXTINF:0 tvg-logo="https://i.ibb.co/yPsXSFf/esprsorc.png",L'ÉSPRIT SORCIER TV
 https://194270.global.ssl.fastly.net/63b43410861d94a9eee067fb/live_947330308dd911edb85c8181cb9b11a8/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/HnSphLp/sqool.jpg",SQOOL TV
 https://new.cache-stream.workers.dev/stream/UCaEqMbRYYOmI3WrALMhxuIg/live.m3u8
@@ -239,20 +239,16 @@ https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01596-gongnetworks-gong-samsungfr/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/MMpFXQL/gong.jpg",GONG
 https://amg01596-gongnetworks-gong-samsungfr-2q4y3.amagi.tv/playlist/amg01596-gongnetworks-gong-samsungfr/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/0sdMx5Z/mtrvsn.png",MOTORVISION TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60817e1aa6997500072d0d6d/master.m3u8?deviceDNT=%7BTARGETOPT%7D&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung
 #EXTINF:0 tvg-logo="https://i.ibb.co/443jKxq/techco.png",TECH&CO
 https://bcovlive-a.akamaihd.net/df743f86a96e492790ba96a09ede4149/eu-central-1/6306058915001/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/443jKxq/techco.png",TECH&CO
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?start=LIVE&end=END
 #EXTINF:0 tvg-logo="https://i.ibb.co/443jKxq/techco.png",TECH&CO
 https://diepwaqe4bq8t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a5iu62314y9pt/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/2SHJGsj/allocine.png",ALLO CINÉ
-https://d1yl6bf4hrzbr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5km3zs4zs9sp0/allo.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/80d8phW/paris1ere.png",PARIS 1ÈRE
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/pp.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/tcYgz6h/mensup.png",MEN'S UP TV
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/dmdirect/mensup.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/0sdMx5Z/mtrvsn.png",MOTORVISION TV
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60817e1aa6997500072d0d6d/master.m3u8?deviceDNT=%7BTARGETOPT%7D&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung
 #EXTINF:0 tvg-logo="https://i.ibb.co/TLPBT2L/topsante.png",TOP SANTÉ
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/topsante/topsante.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/TLPBT2L/topsante.png",TOP SANTÉ
@@ -261,6 +257,12 @@ https://d3tuo4zu8l334y.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/maisontrvx/maisontrvx.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/d66k2fw/maisontrvx.png",MAISON & TRAVAUX
 https://d387lnkgycbwl.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sdi2aweg8u1y4/761cde02-1df4-4a1a-ad50-7033ede188ef/2.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/80d8phW/paris1ere.png",PARIS 1ÈRE
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/pp.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/2SHJGsj/allocine.png",ALLO CINÉ
+https://d1yl6bf4hrzbr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5km3zs4zs9sp0/allo.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/VvMKr5V/wildside.jpg",WILD SIDE TV
+https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/grBSqt4/novela.png",TELE NOVELA TV
 https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/4RKk092/teva.png",TÉVA
@@ -331,7 +333,7 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fpra.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",F3 COTE D'AZUR
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fpca.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",F3 RHONE ALPES
+#EXTINF:0 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",F3 RHÔNE ALPES
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frha.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",F3 ALPES
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/falp.m3u8
@@ -339,7 +341,7 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fauv.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",F3 BOURGOGNE
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fbog.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",F3 FRANCHE COMPTE
+#EXTINF:0 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",F3 FRANCHE COMPTÉ
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/ffrc.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",F3 CENTRE
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fctr.m3u8
@@ -385,7 +387,7 @@ https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Telenantes.m3
 https://streamer01.myvideoplace.tv/streamer02/hls/VDE_EVEN_PAD_130923.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/fdcDJWF/tv78.png",TV 78
 https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/WpSPwkN/7alim.png",7 A LIMOGES
+#EXTINF:0 tvg-logo="https://i.ibb.co/WpSPwkN/7alim.png",7A LIMOGES
 https://new.cache-stream.workers.dev/stream/UCdFv_ZWQ3Xk_NfRiaK-ryGg/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/zRLKgFS/alpehuez.png",ALPE D'HUEZ TV
 https://edge.vedge.infomaniak.com/livecast/ik:adhtv/chunklist.m3u8
@@ -2524,12 +2526,12 @@ https://livestream.palitra.ge/hls/palitratv/index.m3u8
 https://tv.cdn.xsg.ge/c4635/TVFormula/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png",MTAVARI ARKHI
 https://bozztv.com/36bay2/mtavariarxi/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/tmkv6RC/armflag.png",H1 NEWS Հանրային հեռուստաը
+#EXTINF:0 tvg-logo="https://i.ibb.co/tmkv6RC/armflag.png",H1 ARM Հանրային հեռուստաը
+https://amtv1.livestreamingcdn.com/am2abr/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/tmkv6RC/armflag.png",H1 NEWS
 https://amtv1.livestreamingcdn.com/am3abr/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/tmkv6RC/armflag.png",H1 NEWS
 https://amtvusdvr.tulix.tv/am3abr/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/tmkv6RC/armflag.png",H1 ARM
-https://amtv1.livestreamingcdn.com/am2abr/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/tmkv6RC/armflag.png",SONG ARM
 https://songtv.hls.iptvdc.com/web-armenia/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png",AZ TV Azərbaycan Televiziyası
@@ -2542,9 +2544,9 @@ http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
 https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_adaptive.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png",BAKU TV
 https://rtmp.baku.tv/live/bakutv_1080p.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png",UMIT TV
+#EXTINF:0 tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png",UMİT TV
 http://cdn-umudtv.yayin.com.tr/umudtv/smil:umudtv.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png",MEDENIYYET
+#EXTINF:0 tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png",MEDENİYYET
 http://str.yodacdn.net/medeniyyet/index.m3u8
 
 
@@ -2552,7 +2554,7 @@ http://str.yodacdn.net/medeniyyet/index.m3u8
 https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/blogv.ts
 #EXTINF:0 tvg-logo="https://i.ibb.co/6t2ztJT/dlxmsc.png",🎁DELUXE MUSIC⭐ English 🤩❤️👍
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/jZWbT2g/dlxfbk.png",🎁DELUXE MUSIC⭐ FlashBack 🤩❤️👍
+#EXTINF:0 tvg-logo="https://i.ibb.co/jZWbT2g/dlxfbk.png",🎁DELUXE MUSIC⭐ Flash Back 🤩❤️👍
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/2ks2Ys7/dlxdnc.png",🎁DELUXE MUSIC⭐ Dance 🤩❤️👍
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
@@ -2560,19 +2562,19 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/mDFLYx3/dlxrck.png",🎁DELUXE MUSIC⭐ Rock 🤩❤️👍
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65181/65181_264_live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/TmL52ct/dlxde.png",🎁DELUXE MUSIC⭐ DeutschSchlager 🤩❤️👍
+#EXTINF:0 tvg-logo="https://i.ibb.co/TmL52ct/dlxde.png",🎁DELUXE MUSIC⭐ Deutsch Schlager 🤩❤️👍
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/6RvHVvn/dlxdtschpp.png",🎁DELUXE MUSIC⭐ DeutschPop 🤩❤️👍
+#EXTINF:0 tvg-logo="https://i.ibb.co/6RvHVvn/dlxdtschpp.png",🎁DELUXE MUSIC⭐ Deutsch Pop 🤩❤️👍
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/95d6544c-4164-11ec-9c7c-2cf753b8a203/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung
-#EXTINF:0 tvg-logo="https://i.ibb.co/1KhQxpd/dlxwnt.png",🎁DELUXE MUSIC⭐ WinterTime 🤩❤️👍
+#EXTINF:0 tvg-logo="https://i.ibb.co/1KhQxpd/dlxwnt.png",🎁DELUXE MUSIC⭐ Winter Time 🤩❤️👍
 https://d2l1hs6hxlg3df.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pb0nloqsgtwc2/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/RpfpWkr/dlxlng.png",🎁DELUXE MUSIC⭐ Lounge 🤩❤️👍
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2664
 #EXTINF:0 tvg-logo="https://i.ibb.co/RpfpWkr/dlxlng.png",🎁DELUXE MUSIC⭐ Lounge 🤩❤️👍
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2489
-#EXTINF:0 tvg-logo="https://i.ibb.co/pKt53kX/dl1.png",🎁DELUXE MUSIC⭐ LoungeExtra 🤩❤️👍
+#EXTINF:0 tvg-logo="https://i.ibb.co/pKt53kX/dl1.png",🎁DELUXE MUSIC⭐ Lounge Extra 🤩❤️👍
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/8ef13d2a-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=FR&vendor=samsung
-#EXTINF:0 tvg-logo="https://i.ibb.co/pKt53kX/dl1.png",🎁DELUXE MUSIC⭐ LoungeExtra 🤩❤️👍
+#EXTINF:0 tvg-logo="https://i.ibb.co/pKt53kX/dl1.png",🎁DELUXE MUSIC⭐ Lounge Extra 🤩❤️👍
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/ec8e5c43-6fae-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung
 #EXTINF:0,📻🎶📺🎥Video Player Checker
 http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
@@ -2580,5 +2582,5 @@ http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp
 https://ythlsgo.onrender.com/channel/UCT67YOMntJxfRnO_9bXDpvw.m3u8
 #EXTINF:0,💐🆕⚡💥CHECK Input Entry Test Stream A02
 https://livestream.zazerconer.workers.dev/channel/UCT67YOMntJxfRnO_9bXDpvw.m3u8
-#EXTINF:0,Blank Empty New Service
+#EXTINF:0,⚪🆗✔️✅Blank Empty New Service
 https://
