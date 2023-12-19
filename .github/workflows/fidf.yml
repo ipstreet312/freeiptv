@@ -18,7 +18,7 @@ jobs:
           git config --global user.email "<>"
           git config --global user.name "fidf bot"
       
-      - name: updating fr2
+      - name: updating fidf
         run: sh ressources/ftv/py/fidf.sh
         
       - name: git add
@@ -28,5 +28,6 @@ jobs:
           
       - name: commit & push
         run: |
+          git pull
           git commit -m "fidf updated"
           git push
