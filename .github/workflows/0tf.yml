@@ -26,8 +26,11 @@ jobs:
           echo "${content}" > all.m3u
 
       - name: Replace Text
+        if: steps.fetch_content.outputs.content != ''
         run: |
-          sed -i "/tf1-cmaf/ c $(echo '${{ steps.fetch_content.outputs.content }}')" all.m3u
+          content="${{ steps.fetch_content.outputs.content }}"
+          content_escaped=$(echo "$content" | sed 's/[\/&]/\\&/g')
+          sed -i "/tf1-cmaf/ c ${content_escaped}" all.m3u
     
       - name: Commit and Push Changes
         run: |
