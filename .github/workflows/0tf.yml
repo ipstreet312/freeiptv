@@ -23,14 +23,12 @@ jobs:
           PRIVATE_REPO_TOKEN: ${{ secrets.PRIVATE_REPO_TOKEN }}
         run: |
           content=$(curl -H "Authorization: token $PRIVATE_REPO_TOKEN" -H "Accept: application/vnd.github.v3.raw" "https://raw.githubusercontent.com/ipstreet312/myrep/main/ressources/tfphd.m3u8")
-          echo "${content}" > all.m3u
+          echo "CONTENT=$content" >> $GITHUB_ENV
 
       - name: Replace Text
-        if: steps.fetch_content.outputs.content != ''
         run: |
-          content="${{ steps.fetch_content.outputs.content }}"
-          content_escaped=$(echo "$content" | sed 's/[\/&]/\\&/g')
-          sed -i "/tf1-cmaf/ c ${content_escaped}" all.m3u
+          content="${{ env.CONTENT }}"
+          sed -i "/tf1-cmaf/ c ${content}" all.m3u
     
       - name: Commit and Push Changes
         run: |
