@@ -15,7 +15,7 @@ jobs:
 
     steps:
       - name: Checkout freeiptv
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         
       - name: Fetch Content
         id: fetch_content
@@ -23,7 +23,7 @@ jobs:
           PRIVATE_REPO_TOKEN: ${{ secrets.PRIVATE_REPO_TOKEN }}
         run: |
           content=$(curl -H "Authorization: token $PRIVATE_REPO_TOKEN" -H "Accept: application/vnd.github.v3.raw" "https://raw.githubusercontent.com/ipstreet312/myrep/main/ressources/tfphd.m3u8")
-          echo "::set-output name=content::$content"
+          echo "{content}={$content}" >> $GITHUB_OUTPUT
 
       - name: Replace Text
         run: |
@@ -33,6 +33,7 @@ jobs:
         run: |
           git config --local user.name "0tf Action"
           git config user.email "<>"
+          git pull
           git add all.m3u
           git commit -m "0tf updated"
           git push
