@@ -413,8 +413,10 @@ https://srv.webtvmanager.fr:3118/live/viatelepaeselive.m3u8
 https://streamer01.myvideoplace.tv/streamer02/hls/ANG_RACC_PAD_110919.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/qkkHNPR/vosges.png",VOSGES TV
 https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/nMkybxK/weo1.png",WÉO TV
+#EXTINF:0 tvg-logo="https://i.ibb.co/nMkybxK/weo1.png",WÉO NORD
 https://lives.digiteka.com/stream/c58028c2-a58b-4526-9ec8-389cad4a71e8/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/nMkybxK/weo1.png",WÉO PICARDIE
+https://lives.digiteka.com/stream/bbb843db-8540-4156-98a5-b7c85da54d8e/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/KGNTppx/nancyweb.jpg",NANCY WEB TV
 https://edge.vedge.infomaniak.com/livecast/ik:nancy-webtv/manifest.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/MMDSDQ9/maurienne.png",MAURIENNE TV
