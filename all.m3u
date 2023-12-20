@@ -87,9 +87,9 @@ https://PuthereYourserverHostaddress/frijsoncurl.php?m3u8
 https://live-lci-hls.cdn-0.diff.tf1.fr/out/v1/917aad4fa72f42f7ba7f486226f54bc4/lci-cmaf/index.m3u8
 
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/pQ7kLNY/tv5fbs.png" group-title="|FR|🇫🇷 GÉNÉRALISTE",TV5MONDE FBSM
+#EXTINF:0 tvg-logo="https://i.ibb.co/pQ7kLNY/tv5fbs.png" group-title="|FR|🇫🇷 GÉNÉRALISTE",TV5MONDE
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1 (part-time)
+#EXTINF:0 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1
 https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIxODUuMzEuNDAuMjMiLCJjbWNkIjoiIiwiZXhwIjoxNzAzMDY4NTY4LCJnaWQiOiI0YjlhMDBmYy1iOTI0LTQ0M2ItOTcxOS02OTcwNWUwMTExZmYiLCJpYXQiOjE3MDMwNTQxNjgsImlzcyI6ImRlbGl2ZXJ5IiwibWF4YiI6MjAwMDAwMCwic3RlbSI6Ii9vdXQvdjEvNzgwNTQyZjUxNmYxNDNmYzhhZDliZjE0NjIyMzE2ZTcvdGYxLWNtYWYiLCJzdWIiOiI0YjlhMDBmYy1iOTI0LTQ0M2ItOTcxOS02OTcwNWUwMTExZmYifQ.ELfpT4ZbzIp-BQC-DGNDDQ8K9Bvebn-H7KinAvmis9w/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
@@ -103,7 +103,7 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr5.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/9rmSGqP/frsr.png",FRANCE SÉRIES
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frsr.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/BPpZPBn/arte.png",ARTE FR
+#EXTINF:0 tvg-logo="https://i.ibb.co/BPpZPBn/arte.png",ARTE
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/6spXX2y/nrj12.png",NRJ 12
 https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
