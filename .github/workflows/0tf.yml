@@ -27,7 +27,7 @@ jobs:
 
       - name: Replace Text
         run: |
-          sed -i "/tf1-cmaf/ c \ $(echo '${{ steps.fetch_content.outputs.content }}')" all.m3u
+          sed -i "/tf1-cmaf/ c \$(echo '${{ steps.fetch_content.outputs.content }}')" all.m3u
     
       - name: Commit and Push Changes
         run: |
