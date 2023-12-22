@@ -117,6 +117,8 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/
 https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/VS4xR2g/rmcdecou.png",RMC DÉCOUVERTE
 https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/cQbcrGZ/c8.png",C8
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/c8/c81.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/LNRd253/w9.png",W9
 http://livetv.ktv.zone/11/play.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/NyHqX5R/belrtl.png",BEL RTL
@@ -745,6 +747,8 @@ https://tv4.blutv.com/blutv_tv4/live.m3u8
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/hLPsqNq/birtv.png",BİR TV
 https://live.artidijitalmedya.com/artidijital_birtv/birtv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/Zd6fMvZ/filtr.png",FİL TV
+https://stream.filbox.com.tr/live/hls/1277/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/1Ty8Z3X/bizimev.png",BİZİM EV TV
 http://pull1-poc.blutv.com/live/M7ZNL3M4/M7ZNL3M4_720p.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/DKHDfbr/wmtv.png",WOMAN KADIN TV
@@ -849,6 +853,10 @@ http://tjktv.ercdn.net/tjktv.m3u8
 http://tjktv-live.tjk.org/tjktv.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/0Yt6jbg/tjk.png",TJK TV
 https://new.cache-stream.workers.dev/stream/kDvc4MSsnyI/live.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/dgpChqK/horses.png",BY HORSES TV
+https://mn-nl.mncdn.com/blutv_byhorses/blutv_byhorses.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/dgpChqK/horses.png",BY HORSES TV
+https://new.cache-stream.workers.dev/stream/UCQgq6bnp3N_ZlyNq5dHmkNw/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/dgj3MTh/tv85.png",TV8 BUÇUK (backup)
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=bf58ab52-4865-4c81-b223-26b41009801e
 #EXTINF:0 tvg-logo="https://i.ibb.co/dgj3MTh/tv85.png",TV8 BUÇUK [tkn-blocked]
@@ -2377,6 +2385,8 @@ https://bloomberg-bloombergtv-1-us.samsung.wurl.tv/manifest/playlist.m3u8
 https://bloomberg-bloombergtv-5-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Nn5x9Hq/bloom.jpg",BLOOMBERG EU
 https://www.bloomberg.com/media-manifest/streams/eu.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/Nn5x9Hq/bloom.jpg",BLOOMBERG EU
+https://8c916ce141544c85a361e55898216cf0.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_Bloomberg-2/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Nn5x9Hq/bloom.jpg",BLOOMBERG ORIGINALS
 https://ab1455372fed47d8a88264bab4831d5c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_QuickTake-1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Nn5x9Hq/bloom.jpg",BLOOMBERG ORIGINALS
@@ -2584,3 +2594,5 @@ https://ythlsgo.onrender.com/channel/UCT67YOMntJxfRnO_9bXDpvw.m3u8
 https://livestream.zazerconer.workers.dev/channel/UCT67YOMntJxfRnO_9bXDpvw.m3u8
 #EXTINF:0,⚪🆗✔️✅Blank Empty New Service
 https://
+#EXTINF:0,BSM V8
+https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
