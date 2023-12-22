@@ -1627,13 +1627,13 @@ https://streamer-a03.videos.sapo.pt/live/sobrenaturaltv/playlist.m3u8
 https://video-auth2.iol.pt/live_hd2/live_hd2/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/WVzhVbc/portoc.png",PORTO CANAL (mostly off)
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/gnrcpltfrm/portoc.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/3YZFCjp/rtp1.jpg" user-agent="Firefox",RTP 1 (tvhlsdvr,KO)
+#EXTINF:0 tvg-logo="https://i.ibb.co/3YZFCjp/rtp1.jpg",RTP 1 (tvhlsdvr,KO)
 https://streaming-live.rtp.pt/livetvhlsDVR/rtp1dvr.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/3YZFCjp/rtp1.jpg" user-agent="Firefox",RTP 1 (tvhls_HD,KO)
+#EXTINF:0 tvg-logo="https://i.ibb.co/3YZFCjp/rtp1.jpg",RTP 1 (tvhls_HD,KO)
 https://streaming-live.rtp.pt/livetvhls/rtp1HD.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/tbFT1V2/rtp2.jpg" user-agent="Firefox",RTP 2 (tvhls,KO)
+#EXTINF:0 tvg-logo="https://i.ibb.co/tbFT1V2/rtp2.jpg",RTP 2 (tvhls,KO)
 https://streaming-live.rtp.pt/livetvhls/rtp2.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/tbFT1V2/rtp2.jpg" user-agent="Firefox",RTP 2 (tvhls_HD,KO)
+#EXTINF:0 tvg-logo="https://i.ibb.co/tbFT1V2/rtp2.jpg",RTP 2 (tvhls_HD,KO)
 https://streaming-live.rtp.pt/livetvhls/rtp2HD.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/HnqCkQj/rtp3.jpg",RTP 3 (tvhlsdvr)
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
