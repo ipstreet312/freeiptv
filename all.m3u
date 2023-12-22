@@ -1629,8 +1629,12 @@ https://video-auth2.iol.pt/live_hd2/live_hd2/playlist.m3u8
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/gnrcpltfrm/portoc.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/3YZFCjp/rtp1.jpg" user-agent="Firefox",RTP 1 (tvhlsdvr,KO)
 https://streaming-live.rtp.pt/livetvhlsDVR/rtp1dvr.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/tbFT1V2/rtp2.jpg" user-agent="Firefox",RTP 2 (tvhlsdvr,KO)
-https://streaming-live.rtp.pt/livetvhlsDVR/rtp2dvr.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/3YZFCjp/rtp1.jpg" user-agent="Firefox",RTP 1 (tvhls_HD,KO)
+https://streaming-live.rtp.pt/livetvhls/rtp1HD.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/tbFT1V2/rtp2.jpg" user-agent="Firefox",RTP 2 (tvhls,KO)
+https://streaming-live.rtp.pt/livetvhls/rtp2.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/tbFT1V2/rtp2.jpg" user-agent="Firefox",RTP 2 (tvhls_HD,KO)
+https://streaming-live.rtp.pt/livetvhls/rtp2HD.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/HnqCkQj/rtp3.jpg",RTP 3 (tvhlsdvr)
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/HnqCkQj/rtp3.jpg",RTP 3 (tvhlsdvr_HD)
@@ -1639,6 +1643,12 @@ https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
 https://streaming-live.rtp.pt/liverepeater/rtp1.smil/chunklist_b1290000_slpor.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/3YZFCjp/rtp1.jpg",RTP 1 (HD254k)
 https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/chunklist_b2540000_slpor.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/tbFT1V2/rtp2.jpg",RTP 2 (129k)
+https://streaming-live.rtp.pt/liverepeater/rtp2.smil/chunklist_b1290000_slpor.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/tbFT1V2/rtp2.jpg",RTP 2 (HD254k)
+https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/chunklist_b2540000_slpor.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/tbFT1V2/rtp2.jpg",RTP 2 (HD10k)
+https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/chunklist_b100000_slpor.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/HnqCkQj/rtp3.jpg",RTP 3 (129k)
 https://streaming-live.rtp.pt/liverepeater/rtpn.smil/chunklist_b1290000_slpt.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/HnqCkQj/rtp3.jpg",RTP 3 (HD254k)
@@ -2614,15 +2624,3 @@ https://ythlsgo.onrender.com/channel/UCT67YOMntJxfRnO_9bXDpvw.m3u8
 https://livestream.zazerconer.workers.dev/channel/UCT67YOMntJxfRnO_9bXDpvw.m3u8
 #EXTINF:0,⚪🆗✔️✅Blank Empty New Service
 https://
-#EXTINF:0 tvg-logo="https://i.ibb.co/tbFT1V2/rtp2.jpg",RTP 2 (129k_slpt)
-https://streaming-live.rtp.pt/liverepeater/rtp2.smil/chunklist_b1290000_slpt.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/tbFT1V2/rtp2.jpg",RTP 2 (129k_slpor)
-https://streaming-live.rtp.pt/liverepeater/rtp2.smil/chunklist_b1290000_slpor.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/tbFT1V2/rtp2.jpg",RTP 2 (HD10k_slpor)
-https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/chunklist_b100000_slpor.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/tbFT1V2/rtp2.jpg",RTP 2 (HD10k_slpt)
-https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/chunklist_b100000_slpt.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/tbFT1V2/rtp2.jpg",RTP 2 (HD254k)
-https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/chunklist_b2540000_slpor.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/tbFT1V2/rtp2.jpg" user-agent="Firefox",RTP 2 (tvhlsdvr_HD,KO)
-https://streaming-live.rtp.pt/livetvhlsDVR/rtp2HDdvr.smil/playlist.m3u8
