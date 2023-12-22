@@ -1627,6 +1627,16 @@ https://streamer-a03.videos.sapo.pt/live/sobrenaturaltv/playlist.m3u8
 https://video-auth2.iol.pt/live_hd2/live_hd2/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/WVzhVbc/portoc.png",PORTO CANAL (mostly off)
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/gnrcpltfrm/portoc.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/3YZFCjp/rtp1.jpg",RTP 1 (tvhlsdvr)
+https://streaming-live.rtp.pt/livetvhlsDVR/rtp1dvr.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/tbFT1V2/rtp2.jpg",RTP 2 (tvhlsdvr)
+https://streaming-live.rtp.pt/livetvhlsDVR/rtp2dvr.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/tbFT1V2/rtp2.jpg",RTP 2 (tvhlsdvr_HD)
+https://streaming-live.rtp.pt/livetvhlsDVR/rtp2HDdvr.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/HnqCkQj/rtp3.jpg",RTP 3 (tvhlsdvr)
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/HnqCkQj/rtp3.jpg",RTP 3 (tvhlsdvr_HD)
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/3YZFCjp/rtp1.jpg",RTP 1 (129k)
 https://streaming-live.rtp.pt/liverepeater/rtp1.smil/chunklist_b1290000_slpor.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/3YZFCjp/rtp1.jpg",RTP 1 (HD254k)
@@ -1675,10 +1685,12 @@ https://video-auth6.iol.pt/live_tvi_reality/live_tvi_reality/playlist.m3u8?wmsAu
 https://video-auth4.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-720_passthrough/playlist.m3u8?wmsAuthSign=
 #EXTINF:0 tvg-logo="https://i.ibb.co/xYNTr2v/tvirea.jpg",TVI REALITY [tkn-blocked]
 https://video-auth2.iol.pt/edge_servers/tvireality-720_passthrough/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/3YZFCjp/rtp1.jpg" user-agent="Firefox",RTP 1 [ontv-off]
+#EXTINF:0 tvg-logo="https://i.ibb.co/3YZFCjp/rtp1.jpg" user-agent="Firefox",RTP 1 [app-off]
 https://streaming-live-app.rtp.pt/liverepeater/rtp1HD.smil/rtp_playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/tbFT1V2/rtp2.jpg" user-agent="Firefox",RTP 2 [ontv-off]
+#EXTINF:0 tvg-logo="https://i.ibb.co/tbFT1V2/rtp2.jpg" user-agent="Firefox",RTP 2 [app-off]
 https://streaming-live-app.rtp.pt/liverepeater/rtp2HD.smil/rtp_playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/HnqCkQj/rtp3.jpg" user-agent="Firefox",RTP 3 [app-off]
+https://streaming-live-app.rtp.pt/liverepeater/rtpnHD.smil/rtp_playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/6r1xHn6/sic.png",SIC [offline]
 https://eventos.live.impresa.pt/opto_in1.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/dJZR1gD/sicnov.png",SIC NOVELAS [offline]
