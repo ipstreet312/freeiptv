@@ -1495,6 +1495,10 @@ https://europa-crtvg.flumotion.com/playlist.m3u8
 http://america-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/LtG0fMD/galic.jpg",TVG GALICIA MO
 https://amodino-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/LtG0fMD/galic.jpg",TVG CULTURAL
+https://cultural-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/LtG0fMD/galic.jpg",TVG INFANTIL
+https://infantil-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/FhXvbPN/eitb.jpg",EITB 1
 https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/FhXvbPN/eitb.jpg",EITB 2
@@ -1603,6 +1607,12 @@ https://playout175.livextend.cloud/livenlin4/_definst_/2liveartvpub2/playlist.m3
 https://streamer-a03.videos.sapo.pt/live/sobrenaturaltv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/DCzRYjV/mca.png",MCA
 https://video-auth2.iol.pt/live_hd2/live_hd2/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/RpQj4Dd/fama.png",FAMA FM TV
+https://streamer-a03.videos.sapo.pt/live/famatv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/TcpshFx/kuricine.png",KURIAKOS CINE
+https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/B2YCsC0/kurikids.png",KURIAKOS KIDS
+https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/WVzhVbc/portoc.png",PORTO CANAL (mostly off)
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/gnrcpltfrm/portoc.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/3YZFCjp/rtp1.jpg",RTP 1 (tvhlsdvr,KO)
@@ -2325,12 +2335,6 @@ https://new.cache-stream.workers.dev/stream/UCvJJ_dzjViJCoLf5uKUTwoA/live.m3u8
 https://p1media-americasvoice-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/VMm5SSz/realamv.png",REAL AMERICAS VOICE
 https://d2jiqiw4g5lj5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AmericasVoiceChannel-prod/AVSamsung/AVSamsung.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/d0yj6WR/pbs.webp",PBS AMERICA
-https://d1nlhbqjulacw7.cloudfront.net/hls/samsungtvplus_us_pbsdigitalstudios_002.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/d0yj6WR/pbs.webp",PBS AMERICA
-https://pbsaaaaaa-pbs-samsung-uk-vl4xp.amagi.tv/playlist/pbsAAAAAA-pbs-samsung-uk/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/d0yj6WR/pbs.webp",PBS AMERICA
-https://pbs-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/dPmZMqq/bbcn.png",BBC NEWS
 https://vs-hls-push-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/dPmZMqq/bbcn.png",BBC NEWS
@@ -2354,11 +2358,11 @@ http://linear116-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_hd/Live/channel(s
 #EXTINF:0 tvg-logo="https://i.ibb.co/8MBM4M1/skyn.png",SKY NEWS
 https://d301yv2uyy17su.cloudfront.net/sky-news-international-live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/8MBM4M1/skyn.png",SKY NEWS
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_skynewsamericas_001.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/8MBM4M1/skyn.png",SKY NEWS
 https://i.mjh.nz/PlutoTV/55b285cd2665de274553d66f-alt.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/8MBM4M1/skyn.png",SKY NEWS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/55b285cd2665de274553d66flivestitch/master.m3u8?deviceDNT=%7BTARGETOPT%7D&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung
-#EXTINF:0 tvg-logo="https://i.ibb.co/8MBM4M1/skyn.png",SKY NEWS
-https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_skynewsamericas_001.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/dpMQyVx/gbn.png",GB NEWS
 https://amg01076-lightningintern-gbnews-samsunguk-0lu52.amagi.tv/playlist/amg01076-lightningintern-gbnews-samsunguk/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/dpMQyVx/gbn.png",GB NEWS
@@ -2411,8 +2415,6 @@ https://euc-live.fl.freecaster.net/live/eucom/ebs.m3u8
 https://eucom-live.freecaster.com/eucom/96098c0b-0743-4afc-9562-db1673053f9d/96098c0b-0743-4afc-9562-db1673053f9d.isml/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/gFjck13/ebssat.png",EUROPE BY SAT +
 https://euc-live.fl.freecaster.net/live/eucom/ebsp.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/DCntyzt/reuterstv.png",REUTERS TV
-https://reuters-reutersnow-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/hKP8X8B/f24.png",FRANCE 24 EN
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/hKP8X8B/f24.png",FRANCE 24 EN
@@ -2421,6 +2423,10 @@ https://new.cache-stream.workers.dev/stream/UCQfwfsi5VrQ8yKZ-UWmAEFg/live.m3u8
 https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/84XLZJq/dw.png",DW ENGLISH
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/84XLZJq/dw.png",DW ENGLISH +
+https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/84XLZJq/dw.png",DW ENGLISH +
+https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/j68q1Bp/i24.png",I24 NEWS EN
 https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/playlist-all.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/NCQtNX5/telesur.png",TELESUR EN
