@@ -1,0 +1,33 @@
+name: n12 action
+
+on:
+  schedule:
+    - cron: '08 */20 * * *'
+  
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    
+      - uses: actions/checkout@v2
+
+      - name: config
+        run: |
+          git config --global user.email "<>"
+          git config --global user.name "n12 bot"
+      
+      - name: updating n12
+        run: sh ressources/keshetil/py/n12.sh
+        
+      - name: git add
+        run: |
+          git add -A
+          ls -la 
+          
+      - name: commit & push
+        run: |
+          git pull
+          git commit -m "n12 updated"
+          git push
