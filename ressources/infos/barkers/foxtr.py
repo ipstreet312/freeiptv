@@ -16,21 +16,13 @@ def extract_src_from_html(html_code):
 
     return daion_url
 
-def fetch_html_content(url):
-    response = requests.get(url)
-    if response.status_code == 200:
-        return response.text
-    else:
-        return None
-
 def main():
-    # URL to fetch HTML content
+    # Fetch HTML content from the URL
     url = 'https://www.fox.com.tr/canli-yayin'
-
-    # Fetch HTML content
-    html_code = fetch_html_content(url)
+    response = requests.get(url)
     
-    if html_code:
+    if response.status_code == 200:
+        html_code = response.text
         src = extract_src_from_html(html_code)
         if src:
             src = src.strip("'\"")
@@ -38,7 +30,7 @@ def main():
         else:
             print("No 'daionUrl' found in the HTML content.")
     else:
-        print("Failed to fetch HTML content from the URL.")
+        print("Failed to fetch HTML content. Status code:", response.status_code)
 
 if __name__ == "__main__":
     main()
