@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 
 def extract_src_from_html(html_code):
     soup = BeautifulSoup(html_code, 'html.parser')
-    script_tag = soup.find('script', string=lambda text: 'player.source =' in text)
+    script_tag = soup.find('script', string=lambda text: text and 'player.source =' in text)
     src_value = None
     if script_tag:
         src_start = script_tag.string.find("'https://")  
@@ -19,12 +19,10 @@ def main():
     if response.status_code == 200:
         html_code = response.text
         src = extract_src_from_html(html_code)
-        print("Extracted SRC value:", src)
-
-        # Write the src value into a file
-        with open('ressources/infos/barkers/auftanken.m3u8', 'w') as file:
-            file.write(src)
-            print("Saved SRC value to 'auftanken.m3u8'")
+        if src:
+            print("Extracted SRC value:", src)
+        else:
+            print("No 'player.source =' found in the HTML content.")
     else:
         print("Failed to fetch HTML content. Status code:", response.status_code)
 
