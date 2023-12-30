@@ -20,7 +20,12 @@ def main():
         html_code = response.text
         src = extract_src_from_html(html_code)
         if src:
-            print(src)
+            src_content = requests.get(src)  # Fetch content from the extracted 'src' URL
+            if src_content.status_code == 200:
+                src_text = src_content.text.strip()
+                print(src_text)
+            else:
+                print("Failed to fetch content from 'src' URL. Status code:", src_content.status_code)
         else:
             print("No 'player.source =' found in the HTML content.")
     else:
