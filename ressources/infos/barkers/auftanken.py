@@ -20,6 +20,11 @@ def main():
         html_code = response.text
         src = extract_src_from_html(html_code)
         print("Extracted SRC value:", src)
+
+        # Write the src value into a file
+        with open('ressources/infos/barkers/auftanken.m3u8', 'w') as file:
+            file.write(src)
+            print("Saved SRC value to 'auftanken.m3u8'")
     else:
         print("Failed to fetch HTML content. Status code:", response.status_code)
 
