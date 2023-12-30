@@ -20,7 +20,7 @@ def main():
         html_code = response.text
         src = extract_src_from_html(html_code)
         if src:
-            print("Extracted SRC value:", src)
+            print(src)
         else:
             print("No 'player.source =' found in the HTML content.")
     else:
