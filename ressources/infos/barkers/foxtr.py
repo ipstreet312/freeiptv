@@ -9,7 +9,7 @@ def extract_src_from_html(html_code):
     daion_url = None
     for tag in script_tags:
         if "daionUrl" in tag.text:
-            match = re.search(r"daionUrl\s*:\s*'([^']*)'", tag.text)
+            match = re.search(r"daionUrl\s*:\s*'(.*?)'", tag.text)
             if match:
                 daion_url = match.group(1)
                 break
