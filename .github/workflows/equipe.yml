@@ -31,6 +31,6 @@ jobs:
           
       - name: commit & push
         run: |
-          git pull
+          git pull origin master
           git commit -m "equipe updated"
-          git push
+          git push origin master
