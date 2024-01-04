@@ -829,10 +829,10 @@ https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/3WmLjwG/trtspor22c.png",TRT SPOR
 https://trtspor.blutv.com/blutv_trtspor/live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/ky3qVPc/trtspory2.png",TRT SPOR2 YILDIZ [geo-blocked]
+#EXTINF:0 tvg-logo="https://i.ibb.co/ky3qVPc/trtspory2.png",TRT SPOR2 YILDIZ
 https://tv-trtspor2.medya.trt.com.tr/master.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/ky3qVPc/trtspory2.png",TRT SPOR2 YILDIZ [geo-blocked]
-https://trtsporyildiz.blutv.com/blutv_trtsporyildiz_2/trtsporyildiz.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/ky3qVPc/trtspory2.png",TRT SPOR2 YILDIZ
+https://trtsporyildiz.blutv.com/blutv_trtsporyildiz/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/zfwmCCp/ilkoku22.png",TRT EBA ILK
 https://tv-e-okul00.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/zfwmCCp/ilkoku22.png",TRT EBA ILK
@@ -972,7 +972,7 @@ https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/THj0Jrg/eurod22.png",EURO D (geçici geçerli)
 https://bozztv.com/inim03/live1/eurod/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Lg90xsB/eurostar22.png",EURO STAR (geçici geçerli)
-https://gineu8.bozztv.com/gin-trn10/gt-eurostar/index.m3u8
+https://bozztv.com/gin-trn10/gt-eurostar/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/MCXCRcn/tgrteu1.png",TGRT EU
 https://canli.haber365.com.tr/tr/tgrteu/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/1RnLJpf/agro.png",AGRO TV
@@ -1884,13 +1884,15 @@ https://media2.livaat.com/TAHA-TV/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/XVGL3qH/alaan.png",AL AAN TV
 https://shls-live-ak.akamaized.net/out/v1/dfbdea4c1bf149629764e58c6ff314c8/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/HVLDcrR/abudhabi.png",ABU DHABI
-https://admdn2ta.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/L61bf70/adspts.png",ABU DHABI SPORTS 1
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/L61bf70/adspts.png",ABU DHABI SPORTS 2
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/yV6Jhjg/alemarat.png",AL EMARAT
-https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/chunklist.m3u8
+https://vo-live.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/L61bf70/adspts.png",ABU DHABI SPORTS 1
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/L61bf70/adspts.png",ABU DHABI SPORTS 2
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/GdpWZ7h/baynounah.png",BAYNOUNAH TV
+https://vo-live.cdb.cdn.orange.com/Content/Channel/Baynounah/HLS/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/qJ7qVTF/Al-Mamlaka.png",AL MAMLKA
 https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/WcQV072/saudi1sbc.png",SAUDI CH 1
@@ -1956,7 +1958,7 @@ https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3actfsdc/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/3h4XCtZ/kasqatar.png",KAS QATAR 4
 https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNh2.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Q6tZWdh/yas.png",YAS TV
-https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
+https://vo-live.cdb.cdn.orange.com/Content/Channel/YASSportsChannel/HLS/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/S6xK2x9/aone.jpg",A ONE
 http://master.starmena-cloud.com/hls/a1jo.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/qMyBBdb/kab.png",KAB 1
@@ -2100,9 +2102,7 @@ https://edge.taghtia.com/sa/4.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/KX5tK6Q/Wanasa.png",WANASAH
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/DbFpsdR/majid.png",MAJID
-https://admdn5ta.cdn.mgmlcdn.com/majid/smil:majid.stream.smil/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/DbFpsdR/majid.png",MAJID
-https://admdn5.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
+https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/QFvZPd9/spacetoon.png",SPACE TOON
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Zxd0j45/cartoonnetwork.png",CARTOON NETWORK AR
