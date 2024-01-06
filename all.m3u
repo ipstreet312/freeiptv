@@ -1097,6 +1097,8 @@ https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist
 https://live.artidijitalmedya.com/artidijital_dimtv/dimtv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",DİYAR TV
 https://yayin30.haber100.com/live/diyartv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",DİYAR TV
+https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",DRT DENIZLİ
 https://edge1.socialsmart.tv/drttv/bant1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",DRT DENIZLİ
@@ -1221,6 +1223,8 @@ https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/chunks.m3u8
 https://edge1.socialsmart.tv/metropoltv/smil/metropoltv/bant1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",MUĞLA TÜRK TV
 https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",NORA TV AKSARAY
+https://live.artidijitalmedya.com/artidijital_noratv/noratv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",OGUN TV
 https://s01.vpis.io/ogun/ogun.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",OLAY TÜRK KAYSERİ TV
@@ -2592,9 +2596,9 @@ http://blank
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png" group-title="|GE-AM-AZ|🇬🇪🇦🇲🇦🇿 CAUCASIAN",GPB 1 პირველი არხი
+#EXTINF:0 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png" group-title="|GE-AM-AZ|🇬🇪🇦🇲🇦🇿 CAUCASIAN",GPB 1TV პირველი არხი
 https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png",GBP 2
+#EXTINF:0 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png",GPB 2TV
 https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png",IMEDI
 https://tv.cdn.xsg.ge/imedihd/index.m3u8
