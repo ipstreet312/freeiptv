@@ -841,22 +841,10 @@ https://trtspor.blutv.com/blutv_trtspor/live.m3u8
 https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/ky3qVPc/trtspory2.png",TRT SPOR2 YILDIZ
 https://trtsporyildiz.blutv.com/blutv_trtsporyildiz/live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/zfwmCCp/ilkoku22.png",TRT EBA ILK
-https://tv-e-okul00.medya.trt.com.tr/master.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/zfwmCCp/ilkoku22.png",TRT EBA ILK
-https://ebai.blutv.com/blutv_ebai2/live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/1JbF8xB/ortaoku22.png.png",TRT EBA ORTA
+#EXTINF:0 tvg-logo="https://i.ibb.co/8g20RBH/ebatek.png,TRT EBA TV
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/1JbF8xB/ortaoku22.png.png",TRT EBA ORTA
+#EXTINF:0 tvg-logo="https://i.ibb.co/8g20RBH/ebatek.png,TRT EBA TV
 https://ebao.blutv.com/blutv_ebao2/live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/v42mWjF/lise22.png",TRT EBA LİSE
-https://tv-e-okul02.medya.trt.com.tr/master.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/v42mWjF/lise22.png",TRT EBA LİSE
-https://ebal.blutv.com/blutv_ebal2/live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/YjkMYbF/trtcocuk21a.png",TRT ÇOCUK (backup)
-https://tv-trtcocuk.live.trt.com.tr/master.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/4Rm7Z6Z/sports22.png",SPORTS TV (backup)
-https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/0Yt6jbg/tjk.png",TJK TV [geo-blocked]
 http://tjktv.ercdn.net/tjktv.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/0Yt6jbg/tjk.png",TJK TV [geo-blocked]
@@ -881,6 +869,10 @@ https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/92/index.m3u
 https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/92/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/M9kWXzt/trt3spor22c.png",TRT3 SPOR [offline]
 https://tv-trt3.live.trt.com.tr/master.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/YjkMYbF/trtcocuk21a.png",TRT ÇOCUK (backup)
+https://tv-trtcocuk.live.trt.com.tr/master.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/4Rm7Z6Z/sports22.png",SPORTS TV (backup)
+https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/xSjB51j/aspor.png",A SPOR (backup)
 https://ythls.armelin.one/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/xSjB51j/aspor.png",A SPOR (backup)
