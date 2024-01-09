@@ -7,7 +7,7 @@ response = requests.get(url)
 
 if response.status_code == 200:
     site_content = response.text
-    pattern = re.compile(r'daiUrl\s*=\s*\'(.*?)\'', re.MULTILINE)
+    pattern = re.compile(r"daionUrl\s*:\s*'([^']*)'")
     match = pattern.search(site_content)
     
     if match:
