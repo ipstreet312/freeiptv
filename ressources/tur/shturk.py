@@ -1,5 +1,6 @@
 import requests
 import re
+import json
 
 base_url = "https://ciner-live.ercdn.net/showturk/"
 url = "https://www.showturk.com.tr/canli-yayin/showturk"
@@ -7,29 +8,33 @@ response = requests.get(url)
 
 if response.status_code == 200:
     site_content = response.text
-    match = re.search(r'ht_stream_m3u8 = \'(.*?)\'', site_content)
+    match = re.search(r'ht_stream_m3u8":"(.*?)"', site_content)
     
     if match:
-        baglanti = match.group(1)
-        print(f"Location: {baglanti}")
-        content_response = requests.get(baglanti)
+        json_data = match.group(1)
+        ht_data = json.loads('{' + json_data + '}')
+        ht_stream_m3u8 = ht_data.get('ht_stream_m3u8')
         
-        if content_response.status_code == 200:
-            content = content_response.text
-            lines = content.split("\n")
-            modified_content = ""
+        if ht_stream_m3u8:
+            print(f"Found Live URL: {ht_stream_m3u8}")
+            content_response = requests.get(ht_stream_m3u8)
             
-            for line in lines:
-                if line.startswith("showturk"):
-                    full_url = base_url + line
-                    modified_content += full_url + "\n"
-                else:
-                    modified_content += line + "\n"
+            if content_response.status_code == 200:
+                content = content_response.text
+                lines = content.split("\n")
+                modified_content = ""
             
-            print(modified_content)
+                for line in lines:
+                    if line.startswith("showturk"):
+                        full_url = base_url + line
+                        modified_content += full_url + "\n"
+                    else:
+                        modified_content += line + "\n"
+            
+                print(modified_content)
         else:
-            print("Failed to fetch content.")
+            print("Live URL not found in the content.")
     else:
-        print("Live URL not found in the content.")
+        print("Live URL pattern not found in the content.")
 else:
-    print("Failed to fetch the website content.")
+    print("Error: Status code is not 200.")
