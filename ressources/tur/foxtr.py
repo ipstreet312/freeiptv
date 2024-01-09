@@ -7,10 +7,12 @@ response = requests.get(url)
 
 if response.status_code == 200:
     site_content = response.text
-    match = re.search(r'daiUrl = \'(.*?)\'', site_content)
+    pattern = re.compile(r'daiUrl\s*=\s*\'(.*?)\'', re.MULTILINE)
+    match = pattern.search(site_content)
     
     if match:
         baglanti = match.group(1)
+        print(baglanti)
         print(f"Location: {baglanti}")
         content_response = requests.get(baglanti)
         
