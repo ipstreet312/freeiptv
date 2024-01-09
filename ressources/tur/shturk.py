@@ -12,7 +12,9 @@ if response.status_code == 200:
     
     if match:
         json_data = match.group(1)
-        ht_data = json.loads('{' + json_data + '}')
+        json_data_valid = json_data.replace("'", '"')
+        
+        ht_data = json.loads('{' + json_data_valid + '}')
         ht_stream_m3u8 = ht_data.get('ht_stream_m3u8')
         
         if ht_stream_m3u8:
