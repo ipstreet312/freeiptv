@@ -2,7 +2,7 @@ name: shturk
 
 on:
   schedule:
-    - cron: '16 */07 * * *'
+    - cron: '16 */02 * * *'
   workflow_dispatch:
 
 jobs:
