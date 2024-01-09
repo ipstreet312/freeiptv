@@ -11,10 +11,10 @@ if response.status_code == 200:
     if match:
         baglanti = match.group(1)
         #print(f"Location: {baglanti}")
-         content_response = requests.get(baglanti)
-         if content_response.status_code == 200:
-             content = content_response.text
-             print(content)
+        content_response = requests.get(baglanti)
+        if content_response.status_code == 200:
+            content = content_response.text
+            print(content)
     else:
         print("Live URL not found in the content.")
 else:
