@@ -19,7 +19,7 @@ if response.status_code == 200:
             ht_stream_m3u8 = ht_data.get('ht_stream_m3u8')
             
             if ht_stream_m3u8:
-                print(f"Found Live URL: {ht_stream_m3u8}")
+                #print(f"Found Live URL: {ht_stream_m3u8}")
                 content_response = requests.get(ht_stream_m3u8)
                 
                 if content_response.status_code == 200:
