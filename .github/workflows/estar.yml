@@ -25,6 +25,9 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
+          
+      - name: Install requests module
+        run: python3 -m pip install requests
 
       - name: Execute Python script
         run: python3 ressources/tur/estar.py > ressources/tur/estar.m3u8
