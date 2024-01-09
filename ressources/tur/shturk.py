@@ -12,9 +12,8 @@ if response.status_code == 200:
     
     if match:
         json_data = match.group(1)
-        # Replacing single quotes with double quotes to make it valid JSON
         json_data_valid = json_data.replace("'", '"')
-        
+        print(f"Extracted JSON data: {json_data_valid}")
         try:
             ht_data = json.loads(json_data_valid)
             ht_stream_m3u8 = ht_data.get('ht_stream_m3u8')
