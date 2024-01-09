@@ -10,7 +10,7 @@ if response.status_code == 200:
     
     if match:
         baglanti = match.group(1)
-        #print(f"Location: {baglanti}")
+        print(f"Location: {baglanti}")
         content_response = requests.get(baglanti)
         if content_response.status_code == 200:
             content = content_response.text
