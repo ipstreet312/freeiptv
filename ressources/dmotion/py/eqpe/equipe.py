@@ -34,4 +34,6 @@ if index != -1:
 else:
     shortchunks = chunks
 
-print(shortchunks)
+modified_url = shortchunks.replace("live-2", "live-3")
+
+print(modified_url)
