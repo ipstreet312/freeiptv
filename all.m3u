@@ -869,8 +869,12 @@ https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=bf58ab52-4865-4c81-b223-26b4
 https://tv8-tb-live.ercdn.net/tv8bucuk/tv8bucuk.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/L8ftBdN/minikacocuk.png",MINIKA COCUK [offlink]
 https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/92/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/L8ftBdN/minikacocuk.png",MINIKA COCUK [offlink]
+http://trn10.tulix.tv/gt-minikacocuk/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/R2Zgy7F/minikago.png",MINIKA GO [offlink]
 https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/92/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/R2Zgy7F/minikago.png",MINIKA GO [offlink]
+http://trn10.tulix.tv/gt-minikago/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/M9kWXzt/trt3spor22c.png",TRT3 SPOR [offline]
 https://tv-trt3.live.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/YjkMYbF/trtcocuk21a.png",TRT ÇOCUK (backup)
@@ -2675,4 +2679,4 @@ https://livestream.zazerconer.workers.dev/channel/UCT67YOMntJxfRnO_9bXDpvw.m3u8
 #EXTINF:0,⚪🆗✔️✅Blank Empty New Service
 https://
 #EXTINF:0,test
-https://raw.githubusercontent.com/Sibprod/streams/main/C8.m3u8
+https://
