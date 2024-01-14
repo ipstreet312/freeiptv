@@ -14,7 +14,7 @@ jobs:
 
     steps:
 
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
 
       - name: config
         run: |
@@ -31,5 +31,6 @@ jobs:
           
       - name: commit & push
         run: |
+          git pull
           git commit -m "lcpan updated"
           git push
