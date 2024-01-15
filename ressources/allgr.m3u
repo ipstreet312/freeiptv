@@ -94,7 +94,7 @@ https://live-lci-hls.cdn-0.diff.tf1.fr/out/v1/917aad4fa72f42f7ba7f486226f54bc4/l
 #EXTINF:0 tvg-logo="https://i.ibb.co/pQ7kLNY/tv5fbs.png" group-title="|FR|🇫🇷 GÉNÉRALISTE",TV5MONDE FBSM
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" group-title="|FR|🇫🇷 GÉNÉRALISTE",TF1
-https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIxODUuMzEuNDAuMjMiLCJjbWNkIjoiIiwiZXhwIjoxNzA1MzA0MTk3LCJnaWQiOiJiZjNiOTkyMC0wYWIxLTQ0NmMtYTMzMS0zZGMxYWM0M2VhYTQiLCJpYXQiOjE3MDUyODk3OTcsImlzcyI6ImRlbGl2ZXJ5IiwibWF4YiI6MjAwMDAwMCwic3RlbSI6Ii9vdXQvdjEvNzgwNTQyZjUxNmYxNDNmYzhhZDliZjE0NjIyMzE2ZTcvdGYxLWNtYWYiLCJzdWIiOiJiZjNiOTkyMC0wYWIxLTQ0NmMtYTMzMS0zZGMxYWM0M2VhYTQifQ.UG4w9s-MwTdCm__6i1pm0Caxbr-JbpeVn0BCl-rICPo/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
+https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIxODUuMzEuNDAuMjMiLCJjbWNkIjoiIiwiZXhwIjoxNzA1MzE1MTU2LCJnaWQiOiJjNGRjZTgwMi1iNGRmLTRmY2UtYmJmNy1iYmFmNWEyMGFmMTkiLCJpYXQiOjE3MDUzMDA3NTYsImlzcyI6ImRlbGl2ZXJ5IiwibWF4YiI6MjAwMDAwMCwic3RlbSI6Ii9vdXQvdjEvNzgwNTQyZjUxNmYxNDNmYzhhZDliZjE0NjIyMzE2ZTcvdGYxLWNtYWYiLCJzdWIiOiJjNGRjZTgwMi1iNGRmLTRmY2UtYmJmNy1iYmFmNWEyMGFmMTkifQ.1WUYdGJVnSKEkjwTrpV6F4z8j8qW4ndAbTFOK3D_UCo/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png" group-title="|FR|🇫🇷 GÉNÉRALISTE",M6
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png" group-title="|FR|🇫🇷 GÉNÉRALISTE",FRANCE 2
@@ -1146,7 +1146,7 @@ https://cdn1-hedeftv.yayin.com.tr/hedeftv/hedeftv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="|TR|🇹🇷 YEREL",HABER61 TRABZON
 https://cdn-haber61tv.yayin.com.tr/haber61tv/haber61tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="|TR|🇹🇷 YEREL",HRT AKDENİZ
-https://vod02.cdn.web.tv/cn/ov/cnovvu97lqw_,240,360,480 group-title="|TR|🇹🇷 YEREL",.mp4.urlset/playlist-f3-v1-a1.m3u8
+https://vod02.cdn.web.tv/cn/ov/cnovvu97lqw_ group-title="|TR|🇹🇷 YEREL",240,360,480,.mp4.urlset/playlist-f3-v1-a1.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="|TR|🇹🇷 YEREL",HUNAT TV KAYSERİ
 https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="|TR|🇹🇷 YEREL",İÇEL TV
@@ -1685,13 +1685,13 @@ https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
 https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/WVzhVbc/portoc.png" group-title="|PT|🇵🇹 PORTUGAL",PORTO CANAL (mostly off)
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/gnrcpltfrm/portoc.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/3YZFCjp/rtp1.jpg",RTP 1 (tvhlsdvr group-title="|PT|🇵🇹 PORTUGAL",KO)
+#EXTINF:0 tvg-logo="https://i.ibb.co/3YZFCjp/rtp1.jpg" group-title="|PT|🇵🇹 PORTUGAL",RTP 1 (tvhlsdvr,KO)
 https://streaming-live.rtp.pt/livetvhlsDVR/rtp1dvr.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/3YZFCjp/rtp1.jpg",RTP 1 (tvhls_HD group-title="|PT|🇵🇹 PORTUGAL",KO)
+#EXTINF:0 tvg-logo="https://i.ibb.co/3YZFCjp/rtp1.jpg" group-title="|PT|🇵🇹 PORTUGAL",RTP 1 (tvhls_HD,KO)
 https://streaming-live.rtp.pt/livetvhls/rtp1HD.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/tbFT1V2/rtp2.jpg",RTP 2 (tvhls group-title="|PT|🇵🇹 PORTUGAL",KO)
+#EXTINF:0 tvg-logo="https://i.ibb.co/tbFT1V2/rtp2.jpg" group-title="|PT|🇵🇹 PORTUGAL",RTP 2 (tvhls,KO)
 https://streaming-live.rtp.pt/livetvhls/rtp2.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/tbFT1V2/rtp2.jpg",RTP 2 (tvhls_HD group-title="|PT|🇵🇹 PORTUGAL",KO)
+#EXTINF:0 tvg-logo="https://i.ibb.co/tbFT1V2/rtp2.jpg" group-title="|PT|🇵🇹 PORTUGAL",RTP 2 (tvhls_HD,KO)
 https://streaming-live.rtp.pt/livetvhls/rtp2HD.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/HnqCkQj/rtp3.jpg" group-title="|PT|🇵🇹 PORTUGAL",RTP 3 (tvhlsdvr)
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
