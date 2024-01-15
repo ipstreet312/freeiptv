@@ -16,11 +16,7 @@ if input_text is not None:
     output_lines = []
     current_group_title = None
 
-    for i, line in enumerate(input_text.split('\n')):
-        if i == 0:  # Skip the first line
-            output_lines.append(line)
-            continue
-
+    for line in input_text.split('\n'):
         if line.startswith('#EXTINF:0'):
             group_title_start = line.find('group-title="')
             if group_title_start != -1:
@@ -30,10 +26,7 @@ if input_text is not None:
         if 'group-title=' not in line:
             if current_group_title is not None:
                 split_line = line.rsplit(',', 1)
-                if len(split_line) == 1:
-                    # Handle the case when there's no comma in the line
-                    line = split_line[0] + f' group-title="{current_group_title}"'
-                elif len(split_line) == 2:
+                if len(split_line) >= 2:
                     line = split_line[0] + f' group-title="{current_group_title}",' + split_line[1]
 
         output_lines.append(line)
@@ -43,5 +36,3 @@ if input_text is not None:
     output_file_path = "ressources/allgr.m3u"
     with open(output_file_path, "w") as output_file:
         output_file.write(output_text)
-
-    print(output_file_path)
