@@ -17,6 +17,10 @@ if input_text is not None:
     current_group_title = None
 
     for line in input_text.split('\n'):
+        if line.startswith('#EXTM3U'):
+            output_lines.append(line)
+            continue  # Skip further processing for this line
+
         if line.startswith('#EXTINF:0'):
             group_title_start = line.find('group-title="')
             if group_title_start != -1:
