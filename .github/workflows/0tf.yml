@@ -29,12 +29,13 @@ jobs:
         run: |
           content="${{ env.CONTENT }}"
           sed -i "/tf1-cmaf/ c ${content}" all.m3u
+          sed -i "/tf1-cmaf/ c ${content}" ressources/allgr.m3u
     
       - name: Commit and Push Changes
         run: |
           git config --local user.name "0tf Action"
           git config user.email "<>"
           git pull
-          git add all.m3u
+          git add all.m3u ressources/allgr.m3u
           git commit -m "0tf updated"
           git push
