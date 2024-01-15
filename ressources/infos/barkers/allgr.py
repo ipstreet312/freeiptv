@@ -25,10 +25,9 @@ if input_text is not None:
 
         if 'group-title=' not in line:
             if current_group_title is not None:
-                url_start = line.find('http')
-                if url_start != -1:
-                    url = line[url_start:]
-                    line = line[:url_start] + f' group-title="{current_group_title}",' + url
+                split_line = line.rsplit(',', 1)
+                if len(split_line) >= 2:
+                    line = split_line[0] + f' group-title="{current_group_title}",' + split_line[1]
 
         output_lines.append(line)
 
