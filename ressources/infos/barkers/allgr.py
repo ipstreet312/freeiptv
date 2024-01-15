@@ -23,13 +23,14 @@ if input_text is not None:
                 group_title_end = line.rfind('"')
                 current_group_title = line[group_title_start + 13: group_title_end]
 
-        if 'group-title=' not in line:
-            if current_group_title is not None:
-                split_line = line.rsplit(',', 1)
-                if len(split_line) >= 2:
-                    line = split_line[0] + f' group-title="{current_group_title}",' + split_line[1]
+            output_lines.append(line)  # Keep the #EXTINF line as is
 
-        output_lines.append(line)
+        elif 'group-title=' not in line:
+            if current_group_title is not None:
+                output_lines.append(line.replace(',', f' group-title="{current_group_title}",'))
+
+        else:
+            output_lines.append(line)
 
     output_text = '\n'.join(output_lines)
 
