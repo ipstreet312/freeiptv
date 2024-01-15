@@ -33,7 +33,7 @@ if input_text is not None:
 
     output_text = '\n'.join(output_lines)
 
-    output_file_path = "allgr.m3u"
+    output_file_path = "ressources/allgr.m3u"
     with open(output_file_path, "w") as output_file:
         output_file.write(output_text)
 
