@@ -26,7 +26,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install beautifulsoup4 requests
       - name: Execute Python script
-        run: python3 ressources/infos/barkers/allgr.py > allgr.m3u
+        run: python3 ressources/infos/barkers/allgr.py > ressources/allgr.m3u
 
       - name: git add
         run: |
