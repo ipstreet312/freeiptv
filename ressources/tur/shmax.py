@@ -28,7 +28,7 @@ if response.status_code == 200:
                     modified_content = ""
                     
                     for line in lines:
-                        if line.startswith("showturk"):
+                        if line.startswith("showmax"):
                             full_url = base_url + line
                             modified_content += full_url + "\n"
                         else:
