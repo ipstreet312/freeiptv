@@ -10,23 +10,23 @@ headers = {
 print('#EXTM3U')
 print('#EXT-X-STREAM-INF:RESOLUTION=848x477,FRAME-RATE=50.000000,BANDWIDTH=1667072,CODECS="avc1.64001f,mp4a.40.2",NAME="480@60"')
 
-url = "http://s2.callofliberty.fr/direct/C8/02.m3u8"
+url = "http://s2.callofliberty.fr/direct/C8/master.m3u8"
 
 response = requests.get(url)
 
 if response.status_code == 200:
     lines = response.text.splitlines()
     if len(lines) >= 5:
-        fifth_line = lines[4]
+        third_line = lines[2]
     else:
         print("The file has less than 5 lines.")
 else:
     print("Failed to fetch the content. Status code:", response.status_code)
 
-url_part = fifth_line.split('"')[1]
+url_part = third_line.split('"')[1]
 
 start_index = url_part.find('https://')
-end_index = url_part.find('key')
+end_index = url_part.find('m3u8')
 
 required_url_segment = url_part[start_index:end_index]
 print(required_url_segment + "m3u8")
