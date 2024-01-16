@@ -1,0 +1,36 @@
+name: cstr action
+
+on:
+  schedule:
+    - cron: '46 */5 * * *'
+  
+  workflow_dispatch:
+
+jobs:
+
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v3
+
+      - name: config
+        run: |
+          git config --global user.email "<>"
+          git config --global user.name "cstr bot"
+      
+      - name: updating cstr
+        run: python3 ressources/dmotion/py/cstr/cstr.py > ressources/dmotion/py/cstr/cstr.m3u8
+        
+      - name: git add
+        run: |
+          git add -A
+          ls -la 
+          
+      - name: commit & push
+        run: |
+          git pull origin master
+          git commit -m "cstr updated"
+          git push origin master
