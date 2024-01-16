@@ -18,15 +18,23 @@ if response.status_code == 200:
     lines = response.text.splitlines()
     if len(lines) >= 3:
         my_line = lines[2]
+        
+        # Check if the line contains the expected structure
+        if '"' in my_line:
+            url_part = my_line.split('"')[1]
+            
+            # Check if there is a valid URL segment
+            if 'https://' in url_part:
+                start_index = url_part.find('https://')
+                end_index = url_part.find('m3u8')
+
+                required_url_segment = url_part[start_index:end_index]
+                print(required_url_segment + "m3u8")
+            else:
+                print("Invalid URL format in the third line.")
+        else:
+            print("Unexpected format in the third line.")
     else:
         print("The file has less than 3 lines.")
 else:
     print("Failed to fetch the content. Status code:", response.status_code)
-
-url_part = my_line.split('"')[1]
-
-start_index = url_part.find('https://')
-end_index = url_part.find('m3u8')
-
-required_url_segment = url_part[start_index:end_index]
-print(required_url_segment + "m3u8")
