@@ -8,25 +8,32 @@ headers = {
 }
 
 print('#EXTM3U')
-print('#EXT-X-STREAM-INF:RESOLUTION=848x477,FRAME-RATE=50.000000,BANDWIDTH=1667072,CODECS="avc1.64001f,mp4a.40.2",NAME="480@60"')
+print('#EXT-X-STREAM-INF:BANDWIDTH=7680000')
 
-url = "http://s2.callofliberty.fr/direct/C8/master.m3u8"
+master_url = "http://s2.callofliberty.fr/direct/C8/master.m3u8"
+s = requests.Session()
 
-response = requests.get(url)
-
-my_line = None  # Initialize my_line outside the if block
-
-if response.status_code == 200:
-    lines = response.text.splitlines()
-    if len(lines) >= 3:  # The index should be 3 for the third line
-        my_line = lines[2]
+def get_specific_line_online(url, line_number):
+    response = s.get(url, headers=headers)
+    if response.status_code == 200:
+        lines = response.text.split('\n')
+        if 1 <= line_number <= len(lines):
+            return lines[line_number - 1]
+        else:
+            return None
     else:
-        print("The file has less than 3 lines.")
+        return None
+
+chunks = get_specific_line_online(master_url, 3)
+
+prefix = "http://s2.callofliberty.fr/HLS-AES/"
+index = chunks.find(prefix)
+
+if index != -1:
+    shortchunks = chunks[index + len(prefix):]
 else:
-    print("Failed to fetch the content. Status code:", response.status_code)
+    shortchunks = chunks
+    
+modified_url = shortchunks.replace("live-2", "live-3")
 
-if my_line is not None:
-    # Split the line at whitespace and take the last part
-    url_part = my_line.split()[-1]
-
-    print(url_part)
+print(modified_url)
