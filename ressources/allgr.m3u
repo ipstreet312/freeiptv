@@ -14,9 +14,9 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/
 #EXTINF:0 tvg-logo="https://i.ibb.co/XkLHrbC/frinfo2bl.png" group-title="|FR|🇫🇷 INFORMATION",FRANCE INFO
 https://new.cache-stream.workers.dev/stream/UCO6K_kkdP-lnSCiO3tPx7WA/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/ZBqk6mK/lemedia.jpg" group-title="|FR|🇫🇷 INFORMATION",LE MÉDIA TV
-https://new.cache-stream.workers.dev/stream/UCT67YOMntJxfRnO_9bXDpvw/live.m3u8
+https://ythlsgo.onrender.com/channel/UCT67YOMntJxfRnO_9bXDpvw.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/ZBqk6mK/lemedia.jpg" group-title="|FR|🇫🇷 INFORMATION",LE MÉDIA TV
-https://ythls.armelin.one/channel/UCT67YOMntJxfRnO_9bXDpvw.m3u8
+https://livestream.zazerconer.workers.dev/channel/UCT67YOMntJxfRnO_9bXDpvw.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png" group-title="|FR|🇫🇷 INFORMATION",EURONEWS FR
 https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png" group-title="|FR|🇫🇷 INFORMATION",EURONEWS FR
@@ -125,6 +125,8 @@ https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/c8/c8s.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/LNRd253/w9.png" group-title="|FR|🇫🇷 GÉNÉRALISTE",W9
 http://livetv.ktv.zone/11/play.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/Sm9PtLR/cstar.png" group-title="|FR|🇫🇷 GÉNÉRALISTE",CSTAR
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/cstr/cstr.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/NyHqX5R/belrtl.png" group-title="|FR|🇫🇷 GÉNÉRALISTE",BEL RTL
 https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/NyHqX5R/belrtl.png" group-title="|FR|🇫🇷 GÉNÉRALISTE",BEL RTL
@@ -660,7 +662,7 @@ https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="|TR|🇹🇷 GENEL",TV8
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
 #EXTINF:0 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="|TR|🇹🇷 GENEL",ATV
-https://new.cache-stream.workers.dev/stream/UCUVZ7T_kwkxDOGFcDlFI-hg/live.m3u8
+https://livestream.zazerconer.workers.dev/channel/UCUVZ7T_kwkxDOGFcDlFI-hg.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="|TR|🇹🇷 GENEL",ATV
 https://stream2.filbox.com.tr/live/hls/8/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/FVnG3Zr/360tv.png" group-title="|TR|🇹🇷 GENEL",360
@@ -707,6 +709,10 @@ https://foxtv-live-ad.ercdn.net/foxtv/playlist.m3u8
 https://foxtv.daioncdn.net/foxtv/foxtv.m3u8?app=24e7a2e2-9156-4c02-a4fb-2bc599ffaf77
 #EXTINF:0 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="|TR|🇹🇷 GENEL",ATV (backup)
 https://bozztv.com/inim03/live1/atv-tv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="|TR|🇹🇷 GENEL",ATV (backup)
+https://ythlsgo.onrender.com/channel/UCUVZ7T_kwkxDOGFcDlFI-hg.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="|TR|🇹🇷 GENEL",ATV (backup)
+https://new.cache-stream.workers.dev/stream/UCUVZ7T_kwkxDOGFcDlFI-hg/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="|TR|🇹🇷 GENEL",ATV (backup)
 https://ythls.armelin.one/channel/UCUVZ7T_kwkxDOGFcDlFI-hg.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="|TR|🇹🇷 GENEL",ATV [youtube-src]
@@ -772,9 +778,19 @@ https://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/1Z22dCY/teve2.png" group-title="|TR|🇹🇷 BELGESEL/YAŞAM",TEVE 2
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/kxjKk89/showmax.png" group-title="|TR|🇹🇷 BELGESEL/YAŞAM",SHOW MAX
-https://new.cache-stream.workers.dev/stream/Y3vGHFrsqrs/live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/kxjKk89/showmax.png" group-title="|TR|🇹🇷 BELGESEL/YAŞAM",SHOW MAX
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shmax.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/kxjKk89/showmax.png" group-title="|TR|🇹🇷 BELGESEL/YAŞAM",SHOW MAX (backup)
 https://ythls.armelin.one/video/Y3vGHFrsqrs.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/kxjKk89/showmax.png" group-title="|TR|🇹🇷 BELGESEL/YAŞAM",SHOW MAX (backup)
+https://ythlsgo.onrender.com/video/Y3vGHFrsqrs.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/kxjKk89/showmax.png" group-title="|TR|🇹🇷 BELGESEL/YAŞAM",SHOW MAX (backup)
+https://livestream.zazerconer.workers.dev/stream/Y3vGHFrsqrs.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/kxjKk89/showmax.png" group-title="|TR|🇹🇷 BELGESEL/YAŞAM",SHOW MAX (backup)
+https://new.cache-stream.workers.dev/stream/Y3vGHFrsqrs/live.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/2qrg9QF/a2022.png" group-title="|TR|🇹🇷 BELGESEL/YAŞAM",A2
+https://ythlsgo.onrender.com/channel/UCHqu50_C2U2h_rpzhygs4aA.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/2qrg9QF/a2022.png" group-title="|TR|🇹🇷 BELGESEL/YAŞAM",A2
+https://livestream.zazerconer.workers.dev/channel/UCHqu50_C2U2h_rpzhygs4aA.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/2qrg9QF/a2022.png" group-title="|TR|🇹🇷 BELGESEL/YAŞAM",A2
 https://new.cache-stream.workers.dev/stream/UCHqu50_C2U2h_rpzhygs4aA/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/2qrg9QF/a2022.png" group-title="|TR|🇹🇷 BELGESEL/YAŞAM",A2
@@ -826,9 +842,9 @@ https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web
 #EXTINF:0 tvg-logo="https://i.ibb.co/dgj3MTh/tv85.png" group-title="|TR|🇹🇷 ÇOCUK/SPOR",TV8 BUÇUK
 https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/BfM21nC/beinhaber.png" group-title="|TR|🇹🇷 ÇOCUK/SPOR",BIS HABER
-https://new.cache-stream.workers.dev/stream/UCPe9vNjHF1kEExT5kHwc7aw/live.m3u8
+https://ythlsgo.onrender.com/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/BfM21nC/beinhaber.png" group-title="|TR|🇹🇷 ÇOCUK/SPOR",BIS HABER
-https://ythls.armelin.one/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8
+https://livestream.zazerconer.workers.dev/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/xSjB51j/aspor.png" group-title="|TR|🇹🇷 ÇOCUK/SPOR",A SPOR
 https://new.cache-stream.workers.dev/stream/UCJElRTCNEmLemgirqvsW63Q/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/xSjB51j/aspor.png" group-title="|TR|🇹🇷 ÇOCUK/SPOR",A SPOR
@@ -867,6 +883,10 @@ https://ythlsgo.onrender.com/channel/UCjkRA7KEdp7PDKDUs396XHg.m3u8
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=bf58ab52-4865-4c81-b223-26b41009801e
 #EXTINF:0 tvg-logo="https://i.ibb.co/dgj3MTh/tv85.png" group-title="|TR|🇹🇷 ÇOCUK/SPOR",TV8 BUÇUK [tkn-blocked]
 https://tv8-tb-live.ercdn.net/tv8bucuk/tv8bucuk.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/BfM21nC/beinhaber.png" group-title="|TR|🇹🇷 ÇOCUK/SPOR",BIS HABER (backup)
+https://new.cache-stream.workers.dev/stream/UCPe9vNjHF1kEExT5kHwc7aw/live.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/BfM21nC/beinhaber.png" group-title="|TR|🇹🇷 ÇOCUK/SPOR",BIS HABER (backup)
+https://ythls.armelin.one/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/L8ftBdN/minikacocuk.png" group-title="|TR|🇹🇷 ÇOCUK/SPOR",MINIKA COCUK [offlink]
 https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/92/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/L8ftBdN/minikacocuk.png" group-title="|TR|🇹🇷 ÇOCUK/SPOR",MINIKA COCUK [offlink]
@@ -2676,10 +2696,10 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
 #EXTINF:0 group-title="|📡|👨‍💻👉GITHUB.COM/IPSTREET312",📻🎶📺🎥Video Player Checker
 http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
 #EXTINF:0 group-title="|📡|👨‍💻👉GITHUB.COM/IPSTREET312",💐🆕⚡💥CHECK Input Entry Test Stream A01
-https://ythlsgo.onrender.com/channel/UCT67YOMntJxfRnO_9bXDpvw.m3u8
+https://ythls.armelin.one/channel/UCT67YOMntJxfRnO_9bXDpvw.m3u8
 #EXTINF:0 group-title="|📡|👨‍💻👉GITHUB.COM/IPSTREET312",💐🆕⚡💥CHECK Input Entry Test Stream A02
 https://livestream.zazerconer.workers.dev/channel/UCT67YOMntJxfRnO_9bXDpvw.m3u8
 #EXTINF:0 group-title="|📡|👨‍💻👉GITHUB.COM/IPSTREET312",⚪🆗✔️✅Blank Empty New Service
 https://
 #EXTINF:0 group-title="|📡|👨‍💻👉GITHUB.COM/IPSTREET312",test1
-https://
+http://
