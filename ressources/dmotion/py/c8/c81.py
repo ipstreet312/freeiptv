@@ -14,6 +14,8 @@ url = "http://s2.callofliberty.fr/direct/C8/master.m3u8"
 
 response = requests.get(url)
 
+my_line = None  # Initialize my_line outside the if block
+
 if response.status_code == 200:
     lines = response.text.splitlines()
     if len(lines) >= 5:
@@ -23,10 +25,11 @@ if response.status_code == 200:
 else:
     print("Failed to fetch the content. Status code:", response.status_code)
 
-url_part = my_line.split('"')[1]
+if my_line is not None:  # Check if my_line is defined
+    url_part = my_line.split('"')[1]
 
-start_index = url_part.find('https://')
-end_index = url_part.find('m3u8')
+    start_index = url_part.find('https://')
+    end_index = url_part.find('m3u8')
 
-required_url_segment = url_part[start_index:end_index]
-print(required_url_segment + "m3u8")
+    required_url_segment = url_part[start_index:end_index]
+    print(required_url_segment + "m3u8")
