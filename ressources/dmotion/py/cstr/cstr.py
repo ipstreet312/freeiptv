@@ -26,7 +26,9 @@ else:
     print("Failed to fetch the content. Status code:", response.status_code)
 
 if my_line is not None:
-    # Split the line at whitespace and take the last part
-    url_part = my_line.split()[-1]
+    # Extract the URL part directly
+    url_part_start = my_line.find('https://')
+    url_part_end = my_line.find('m3u8') + 4  # Include 'm3u8' in the result
 
+    url_part = my_line[url_part_start:url_part_end]
     print(url_part)
