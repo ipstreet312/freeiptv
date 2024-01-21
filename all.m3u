@@ -2619,6 +2619,8 @@ https://webtvstream.bhtelecom.ba/rts2.m3u8
 http://blank
 #EXTINF:0 tvg-logo="https://i.ibb.co/w46x9LM/tvri.png",TVR INT
 https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/9GHhm6L/ant1ro.png",ANTENNA 1 RO
+https://live1ag.antenaplay.ro/live_a1ro/live_a1ro.m3u8
 #EXTINF:0 group-title="|EU|🇪🇺 EUROPEAN COCKTAILTOUR🍸",--- |MD:🇲🇩 MOLDOVA| ---
 http://blank
 #EXTINF:0 tvg-logo="https://i.ibb.co/KjgkLjq/md1.png",MOLDOVA 1
@@ -2673,6 +2675,10 @@ https://rtmp.baku.tv/live/bakutv_1080p.m3u8
 http://cdn-umudtv.yayin.com.tr/umudtv/smil:umudtv.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png",MEDENİYYET
 http://str.yodacdn.net/medeniyyet/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png" user-agent="ExoPlayer2/2.37",ICTIMAI TV
+https://edge02.odtv.az/o1/ictimai/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png" user-agent="ExoPlayer2/2.37",SPACE TV
+https://edge02.odtv.az/o1/space/playlist.m3u8
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/mywSdSQ/att.png" group-title="|📡|👨‍💻👉GITHUB.COM/IPSTREET312",|ℹ️|MORE-INFO➡️: ☛RECEPTIONIPTV.BLOGSPOT.COM
