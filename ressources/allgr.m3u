@@ -479,12 +479,22 @@ https://twitchplatform
 https://indisponible
 #EXTINF:0 tvg-logo="https://i.ibb.co/1RVPRkx/bocal.png" group-title="|FR|🇫🇷 RÉGIONS",TELE BOCAL
 https://indisponible
+#EXTINF:0 tvg-logo="https://i.ibb.co/XjzvmqL/tvmonaco.jpg" group-title="|FR|🇫🇷 RÉGIONS",TV MONACO
+https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/2025/media.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/PxqLyjh/antreu.png" group-title="|FR|🇫🇷 RÉGIONS",ANTENNE RÉUNION
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/infos/barkers/antreu.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/PxqLyjh/antreu.png" group-title="|FR|🇫🇷 RÉGIONS",ANTENNE RÉUNION
 https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/XjzvmqL/tvmonaco.jpg" group-title="|FR|🇫🇷 RÉGIONS",TV MONACO
-https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/2025/media.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png" group-title="|FR|🇫🇷 RÉGIONS",LA 1ÈRE GUADELOUPE [geo-area]
+https://hdfauth.ftven.fr/esi/TA?url=https://simulcast-p.ftven.fr/simulcast/1erGuadeloupe/hls_1er/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png" group-title="|FR|🇫🇷 RÉGIONS",LA 1ÈRE MARTINIQUE [geo-area]
+https://hdfauth.ftven.fr/esi/TA?url=https://simulcast-p.ftven.fr/simulcast/1erMartinique/hls_1er/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png" group-title="|FR|🇫🇷 RÉGIONS",LA 1ÈRE GUYANE [geo-area]
+https://hdfauth.ftven.fr/esi/TA?url=https://simulcast-p.ftven.fr/simulcast/1erGuyane/hls_1er/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png" group-title="|FR|🇫🇷 RÉGIONS",LA 1ÈRE RÉUNION [geo-area]
+https://hdfauth.ftven.fr/esi/TA?url=https://simulcast-p.ftven.fr/simulcast/1erReunion/hls_1er/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png" group-title="|FR|🇫🇷 RÉGIONS",LA 1ÈRE MAYOTTE [geo-area]
+https://hdfauth.ftven.fr/esi/TA?url=https://simulcast-p.ftven.fr/simulcast/1erMayotte/hls_1er/index.m3u8
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/Bt6frts/trthaber.png" group-title="|TR|🇹🇷 HABER-1",TRT HABER
@@ -2619,6 +2629,8 @@ https://webtvstream.bhtelecom.ba/rts2.m3u8
 http://blank
 #EXTINF:0 tvg-logo="https://i.ibb.co/w46x9LM/tvri.png" group-title="|EU|🇪🇺 EUROPEAN COCKTAILTOUR🍸",TVR INT
 https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/9GHhm6L/ant1ro.png" group-title="|EU|🇪🇺 EUROPEAN COCKTAILTOUR🍸",ANTENNA 1 RO
+https://live1ag.antenaplay.ro/live_a1ro/live_a1ro.m3u8
 #EXTINF:0 group-title="|EU|🇪🇺 EUROPEAN COCKTAILTOUR🍸",--- |MD:🇲🇩 MOLDOVA| ---
 http://blank
 #EXTINF:0 tvg-logo="https://i.ibb.co/KjgkLjq/md1.png" group-title="|EU|🇪🇺 EUROPEAN COCKTAILTOUR🍸",MOLDOVA 1
@@ -2673,6 +2685,10 @@ https://rtmp.baku.tv/live/bakutv_1080p.m3u8
 http://cdn-umudtv.yayin.com.tr/umudtv/smil:umudtv.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png" group-title="|GE-AM-AZ|🇬🇪🇦🇲🇦🇿 CAUCASIAN",MEDENİYYET
 http://str.yodacdn.net/medeniyyet/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png" user-agent="ExoPlayer2/2.37" group-title="|GE-AM-AZ|🇬🇪🇦🇲🇦🇿 CAUCASIAN",ICTIMAI TV
+https://edge02.odtv.az/o1/ictimai/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png" user-agent="ExoPlayer2/2.37" group-title="|GE-AM-AZ|🇬🇪🇦🇲🇦🇿 CAUCASIAN",SPACE TV
+https://edge02.odtv.az/o1/space/playlist.m3u8
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/mywSdSQ/att.png" group-title="|📡|👨‍💻👉GITHUB.COM/IPSTREET312",|ℹ️|MORE-INFO➡️: ☛RECEPTIONIPTV.BLOGSPOT.COM
