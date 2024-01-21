@@ -479,12 +479,22 @@ https://twitchplatform
 https://indisponible
 #EXTINF:0 tvg-logo="https://i.ibb.co/1RVPRkx/bocal.png",TELE BOCAL
 https://indisponible
+#EXTINF:0 tvg-logo="https://i.ibb.co/XjzvmqL/tvmonaco.jpg",TV MONACO
+https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/2025/media.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/PxqLyjh/antreu.png",ANTENNE RÉUNION
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/infos/barkers/antreu.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/PxqLyjh/antreu.png",ANTENNE RÉUNION
 https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/XjzvmqL/tvmonaco.jpg",TV MONACO
-https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/2025/media.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",LA 1ÈRE GUADELOUPE [geo-area]
+https://hdfauth.ftven.fr/esi/TA?url=https://simulcast-p.ftven.fr/simulcast/1erGuadeloupe/hls_1er/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",LA 1ÈRE MARTINIQUE [geo-area]
+https://hdfauth.ftven.fr/esi/TA?url=https://simulcast-p.ftven.fr/simulcast/1erMartinique/hls_1er/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",LA 1ÈRE GUYANE [geo-area]
+https://hdfauth.ftven.fr/esi/TA?url=https://simulcast-p.ftven.fr/simulcast/1erGuyane/hls_1er/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",LA 1ÈRE RÉUNION [geo-area]
+https://hdfauth.ftven.fr/esi/TA?url=https://simulcast-p.ftven.fr/simulcast/1erReunion/hls_1er/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",LA 1ÈRE MAYOTTE [geo-area]
+https://hdfauth.ftven.fr/esi/TA?url=https://simulcast-p.ftven.fr/simulcast/1erMayotte/hls_1er/index.m3u8
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/Bt6frts/trthaber.png" group-title="|TR|🇹🇷 HABER-1",TRT HABER
