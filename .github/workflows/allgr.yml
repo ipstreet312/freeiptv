@@ -2,7 +2,7 @@ name: allgr
 
 on:
   schedule:
-    - cron: '01 */12 * * *'
+    - cron: '01 */24 * * *'
   workflow_dispatch:
 
 jobs:
