@@ -21,7 +21,7 @@ if input_text is not None:
             output_lines.append(line)
             continue  # Skip further processing for this line
 
-        if line.startswith('#EXTINF:0'):
+        if line.startswith('#EXTINF:-1'):
             group_title_start = line.find('group-title="')
             if group_title_start != -1:
                 group_title_end = line.rfind('"')
