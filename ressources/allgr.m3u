@@ -485,6 +485,8 @@ https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/infos/barkers/antreu.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/PxqLyjh/antreu.png" group-title="|FR|🇫🇷 RÉGIONS",ANTENNE RÉUNION
 https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/CPZ00LY/labrise.jpg" group-title="|FR|🇫🇷 RÉGIONS",LA BRISE HAÏTI
+http://lakay.online/public/telelabrise/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png" group-title="|FR|🇫🇷 RÉGIONS",LA 1ÈRE GUADELOUPE [geo-area]
 https://hdfauth.ftven.fr/esi/TA?url=https://simulcast-p.ftven.fr/simulcast/1erGuadeloupe/hls_1er/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png" group-title="|FR|🇫🇷 RÉGIONS",LA 1ÈRE MARTINIQUE [geo-area]
