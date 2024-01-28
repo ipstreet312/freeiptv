@@ -2,4 +2,4 @@
 #EXT-X-VERSION:3
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-STREAM-INF:BANDWIDTH=2622400,AVERAGE-BANDWIDTH=2525600,CODECS="avc1.4d4028,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=25.000
-https://mako-streaming.akamaized.net/direct/hls/live/2033791/k12/hdntl=exp=1706490660~acl=%2f*~data=hdntl~hmac=2f7d6cdd64e7a67c32709434040e7d5b9f49de01bc5b5fac2b83c3868b6b0e77/index_2200.m3u8
+https://mako-streaming.akamaized.net/direct/hls/live/2033791/k12/hdntl=exp=1706559250~acl=%2f*~data=hdntl~hmac=b0043488175a9b665995a01b8c0b5a299ea1539c07162147fb0dc62cf72ba52c/index_2200.m3u8
