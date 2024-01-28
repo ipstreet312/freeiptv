@@ -12,7 +12,7 @@ soup = BeautifulSoup(html_content, 'html.parser')
 script_tag = soup.find('script', {'type': 'text/javascript'})
 print("Script Content:", script_tag.text)
 
-url_match = re.search(r"daiUrl\s*:\s*'([^']+)'", script_tag.text, re.DOTALL)
+url_match = re.search(r"daiUrl\s*:\s*['\"]([^'\"]+)['\"]", script_tag.text, re.DOTALL)
 if url_match:
     dai_url = url_match.group(1)
     print("Retrieved URL:", dai_url)
