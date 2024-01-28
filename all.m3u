@@ -677,7 +677,7 @@ https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 https://showtv.blutv.com/blutv_showtv_live/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4tyCssZ/fox.png",FOX
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6ZKKvVT/nowtr.png",FOX /NOW yakında
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4tyCssZ/fox.png",FOX
 https://new.cache-stream.workers.dev/stream/UCJe13zu6MyE6Oueac41KAqg/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png",TV8
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
@@ -1867,7 +1867,7 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dzflix/
 https://ennahar-live.dzsecurity.net/fullres/EnnaharTV_First/chunks.m3u8|Referer=https://echorouk.dzsecurity.net/embed/echorouk.php
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yQmcHjz/echourouk.png",ECHOROUK TV [referrer]
 https://echorouk-live-tv.dzsecurity.net/fullres/EchoroukTV_First/chunks.m3u8|Referer=https://echorouk.dzsecurity.net/embed/echorouk.php
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1vH6q4L/echounws.png",ECHOROUK NEWS [referrer]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1vH6q4L/echounws.png",ECHOROUK NEWS [referer]
 https://echorouk-live-tv.dzsecurity.net/fullres/EchoroukNews_First/chunks.m3u8|Referer=https://echorouk.dzsecurity.net/embed/echorouk.php
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9tsD8WP/TV2Al.png",TV2 ALGERIE [hta_dz-off]
 https://cdn02.hta.dz/abr_htatv/CANAL_ALGERIE/playlist.m3u8
@@ -2109,6 +2109,8 @@ https://weyyak-live.akamaized.net/weyyak_roya/index.m3u8
 https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YhMgggj/lbcb.jpg",LBC LBN [geoblocked]
 https://daiconnect.com/live/hls/rotana/lbc-cdn/.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wR2jkMz/nbnlb.png" referrer="https://odysee.com",NBN TV LBN [referer]
+https://cloud.odysee.live/content/1d8edd84bd42e695555dbf20d83b45e203ed9ed0/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wR2jkMz/nbnlb.png",NBN TV LBN [brokenlink]
 http://62.182.82.104/NBN/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Svnqq8G/otv.jpg",OTV LBN [brokenlink]
