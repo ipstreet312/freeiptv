@@ -27,7 +27,7 @@ jobs:
           python -m pip install --upgrade pip
           
       - name: Install requests module
-        run: python3 -m pip install requests beautifulsoup4
+        run: python3 -m pip install requests selenium beautifulsoup4
 
       - name: Execute Python script
         run: python3 ressources/tur/nowtr.py > ressources/tur/nowtr.m3u8
