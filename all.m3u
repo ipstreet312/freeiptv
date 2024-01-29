@@ -611,12 +611,14 @@ https://new.cache-stream.workers.dev/stream/UC8rh34IlJTN0lDZlTwzWzjg/live.m3u8
 https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PhwYjQ7/24tv.png",24
 https://ensonhaber-live.ercdn.net/tv24/tv24.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1X8nWHc/ahaber.png",A HABER
+https://raw.githubusercontent.com/rideordie16/YouTube/main/haber/ahaber.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1X8nWHc/ahaber.png",A HABER
+https://new.cache-stream.workers.dev/stream/UCKQhfw-lzz0uKnE1fY1PsAA/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZXts607/ulketv.png",ÜLKE
 https://ulketv.blutv.com/blutv_ulketv2/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B4XX5Vx/akittv.png",AKIT TV
 http://akittv-live.ercdn.net/akittv/akittv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1X8nWHc/ahaber.png",A HABER
-https://new.cache-stream.workers.dev/stream/UCKQhfw-lzz0uKnE1fY1PsAA/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6m9Pb3t/tv5tr1.png",TV5
 https://new.cache-stream.workers.dev/stream/oExllHiqy1w/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y04nCSJ/artii.png",ARTI TV
@@ -2743,11 +2745,3 @@ https://
 https://
 #EXTINF:-1,test1
 http://
-#EXTINF:-1,bis
-https://raw.githubusercontent.com/rideordie16/YouTube/main/spor/beinsportshaber.m3u8
-#EXTINF:-1,shmw
-https://raw.githubusercontent.com/rideordie16/YouTube/main/ch/showmax.m3u8
-#EXTINF:-1,eust
-https://raw.githubusercontent.com/rideordie16/YouTube/main/ch/eurostar.m3u8
-#EXTINF:-1,ahbr
-https://raw.githubusercontent.com/rideordie16/YouTube/main/haber/ahaber.m3u8
