@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTINF:-1,NBN TV
+#EXTVLCOPT:http-referrer=https://odysee.com
+https://cloud.odysee.live/content/1d8edd84bd42e695555dbf20d83b45e203ed9ed0/master.m3u8
+#EXTINF:-1,NBN TV
+https://cloud.odysee.live/content/1d8edd84bd42e695555dbf20d83b45e203ed9ed0/master.m3u8|Referrer=https://odysee.com
+#EXTINF:-1,ESPRIT SORCIER TV
+#EXTVLCOPT:http-referrer=https://player.castr.com/
+https://stream.castr.com/63b43410861d94a9eee067fb/live_947330308dd911edb85c8181cb9b11a8/index.m3u8
+#EXTINF:-1,ESPRIT SORCIER TV
+https://stream.castr.com/63b43410861d94a9eee067fb/live_947330308dd911edb85c8181cb9b11a8/index.m3u8|Referrer=https://player.castr.com/
+#EXTINF:-1,ECHOROUK TV
+#EXTVLCOPT:http-referrer=https://echorouk.dzsecurity.net/
+https://echorouk-live-tv.dzsecurity.net/fullres/EchoroukTV_First/playlist.m3u8
+#EXTINF:-1,ECHOROUK TV
+https://echorouk-live-tv.dzsecurity.net/fullres/EchoroukTV_First/playlist.m3u8|Referrer=https://echorouk.dzsecurity.net/
