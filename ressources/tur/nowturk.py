@@ -22,7 +22,7 @@ def get_specific_line_online(url, line_number):
 
 chunks = get_specific_line_online(master_url, 4)
 prefix = "https://foxtv.daioncdn.net/foxtv/"
-shortchunks = chunks + len(prefix)
+shortchunks = chunks + str(len(prefix))
 
 print(shortchunks)
 print('#EXT-X-STREAM-INF:BANDWIDTH=800000,AVERAGE-BANDWIDTH=700000,RESOLUTION=854x480')
