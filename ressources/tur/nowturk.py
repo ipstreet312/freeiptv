@@ -10,7 +10,7 @@ master_url = "https://tvcdn.onrender.com/iptv-query?url=https://www.fox.com.tr/c
 s = requests.Session()
 
 def get_specific_line_online(url, line_number):
-    response = s.get(url, headers=headers)
+    response = s.get(url)
     if response.status_code == 200:
         lines = response.text.split('\n')
         if 1 <= line_number <= len(lines):
