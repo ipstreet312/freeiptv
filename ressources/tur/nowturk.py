@@ -6,11 +6,15 @@ print('#EXTM3U')
 print('#EXT-X-VERSION:3')
 print('#EXT-X-STREAM-INF:BANDWIDTH=1050000,AVERAGE-BANDWIDTH=950000,RESOLUTION=1280x720')
 
+headers = {
+    'User-Agent': 'SmartOs Tv'
+}
+
 master_url = "https://tvcdn.onrender.com/iptv-query?url=https://www.fox.com.tr/canli-yayin?m3u8"
 s = requests.Session()
 
 def get_specific_line_online(url, line_number):
-    response = s.get(url)
+    response = s.get(url, headers=headers)
     if response.status_code == 200:
         lines = response.text.split('\n')
         if 1 <= line_number <= len(lines):
