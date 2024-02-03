@@ -2,15 +2,11 @@
 
 import requests
 
-headers = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0",
-}
-
 print('#EXTM3U')
 print('#EXT-X-VERSION:3')
 print('#EXT-X-STREAM-INF:BANDWIDTH=1050000,AVERAGE-BANDWIDTH=950000,RESOLUTION=1280x720')
 
-master_url = "https://tvcdn.onrender.com/iptv-query?url=https://www.fox.com.tr/canli-yayin"
+master_url = "https://tvcdn.onrender.com/iptv-query?url=https://www.fox.com.tr/canli-yayin?m3u8"
 s = requests.Session()
 
 def get_specific_line_online(url, line_number):
@@ -24,7 +20,7 @@ def get_specific_line_online(url, line_number):
     else:
         return None
 
-chunks = get_specific_line_online(master_url, 3)
+chunks = get_specific_line_online(master_url, 4)
 
 prefix = "https://foxtv.daioncdn.net/foxtv/"
 index = chunks.find(prefix)
