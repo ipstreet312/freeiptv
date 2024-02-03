@@ -1569,13 +1569,15 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NLVj121/eltoro.png",EL TORO TV
 https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Qb7LPVN/andartv.png",SUR 1 ANDALUCIA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Qb7LPVN/andartv.png",SUR 1 ANDALUCÍA
 https://cdnlive.codev8.net/rtvalive/channel1.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Pt5ThHQ/andatv.png",SUR 2 ANDALUCIA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pt5ThHQ/andatv.png",SUR 2 ANDALUCÍA
 https://cdnlive.codev8.net/rtvalive/channel22.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LrnwFnz/andacocina.png",COCINA ANDALUCIA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0Q8h8MG/andacine.png",CINE ANDALUCÍA
+https://cdnlive.codev8.net/rtvalive/smil:channel24.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LrnwFnz/andacocina.png",COCINA ANDALUCÍA
 https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHKKnt3/andaturismo.png",TURISMO ANDALUCIA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHKKnt3/andaturismo.png",TURISMO ANDALUCÍA
 https://cloud.fastchannel.es/mic/manifiest/hls/aturismo/aturismo.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MkBCwH4/arag.png",ARAGON TV
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
