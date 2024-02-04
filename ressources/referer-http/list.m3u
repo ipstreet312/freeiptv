@@ -10,6 +10,8 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/referer
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/referer-http/nbn.m3u8
 #EXTINF:-1,TL LIBAN
 https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8|Referrer=https://www.teleliban.com.lb/live
+#EXTINF:-1,KOCAELİ TV
+https://stream.castr.com/64c0d0ebaaa212486ecf0238/live_4faaaa102b8a11ee80f12783ea1667a8/index.fmp4.m3u8|Referer=https://player.castr.com/
 #EXTINF:-1,ESPRIT SORCIER TV VLC_PARAM
 #EXTVLCOPT:http-referrer=https://player.castr.com/
 https://stream.castr.com/63b43410861d94a9eee067fb/live_947330308dd911edb85c8181cb9b11a8/index.m3u8
