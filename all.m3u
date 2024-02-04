@@ -2131,7 +2131,7 @@ https://eitc3.secure2.footprint.net/hls/LTV.m3u8
 https://roya.daioncdn.net/royatv/royatv.m3u8?app=8c1e143a-39cf-40b4-acb2-e78faa1f322d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png",ROYA TV [geoblocked]
 https://weyyak-live.akamaized.net/weyyak_roya/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/80JQ9zg/teleliban.webp",TL LIBAN [geoblocked]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/80JQ9zg/teleliban.webp" referrer="https://www.teleliban.com.lb/live",TL LIBAN [referer]
 https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YhMgggj/lbcb.jpg",LBC LBN [geoblocked]
 https://daiconnect.com/live/hls/rotana/lbc-cdn/.m3u8
