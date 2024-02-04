@@ -2,7 +2,7 @@ name: nowturkmaster action
 
 on:
   schedule:
-    - cron: '30 */3 * * *'
+    - cron: '03 */3 * * *'
   
   workflow_dispatch:
 
@@ -21,9 +21,16 @@ jobs:
           git config --global user.email "<>"
           git config --global user.name "nowturkmaster bot"
       
-      - name: updating nowturkmaster
-        run: python3 ressources/tur/nowturkmaster.py > ressources/tur/nowturkmaster.m3u8
-        
+      - name: fetch content nowturkmaster
+        run: |
+          final_url=$(python3 ressources/tur/nowturkmaster.py)
+		
+      - name: Replace Text
+        run: |
+          content="${{ env.final_url }}"
+          sed -i "/foxtv/ c ${content}" all.m3u
+          sed -i "/foxtv/ c ${content}" ressources/allgr.m3u
+		  
       - name: git add
         run: |
           git add -A
@@ -31,6 +38,7 @@ jobs:
           
       - name: commit & push
         run: |
-          git pull origin master
+          git pull
+          git add all.m3u ressources/allgr.m3u
           git commit -m "nowturkmaster updated"
-          git push origin master
+          git push
