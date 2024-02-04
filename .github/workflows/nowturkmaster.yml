@@ -19,7 +19,7 @@ jobs:
       - name: config
         run: |
           git config --global user.email "<>"
-          git config --global user.name "nowturkmaster bot"
+          git config --global user.name "nowtrmaster bot"
       
       - name: fetch content nowturkmaster
         run: |
@@ -41,5 +41,5 @@ jobs:
         run: |
           git pull
           git add all.m3u ressources/allgr.m3u
-          git commit -m "nowturkmaster updated"
+          git commit -m "nowtrmaster updated"
           git push
