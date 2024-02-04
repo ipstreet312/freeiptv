@@ -921,7 +921,7 @@ https://new.cache-stream.workers.dev/stream/UCPe9vNjHF1kEExT5kHwc7aw/live.m3u8
 https://ythls.armelin.one/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3WmLjwG/trtspor22c.png",TRT SPOR (backup)
 https://trt.daioncdn.net/trtspor/master.m3u8?app=web
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ky3qVPc/trtspory2.png",TRT SPOR2 YILDIZ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ky3qVPc/trtspory2.png",TRT SPOR2 YILDIZ (backup)
 https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?&app=2c6690bb-4021-4292-8ddc-c93a3cf04a3a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M9kWXzt/trt3spor22c.png",TRT3 SPOR [offline]
 https://tv-trt3.live.trt.com.tr/master.m3u8
@@ -2773,11 +2773,3 @@ https://
 http://
 #EXTINF:-1,test01
 https://
-#EXTINF:-1,test0
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/nowturkmaster.m3u8
-#EXTINF:-1,test1
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/gecici1/fox1.m3u8
-#EXTINF:-1,test2
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/gecici1/fox2.m3u8
-#EXTINF:-1,test3
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/gecici1/fox3.m3u8
