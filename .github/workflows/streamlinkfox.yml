@@ -45,5 +45,5 @@ jobs:
         run: |
           git pull
           git add all.m3u ressources/allgr.m3u
-          git commit -m "nowtrmaster updated"
+          git commit -m "streamlinkfox updated"
           git push
