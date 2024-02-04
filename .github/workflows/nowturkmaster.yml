@@ -2,7 +2,7 @@ name: nowturkmaster action
 
 on:
   schedule:
-    - cron: '03 */3 * * *'
+    - cron: '02 */2 * * *'
   
   workflow_dispatch:
 
