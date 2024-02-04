@@ -2,7 +2,7 @@ name: streamlinkfox
 
 on:
   schedule:
-    - cron: '02 */2 * * *'
+    - cron: '03 */3 * * *'
   workflow_dispatch:
 
 jobs:
