@@ -1,8 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=1050000,AVERAGE-BANDWIDTH=950000,RESOLUTION=1280x720
-https://foxtv.daioncdn.net/foxtv/foxtv_720p.m3u8?ex=1707007127&st=BMlAbs5jt8pWLVFr5syQ-w&sid=64idhr5mx4gx&app=24e7a2e2-9156-4c02-a4fb-2bc599ffaf77&ce=3
-#EXT-X-STREAM-INF:BANDWIDTH=800000,AVERAGE-BANDWIDTH=700000,RESOLUTION=854x480
-https://foxtv.daioncdn.net/foxtv/foxtv_480p.m3u8?ex=1707007127&st=BMlAbs5jt8pWLVFr5syQ-w&sid=64idhr5mx4gx&app=24e7a2e2-9156-4c02-a4fb-2bc599ffaf77&ce=3
-#EXT-X-STREAM-INF:BANDWIDTH=550000,AVERAGE-BANDWIDTH=500000,RESOLUTION=640x360
-https://foxtv.daioncdn.net/foxtv/foxtv_360p.m3u8?ex=1707007127&st=BMlAbs5jt8pWLVFr5syQ-w&sid=64idhr5mx4gx&app=24e7a2e2-9156-4c02-a4fb-2bc599ffaf77&ce=3
