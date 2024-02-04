@@ -24,13 +24,13 @@ jobs:
       - name: fetch content nowturkmaster
         run: |
           final_url=$(python3 ressources/tur/nowturkmaster.py)
-		
+
       - name: Replace Text
         run: |
           content="${{ env.final_url }}"
           sed -i "/foxtv/ c ${content}" all.m3u
           sed -i "/foxtv/ c ${content}" ressources/allgr.m3u
-		  
+
       - name: git add
         run: |
           git add -A
