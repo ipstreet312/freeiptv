@@ -706,6 +706,8 @@ https://beyaztv.blutv.com/blutv_beyaztv_live/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png" group-title="|TR|🇹🇷 GENEL",TRT 1 (backup)
 https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png" group-title="|TR|🇹🇷 GENEL",TRT 1 (backup)
+https://trt.daioncdn.net/trt-1/master.m3u8?app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png" group-title="|TR|🇹🇷 GENEL",TRT 1 (backup)
 https://trt1.blutv.com/blutv_trt1_live/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png" group-title="|TR|🇹🇷 GENEL",TRT 1 (backup)
 https://tv-trt1.medya.trt.com.tr/master.m3u8
@@ -726,12 +728,12 @@ https://ythls.armelin.one/channel/UCJe13zu6MyE6Oueac41KAqg.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6ZKKvVT/nowtr.png" group-title="|TR|🇹🇷 GENEL",FOX /NOW (backup)
 https://stream2.filbox.com.tr/live/hls/20/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6ZKKvVT/nowtr.png" group-title="|TR|🇹🇷 GENEL",FOX /NOW (backup)
-https://mnorigin-ank-1.mncdn.com/test/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6ZKKvVT/nowtr.png" group-title="|TR|🇹🇷 GENEL",FOX /NOW [tkn-blocked]
+http://hw1.jemtv.com/app/FoxTurkey/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FV71nQD/nowturk.png" group-title="|TR|🇹🇷 GENEL",FOX /NOW [tkn-blocked]
 https://foxtv-live.daioncdn.net/foxtv/foxtv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6ZKKvVT/nowtr.png" group-title="|TR|🇹🇷 GENEL",FOX /NOW [tkn-blocked]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FV71nQD/nowturk.png" group-title="|TR|🇹🇷 GENEL",FOX /NOW [tkn-blocked]
 https://foxtv-live-ad.ercdn.net/foxtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6ZKKvVT/nowtr.png" group-title="|TR|🇹🇷 GENEL",FOX /NOW [tkn-blocked]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FV71nQD/nowturk.png" group-title="|TR|🇹🇷 GENEL",FOX /NOW [tkn-blocked]
 https://foxtv.daioncdn.net/foxtv/foxtv.m3u8?app=24e7a2e2-9156-4c02-a4fb-2bc599ffaf77
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="|TR|🇹🇷 GENEL",ATV (backup)
 https://bozztv.com/inim03/live1/atv-tv/playlist.m3u8
@@ -919,6 +921,8 @@ https://new.cache-stream.workers.dev/stream/UCPe9vNjHF1kEExT5kHwc7aw/live.m3u8
 https://ythls.armelin.one/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3WmLjwG/trtspor22c.png" group-title="|TR|🇹🇷 ÇOCUK/SPOR",TRT SPOR (backup)
 https://trt.daioncdn.net/trtspor/master.m3u8?app=web
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ky3qVPc/trtspory2.png" group-title="|TR|🇹🇷 ÇOCUK/SPOR",TRT SPOR2 YILDIZ
+https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?&app=2c6690bb-4021-4292-8ddc-c93a3cf04a3a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M9kWXzt/trt3spor22c.png" group-title="|TR|🇹🇷 ÇOCUK/SPOR",TRT3 SPOR [offline]
 https://tv-trt3.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YjkMYbF/trtcocuk21a.png" group-title="|TR|🇹🇷 ÇOCUK/SPOR",TRT ÇOCUK (backup)
@@ -1018,6 +1022,8 @@ https://tv-trtturk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/swtn1kV/trtturk.png" group-title="|TR|🇹🇷 DİĞER",TRT TÜRK
 https://trtturk.blutv.com/blutv_trtturk2/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cDxKJy1/k7avr1.png" group-title="|TR|🇹🇷 DİĞER",KANAL 7 AVRUPA
+https://raw.githubusercontent.com/rideordie16/YouTube/main/ch/kanal7eu.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cDxKJy1/k7avr1.png" group-title="|TR|🇹🇷 DİĞER",KANAL 7 AVRUPA
 https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WvhGGP0/showturk1.png" group-title="|TR|🇹🇷 DİĞER",SHOW TÜRK
 https://showturk.blutv.com/blutv_showturk2/live.m3u8
@@ -1107,6 +1113,8 @@ http://nimplus3.bozztv.com/tv8int/tv8int/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="|TR|🇹🇷 YEREL",ADA TV
 https://edge1.socialsmart.tv/adatv/bant1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="|TR|🇹🇷 YEREL",ANADOLU DERNEK TV
+http://stream.tvcdn.net/yerel/anadolu-dernek-tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="|TR|🇹🇷 YEREL",ANADOLU NET TV
 https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="|TR|🇹🇷 YEREL",AKSU TV
@@ -1205,6 +1213,8 @@ http://stream.taksimbilisim.com:1935/iceltv/bant1/playlist.m3u8
 https://edge1.socialsmart.tv/iceltv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="|TR|🇹🇷 YEREL",İSTANBUL TV
 http://streaming.netdirekt.com.tr:80/35757/msyapi/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="|TR|🇹🇷 YEREL",İZMİR TIME 35 TV
+https://cdn-time35tv.yayin.com.tr/time35tv/time35tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="|TR|🇹🇷 YEREL",KANAL 15 BURDUR
 https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="|TR|🇹🇷 YEREL",KANAL 23 ELAZIĞ
@@ -1293,6 +1303,8 @@ https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8
 http://nrttn172.kesintisizyayin.com:29010/olay/olay/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="|TR|🇹🇷 YEREL",ORDU BEL TV
 https://cdn1-ordubeltv.yayin.com.tr/ordubeltv/ordubeltv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="|TR|🇹🇷 YEREL",ORT OSMANİYE TV
+https://edge1.socialsmart.tv/orttv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="|TR|🇹🇷 YEREL",POSTA TV ALANYA
 http://cdn-postatv.yayin.com.tr/postatv/postatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="|TR|🇹🇷 YEREL",RADYO KARDEŞ TV FR
@@ -1569,13 +1581,15 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NLVj121/eltoro.png" group-title="|ES|🇪🇸 ESPAÑA",EL TORO TV
 https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Qb7LPVN/andartv.png" group-title="|ES|🇪🇸 ESPAÑA",SUR 1 ANDALUCIA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Qb7LPVN/andartv.png" group-title="|ES|🇪🇸 ESPAÑA",SUR 1 ANDALUCÍA
 https://cdnlive.codev8.net/rtvalive/channel1.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Pt5ThHQ/andatv.png" group-title="|ES|🇪🇸 ESPAÑA",SUR 2 ANDALUCIA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pt5ThHQ/andatv.png" group-title="|ES|🇪🇸 ESPAÑA",SUR 2 ANDALUCÍA
 https://cdnlive.codev8.net/rtvalive/channel22.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LrnwFnz/andacocina.png" group-title="|ES|🇪🇸 ESPAÑA",COCINA ANDALUCIA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0Q8h8MG/andacine.png" group-title="|ES|🇪🇸 ESPAÑA",CINE ANDALUCÍA
+https://cdnlive.codev8.net/rtvalive/smil:channel24.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LrnwFnz/andacocina.png" group-title="|ES|🇪🇸 ESPAÑA",COCINA ANDALUCÍA
 https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHKKnt3/andaturismo.png" group-title="|ES|🇪🇸 ESPAÑA",TURISMO ANDALUCIA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHKKnt3/andaturismo.png" group-title="|ES|🇪🇸 ESPAÑA",TURISMO ANDALUCÍA
 https://cloud.fastchannel.es/mic/manifiest/hls/aturismo/aturismo.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MkBCwH4/arag.png" group-title="|ES|🇪🇸 ESPAÑA",ARAGON TV
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
@@ -1961,6 +1975,8 @@ https://p-ltv.akamaized.net/ltv/ltv.m3u8
 https://655ca86f46b1f.streamlock.net/live/Nabaa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h872gKg/taha.png" group-title="|AR|🇸🇦 MIDDLE EAST عربي",TAHA TV
 https://media2.livaat.com/TAHA-TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h872gKg/taha.png" group-title="|AR|🇸🇦 MIDDLE EAST عربي",TAHA TV
+https://media2.livaat.com/TAHA-TV/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XVGL3qH/alaan.png" group-title="|AR|🇸🇦 MIDDLE EAST عربي",AL AAN TV
 https://shls-live-ak.akamaized.net/out/v1/dfbdea4c1bf149629764e58c6ff314c8/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HVLDcrR/abudhabi.png" group-title="|AR|🇸🇦 MIDDLE EAST عربي",ABU DHABI
