@@ -730,11 +730,7 @@ https://stream2.filbox.com.tr/live/hls/20/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6ZKKvVT/nowtr.png",FOX /NOW (backup)
 http://hw1.jemtv.com/app/FoxTurkey/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FV71nQD/nowturk.png",FOX /NOW [tkn-blocked]
-https://foxtv-live.daioncdn.net/foxtv/foxtv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FV71nQD/nowturk.png",FOX /NOW [tkn-blocked]
-https://foxtv-live-ad.ercdn.net/foxtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FV71nQD/nowturk.png",FOX /NOW [tkn-blocked]
-https://foxtv.daioncdn.net/foxtv/foxtv.m3u8?app=24e7a2e2-9156-4c02-a4fb-2bc599ffaf77
+https://foxtv.daioncdn.net/foxtv/foxtv.m3u8?ce=3&app=24e7a2e2-9156-4c02-a4fb-2bc599ffaf77&st=8CgPEfX2OHkUKaNbls5000&e=1707025000
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV (backup)
 https://bozztv.com/inim03/live1/atv-tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV (backup)
