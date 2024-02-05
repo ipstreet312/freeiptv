@@ -1,5 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:6
 #EXT-X-STREAM-INF: BANDWIDTH=6000000,RESOLUTION=1920x1080
-#EXTVLCOPT:http-referrer=https://odysee.com
-https://cloud.odysee.live/content/1d8edd84bd42e695555dbf20d83b45e203ed9ed0/live.m3u8
+https://cloud.odysee.live/content/1d8edd84bd42e695555dbf20d83b45e203ed9ed0/live.m3u8|Referer=https://odysee.com
