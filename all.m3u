@@ -245,7 +245,7 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/extr/py
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yPsXSFf/esprsorc.png",L'ÉSPRIT SORCIER TV
 https://194270.global.ssl.fastly.net/63b43410861d94a9eee067fb/live_947330308dd911edb85c8181cb9b11a8/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yPsXSFf/esprsorc.png" referer="https://player.castr.com/",ESPRIT SORCIER TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yPsXSFf/esprsorc.png" referer="https://player.castr.com/",L'ÉSPRIT SORCIER TV
 https://stream.castr.com/63b43410861d94a9eee067fb/live_947330308dd911edb85c8181cb9b11a8/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HnSphLp/sqool.jpg",SQOOL TV
 https://new.cache-stream.workers.dev/stream/UCaEqMbRYYOmI3WrALMhxuIg/live.m3u8
@@ -1880,12 +1880,6 @@ https://echorouk-live-tv.dzsecurity.net/fullres/EchoroukTV_First/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1vH6q4L/echounws.png" referer="https://echorouk.dzsecurity.net/",ECHOROUK NEWS
 https://echorouk-live-tv.dzsecurity.net/fullres/EchoroukNews_First/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pPwR2Tc/ennahar.png" referer="https://echorouk.dzsecurity.net/",ENNAHAR TV
-https://ennahar-live.dzsecurity.net/fullres/EnnaharTV_First/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pPwR2Tc/ennahar.png" referer="https://ennahar.dzsecurity.net/",ENNAHAR TV
-https://ennahar-live.dzsecurity.net/fullres/EnnaharTV_First/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pPwR2Tc/ennahar.png" referer="https://echorouk.dzsecurity.net/embed/echorouk.php",ENNAHAR TV
-https://ennahar-live.dzsecurity.net/fullres/EnnaharTV_First/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pPwR2Tc/ennahar.png" referer="https://ennahar.dzsecurity.net/embed/ennahar.php",ENNAHAR TV
 https://ennahar-live.dzsecurity.net/fullres/EnnaharTV_First/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/stZxQHF/nessma.png",NESSMA
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dzflix/nessma.m3u8
