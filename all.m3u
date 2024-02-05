@@ -95,6 +95,8 @@ https://new.cache-stream.workers.dev/channel/UCO6K_kkdP-lnSCiO3tPx7WA/live.m3u8
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/frinfo/frinfo.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XkLHrbC/frinfo2bl.png",FRANCE INFO [find-host]
 https://PuthereYourserverHostaddress/frijsoncurl.php?m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png",CNEWS (backup) 
+https://hls-m013-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v3-hd-clair/cnews-clair-hd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png",CNEWS [deadlink]
 https://hls-m013.live-lv3.canalplus-cdn.net/live/disk/cnews-clair-hd/hls-ios-fhd-clair/cnews-clair-hd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Zfcrrr1/lci.png",LCI [tkn-blocked]
@@ -124,7 +126,7 @@ https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R3KG4L9/cherie25.png",CHÉRIE 25
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ftYS2bk/CANAL-logo.png",CANAL+ EN CLAIR
-https://hls-m007.live-lv3.canalplus-cdn.net/live/disk/canalplusclair-hd/hls-ios-fhd-clair/canalplusclair-hd.m3u8
+https://hls-m007-live-aka-canalplus.akamaized.net/live/disk/canalplusclair-hd/hls-v3-hd-clair/canalplusclair-hd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hKVyKj4/tmc.png",TMC
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/tmc1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fdYg3Lz/rmcstory.png",RMC STORY
