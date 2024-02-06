@@ -12,6 +12,7 @@ s = requests.Session()
 response = s.get(f'https://hdfauth.ftven.fr/esi/TA?url=https://live-ssai.ftven.fr/dai/v1/master/14bff07f70f2518f32f1c6cc13a91ef489dc83f1/SSARFrance2OTTEMTConfiguration/out/v1/535afd7806de45fea4e030b74cea3b8f/index.m3u8')
 
 string = response.text
+print(string)
 pattern = re.compile(r'/([\da-fA-F-]+?)/\d\.m3u8')
 match = pattern.search(string)
 sessid = match.group(1)
