@@ -473,20 +473,20 @@ https://new.cache-stream.workers.dev/stream/UCQC0xLG_W0QpqAXQ4-yhwBA/live.m3u8
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/8_Mont-Blanc.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vDRB1fK/tvtloire.png",TVT TOURS
 https://lives.digiteka.com/stream/920f083a-9e61-4c09-9bc2-bdb664063aa9/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3NX9rPp/lyoncap.png",LYON CAPITALE TV
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/SudRadio/LyonCapitale.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QM2Y7TV/angtl.jpg",ANGERS TÉLÉ
 https://streamer01.myvideoplace.tv/streamer02/hls/ANG_RACC_PAD_110919.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yRLR4Ny/tl7l.png",TL7 LOIRE
-https://x5ct4nu/
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3NX9rPp/lyoncap.png",LYON CAPITALE TV
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/SudRadio/LyonCapitale.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h2VX7Wj/tlcholt.png",TL CHOLETAIS
-https://x5aarnv/
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/ttw/py/TLC.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c2CBDqt/grenoble.png",TÉLÉ GRENOBLE
-https://twitchplatform
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/ttw/py/Telegrenoble.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nccDkr5/lmtv.png",LM TV SARTHE
 https://twitchplatform
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2qs2HxR/astv.png",ASTV
 https://twitchplatform
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yRLR4Ny/tl7l.png",TL7 LOIRE
+https://x5ct4nu/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C99d8Z7/maritima.jpg",MARITIMA TV
 https://indisponible
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1RVPRkx/bocal.png",TELE BOCAL
