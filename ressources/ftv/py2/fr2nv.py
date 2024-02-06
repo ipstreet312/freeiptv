@@ -13,6 +13,7 @@ response = s.get(f'https://hdfauth.ftven.fr/esi/TA?url=https://live-ssai.ftven.f
 
 string = response.text
 print(string)
+"""
 pattern = re.compile(r'/([\da-fA-F-]+?)/\d\.m3u8')
 match = pattern.search(string)
 sessid = match.group(1)
@@ -23,3 +24,4 @@ print(new_string2)
 
 new2_string = new_string2.replace("/4.m3u8", "/6.m3u8")
 print(f'#EXT-X-MEDIA:LANGUAGE="fra",AUTOSELECT=YES,CHANNELS="2",FORCED=NO,TYPE=AUDIO,URI="{new2_string}",GROUP-ID="audio_0",DEFAULT=YES,NAME="1 Francais"')
+"""
