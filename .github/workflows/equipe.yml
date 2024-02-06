@@ -2,7 +2,7 @@ name: equipe action
 
 on:
   schedule:
-    - cron: '52 */5 * * *'
+    - cron: '52 */6 * * *'
   
   workflow_dispatch:
 
