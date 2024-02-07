@@ -211,6 +211,12 @@ https://PuthereYourserverHostaddress/fr3curl.php?m3u8
 https://PuthereYourserverHostaddress/fr4curl.php?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N9d4yXt/fr5bl.png" group-title="|FR|🇫🇷 GÉNÉRALISTE",FRANCE 5 [find-host]
 https://PuthereYourserverHostaddress/fr5curl.php?m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png" group-title="|FR|🇫🇷 GÉNÉRALISTE",FRANCE 2 (backup)
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/fr2nv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y8PjbJ4/fr3bl.png" group-title="|FR|🇫🇷 GÉNÉRALISTE",FRANCE 3 (backup)
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/fr3nv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N9d4yXt/fr5bl.png" group-title="|FR|🇫🇷 GÉNÉRALISTE",FRANCE 5 (backup)
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/fr5nv.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ByN83p3/funradtv.png" group-title="|FR|🇫🇷 SOCIÉTÉ",FUN RADIO TV BE
@@ -467,20 +473,20 @@ https://new.cache-stream.workers.dev/stream/UCQC0xLG_W0QpqAXQ4-yhwBA/live.m3u8
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/8_Mont-Blanc.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vDRB1fK/tvtloire.png" group-title="|FR|🇫🇷 RÉGIONS",TVT TOURS
 https://lives.digiteka.com/stream/920f083a-9e61-4c09-9bc2-bdb664063aa9/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3NX9rPp/lyoncap.png" group-title="|FR|🇫🇷 RÉGIONS",LYON CAPITALE TV
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/SudRadio/LyonCapitale.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QM2Y7TV/angtl.jpg" group-title="|FR|🇫🇷 RÉGIONS",ANGERS TÉLÉ
 https://streamer01.myvideoplace.tv/streamer02/hls/ANG_RACC_PAD_110919.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yRLR4Ny/tl7l.png" group-title="|FR|🇫🇷 RÉGIONS",TL7 LOIRE
-https://x5ct4nu/
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3NX9rPp/lyoncap.png" group-title="|FR|🇫🇷 RÉGIONS",LYON CAPITALE TV
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/SudRadio/LyonCapitale.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h2VX7Wj/tlcholt.png" group-title="|FR|🇫🇷 RÉGIONS",TL CHOLETAIS
-https://x5aarnv/
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/ttw/py/TLC.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c2CBDqt/grenoble.png" group-title="|FR|🇫🇷 RÉGIONS",TÉLÉ GRENOBLE
-https://twitchplatform
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/ttw/py/Telegrenoble.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nccDkr5/lmtv.png" group-title="|FR|🇫🇷 RÉGIONS",LM TV SARTHE
 https://twitchplatform
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2qs2HxR/astv.png" group-title="|FR|🇫🇷 RÉGIONS",ASTV
 https://twitchplatform
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yRLR4Ny/tl7l.png" group-title="|FR|🇫🇷 RÉGIONS",TL7 LOIRE
+https://x5ct4nu/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C99d8Z7/maritima.jpg" group-title="|FR|🇫🇷 RÉGIONS",MARITIMA TV
 https://indisponible
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1RVPRkx/bocal.png" group-title="|FR|🇫🇷 RÉGIONS",TELE BOCAL
@@ -1789,6 +1795,8 @@ https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/chunklist_b640000_slpo
 https://streaming-live.rtp.pt/liverepeater/rtpacoresHD.smil/chunklist_b640000_slpor.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png" group-title="|PT|🇵🇹 PORTUGAL",EURONEWS PT (backup)
 https://rakuten-euronews-8-pt.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png" group-title="|PT|🇵🇹 PORTUGAL",EURONEWS PT (backup)
+https://0ff3c09c7580460e8e018cdcaacbadee.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pt_EuroNewsLive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png" group-title="|PT|🇵🇹 PORTUGAL",EURONEWS PT (backup)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619e6614c9d9650007a2b171livestitch/master.m3u8?deviceDNT=%7BTARGETOPT%7D&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png" group-title="|PT|🇵🇹 PORTUGAL",CNN PORTUGAL (backup)
