@@ -2135,12 +2135,20 @@ https://bcovlive-a.akamaihd.net/20c3ca22be3c4f03b30afbf3c92cfd14/ap-south-1/6313
 https://bcovlive-a.akamaihd.net/385ca06841b3430f99327f0c44d6d008/ap-south-1/6313884884001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2KwY06R/alyaum.png",AL YAUM
 https://ikomg1.s.llnwi.net/alyaum-tv/alyaum-tv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f2XWR2M/alrabiaa.jpg",AL RABIAA
+https://206222.global.ssl.fastly.net/65045e4aba85cfe0025e4a60/live_c6c4040053cd11ee95b47153d2861736/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mcd2S4f/samaatv.png",SAMA TV
+https://app.sama-tv.net/hls/samatv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FYdQXH1/aldafrah.png",AL DAFRAH
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/51c522ae7fe944238261725786724f94/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gJcnzXw/rajeen.png",RAJEEN
 https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4g4VNx7/quds-tv.png",QUDS TV
 http://live.alqudstoday.tv:8080/hls/alqudstv/alqudstv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RS72QHZ/pbcpalestine.png",PAL PBC
 https://pbc.furrera.ps/palestinehd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RS72QHZ/pbcpalestine.png",PAL PBC
+https://pbc.furrera.ps/palestinelivehd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r5FwmZQ/musawa.png",MUSAWA
 https://pbc.furrera.ps/musawahd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TMFyykR/paltv.png",PAL TV
