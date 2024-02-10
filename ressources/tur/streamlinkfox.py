@@ -1,4 +1,5 @@
 import streamlink
-session = streamlink.Streamlink()
-streams = session.streams('https://www.fox.com.tr/canli-yayin', http_ssl_verify=False)
+session = streamlink.streamlink()
+session.set_option("http-verify", False)
+streams = streamlink.streams('https://www.fox.com.tr/canli-yayin', session=session)
 print(streams["best"].multivariant.uri)
