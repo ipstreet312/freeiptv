@@ -4,4 +4,5 @@ streams = streamlink.streams('https://www.media.gov.kw/LiveTV.aspx?PanChannel=KT
 master = streams["best"].multivariant.uri
 s = requests.Session()
 response = s.get(master)
-print(response)
+content = response.text
+print(content)
