@@ -36,5 +36,6 @@ jobs:
           
       - name: commit & push
         run: |
+          git pull
           git commit -m "streamlinkkuw updated"
           git push
