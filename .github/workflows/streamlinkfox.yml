@@ -33,8 +33,8 @@ jobs:
       - name: Replace Text
         run: |
           content="${{ env.final_url }}"
-          sed -i "\|/foxtv/| c ${content}" all.m3u
-          sed -i "\|/foxtv/| c ${content}" ressources/allgr.m3u
+          sed -i "\|/nowtv/| c ${content}" all.m3u
+          sed -i "\|/nowtv/| c ${content}" ressources/allgr.m3u
 
       - name: git add
         run: |
