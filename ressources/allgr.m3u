@@ -691,10 +691,10 @@ http://canli.haber365.com.tr/tr/startv/index.m3u8
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png" group-title="|TR|🇹🇷 GENEL",SHOW
 https://showtv.blutv.com/blutv_showtv_live/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4tyCssZ/fox.png" group-title="|TR|🇹🇷 GENEL",FOX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="|TR|🇹🇷 GENEL",NOW
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4tyCssZ/fox.png" group-title="|TR|🇹🇷 GENEL",FOX
-https://foxtv.daioncdn.net/foxtv/foxtv.m3u8?ce=3&app=24e7a2e2-9156-4c02-a4fb-2bc599ffaf77&st=EUgr7fsm0IaSCF8BnZalBw&e=1707354350
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="|TR|🇹🇷 GENEL",NOW
+https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?ce=3&app=mobile_web&st=vNd9ZJ50stWCe1GTf3nkmA&e=1707779717
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="|TR|🇹🇷 GENEL",TV8
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="|TR|🇹🇷 GENEL",TV8
@@ -735,13 +735,13 @@ https://dogus.daioncdn.net/startv/startv.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484
 http://canli.haber365.com.tr/tr/showtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png" group-title="|TR|🇹🇷 GENEL",SHOW (backup)
 https://bloomberght-live.daioncdn.net/showtv/showtv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6ZKKvVT/nowtr.png" group-title="|TR|🇹🇷 GENEL",FOX /NOW (backup)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="|TR|🇹🇷 GENEL",NOW (backup)
 https://new.cache-stream.workers.dev/stream/UCJe13zu6MyE6Oueac41KAqg/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6ZKKvVT/nowtr.png" group-title="|TR|🇹🇷 GENEL",FOX /NOW (backup)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="|TR|🇹🇷 GENEL",NOW (backup)
 https://ythls.armelin.one/channel/UCJe13zu6MyE6Oueac41KAqg.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6ZKKvVT/nowtr.png" group-title="|TR|🇹🇷 GENEL",FOX /NOW (backup)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="|TR|🇹🇷 GENEL",NOW (backup)
 http://hw1.jemtv.com/app/FoxTurkey/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6ZKKvVT/nowtr.png" group-title="|TR|🇹🇷 GENEL",FOX /NOW (backup)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="|TR|🇹🇷 GENEL",NOW (backup)
 https://stream2.filbox.com.tr/live/hls/20/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="|TR|🇹🇷 GENEL",ATV (backup)
 https://bozztv.com/inim03/live1/atv-tv/playlist.m3u8
