@@ -1210,7 +1210,7 @@ https://cdn1-hedeftv.yayin.com.tr/hedeftv/hedeftv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",HABER61 TRABZON
 https://cdn-haber61tv.yayin.com.tr/haber61tv/haber61tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",HRT HATAY AKDENİZ
-https://vod02.cdn.web.tv/cn/ov/cnovvu97lqw_,240,360,480,.mp4.urlset/playlist-f3-v1-a1.m3u8
+http://stream.tvcdn.net/yerel/hrt-akdeniz.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",HUNAT TV KAYSERİ
 https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",İÇEL TV
@@ -2833,3 +2833,33 @@ https://
 http://
 #EXTINF:-1,test1
 https://
+#EXTINF:-1,Blank MEDIA
+https://kwmedia.hibridcdn.net/kwmedia/kwtv1_abr/kwmedia/kwtv1_720p/chunks.m3u8
+#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" referer="https://live.hibridmedia.com",UA REF
+https://kwmedia.hibridcdn.net/kwmedia/kwtv1_abr/kwmedia/kwtv1_720p/chunks.m3u8
+#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0", referer="https://live.hibridmedia.com",UA REF VIRG
+https://kwmedia.hibridcdn.net/kwmedia/kwtv1_abr/kwmedia/kwtv1_720p/chunks.m3u8
+#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0",UA ONLY
+https://kwmedia.hibridcdn.net/kwmedia/kwtv1_abr/kwmedia/kwtv1_720p/chunks.m3u8
+#EXTINF:-1 referer="https://live.hibridmedia.com",REF ONLY
+https://kwmedia.hibridcdn.net/kwmedia/kwtv1_abr/kwmedia/kwtv1_720p/chunks.m3u8
+#EXTINF:-1,Blank LIVE
+https://live.hibridmedia.com/streams/embedwebview/kwmedia-kwtv1?m3u8
+#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" referer="https://live.hibridmedia.com",UA REF
+https://live.hibridmedia.com/streams/embedwebview/kwmedia-kwtv1?m3u8
+#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0", referer="https://live.hibridmedia.com",UA REF VIRG
+https://live.hibridmedia.com/streams/embedwebview/kwmedia-kwtv1?m3u8
+#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0",UA ONLY
+https://live.hibridmedia.com/streams/embedwebview/kwmedia-kwtv1?m3u8
+#EXTINF:-1 referer="https://live.hibridmedia.com",REF ONLY
+https://live.hibridmedia.com/streams/embedwebview/kwmedia-kwtv1?m3u8
+#EXTINF:-1,Blank PLAYER
+https://hiplayer.hibridcdn.net/p/kwmedia-kwtv1?m3u8
+#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" referer="https://live.hibridmedia.com",UA REF
+https://hiplayer.hibridcdn.net/p/kwmedia-kwtv1?m3u8
+#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0", referer="https://live.hibridmedia.com",UA REF VIRG
+https://hiplayer.hibridcdn.net/p/kwmedia-kwtv1?m3u8
+#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0",UA ONLY
+https://hiplayer.hibridcdn.net/p/kwmedia-kwtv1?m3u8
+#EXTINF:-1 referer="https://live.hibridmedia.com",REF ONLY
+https://hiplayer.hibridcdn.net/p/kwmedia-kwtv1?m3u8
