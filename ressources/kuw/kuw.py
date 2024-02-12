@@ -1,3 +1,7 @@
 import streamlink
+import requests
 streams = streamlink.streams('https://www.media.gov.kw/LiveTV.aspx?PanChannel=KTV1')
-print(streams["best"])
+master = streams["best"].multivariant.uri
+s = requests.Session()
+response = s.get(master)
+print(response)
