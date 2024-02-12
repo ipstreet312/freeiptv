@@ -2037,18 +2037,6 @@ https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Tourism/playlist.m3u8
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Drama/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y4xS49d/jordan-tv.png",JORDAN COMEDY
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Comedy/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tMLDMdy/kwttv.png",KUWAIT TV 1
-https://kwmedia.hibridcdn.net/kwmedia/kwtv1_abr/kwmedia/kwtv1_720p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tMLDMdy/kwttv.png",KUWAIT TV 2
-https://kwmedia.hibridcdn.net/kwmedia/kwtv2_abr/kwmedia/kwtv2_720p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tMLDMdy/kwttv.png",KUWAIT TV ARABI
-https://kwmedia.hibridcdn.net/kwmedia/kwtvarabi_abr/kwmedia/kwtvarabi_720p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tMLDMdy/kwttv.png",KUWAIT TV QURAIN
-https://kwmedia.hibridcdn.net/kwmedia/kwtvqurain_abr/kwmedia/kwtvqurain_720p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tMLDMdy/kwttv.png",KUWAIT TV ETHRAA
-https://kwmedia.hibridcdn.net/kwmedia/kwtvethraa_abr/kwmedia/kwtvethraa_720p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tMLDMdy/kwttv.png",KUWAIT TV MAJILIS
-https://kwmedia.hibridcdn.net/kwmedia/kwtvmajlis_abr/kwmedia/kwtvmajlis_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b6ZvV2r/fujairah.png",FUJAIRAH TV
 https://live.kwikmotion.com/fujairahlive/fujairah.smil/fujairahpublish/fujairah_source/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png",ROYA TV
@@ -2833,33 +2821,3 @@ https://
 http://
 #EXTINF:-1,test1
 https://
-#EXTINF:-1,Blank MEDIA
-https://kwmedia.hibridcdn.net/kwmedia/kwtv1_abr/kwmedia/kwtv1_720p/chunks.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" referer="https://live.hibridmedia.com",UA REF
-https://kwmedia.hibridcdn.net/kwmedia/kwtv1_abr/kwmedia/kwtv1_720p/chunks.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0", referer="https://live.hibridmedia.com",UA REF VIRG
-https://kwmedia.hibridcdn.net/kwmedia/kwtv1_abr/kwmedia/kwtv1_720p/chunks.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0",UA ONLY
-https://kwmedia.hibridcdn.net/kwmedia/kwtv1_abr/kwmedia/kwtv1_720p/chunks.m3u8
-#EXTINF:-1 referer="https://live.hibridmedia.com",REF ONLY
-https://kwmedia.hibridcdn.net/kwmedia/kwtv1_abr/kwmedia/kwtv1_720p/chunks.m3u8
-#EXTINF:-1,Blank LIVE
-https://live.hibridmedia.com/streams/embedwebview/kwmedia-kwtv1?m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" referer="https://live.hibridmedia.com",UA REF
-https://live.hibridmedia.com/streams/embedwebview/kwmedia-kwtv1?m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0", referer="https://live.hibridmedia.com",UA REF VIRG
-https://live.hibridmedia.com/streams/embedwebview/kwmedia-kwtv1?m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0",UA ONLY
-https://live.hibridmedia.com/streams/embedwebview/kwmedia-kwtv1?m3u8
-#EXTINF:-1 referer="https://live.hibridmedia.com",REF ONLY
-https://live.hibridmedia.com/streams/embedwebview/kwmedia-kwtv1?m3u8
-#EXTINF:-1,Blank PLAYER
-https://hiplayer.hibridcdn.net/p/kwmedia-kwtv1?m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" referer="https://live.hibridmedia.com",UA REF
-https://hiplayer.hibridcdn.net/p/kwmedia-kwtv1?m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0", referer="https://live.hibridmedia.com",UA REF VIRG
-https://hiplayer.hibridcdn.net/p/kwmedia-kwtv1?m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0",UA ONLY
-https://hiplayer.hibridcdn.net/p/kwmedia-kwtv1?m3u8
-#EXTINF:-1 referer="https://live.hibridmedia.com",REF ONLY
-https://hiplayer.hibridcdn.net/p/kwmedia-kwtv1?m3u8
