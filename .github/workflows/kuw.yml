@@ -27,7 +27,15 @@ jobs:
 
       - name: fetch content streamlinkkuw
         run: |
-          python3 ressources/kuw/kuw.py > ressources/kuw/kuw.m3u8
+          python3 ressources/kuw/kuw.py > ressources/kuw/kuw.m3u8 &&
+          python3 ressources/kuw/kuw2.py > ressources/kuw/kuw2.m3u8 &&
+          python3 ressources/kuw/kuwara.py > ressources/kuw/kuwara.m3u8 &&
+          python3 ressources/kuw/kuweth.py > ressources/kuw/kuweth.m3u8 &&
+          python3 ressources/kuw/kuwkha.py > ressources/kuw/kuwkha.m3u8 &&
+          python3 ressources/kuw/kuwplu.py > ressources/kuw/kuwplu.m3u8 &&
+          python3 ressources/kuw/kuwspe.py > ressources/kuw/kuwspe.m3u8 &&
+          python3 ressources/kuw/kuwspo.py > ressources/kuw/kuwspo.m3u8 &&
+          python3 ressources/kuw/kuwspp.py > ressources/kuw/kuwspp.m3u8
 
       - name: git add
         run: |
