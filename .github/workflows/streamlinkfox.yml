@@ -30,11 +30,6 @@ jobs:
           git remote add forked_repo https://github.com/ipstreet312/streamlink.git
           git fetch forked_repo
           git checkout patch-1
-
-      - name: Fetch streamlinkfox code
-        run: |
-          git clone https://github.com/ipstreet312/freeiptv.git
-          cp freeiptv/ressources/tur/streamlinkfox.py .
           
       - name: Generate nowtv.m3u8
         run: |
