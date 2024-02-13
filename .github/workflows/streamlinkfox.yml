@@ -25,7 +25,13 @@ jobs:
       - name: Install requests module
         run: python3 -m pip install requests streamlink
 
-      - name: fetch content streamlinkfox
+      - name: Fetch customized streamlinkfox plugin
+        run: |
+          git remote add forked_repo https://github.com/ipstreet312/streamlink.git
+          git fetch forked_repo
+          git checkout patch-1 src/streamlink/plugins/foxtr.py
+
+      - name: Fetch content streamlinkfox
         run: |
           final_url=$(python3 ressources/tur/streamlinkfox.py)
           echo "final_url=${final_url}" >> $GITHUB_ENV
