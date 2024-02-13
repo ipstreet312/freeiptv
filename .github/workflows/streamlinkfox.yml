@@ -31,9 +31,11 @@ jobs:
           git fetch forked_repo
           git checkout patch-1
       
+      - name: Change directory to freeiptv
+        run: cd freeiptv/ressources/tur
+
       - name: Generate nowtv.m3u8
-        run: |
-          python3 ressources/tur/streamlinkfox.py > nowtv.m3u8
+        run: python3 streamlinkfox.py > nowtv.m3u8
         
       - name: git add
         run: |
@@ -44,4 +46,4 @@ jobs:
         run: |
           git pull
           git commit -m "nowtv updated"
-          git push
+          git push     
