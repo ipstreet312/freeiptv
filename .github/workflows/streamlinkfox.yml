@@ -47,6 +47,6 @@ jobs:
           
       - name: commit & push
         run: |
-          git pull origin master
+          git pull
           git commit -m "nowtv updated"
-          git push origin master
+          git push
