@@ -32,15 +32,13 @@ jobs:
         id: fetch_content
         run: |
           final_url=$(python3 ressources/tur/nowtvtr.py)
-          echo "::set-output name=erstrm::$(echo $final_url | awk 'NR==1')"
-          echo "::set-output name=donstrm::$(echo $final_url | awk 'NR==2')"
+          echo "erstrm=$(echo $final_url | awk 'NR==1')" >> $GITHUB_ENV
+          echo "donstrm=$(echo $final_url | awk 'NR==2')" >> $GITHUB_ENV
 
       - name: Replace Text
         run: |
-          erstrm="${{ steps.fetch_content.outputs.erstrm }}"
-          donstrm="${{ steps.fetch_content.outputs.donstrm }}"
-          sed -i "s|nowtv-live-ad.ercdn.net/nowtv|${erstrm}|g" ressources/tur/nowtvtr.txt
-          sed -i "s|nowtv.daioncdn.net/nowtv|${donstrm}|g" ressources/tur/nowtvtr.txt
+          sed -i "s|nowtv-live-ad.ercdn.net/nowtv|${{ env.erstrm }}|g" ressources/tur/nowtvtr.txt
+          sed -i "s|nowtv.daioncdn.net/nowtv|${{ env.donstrm }}|g" ressources/tur/nowtvtr.txt
 
       - name: git add
         run: |
