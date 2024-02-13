@@ -30,7 +30,8 @@ jobs:
 
       - name: fetch content nowtest
         run: |
-          source ressources/tur/nowtest.py
+          python3 ressources/tur/nowtest.py > temp.txt
+          source temp.txt
           echo "${erstrm}${dastrm}" >> $GITHUB_ENV
 
       - name: Replace Text
