@@ -37,6 +37,7 @@ jobs:
         run: |
           query_string=$(echo "${final_string}")
           sed -i "s|https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8\?.*|https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?${query_string}|g" ressources/tur/nowtvtr.txt
+          sed -i "s|https://nowtv.daioncdn.net/nowtv/nowtv.m3u8\?.*|https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?${query_string}|g" ressources/tur/nowtvtr.txt
 
       - name: git add
         run: |
