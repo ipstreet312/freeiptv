@@ -1,4 +1,4 @@
-name: streamlinkfox
+name: streamlinknowtr
 
 on:
   schedule:
@@ -15,7 +15,7 @@ jobs:
       - name: config
         run: |
           git config --global user.email "<>"
-          git config --global user.name "streamlinkfox bot"
+          git config --global user.name "streamlinknowtr bot"
 
       - name: Set up Python
         uses: actions/setup-python@v2
@@ -25,18 +25,17 @@ jobs:
       - name: Install requests module
         run: python3 -m pip install requests streamlink
 
-      - name: Fetch customized streamlinkfox plugin
+      - name: fetch content streamlinknowtr
         run: |
-          git remote add forked_repo https://github.com/ipstreet312/streamlink.git
-          git fetch forked_repo
-          git checkout patch-1
-      
-      - name: Change directory to freeiptv
-        run: cd freeiptv/ressources/tur
+          final_url=$(python3 ressources/tur/streamlinknowtr.py)
+          echo "final_url=${final_url}" >> $GITHUB_ENV
 
-      - name: Generate nowtv.m3u8
-        run: python3 streamlinkfox.py > nowtv.m3u8
-        
+      - name: Replace Text
+        run: |
+          content="${{ env.final_url }}"
+          sed -i "\|/nowtr/| c ${content}" all.m3u
+          sed -i "\|/nowtr/| c ${content}" ressources/allgr.m3u
+
       - name: git add
         run: |
           git add -A
@@ -45,5 +44,6 @@ jobs:
       - name: commit & push
         run: |
           git pull
-          git commit -m "nowtv updated"
-          git push     
+          git add all.m3u ressources/allgr.m3u
+          git commit -m "streamlinknowtr updated"
+          git push
