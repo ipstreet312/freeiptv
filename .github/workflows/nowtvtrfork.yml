@@ -31,9 +31,9 @@ jobs:
       - name: Fetch content nowtvtr
         id: fetch_content
         run: |
-          final_url=$(python3 ressources/tur/nowtvtr.py)
-          echo "erstrm=$(echo $final_url | awk 'NR==1')" >> $GITHUB_ENV
-          echo "donstrm=$(echo $final_url | awk 'NR==2')" >> $GITHUB_ENV
+          final_urls=$(python3 ressources/tur/nowtvtr.py)
+          echo "erstrm=$(echo $final_urls | awk 'NR==1')" >> $GITHUB_ENV
+          echo "donstrm=$(echo $final_urls | awk 'NR==2')" >> $GITHUB_ENV
 
       - name: Replace Text
         run: |
