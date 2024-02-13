@@ -35,7 +35,11 @@ jobs:
         run: |
           git clone https://github.com/ipstreet312/freeiptv.git
           cp freeiptv/ressources/tur/streamlinkfox.py .
-
+          
+      - name: Check if directory exists
+        run: |
+          if [ ! -d "ressources/tur/" ]; then mkdir -p ressources/tur/; fi
+          
       - name: Generate nowtv.m3u8
         run: |
           python3 ressources/tur/streamlinkfox.py > ressources/tur/nowtv.m3u8
