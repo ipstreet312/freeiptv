@@ -14,8 +14,7 @@ s = requests.Session()
 resplink = s.get('https://mediainfo.tf1.fr/mediainfocombo/L_LCI?format=hls')
 response_json = json.loads(resplink.text)
 mastlnk = response_json["delivery"]["url"]
-respmast = s.get(mastlnk)
-string = respmast.text
+string = mastlnk.text.strip() # Strip newline characters
 new_string = string.replace("index", "index_1")
 print(new_string)
 print('#EXT-X-STREAM-INF:BANDWIDTH=1168895,AVERAGE-BANDWIDTH=1021120,RESOLUTION=640x360,FRAME-RATE=25.000,CODECS="avc1.42C01E,mp4a.40.2",SUBTITLES="subtitles",AUDIO="audio_0"')
