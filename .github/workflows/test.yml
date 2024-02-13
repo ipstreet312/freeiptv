@@ -1,0 +1,20 @@
+name: Execute Test Script
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  execute_test_script:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      
+      - name: Install streamlink module from forked repository
+        run: python3 -m pip install git+https://github.com/ipstreet312/streamlink
+
+      - name: Execute test.sh script
+        working-directory: ressources/tur
+        run: bash test.sh
