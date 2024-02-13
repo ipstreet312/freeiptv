@@ -4,7 +4,9 @@ on:
   push:
     branches:
       - main
-
+      
+  workflow_dispatch:
+  
 jobs:
   execute_test_script:
     runs-on: ubuntu-latest
