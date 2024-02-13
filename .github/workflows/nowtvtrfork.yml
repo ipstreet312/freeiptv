@@ -31,11 +31,11 @@ jobs:
       - name: fetch content nowtvtrfork
         run: |
           final_string=$(python3 ressources/tur/nowtvtr.py)
-          echo "final_url=${final_string}" >> $GITHUB_ENV
+          echo "final_string=${final_string}" >> $GITHUB_ENV
 
       - name: Replace Text
         run: |
-          query_string=$(echo "${final_string}" | cut -d'?' -f2)
+          query_string=$(echo "${final_string}")
           sed -i "s|https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?.*|https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?${query_string}|g" ressources/tur/nowtvtr.txt
 
       - name: git add
