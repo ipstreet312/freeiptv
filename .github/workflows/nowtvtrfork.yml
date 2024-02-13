@@ -28,15 +28,19 @@ jobs:
       - name: Install streamlink module from forked repository
         run: python3 -m pip install git+https://github.com/ipstreet312/streamlink
 
-      - name: fetch content nowtvtrfork
+      - name: Fetch content nowtvtr
+        id: fetch_content
         run: |
-          final_string=$(python3 ressources/tur/nowtvtr.py)
-          echo "final_string=${final_string}" >> $GITHUB_ENV
+          final_url=$(python3 ressources/tur/nowtvtr.py)
+          echo "::set-output name=erstrm::$(echo $final_url | awk 'NR==1')"
+          echo "::set-output name=donstrm::$(echo $final_url | awk 'NR==2')"
 
       - name: Replace Text
         run: |
-          query_string=$(echo "${final_string}")
-          sed -i "s|\(https://nowtv-live-ad\.ercdn\.net/nowtv/playlist\.m3u8\?\).*|\1${final_string}|g" ressources/tur/nowtvtr.txt
+          erstrm="${{ steps.fetch_content.outputs.erstrm }}"
+          donstrm="${{ steps.fetch_content.outputs.donstrm }}"
+          sed -i "s|nowtv-live-ad.ercdn.net/nowtv|${erstrm}|g" ressources/tur/nowtvtr.txt
+          sed -i "s|nowtv.daioncdn.net/nowtv|${donstrm}|g" ressources/tur/nowtvtr.txt
 
       - name: git add
         run: |
