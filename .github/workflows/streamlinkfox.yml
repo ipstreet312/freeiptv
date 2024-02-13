@@ -36,17 +36,9 @@ jobs:
           git clone https://github.com/ipstreet312/freeiptv.git
           cp freeiptv/ressources/tur/streamlinkfox.py .
 
-      - name: Fetch content streamlinkfox
-        run: |
-          final_url=$(python3 streamlinkfox.py)
-          echo "final_url=${final_url}" >> $GITHUB_ENV
-
-      - name: Replace Text
-        run: |
-          content="${{ env.final_url }}"
-          sed -i "\|/nowtv/| c ${content}" all.m3u
-          sed -i "\|/nowtv/| c ${content}" ressources/allgr.m3u
-
+      - name: updating nowtv
+        run: python3 ressources/tur/streamlinkfox.py > ressources/tur/nowtv.m3u8
+        
       - name: git add
         run: |
           git add -A
@@ -54,7 +46,6 @@ jobs:
           
       - name: commit & push
         run: |
-          git pull
-          git add all.m3u ressources/allgr.m3u
-          git commit -m "streamlinkfox updated"
-          git push
+          git pull origin master
+          git commit -m "nowtv updated"
+          git push origin master
