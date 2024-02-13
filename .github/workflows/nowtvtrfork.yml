@@ -36,8 +36,7 @@ jobs:
       - name: Replace Text
         run: |
           query_string=$(echo "${final_string}")
-          sed -i "s|https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=[^&]*&e=[0-9]*|https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?${query_string}|g" ressources/tur/nowtvtr.txt
-          sed -i "s|https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=[^&]*&e=[0-9]*|https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?${query_string}|g" ressources/tur/nowtvtr.txt
+          sed -i "/^https:\/\/nowtv-live-ad\.ercdn\.net\|^https:\/\/nowtv\.daioncdn\.net/s|\(https://[^?]*\?st=[^&]*&e=[^ ]*\)|\1${final_string}|g" ressources/tur/nowtvtr.txt
 
       - name: git add
         run: |
