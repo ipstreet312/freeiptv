@@ -29,7 +29,7 @@ jobs:
         run: |
           git remote add forked_repo https://github.com/ipstreet312/streamlink.git
           git fetch forked_repo
-          git checkout patch-1 src/streamlink/plugins/foxtr.py
+          git checkout patch-1
 
       - name: Fetch content streamlinkfox
         run: |
