@@ -1,22 +1,32 @@
-name: Execute Test Script
-
+name: testnow
 on:
-  push:
-    branches:
-      - main
-      
+  schedule:
+    - cron: "00 04,16 * * *"
+    
   workflow_dispatch:
-  
+
 jobs:
-  execute_test_script:
+  update-stream:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
-      
+    
+      - name: checkout
+        uses: actions/checkout@v3
+        
       - name: Install streamlink module from forked repository
         run: python3 -m pip install git+https://github.com/ipstreet312/streamlink
 
-      - name: Execute test.sh script
-        working-directory: ressources/tur
-        run: bash test.sh
+      - name: updating testnow
+        run: sh ressources/tur/test.sh
+
+      - name: setup git config
+        run: |
+          git config user.name "testnow bot"
+          git config user.email "<>"
+          
+      - name: commit
+        run: |
+          git pull
+          git add ressources/tur/test.m3u
+          git commit -m "testnow updated"
+          git push
