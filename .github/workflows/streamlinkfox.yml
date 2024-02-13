@@ -31,9 +31,14 @@ jobs:
           git fetch forked_repo
           git checkout patch-1
 
+      - name: Fetch streamlinkfox code
+        run: |
+          git clone https://github.com/ipstreet312/freeiptv.git
+          cp freeiptv/ressources/tur/streamlinkfox.py .
+
       - name: Fetch content streamlinkfox
         run: |
-          final_url=$(python3 ressources/tur/streamlinkfox.py)
+          final_url=$(python3 streamlinkfox.py)
           echo "final_url=${final_url}" >> $GITHUB_ENV
 
       - name: Replace Text
