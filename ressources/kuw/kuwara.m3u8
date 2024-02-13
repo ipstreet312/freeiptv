@@ -1,13 +1,13 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=631430,RESOLUTION=426x240,CODECS="avc1.640029,mp4a.40.2"
-https://kwmedia.hibridcdn.net/kwmedia/kwtvarabi_abr/kwmedia/kwtvarabi_240p/chunks.m3u8?p=52&s=1707787108&e=1707873508&cf=1707873508&h=5cacf1decbdf2364c0b85fd79d386a6b
-#EXT-X-STREAM-INF:BANDWIDTH=842926,RESOLUTION=640x360,CODECS="avc1.640029,mp4a.40.2"
-https://kwmedia.hibridcdn.net/kwmedia/kwtvarabi_abr/kwmedia/kwtvarabi_360p/chunks.m3u8?p=52&s=1707787108&e=1707873508&cf=1707873508&h=5cacf1decbdf2364c0b85fd79d386a6b
-#EXT-X-STREAM-INF:BANDWIDTH=1003407,RESOLUTION=854x480,CODECS="avc1.640029,mp4a.40.2"
-https://kwmedia.hibridcdn.net/kwmedia/kwtvarabi_abr/kwmedia/kwtvarabi_480p/chunks.m3u8?p=52&s=1707787108&e=1707873508&cf=1707873508&h=5cacf1decbdf2364c0b85fd79d386a6b
-#EXT-X-STREAM-INF:BANDWIDTH=1203998,RESOLUTION=1280x720,CODECS="avc1.640029,mp4a.40.2"
-https://kwmedia.hibridcdn.net/kwmedia/kwtvarabi_abr/kwmedia/kwtvarabi_720p/chunks.m3u8?p=52&s=1707787108&e=1707873508&cf=1707873508&h=5cacf1decbdf2364c0b85fd79d386a6b
-#EXT-X-STREAM-INF:BANDWIDTH=2193379,RESOLUTION=1920x1080,CODECS="avc1.640029,mp4a.40.2"
-https://kwmedia.hibridcdn.net/kwmedia/kwtvarabi_abr/kwmedia/kwtvarabi_1080p/chunks.m3u8?p=52&s=1707787108&e=1707873508&cf=1707873508&h=5cacf1decbdf2364c0b85fd79d386a6b
+#EXT-X-STREAM-INF:BANDWIDTH=471770,RESOLUTION=426x240,CODECS="avc1.640029,mp4a.40.2"
+https://kwmedia.hibridcdn.net/kwmedia/kwtvarabi_abr/kwmedia/kwtvarabi_240p/chunks.m3u8?p=52&s=1707862970&e=1707949370&cf=1707949370&h=e3283490dc7a8f05667c92ea216049ba
+#EXT-X-STREAM-INF:BANDWIDTH=612112,RESOLUTION=640x360,CODECS="avc1.640029,mp4a.40.2"
+https://kwmedia.hibridcdn.net/kwmedia/kwtvarabi_abr/kwmedia/kwtvarabi_360p/chunks.m3u8?p=52&s=1707862970&e=1707949370&cf=1707949370&h=e3283490dc7a8f05667c92ea216049ba
+#EXT-X-STREAM-INF:BANDWIDTH=722243,RESOLUTION=854x480,CODECS="avc1.640029,mp4a.40.2"
+https://kwmedia.hibridcdn.net/kwmedia/kwtvarabi_abr/kwmedia/kwtvarabi_480p/chunks.m3u8?p=52&s=1707862970&e=1707949370&cf=1707949370&h=e3283490dc7a8f05667c92ea216049ba
+#EXT-X-STREAM-INF:BANDWIDTH=941890,RESOLUTION=1280x720,CODECS="avc1.640029,mp4a.40.2"
+https://kwmedia.hibridcdn.net/kwmedia/kwtvarabi_abr/kwmedia/kwtvarabi_720p/chunks.m3u8?p=52&s=1707862970&e=1707949370&cf=1707949370&h=e3283490dc7a8f05667c92ea216049ba
+#EXT-X-STREAM-INF:BANDWIDTH=1672495,RESOLUTION=1920x1080,CODECS="avc1.640029,mp4a.40.2"
+https://kwmedia.hibridcdn.net/kwmedia/kwtvarabi_abr/kwmedia/kwtvarabi_1080p/chunks.m3u8?p=52&s=1707862970&e=1707949370&cf=1707949370&h=e3283490dc7a8f05667c92ea216049ba
 
