@@ -25,6 +25,9 @@ jobs:
       - name: Install requests module
         run: python3 -m pip install requests
       
+      - name: Install setuptools
+        run: python3 -m pip install setuptools
+
       - name: Fetch and install forked streamlink
         run: |
           git clone https://github.com/ipstreet312/streamlink.git
