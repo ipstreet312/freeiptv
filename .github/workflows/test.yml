@@ -17,7 +17,7 @@ jobs:
         run: python3 -m pip install git+https://github.com/ipstreet312/streamlink
 
       - name: updating testnow
-        run: sh ressources/tur/test.sh
+        run: sh ressources/tur/test.sh "$(python ressources/tur/test.py | head -n 1)" "$(python ressources/tur/test.py | tail -n 1)"
 
       - name: setup git config
         run: |
