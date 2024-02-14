@@ -1,13 +1,13 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=577624,RESOLUTION=426x240,CODECS="avc1.640029,mp4a.40.2"
-https://kwmedia.hibridcdn.net/kwmedia/kwtvkids_abr/kwmedia/kwtvkids_240p/chunks.m3u8?p=51&s=1707874090&e=1707960490&cf=1707960490&h=6e705ba400a2219592b3ded2bbc31824
-#EXT-X-STREAM-INF:BANDWIDTH=787893,RESOLUTION=640x360,CODECS="avc1.640029,mp4a.40.2"
-https://kwmedia.hibridcdn.net/kwmedia/kwtvkids_abr/kwmedia/kwtvkids_360p/chunks.m3u8?p=51&s=1707874090&e=1707960490&cf=1707960490&h=6e705ba400a2219592b3ded2bbc31824
-#EXT-X-STREAM-INF:BANDWIDTH=935058,RESOLUTION=854x480,CODECS="avc1.640029,mp4a.40.2"
-https://kwmedia.hibridcdn.net/kwmedia/kwtvkids_abr/kwmedia/kwtvkids_480p/chunks.m3u8?p=51&s=1707874090&e=1707960490&cf=1707960490&h=6e705ba400a2219592b3ded2bbc31824
-#EXT-X-STREAM-INF:BANDWIDTH=1172866,RESOLUTION=1280x720,CODECS="avc1.640029,mp4a.40.2"
-https://kwmedia.hibridcdn.net/kwmedia/kwtvkids_abr/kwmedia/kwtvkids_720p/chunks.m3u8?p=51&s=1707874090&e=1707960490&cf=1707960490&h=6e705ba400a2219592b3ded2bbc31824
-#EXT-X-STREAM-INF:BANDWIDTH=2167336,RESOLUTION=1920x1080,CODECS="avc1.640029,mp4a.40.2"
-https://kwmedia.hibridcdn.net/kwmedia/kwtvkids_abr/kwmedia/kwtvkids_1080p/chunks.m3u8?p=51&s=1707874090&e=1707960490&cf=1707960490&h=6e705ba400a2219592b3ded2bbc31824
+#EXT-X-STREAM-INF:BANDWIDTH=602159,RESOLUTION=426x240,CODECS="avc1.640029,mp4a.40.2"
+https://kwmedia.hibridcdn.net/kwmedia/kwtvkids_abr/kwmedia/kwtvkids_240p/chunks.m3u8?p=51&s=1707948995&e=1708035395&cf=1708035395&h=7f373f1c67fcd1ee5f057479b3a4cac1
+#EXT-X-STREAM-INF:BANDWIDTH=809127,RESOLUTION=640x360,CODECS="avc1.640029,mp4a.40.2"
+https://kwmedia.hibridcdn.net/kwmedia/kwtvkids_abr/kwmedia/kwtvkids_360p/chunks.m3u8?p=51&s=1707948995&e=1708035395&cf=1708035395&h=7f373f1c67fcd1ee5f057479b3a4cac1
+#EXT-X-STREAM-INF:BANDWIDTH=955301,RESOLUTION=854x480,CODECS="avc1.640029,mp4a.40.2"
+https://kwmedia.hibridcdn.net/kwmedia/kwtvkids_abr/kwmedia/kwtvkids_480p/chunks.m3u8?p=51&s=1707948995&e=1708035395&cf=1708035395&h=7f373f1c67fcd1ee5f057479b3a4cac1
+#EXT-X-STREAM-INF:BANDWIDTH=1193030,RESOLUTION=1280x720,CODECS="avc1.640029,mp4a.40.2"
+https://kwmedia.hibridcdn.net/kwmedia/kwtvkids_abr/kwmedia/kwtvkids_720p/chunks.m3u8?p=51&s=1707948995&e=1708035395&cf=1708035395&h=7f373f1c67fcd1ee5f057479b3a4cac1
+#EXT-X-STREAM-INF:BANDWIDTH=2234912,RESOLUTION=1920x1080,CODECS="avc1.640029,mp4a.40.2"
+https://kwmedia.hibridcdn.net/kwmedia/kwtvkids_abr/kwmedia/kwtvkids_1080p/chunks.m3u8?p=51&s=1707948995&e=1708035395&cf=1708035395&h=7f373f1c67fcd1ee5f057479b3a4cac1
 
