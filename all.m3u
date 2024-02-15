@@ -2865,9 +2865,3 @@ https://
 http://
 #EXTINF:-1,test1
 https://
-#EXTINF:-1,TVM
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/extr/py/mlt.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0", referer="https://tvmi.mt/",TVM UARF
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/extr/py/mlt.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0",TVM UA
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/extr/py/mlt.m3u8
