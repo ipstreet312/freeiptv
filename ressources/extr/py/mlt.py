@@ -5,8 +5,12 @@ print('#EXTM3U')
 print('#EXT-X-VERSION:3')
 print('#EXT-X-STREAM-INF:BANDWIDTH=1755600,RESOLUTION=1280x720,CODECS="avc1.64001f,mp4a.40.2"')
 
+headers = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0'
+}
+
 url = "https://tvmi.mt/live/2"
-response = requests.get(url)
+response = requests.get(url, headers=headers)
 
 if response.status_code == 200:
     site_content = response.text
