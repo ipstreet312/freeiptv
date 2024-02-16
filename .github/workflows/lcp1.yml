@@ -22,7 +22,7 @@ jobs:
         env:
           PRIVATE_REPO_TOKEN: ${{ secrets.PRIVATE_REPO_TOKEN }}
         run: |
-          content=$(curl -H "Authorization: token $PRIVATE_REPO_TOKEN" -H "Accept: application/vnd.github.v3.raw" "https://github.com/ipstreet312/myrep/raw/main/ressources/lcp.m3u8")
+          content=$(curl -H "Authorization: token $PRIVATE_REPO_TOKEN" -H "Accept: application/vnd.github.v3.raw" "https://raw.githubusercontent.com/ipstreet312/myrep/main/ressources/lcp.m3u8")
           echo "$content" > ressources/dmotion/py/lcpan/lcp1.m3u8
     
       - name: Commit and Push Changes
