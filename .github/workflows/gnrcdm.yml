@@ -25,6 +25,7 @@ jobs:
           python3 gnrcpltfrm.py "x21oo10" > fbtv.m3u8
           python3 gnrcpltfrm.py "x8egnb8" > portoc.m3u8
           python3 gnrcpltfrm.py "x8dtuir" > lemedia.m3u8
+          python3 gnrcpltfrm.py "x7ooijz" > hiwaret.m3u8
           echo "m3u grabbed"
         
       - name: git add
