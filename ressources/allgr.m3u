@@ -1522,7 +1522,7 @@ https://mako-streaming.akamaized.net/n12/hls/live/2041434/n12s/index.m3u8?hdnea=
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ypn5DBD/tveint.png" group-title="|ES|🇪🇸 ESPAÑA",TVE INTERNACIONAL
-https://ztnr.rtve.es/ztnr/6891743.m3u8
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_720.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ypn5DBD/tveint.png" group-title="|ES|🇪🇸 ESPAÑA",TVE INTERNACIONAL
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VM5vGBV/la1.jpg" group-title="|ES|🇪🇸 ESPAÑA",TVE LA 1
@@ -1537,6 +1537,10 @@ https://di2qeq48iv8ps.cloudfront.net/La_2_ES.m3u8
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fqg1vfr/24h.png" group-title="|ES|🇪🇸 ESPAÑA",TVE 24 H
 https://d3pfmk89wc0vm9.cloudfront.net/24H_ES.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3T2TS2p/tvestar.jpg" group-title="|ES|🇪🇸 ESPAÑA",STAR TVE
+https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3T2TS2p/tvestar.jpg" group-title="|ES|🇪🇸 ESPAÑA",STAR TVE
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_720.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D1Djbfj/tdp.jpg" group-title="|ES|🇪🇸 ESPAÑA",TVE TDP
 https://d2a02gfcid1k4a.cloudfront.net/Teledeporte_ES.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D1Djbfj/tdp.jpg" group-title="|ES|🇪🇸 ESPAÑA",TVE TDP
@@ -1704,17 +1708,21 @@ https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fqg1vfr/24h.png" group-title="|ES|🇪🇸 ESPAÑA",TVE 24 H (backup)
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ypn5DBD/tveint.png" group-title="|ES|🇪🇸 ESPAÑA",TVE INTERNACIONAL (backup)
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main.m3u8
+https://ztnr.rtve.es/ztnr/6891743.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ypn5DBD/tveint.png" group-title="|ES|🇪🇸 ESPAÑA",TVE INTERNACIONAL (america)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BGy5vM5/clan.jpg" group-title="|ES|🇪🇸 ESPAÑA",TVE CLAN [geo-restricted]
-https://rtvelivestream-clnx.rtve.es/rtvesec/clan/clan_main_dvr_720.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/99kVf9W/somoscine.png" group-title="|ES|🇪🇸 ESPAÑA",TVE SOMOS CINE (backup)
 https://rtvelivestream.akamaized.net/hls/nxrtgolumi/music/stream1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/99kVf9W/somoscine.png" group-title="|ES|🇪🇸 ESPAÑA",TVE SOMOS CINE (backup)
 https://rtvelivestream.akamaized.net/eventual/gofast/play_cine_main_dvr_1080.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3T2TS2p/tvestar.jpg" group-title="|ES|🇪🇸 ESPAÑA",STAR TVE (espana)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BGy5vM5/clan.jpg" group-title="|ES|🇪🇸 ESPAÑA",TVE CLAN [geo-restricted]
+https://rtvelivestream-clnx.rtve.es/rtvesec/clan/clan_main_dvr_720.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BGy5vM5/clan.jpg" group-title="|ES|🇪🇸 ESPAÑA",TVE CLAN [geo-restricted]
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/clan/clan_main_720.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BGy5vM5/clan.jpg" group-title="|ES|🇪🇸 ESPAÑA",TVE CLAN [geo-restricted]
+https://rtvelivestream.akamaized.net/rtvesec/clan/clan_main.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/crzKf1n/tenerife4.jpg" group-title="|ES|🇪🇸 ESPAÑA",TENERIFE 4 (offlink)
 https://5940924978228.streamlock.net/Directo1/Directo1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QnMxFJD/madr.jpg" group-title="|ES|🇪🇸 ESPAÑA",TELE MADRID (offlink)
@@ -2201,7 +2209,7 @@ https://mn-nl.mncdn.com/utviraqi2/64c80359/chunklist.m3u8
 https://media1.livaat.com/AL-RASHEED-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mFb5JL3/qaftv.png" group-title="|AR|🇸🇦 MIDDLE EAST عربي",QAF
 https://mn-nl.mncdn.com/qaf/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zGS6X8G/ssad.jpg" group-title="|AR|🇸🇦 MIDDLE EAST عربي", SSAD TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zGS6X8G/ssad.jpg" group-title="|AR|🇸🇦 MIDDLE EAST عربي",SSAD TV
 https://www.enterweb.tv:25463/live/ssadtv/live-tv/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ygKx229/lana1.png" group-title="|AR|🇸🇦 MIDDLE EAST عربي",LANA TV (backup)
 https://eitc3.secure2.footprint.net/hls/LTV.m3u8
