@@ -1,13 +1,13 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=631367,RESOLUTION=426x240,CODECS="avc1.640029,mp4a.40.2"
-https://kwmedia.hibridcdn.net/kwmedia/kwtvsportsplus_abr/kwmedia/kwtvsportsplus_240p/chunks.m3u8?p=57&s=1708132768&e=1708219168&cf=1708219168&h=50742e6f825c476f01b0dedb6e6bd759
-#EXT-X-STREAM-INF:BANDWIDTH=843137,RESOLUTION=640x360,CODECS="avc1.640029,mp4a.40.2"
-https://kwmedia.hibridcdn.net/kwmedia/kwtvsportsplus_abr/kwmedia/kwtvsportsplus_360p/chunks.m3u8?p=57&s=1708132768&e=1708219168&cf=1708219168&h=50742e6f825c476f01b0dedb6e6bd759
-#EXT-X-STREAM-INF:BANDWIDTH=995054,RESOLUTION=854x480,CODECS="avc1.640029,mp4a.40.2"
-https://kwmedia.hibridcdn.net/kwmedia/kwtvsportsplus_abr/kwmedia/kwtvsportsplus_480p/chunks.m3u8?p=57&s=1708132768&e=1708219168&cf=1708219168&h=50742e6f825c476f01b0dedb6e6bd759
-#EXT-X-STREAM-INF:BANDWIDTH=1220307,RESOLUTION=1280x720,CODECS="avc1.640029,mp4a.40.2"
-https://kwmedia.hibridcdn.net/kwmedia/kwtvsportsplus_abr/kwmedia/kwtvsportsplus_720p/chunks.m3u8?p=57&s=1708132768&e=1708219168&cf=1708219168&h=50742e6f825c476f01b0dedb6e6bd759
-#EXT-X-STREAM-INF:BANDWIDTH=2239361,RESOLUTION=1920x1080,CODECS="avc1.640029,mp4a.40.2"
-https://kwmedia.hibridcdn.net/kwmedia/kwtvsportsplus_abr/kwmedia/kwtvsportsplus_1080p/chunks.m3u8?p=57&s=1708132768&e=1708219168&cf=1708219168&h=50742e6f825c476f01b0dedb6e6bd759
+#EXT-X-STREAM-INF:BANDWIDTH=539085,RESOLUTION=426x240,CODECS="avc1.640029,mp4a.40.2"
+https://kwmedia.hibridcdn.net/kwmedia/kwtvsportsplus_abr/kwmedia/kwtvsportsplus_240p/chunks.m3u8?p=57&s=1708208962&e=1708295362&cf=1708295362&h=1e8d1cdd943dd90473c486d055488bf2
+#EXT-X-STREAM-INF:BANDWIDTH=728000,RESOLUTION=640x360,CODECS="avc1.640029,mp4a.40.2"
+https://kwmedia.hibridcdn.net/kwmedia/kwtvsportsplus_abr/kwmedia/kwtvsportsplus_360p/chunks.m3u8?p=57&s=1708208962&e=1708295362&cf=1708295362&h=1e8d1cdd943dd90473c486d055488bf2
+#EXT-X-STREAM-INF:BANDWIDTH=860292,RESOLUTION=854x480,CODECS="avc1.640029,mp4a.40.2"
+https://kwmedia.hibridcdn.net/kwmedia/kwtvsportsplus_abr/kwmedia/kwtvsportsplus_480p/chunks.m3u8?p=57&s=1708208962&e=1708295362&cf=1708295362&h=1e8d1cdd943dd90473c486d055488bf2
+#EXT-X-STREAM-INF:BANDWIDTH=1075557,RESOLUTION=1280x720,CODECS="avc1.640029,mp4a.40.2"
+https://kwmedia.hibridcdn.net/kwmedia/kwtvsportsplus_abr/kwmedia/kwtvsportsplus_720p/chunks.m3u8?p=57&s=1708208962&e=1708295362&cf=1708295362&h=1e8d1cdd943dd90473c486d055488bf2
+#EXT-X-STREAM-INF:BANDWIDTH=1939184,RESOLUTION=1920x1080,CODECS="avc1.640029,mp4a.40.2"
+https://kwmedia.hibridcdn.net/kwmedia/kwtvsportsplus_abr/kwmedia/kwtvsportsplus_1080p/chunks.m3u8?p=57&s=1708208962&e=1708295362&cf=1708295362&h=1e8d1cdd943dd90473c486d055488bf2
 
