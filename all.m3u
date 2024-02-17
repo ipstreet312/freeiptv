@@ -2257,8 +2257,6 @@ https://bcovlive-a.akamaihd.net/d30cbb3350af4cb7a6e05b9eb1bfd850/eu-west-1/60579
 https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nzjbYfR/asharq.png",ASHARQ NEWS
 https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9nsvXcf/maannews.png",MAAN NEWS
-https://htvmada.mada.ps:4443/maannews/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m4tvbmp/inewsar.png",INEWS IQ
 https://svs.itworkscdn.net/inewsiqlive/inewsiq.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JcP5JHq/bbcaranw.png",BBC NEWS ARABIA
@@ -2371,6 +2369,8 @@ https://new.cache-stream.workers.dev/stream/UCuCtlmcyOPNqdBf_FfrS7kg/live.m3u8
 https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JcP5JHq/bbcaranw.png",BBC NEWS ARABIA (backup)
 https://new.cache-stream.workers.dev/stream/UCelk6aHijZq-GJBBB9YpReA/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9nsvXcf/maannews.png",MAAN NEWS [issue]
+https://htvmada.mada.ps:4443/maannews/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png" group-title="|AR|🇸🇦 THEMATICS-2 عربي",MBC 1
@@ -2881,19 +2881,3 @@ https://
 http://
 #EXTINF:-1,test1
 https://
-#EXTINF:-1,UA HS ID
-https://htvmada.mada.ps:4443/maannews/index.m3u8
-#EXTINF:-1,UA HP ID
-http://htvmada.mada.ps:4443/maannews/index.m3u8
-#EXTINF:-1,UA HS CH
-https://htvmada.mada.ps:4443/maannews/tracks-v1a1/mono.m3u8
-#EXTINF:-1,UA HP CH
-http://htvmada.mada.ps:4443/maannews/tracks-v1a1/mono.m3u8
-#EXTINF:-1 user-agent="Star Wars",UA HS ID
-https://htvmada.mada.ps:4443/maannews/index.m3u8
-#EXTINF:-1 user-agent="Star Wars",UA HP ID
-http://htvmada.mada.ps:4443/maannews/index.m3u8
-#EXTINF:-1 user-agent="Star Wars",UA HS CH
-https://htvmada.mada.ps:4443/maannews/tracks-v1a1/mono.m3u8
-#EXTINF:-1 user-agent="Star Wars",UA HP CH
-http://htvmada.mada.ps:4443/maannews/tracks-v1a1/mono.m3u8
