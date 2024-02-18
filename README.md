@@ -8,6 +8,8 @@ Installer les chaînes françaises - Get free tv channels - Türk tv kanalların
 
 <img src="http://i.ibb.co/PGHHzN9/Screenshot-20221116-080112.png">
 
+My sources for link feeds are also from : https://github.com/ipstreet312?tab=following & https://github.com/ipstreet312?tab=stars 
+
 <img src="https://i.ibb.co/566zZTz/power240205.jpg">
 
 <img src="https://i.ibb.co/fMdnbfk/deluxe240205.jpg">
