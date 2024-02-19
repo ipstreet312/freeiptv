@@ -29,7 +29,7 @@ jobs:
         run: |
           git config --local user.name "lcp1 Action"
           git config user.email "<>"
-          git add ressources/dmotion/py/lcpan/lcp1.m3u8
           git pull
+          git add ressources/dmotion/py/lcpan/lcp1.m3u8
           git commit -m "lcp1 updated"
           git push
