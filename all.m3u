@@ -2887,11 +2887,33 @@ https://
 http://
 #EXTINF:-1,test1
 https://
-#EXTINF:-1,play
+#EXTINF:-1,play https
 https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/playlist.m3u8
-#EXTINF:-1,chlst
+#EXTINF:-1,chlst https
 https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8
-#EXTINF:-1,chks
+#EXTINF:-1,chks https
 https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunks.m3u8
-#EXTINF:-1,chb1
+#EXTINF:-1,chb1 https
+httpss://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist_b1500000==.m3u8
+#EXTINF:-1,chb1 https
+https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist_b3500000_t64MzYwcA==.m3u8
+#EXTINF:-1,play http
+http://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/playlist.m3u8
+#EXTINF:-1,chlst http
+http://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8
+#EXTINF:-1,chks http
+http://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunks.m3u8
+#EXTINF:-1,chb1 http
+http://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist_b1500000==.m3u8
+#EXTINF:-1,chb1 http
+http://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist_b3500000_t64MzYwcA==.m3u8
+#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0", referer="https://player.mangomolo.com/",play https uarf
+https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/playlist.m3u8
+#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0", referer="https://player.mangomolo.com/",chlst https uarf
+https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8
+#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0", referer="https://player.mangomolo.com/",chks https uarf
+https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunks.m3u8
+#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0", referer="https://player.mangomolo.com/",chb1 https uarf
 https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist_b1500000==.m3u8
+#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0", referer="https://player.mangomolo.com/",chb1 https uarf
+https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist_b3500000_t64MzYwcA==.m3u8
