@@ -1,6 +1,6 @@
 import streamlink
 import requests
-streams = streamlink.streams('https://www.dailymotion.com/video/x5idxor')
+streams = streamlink.streams('https://www.dailymotion.com/video/k2IuM11CZakq4ZvrUkv')
 master = streams["best"].multivariant.uri
 s = requests.Session()
 response = s.get(master)
