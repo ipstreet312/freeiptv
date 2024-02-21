@@ -1417,6 +1417,10 @@ https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/video_7201
 https://contactgbs.mmdlive.lldns.net/contactgbs/a40693c59c714fecbcba2cee6e5ab957/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jzRyjBn/walla.png" group-title="|IL|🇮🇱 ISRAEL ישראל",WALLA ! +
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01742-walla-wallanews-ono/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MyMYqB/relevantil.png" group-title="|IL|🇮🇱 ISRAEL ישראל",RELEVANT רלוונט 
+https://6180c994cb835402.mediapackage.eu-west-1.amazonaws.com/out/v1/06e44cd7f7e0445fbd669f279c997fd4/index.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6yjTszg/kan26.png" group-title="|IL|🇮🇱 ISRAEL ישראל",KAN 26 אפיק
+https://reshetbetvideo.media.kan.org.il/hls/live/2044082/2044082/source1_2.5k/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kq4XM0Y/ynet.png" group-title="|IL|🇮🇱 ISRAEL ישראל",YNET NEWS
 https://ynet-live-01.ynet-pic1.yit.co.il/ynet/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1rSGfFw/N12n.png" user-agent="SmartOs Tv" group-title="|IL|🇮🇱 ISRAEL ישראל",NEWS 12 חדשות 
@@ -2062,23 +2066,23 @@ https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Drama/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y4xS49d/jordan-tv.png" group-title="|AR|🇸🇦 MIDDLE EAST عربي",JORDAN COMEDY
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Comedy/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tMLDMdy/kwttv.png" group-title="|AR|🇸🇦 MIDDLE EAST عربي",KUWAIT TV 1
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/kuw/kuw.m3u8
+https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist_==.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tMLDMdy/kwttv.png" group-title="|AR|🇸🇦 MIDDLE EAST عربي",KUWAIT TV 2
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/kuw/kuw2.m3u8
+https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist_==.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tMLDMdy/kwttv.png" group-title="|AR|🇸🇦 MIDDLE EAST عربي",KUWAIT TV ARAB
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/kuw/kuwara.m3u8
+https://kwtktvata.cdn.mangomolo.com/ktva/smil:ktva.stream.smil/chunklist_==.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tMLDMdy/kwttv.png" group-title="|AR|🇸🇦 MIDDLE EAST عربي",KUWAIT TV ETHRAA
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/kuw/kuweth.m3u8
+https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/chunklist_==.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tMLDMdy/kwttv.png" group-title="|AR|🇸🇦 MIDDLE EAST عربي",KUWAIT TV KHALLIK
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/kuw/kuwkha.m3u8
+https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist_==.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tMLDMdy/kwttv.png" group-title="|AR|🇸🇦 MIDDLE EAST عربي",KUWAIT TV PLUS
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/kuw/kuwplu.m3u8
+https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:ktvaq.stream.smil/chunklist_==.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tMLDMdy/kwttv.png" group-title="|AR|🇸🇦 MIDDLE EAST عربي",KUWAIT TV SPORTS
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/kuw/kuwspo.m3u8
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist_==.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tMLDMdy/kwttv.png" group-title="|AR|🇸🇦 MIDDLE EAST عربي",KUWAIT TV SPORT PLUS
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/kuw/kuwspp.m3u8
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist_==.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tMLDMdy/kwttv.png" group-title="|AR|🇸🇦 MIDDLE EAST عربي",KUWAIT TV SPORT EXTRA
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/kuw/kuwspe.m3u8
+https://kwtalmta.cdn.mangomolo.com/alm/smil:alm.stream.smil/chunklist_==.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b6ZvV2r/fujairah.png" group-title="|AR|🇸🇦 MIDDLE EAST عربي",FUJAIRAH TV
 https://live.kwikmotion.com/fujairahlive/fujairah.smil/fujairahpublish/fujairah_source/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png" group-title="|AR|🇸🇦 MIDDLE EAST عربي",ROYA TV
@@ -2887,3 +2891,13 @@ https://
 http://
 #EXTINF:-1 group-title="|📡|👨‍💻👉GITHUB.COM/IPSTREET312",test1
 https://
+#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0", referer="https://player.mangomolo.com/" group-title="|📡|👨‍💻👉GITHUB.COM/IPSTREET312",playlist
+https://kwtktvata.cdn.mangomolo.com/ktva/smil:ktva.stream.smil/playlist.m3u8?stime=20240213074045&etime=20240220140725&token=013a013c28a47f69efc5b
+#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0", referer="https://player.mangomolo.com/" group-title="|📡|👨‍💻👉GITHUB.COM/IPSTREET312",chunklist
+https://kwtktvata.cdn.mangomolo.com/ktva/smil:ktva.stream.smil/chunklist.m3u8
+#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0", referer="https://player.mangomolo.com/" group-title="|📡|👨‍💻👉GITHUB.COM/IPSTREET312",chunklistegal
+https://kwtktvata.cdn.mangomolo.com/ktva/smil:ktva.stream.smil/chunklist==.m3u8
+#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0", referer="https://player.mangomolo.com/" group-title="|📡|👨‍💻👉GITHUB.COM/IPSTREET312",chunklist720
+https://kwtktvata.cdn.mangomolo.com/ktva/smil:ktva.stream.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0", referer="https://player.mangomolo.com/" group-title="|📡|👨‍💻👉GITHUB.COM/IPSTREET312",chunklist720tkn
+https://kwtktvata.cdn.mangomolo.com/ktva/smil:ktva.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
