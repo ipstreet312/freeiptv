@@ -10,7 +10,7 @@ headers = {
 print('#EXTM3U')
 print('#EXT-X-STREAM-INF:BANDWIDTH=7680000')
 
-master_url = "http://s2.callofliberty.fr/direct/LEQUIPE/master.m3u8"
+master_url = "http://s2.callofliberty.fr/direct/LEQUIPE/manifest.m3u8"
 s = requests.Session()
 
 def get_specific_line_online(url, line_number):
