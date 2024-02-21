@@ -1,4 +1,4 @@
-name: testdm
+name: nessmastdm
 
 on:
   schedule:
@@ -15,7 +15,7 @@ jobs:
       - name: config
         run: |
           git config --global user.email "<>"
-          git config --global user.name "testdm bot"
+          git config --global user.name "nessmastdm bot"
 
       - name: Set up Python
         uses: actions/setup-python@v2
@@ -25,9 +25,9 @@ jobs:
       - name: Install requests module
         run: python3 -m pip install requests streamlink
 
-      - name: fetch content testdm
+      - name: fetch content nessmastdm
         run: |
-          python3 ressources/dmotion/py/streamlink/testdm.py > ressources/dmotion/py/streamlink/testdm.m3u8
+          python3 ressources/dmotion/py/streamlink/nessmastdm.py > ressources/dmotion/py/streamlink/nessmastdm.m3u8
 
       - name: git add
         run: |
@@ -37,5 +37,5 @@ jobs:
       - name: commit & push
         run: |
           git pull
-          git commit -m "testdm updated"
+          git commit -m "nessmastdm updated"
           git push
