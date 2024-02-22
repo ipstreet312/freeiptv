@@ -1913,6 +1913,8 @@ https://new.cache-stream.workers.dev/stream/UCdvWVsmQBROkgcGzVep73oA/live.m3u8
 https://new.cache-stream.workers.dev/stream/UCJW9gatYczI191TunQxMGbA/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8DxdBPf/Attessia9.png" group-title="|MA-DZ-TN|🇲🇦🇩🇿🇹🇳 MAGHREB المغرب",ATTASIA 9
 https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/stZxQHF/nessma.png" group-title="|MA-DZ-TN|🇲🇦🇩🇿🇹🇳 MAGHREB المغرب",NESSMA
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/streamlink/nessmastdm.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9tsD8WP/TV2Al.png" group-title="|MA-DZ-TN|🇲🇦🇩🇿🇹🇳 MAGHREB المغرب",TV2 ALGERIE
 https://bozztv.com/inim03/live1/giniko_canalalgerie/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yQmcHjz/echourouk.png" referer="https://echorouk.dzsecurity.net/" group-title="|MA-DZ-TN|🇲🇦🇩🇿🇹🇳 MAGHREB المغرب",ECHOROUK TV
@@ -2891,13 +2893,3 @@ https://
 http://
 #EXTINF:-1 group-title="|📡|👨‍💻👉GITHUB.COM/IPSTREET312",test1
 https://
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0", referer="https://player.mangomolo.com/" group-title="|📡|👨‍💻👉GITHUB.COM/IPSTREET312",playlist
-https://kwtktvata.cdn.mangomolo.com/ktva/smil:ktva.stream.smil/playlist.m3u8?stime=20240213074045&etime=20240220140725&token=013a013c28a47f69efc5b
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0", referer="https://player.mangomolo.com/" group-title="|📡|👨‍💻👉GITHUB.COM/IPSTREET312",chunklist
-https://kwtktvata.cdn.mangomolo.com/ktva/smil:ktva.stream.smil/chunklist.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0", referer="https://player.mangomolo.com/" group-title="|📡|👨‍💻👉GITHUB.COM/IPSTREET312",chunklistegal
-https://kwtktvata.cdn.mangomolo.com/ktva/smil:ktva.stream.smil/chunklist==.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0", referer="https://player.mangomolo.com/" group-title="|📡|👨‍💻👉GITHUB.COM/IPSTREET312",chunklist720
-https://kwtktvata.cdn.mangomolo.com/ktva/smil:ktva.stream.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0", referer="https://player.mangomolo.com/" group-title="|📡|👨‍💻👉GITHUB.COM/IPSTREET312",chunklist720tkn
-https://kwtktvata.cdn.mangomolo.com/ktva/smil:ktva.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
