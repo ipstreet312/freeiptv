@@ -2895,3 +2895,7 @@ https://
 http://
 #EXTINF:-1,test1
 https://
+#EXTINF:-1,cn1
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/cnews/cnews.m3u?m3u8
+#EXTINF:-1,cn2
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/cnews/cnews.m3u
