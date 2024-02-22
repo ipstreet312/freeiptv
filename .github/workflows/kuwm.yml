@@ -1,0 +1,52 @@
+name: streamlinkkuwm
+
+on:
+  schedule:
+    - cron: '22 */22 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: config
+        run: |
+          git config --global user.email "<>"
+          git config --global user.name "streamlinkkuwm bot"
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+          
+      - name: Install requests module
+        run: python3 -m pip install requests
+
+      - name: Install streamlink module from forked repository
+        run: python3 -m pip install git+https://github.com/ipstreet312/streamlink
+
+      - name: fetch content streamlinkkuwm
+        run: |
+          python3 ressources/kuw/kuw.py > ressources/kuw/kuw.m3u8 &&
+          python3 ressources/kuw/kuw2.py > ressources/kuw/kuw2.m3u8 &&
+          python3 ressources/kuw/kuwara.py > ressources/kuw/kuwara.m3u8 &&
+          python3 ressources/kuw/kuweth.py > ressources/kuw/kuweth.m3u8 &&
+          python3 ressources/kuw/kuwkha.py > ressources/kuw/kuwkha.m3u8 &&
+          python3 ressources/kuw/kuwplu.py > ressources/kuw/kuwplu.m3u8 &&
+          python3 ressources/kuw/kuwspe.py > ressources/kuw/kuwspe.m3u8 &&
+          python3 ressources/kuw/kuwspo.py > ressources/kuw/kuwspo.m3u8 &&
+          python3 ressources/kuw/kuwspp.py > ressources/kuw/kuwspp.m3u8
+
+      - name: git add
+        run: |
+          git add -A
+          ls -la 
+          
+      - name: commit & push
+        run: |
+          git pull
+          git commit -m "streamlinkkuwm updated"
+          git push
