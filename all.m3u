@@ -4,9 +4,9 @@ https://bfmtvalive1-a.akamaihd.net/rdc5d0dddf67d4626adca4f8ff2d89b39/eu-central-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png",BFM TV
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png",CNEWS
-https://hls-m013-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-ad-hd/hls-ios-fhd-clair/cnews-clair-ad-hd.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png",CNEWS
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/dmdirect/cnews.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png",CNEWS
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/cnews/cnews.m3u?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Zfcrrr1/lci.png",LCI
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/lci1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XkLHrbC/frinfo2bl.png",FRANCE INFO
@@ -97,11 +97,11 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/frinfo/frinfo.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XkLHrbC/frinfo2bl.png",FRANCE INFO [find-host]
 https://PuthereYourserverHostaddress/frijsoncurl.php?m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png",CNEWS (backup) 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png",CNEWS [deadlink]
 https://hls-m013-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v3-hd-clair/cnews-clair-hd.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png",CNEWS (backup) 
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/extr/oth/cnews.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png",CNEWS (backup) 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png",CNEWS [deadlink]
+https://hls-m013-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-ad-hd/hls-ios-fhd-clair/cnews-clair-ad-hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png",CNEWS [deadlink]
 https://hls-m013.p-cdnlive-edge020311-dual.scy.canalplus-cdn.net/__token__id%3D1a569a48e47690c700c0f71662c87679~hmac%3D6d2114baa9bb694f530073a9f707530612577a89d4d0a36aaa72374fa9e12049/live/disk/cnews-clair-hd/hls-v3-hd-clair/cnews-clair-hd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png",CNEWS [deadlink]
 https://hls-m013.live-lv3.canalplus-cdn.net/live/disk/cnews-clair-hd/hls-ios-fhd-clair/cnews-clair-hd.m3u8
@@ -2895,7 +2895,3 @@ https://
 http://
 #EXTINF:-1,test1
 https://
-#EXTINF:-1,cn1
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/cnews/cnews.m3u?m3u8
-#EXTINF:-1,cn2
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/cnews/cnews.m3u
