@@ -2905,11 +2905,3 @@ https://
 http://
 #EXTINF:-1,test1
 https://
-#EXTINF:-1 user-agent="User Agent", referer="https://tv.ngroup.be/live",CH S
-https://tv.ngroup.be/live/ngrp:nrj_all/chunklist_w1630057106_b546608.m3u8
-#EXTINF:-1 user-agent="User Agent", referer="https://tv.ngroup.be/live",CH P
-http://tv.ngroup.be/live/ngrp:nrj_all/chunklist_w1630057106_b546608.m3u8
-#EXTINF:-1 user-agent="User Agent", referer="https://tv.ngroup.be/live",PL S
-https://tv.ngroup.be/live/ngrp:nrj_all/playlist.m3u8
-#EXTINF:-1 user-agent="User Agent", referer="https://tv.ngroup.be/live",PL P
-http://tv.ngroup.be/live/ngrp:nrj_all/playlist.m3u8
