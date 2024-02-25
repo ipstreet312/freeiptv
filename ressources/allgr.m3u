@@ -2905,11 +2905,3 @@ https://
 http://
 #EXTINF:-1 group-title="|📡|👨‍💻👉GITHUB.COM/IPSTREET312",test1
 https://
-#EXTINF:-1 user-agent="User Agent", referer="https://tv.ngroup.be/live" group-title="|📡|👨‍💻👉GITHUB.COM/IPSTREET312",CH S
-https://tv.ngroup.be/live/ngrp:nrj_all/chunklist_w1630057106_b546608.m3u8
-#EXTINF:-1 user-agent="User Agent", referer="https://tv.ngroup.be/live" group-title="|📡|👨‍💻👉GITHUB.COM/IPSTREET312",CH P
-http://tv.ngroup.be/live/ngrp:nrj_all/chunklist_w1630057106_b546608.m3u8
-#EXTINF:-1 user-agent="User Agent", referer="https://tv.ngroup.be/live" group-title="|📡|👨‍💻👉GITHUB.COM/IPSTREET312",PL S
-https://tv.ngroup.be/live/ngrp:nrj_all/playlist.m3u8
-#EXTINF:-1 user-agent="User Agent", referer="https://tv.ngroup.be/live" group-title="|📡|👨‍💻👉GITHUB.COM/IPSTREET312",PL P
-http://tv.ngroup.be/live/ngrp:nrj_all/playlist.m3u8
