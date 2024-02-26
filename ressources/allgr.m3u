@@ -1072,6 +1072,8 @@ https://bozztv.com/inim03/live1/atvavrupa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n7Jy3h5/tv8int22.png" group-title="|TR|🇹🇷 DİĞER",TV8 INT (geçici geçerli)
 https://bozztv.com/inim03/live1/tv8int/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MCXCRcn/tgrteu1.png" group-title="|TR|🇹🇷 DİĞER",TGRT EU
+https://tgrt-live.ercdn.net/tgrteu/tgrteu.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCXCRcn/tgrteu1.png" group-title="|TR|🇹🇷 DİĞER",TGRT EU
 https://canli.haber365.com.tr/tr/tgrteu/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1RnLJpf/agro.png" group-title="|TR|🇹🇷 DİĞER",AGRO TV
 https://yayin30.haber100.com/live/agrotv/playlist.m3u8
@@ -1116,11 +1118,13 @@ https://cdn-berattv.yayin.com.tr/berattv/berattv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JHH0xcX/tgrtbel22.png" group-title="|TR|🇹🇷 DİĞER",TGRT BELGESEL
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JHH0xcX/tgrtbel22.png" group-title="|TR|🇹🇷 DİĞER",TGRT BELGESEL
-https://ensonhaber-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8
+https://tgrt-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MCXCRcn/tgrteu1.png" group-title="|TR|🇹🇷 DİĞER",TGRT EU (backup)
 https://tv.ensonhaber.com/tgrteu/tgrteu.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MCXCRcn/tgrteu1.png" group-title="|TR|🇹🇷 DİĞER",TGRT EU (backup)
 https://ensonhaber-live.ercdn.net/tgrteu/tgrteu.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JHH0xcX/tgrtbel22.png" group-title="|TR|🇹🇷 DİĞER",TGRT BELGESEL (backup)
+https://ensonhaber-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JHH0xcX/tgrtbel22.png" group-title="|TR|🇹🇷 DİĞER",TGRT BELGESEL (backup)
 https://tv.ensonhaber.com/tgrtbelgesel/tgrtbelgesel.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JHH0xcX/tgrtbel22.png" group-title="|TR|🇹🇷 DİĞER",TGRT BELGESEL (backup)
@@ -2654,7 +2658,7 @@ https://amg01076-lightningintern-gbnews-samsunguk-0lu52.amagi.tv/playlist/amg010
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dpMQyVx/gbn.png" group-title="|EN|🇬🇧🇺🇸 WORLDWIDE-INTL ℹ️🌐",GB NEWS
 https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XWNXpVg/talk.png" group-title="|EN|🇬🇧🇺🇸 WORLDWIDE-INTL ℹ️🌐",TALK NEWS
-https://live-talktv-ssai.simplestreamcdn.com/v1/master/82267e84b9e5053b3fd0ade12cb1a146df74169a/talktv-live/index.m3u8
+https://live-talktv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/talktv-live/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GV4JLkr/Guardian.png" group-title="|EN|🇬🇧🇺🇸 WORLDWIDE-INTL ℹ️🌐",THE GUARDIAN CHANNEL
 https://0d0239e437124ddcb8090d815caf4013.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_TheGuardianChannel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DCntyzt/reuterstv.png" group-title="|EN|🇬🇧🇺🇸 WORLDWIDE-INTL ℹ️🌐",REUTERS TV
@@ -2904,4 +2908,4 @@ https://
 #EXTINF:-1 group-title="|📡|👨‍💻👉GITHUB.COM/IPSTREET312",⚪🆗✔️✅Blank Empty New Service
 http://
 #EXTINF:-1 group-title="|📡|👨‍💻👉GITHUB.COM/IPSTREET312",test1
-https://
+https://kwtalmta.cdn.mangomolo.com/alm/smil:alm.stream.smil/chunklist.m3u8
