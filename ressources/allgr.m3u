@@ -43,6 +43,8 @@ https://d358c6mfrono1y.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da
 https://bcovlive-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/playlist-all.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZgqnqnJ/cgtnfr.png" group-title="|FR|🇫🇷 INFORMATION",CGTN FRANÇAIS
 http://news.cgtn.com/resource/live/french/cgtn-f.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZgqnqnJ/cgtnfr.png" group-title="|FR|🇫🇷 INFORMATION",CGTN FRANÇAIS
+https://livefr.cgtn.com/1000f/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nR2HsVr/ln24.png" group-title="|FR|🇫🇷 INFORMATION",LN24 BE
 https://live-ln24.digiteka.com/1911668011/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MZLCTmN/monacoinfo.png" group-title="|FR|🇫🇷 INFORMATION",MONACO INFO
@@ -517,6 +519,8 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/infos/b
 https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CPZ00LY/labrise.jpg" group-title="|FR|🇫🇷 RÉGIONS",LA BRISE HAÏTI
 http://lakay.online/public/telelabrise/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kcPbyTD/tntv.png" group-title="|FR|🇫🇷 RÉGIONS",TNTV
+https://tntv-samsung-fr.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png" group-title="|FR|🇫🇷 RÉGIONS",LA 1ÈRE GUADELOUPE [geo-area]
 https://hdfauth.ftven.fr/esi/TA?url=https://simulcast-p.ftven.fr/simulcast/1erGuadeloupe/hls_1er/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png" group-title="|FR|🇫🇷 RÉGIONS",LA 1ÈRE MARTINIQUE [geo-area]
@@ -527,6 +531,40 @@ https://hdfauth.ftven.fr/esi/TA?url=https://simulcast-p.ftven.fr/simulcast/1erGu
 https://hdfauth.ftven.fr/esi/TA?url=https://simulcast-p.ftven.fr/simulcast/1erReunion/hls_1er/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png" group-title="|FR|🇫🇷 RÉGIONS",LA 1ÈRE MAYOTTE [geo-area]
 https://hdfauth.ftven.fr/esi/TA?url=https://simulcast-p.ftven.fr/simulcast/1erMayotte/hls_1er/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png" group-title="|FR|🇫🇷 RÉGIONS",LA 1ÈRE N.CALÉDONIE [geo-area]
+https://hdfauth.ftven.fr/esi/TA?url=https://simulcast-p.ftven.fr/simulcast/1erMayotte/hls_1er/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0VSd8bM/zoombe.png" group-title="|FR|🇫🇷 RÉGIONS",CANAL ZOOM
+https://tvlocales-live.freecaster.com/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5.isml/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WGHbhfh/latelebe.png" group-title="|FR|🇫🇷 RÉGIONS",LA TÉLÉ
+https://edge15.vedge.infomaniak.com/livecast/latele2/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RCY8bJZ/notele.png" group-title="|FR|🇫🇷 RÉGIONS",NO TÉLÉ
+https://streaming01.divercom.be/notele_live/_definst_/direct.stream/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4dTPMzK/tlbrux.png" group-title="|FR|🇫🇷 RÉGIONS",TÉLÉ BRUXELLES
+https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCtzw8h/tvlux.png" group-title="|FR|🇫🇷 RÉGIONS",TV LUX
+https://tvlocales-live.freecaster.com/95d2f631-8941-4efd-b223-0ebd56a033c4/95d2f631-8941-4efd-b223-0ebd56a033c4.isml/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fqq90Z2/noovo.png" group-title="|FR|🇫🇷 RÉGIONS",NOOVO
+https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/index/de22f34f/live/stream/h264/v1/2048000/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y8QFgbN/carac.png" group-title="|FR|🇫🇷 RÉGIONS",CARAC 1
+http://edge20.vedge.infomaniak.com/livecast/ik:rougetv/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y8QFgbN/carac.png" group-title="|FR|🇫🇷 RÉGIONS",CARAC 2
+http://edge21.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y8QFgbN/carac.png" group-title="|FR|🇫🇷 RÉGIONS",CARAC 3
+http://edge19.vedge.infomaniak.com/livecast/ik:lfmmd/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y8QFgbN/carac.png" group-title="|FR|🇫🇷 RÉGIONS",CARAC 4
+https://edge18.vedge.infomaniak.com/livecast/ik:compack_media_1/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gz2wbkL/tvm3.png" group-title="|FR|🇫🇷 RÉGIONS",TVM 3
+http://edge16.vedge.infomaniak.com/livecast/ik:tvm3/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1XYdy6j/canal9.png" group-title="|FR|🇫🇷 RÉGIONS",CANAL 9
+http://edge17.vedge.infomaniak.com/livecast/ik:livehd/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/st6cDg1/calpha.png" group-title="|FR|🇫🇷 RÉGIONS",CANAL ALPHA
+http://edge19.vedge.infomaniak.com/livecast/ik:canalalpha/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LzWqD0s/savoirmedia.png" group-title="|FR|🇫🇷 RÉGIONS",SAVOIR.MÉDIA
+https://hls.savoir.media/live/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFr5pYb/telequebec.png" group-title="|FR|🇫🇷 RÉGIONS",TÉLÉ QUÉBEC
+https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tHBB7zv/icimontreal.png" group-title="|FR|🇫🇷 RÉGIONS",ICI MONTRÉAL
+https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Bt6frts/trthaber.png" group-title="|TR|🇹🇷 HABER-1",TRT HABER
