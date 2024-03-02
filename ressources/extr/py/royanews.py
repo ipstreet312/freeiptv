@@ -2,7 +2,7 @@ import requests
 import re
 import json
 
-base_url = "https://roya-live.ercdn.net/royanews"
+base_url = "https://roya-live.ercdn.net/royanews/"
 url = "https://ticket.roya.tv/api/v3/fastchannel/21"
 
 s = requests.Session()
