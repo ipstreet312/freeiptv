@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2500000
+https://roya-live.ercdn.net/royanews/royanews_1080p.m3u8?st=KygRpcTxcUx9DmFeeunnmg&e=1709381220
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000
+https://roya-live.ercdn.net/royanews/royanews_720p.m3u8?st=KygRpcTxcUx9DmFeeunnmg&e=1709381220
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
+https://roya-live.ercdn.net/royanews/royanews_480p.m3u8?st=KygRpcTxcUx9DmFeeunnmg&e=1709381220
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=600000
+https://roya-live.ercdn.net/royanews/royanews_360p.m3u8?st=KygRpcTxcUx9DmFeeunnmg&e=1709381220
