@@ -1,3 +1,4 @@
 import streamlink
-erstrm = streamlink.streams('https://www.nowtv.com.tr/canli-yayin')
+streams = streamlink.streams('https://www.nowtv.com.tr/canli-yayin')
+erstrm = streams["best"].multivariant.uri
 print(erstrm)
