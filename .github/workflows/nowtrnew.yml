@@ -1,0 +1,57 @@
+name: nowtrnew
+
+on:
+  schedule:
+    - cron: '03 */3 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: config
+        run: |
+          git config --global user.email "<>"
+          git config --global user.name "nowtrnew bot"
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+          
+      - name: Install requests module
+        run: python3 -m pip install requests
+
+      - name: Install streamlink module from forked repository
+        run: python3 -m pip install git+https://github.com/ipstreet312/streamlink
+
+      - name: fetch content nowtrnew
+        run: |
+          final_url=$(python3 ressources/tur/nowtrnew.py)
+          echo "dastrm=${final_url}" >> $GITHUB_ENV
+          erstrm=$(echo $final_url | sed 's/nowtv.daioncdn.net\/nowtv\/nowtv.m3u8/nowtv-live-ad.ercdn.net\/nowtv\/playlist.m3u8/')
+          echo "erstrm=${erstrm}" >> $GITHUB_ENV
+
+      - name: Replace Text
+        run: |
+          dastrm=${dastrm}
+          erstrm=${erstrm}
+          sed -i "\|daioncdn.net/nowtv| c $dastrm" all.m3u
+          sed -i "\|ercdn.net/nowtv| c $erstrm" all.m3u
+          sed -i "\|daioncdn.net/nowtv| c $dastrm" ressources/allgr.m3u
+          sed -i "\|ercdn.net/nowtv| c $erstrm" ressources/allgr.m3u
+
+      - name: git add
+        run: |
+          git add -A
+          ls -la 
+          
+      - name: commit & push
+        run: |
+          git pull
+          git add all.m3u ressources/allgr.m3u
+          git commit -m "nowtrnew updated"
+          git push
