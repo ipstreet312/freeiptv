@@ -23,7 +23,10 @@ jobs:
           python-version: '3.x'
           
       - name: Install requests module
-        run: python3 -m pip install requests streamlink
+        run: python3 -m pip install requests
+
+      - name: Install streamlink module from forked repository
+        run: python3 -m pip install git+https://github.com/ipstreet312/streamlink
 
       - name: fetch content nowmaster
         run: |
