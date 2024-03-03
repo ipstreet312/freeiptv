@@ -877,9 +877,9 @@ http://canli.haber365.com.tr/tr/tlc/index.m3u8
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pXncfpb/tv422.png" group-title="|TR|🇹🇷 BELGESEL & YAŞAM",TV 4
 https://tv4.blutv.com/blutv_tv4/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sRNHKjS/tivi622.png" group-title="|TR|🇹🇷 BELGESEL & YAŞAM",TIVI 6
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sRNHKjS/tivi622.png" group-title="|TR|🇹🇷 BELGESEL & YAŞAM",TİVİ 6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SnPFhXS/cnee12.png" group-title="|TR|🇹🇷 BELGESEL & YAŞAM",CINE 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SnPFhXS/cnee12.png" group-title="|TR|🇹🇷 BELGESEL & YAŞAM",CİNE 1
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DKHDfbr/wmtv.png" group-title="|TR|🇹🇷 BELGESEL & YAŞAM",WOMAN KADIN TV
 https://embedlp.b-cdn.net/womantv.m3u8
@@ -1027,6 +1027,8 @@ https://trkvz-beta.daioncdn.net/aspor/aspor.m3u8?app=45f847c4-04e8-419a-a561-2eb
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d6Zfm2P/trtmuzik21c.png" group-title="|TR|🇹🇷 MÜZİK",TRT MÜZİK
 https://trtmuzik.blutv.com/blutv_trtmuzik2/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gdbyhx2/spotify.png" group-title="|TR|🇹🇷 MÜZİK",SPOTIFY TURKEY • TRLIST
+https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/sptr.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6401NQw/kraltv.png" group-title="|TR|🇹🇷 MÜZİK",KRAL - KRAL POP
 http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6401NQw/kraltv.png" group-title="|TR|🇹🇷 MÜZİK",KRAL - KRAL POP
@@ -1419,6 +1421,8 @@ https://stream.tiviturk.de/live/tiviturk.m3u8
 https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="|TR|🇹🇷 YEREL",TOKAT TV
 https://cdn-tokattvwebtv.yayin.com.tr/tokattvwebtv/tokattvwebtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="|TR|🇹🇷 YEREL",TRABZON TV
+https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/trabzontv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="|TR|🇹🇷 YEREL",TRAKYA TÜRK
 https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="|TR|🇹🇷 YEREL",TRT KURDÎ
@@ -1491,6 +1495,8 @@ https://reshetbetvideo.media.kan.org.il/hls/live/2044082/2044082/source1_2.5k/ch
 https://ynet-live-01.ynet-pic1.yit.co.il/ynet/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1rSGfFw/N12n.png" user-agent="SmartOs Tv" group-title="|IL|🇮🇱 ISRAEL ישראל",NEWS 12 חדשות 
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/keshetil/py/n12.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j68q1Bp/i24.png" group-title="|IL|🇮🇱 ISRAEL ישראל",I24 NEWS HE (soon)
+https://soon
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j68q1Bp/i24.png" group-title="|IL|🇮🇱 ISRAEL ישראל",I24 NEWS FR
 https://bcovlive-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/playlist-all.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j68q1Bp/i24.png" group-title="|IL|🇮🇱 ISRAEL ישראל",I24 NEWS EN
@@ -2333,6 +2339,8 @@ https://bcovlive-a.akamaihd.net/d30cbb3350af4cb7a6e05b9eb1bfd850/eu-west-1/60579
 https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nzjbYfR/asharq.png" group-title="|AR|🇸🇦 THEMATICS-1 عربي",ASHARQ NEWS
 https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png" group-title="|AR|🇸🇦 THEMATICS-1 عربي",ROYA NEWS
+https://raw.githubusercontent.com/MassinDV/Youtube-arabic-channels/main/live/ch39.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m4tvbmp/inewsar.png" group-title="|AR|🇸🇦 THEMATICS-1 عربي",INEWS IQ
 https://svs.itworkscdn.net/inewsiqlive/inewsiq.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JcP5JHq/bbcaranw.png" group-title="|AR|🇸🇦 THEMATICS-1 عربي",BBC NEWS ARABIA
