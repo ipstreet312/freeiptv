@@ -161,6 +161,10 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/d
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/rtltvi.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kKMpCzz/rtltvi.png",RTL TVI
 https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4VS27Jw/tfx.png",TFX
+https://raw.githubusercontent.com/BG47510/sniftv/main/bouy/fx.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9Y4PHKP/tf1sf.png",TF1 SÉRIES-FILMS
+https://raw.githubusercontent.com/BG47510/sniftv/main/bouy/ser.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6RYpdNz/m6int.png",M6 INTERNATIONAL
 https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/420Bjqt/tv5europe.png",TV5MONDE EUROPE [geo-area]
@@ -219,6 +223,10 @@ https://live-tmc-hls.cdn-0.diff.tf1.fr/out/v1/44fcb1c776284f2da7c11ef948d7ef34/t
 https://live-tfx-hls.cdn-0.diff.tf1.fr/out/v1/54408d0e39304776bf7b2ce4b1599123/tfx-cmaf/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9Y4PHKP/tf1sf.png",TF1 SÉRIES-FILMS [tkn-blocked]
 https://live-tsf-hls.cdn-0.diff.tf1.fr/out/v1/9990671b96634d799552358352b2570a/tf1-series-film-cmaf/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LNRd253/w9.png" user-agent="Mozilla/5.0", referer="http://callofliberty.fr/",W9
+http://s2.callofliberty.fr/direct/W9/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nzh88j8/6ter.png" user-agent="Mozilla/5.0", referer="http://callofliberty.fr/",6TER
+http://s2.callofliberty.fr/direct/6ter/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png",FRANCE 2 [find-host]
 https://PuthereYourserverHostaddress/fr2curl.php?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y8PjbJ4/fr3bl.png",FRANCE 3 [find-host]
@@ -2973,23 +2981,5 @@ https://
 http://
 #EXTINF:-1,test
 http://
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0", referer="http://www.callofliberty.fr/",RMCDa
-http://s2.callofliberty.fr/direct/RMCDECOUVERTE/manifest.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0", referer="http://www.callofliberty.fr/",RMCD1
-http://s2.callofliberty.fr/direct/RMCDECOUVERTE/01.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0", referer="http://www.callofliberty.fr/",W9 mgf
+#EXTINF:-1 user-agent="Star Wars", referer="http://callofliberty.fr/",test ua
 http://s2.callofliberty.fr/direct/W9/index.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0", referer="http://www.callofliberty.fr/",6TER mgf
-http://s2.callofliberty.fr/direct/6ter/index.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0)", referer="http://www.callofliberty.fr/",W9 mz
-http://s2.callofliberty.fr/direct/W9/index.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0)", referer="http://www.callofliberty.fr/",6TER mz
-http://s2.callofliberty.fr/direct/6ter/index.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0", referer="http://callofliberty.fr/",W9 m
-http://s2.callofliberty.fr/direct/W9/index.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0", referer="http://callofliberty.fr/",6TER m
-http://s2.callofliberty.fr/direct/6ter/index.m3u8
-#EXTINF:-1 referer="http://callofliberty.fr/",W9 nua
-http://s2.callofliberty.fr/direct/W9/index.m3u8
-#EXTINF:-1 referer="http://callofliberty.fr/",6TER nua
-http://s2.callofliberty.fr/direct/6ter/index.m3u8
