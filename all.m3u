@@ -2977,9 +2977,3 @@ https://
 http://
 #EXTINF:-1,test
 http://
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0", referer="http://www.callofliberty.fr/",PRXM
-https://cors.svaren.dev/http://s2.callofliberty.fr/direct/RMCDECOUVERTE/manifest.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0", referer="http://www.callofliberty.fr/",PRX01
-https://cors.svaren.dev/http://s2.callofliberty.fr/direct/RMCDECOUVERTE/01.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0", referer="http://www.callofliberty.fr/",001
-http://s2.callofliberty.fr/direct/RMCDECOUVERTE/01.m3u8
