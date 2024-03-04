@@ -161,10 +161,6 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/d
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/rtltvi.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kKMpCzz/rtltvi.png",RTL TVI
 https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4VS27Jw/tfx.png",TFX
-https://raw.githubusercontent.com/BG47510/sniftv/main/bouy/fx.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9Y4PHKP/tf1sf.png",TF1 SÉRIES-FILMS
-https://raw.githubusercontent.com/BG47510/sniftv/main/bouy/ser.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6RYpdNz/m6int.png",M6 INTERNATIONAL
 https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/420Bjqt/tv5europe.png",TV5MONDE EUROPE [geo-area]
