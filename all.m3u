@@ -2973,11 +2973,3 @@ https://
 http://
 #EXTINF:-1,test
 http://
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0", referer="http://www.callofliberty.fr/",TFSF
-http://s2.callofliberty.fr/direct/TF1SERIESFILMS/master.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0", referer="http://www.callofliberty.fr/",W9
-http://s2.callofliberty.fr/direct/W9/index.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0", referer="http://www.callofliberty.fr/",6TER
-http://s2.callofliberty.fr/direct/6ter/index.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0", referer="http://www.callofliberty.fr/",RMCD
-http://s2.callofliberty.fr/direct/RMCDECOUVERTE/manifest.m3u8
