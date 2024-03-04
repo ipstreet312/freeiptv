@@ -776,9 +776,9 @@ https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png",NOW
 https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=T1WtpCNWeJ3NQ5-jexAGYw&e=1709550500
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png",TV8
-https://tv8-live.daioncdn.net/tv8/tv8.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png",TV8
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png",TV8
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV
 https://livestream.zazerconer.workers.dev/channel/UCUVZ7T_kwkxDOGFcDlFI-hg.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV
@@ -2977,15 +2977,9 @@ https://
 http://
 #EXTINF:-1,test
 http://
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0",MGF nR
-http://s2.callofliberty.fr/direct/RMCDECOUVERTE/manifest.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0", referer="http://www.callofliberty.fr/",MGF
-http://s2.callofliberty.fr/direct/RMCDECOUVERTE/manifest.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0", referer="http://www.callofliberty.fr/",MACSE
-http://s2.callofliberty.fr/direct/RMCDECOUVERTE/manifest.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64), referer="http://www.callofliberty.fr/"",MW
-http://s2.callofliberty.fr/direct/RMCDECOUVERTE/manifest.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0", referer="http://www.callofliberty.fr/",M
-http://s2.callofliberty.fr/direct/RMCDECOUVERTE/manifest.m3u8
-#EXTINF:-1 referer="http://www.callofliberty.fr/",nUA
-http://s2.callofliberty.fr/direct/RMCDECOUVERTE/manifest.m3u8
+#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0", referer="http://www.callofliberty.fr/",PRXM
+https://cors.svaren.dev/http://s2.callofliberty.fr/direct/RMCDECOUVERTE/manifest.m3u8
+#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0", referer="http://www.callofliberty.fr/",PRX01
+https://cors.svaren.dev/http://s2.callofliberty.fr/direct/RMCDECOUVERTE/01.m3u8
+#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0", referer="http://www.callofliberty.fr/",001
+http://s2.callofliberty.fr/direct/RMCDECOUVERTE/01.m3u8
