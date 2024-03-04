@@ -2973,3 +2973,23 @@ https://
 http://
 #EXTINF:-1,test
 http://
+#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0", referer="http://www.callofliberty.fr/",RMCDa
+http://s2.callofliberty.fr/direct/RMCDECOUVERTE/manifest.m3u8
+#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0", referer="http://www.callofliberty.fr/",RMCD1
+http://s2.callofliberty.fr/direct/RMCDECOUVERTE/01.m3u8
+#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0", referer="http://www.callofliberty.fr/",W9 mgf
+http://s2.callofliberty.fr/direct/W9/index.m3u8
+#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0", referer="http://www.callofliberty.fr/",6TER mgf
+http://s2.callofliberty.fr/direct/6ter/index.m3u8
+#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0)", referer="http://www.callofliberty.fr/",W9 mz
+http://s2.callofliberty.fr/direct/W9/index.m3u8
+#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0)", referer="http://www.callofliberty.fr/",6TER mz
+http://s2.callofliberty.fr/direct/6ter/index.m3u8
+#EXTINF:-1 user-agent="Mozilla/5.0", referer="http://callofliberty.fr/",W9 m
+http://s2.callofliberty.fr/direct/W9/index.m3u8
+#EXTINF:-1 user-agent="Mozilla/5.0", referer="http://callofliberty.fr/",6TER m
+http://s2.callofliberty.fr/direct/6ter/index.m3u8
+#EXTINF:-1 referer="http://callofliberty.fr/",W9 nua
+http://s2.callofliberty.fr/direct/W9/index.m3u8
+#EXTINF:-1 referer="http://callofliberty.fr/",6TER nua
+http://s2.callofliberty.fr/direct/6ter/index.m3u8
