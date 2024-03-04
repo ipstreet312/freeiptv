@@ -165,9 +165,9 @@ https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
 https://raw.githubusercontent.com/BG47510/sniftv/main/bouy/fx.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9Y4PHKP/tf1sf.png",TF1 SÉRIES-FILMS
 https://raw.githubusercontent.com/BG47510/sniftv/main/bouy/ser.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LNRd253/w9.png" referer="http://callofliberty.fr/",W9
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LNRd253/w9.png" user-agent="Mozilla/5.0", referer="http://callofliberty.fr/",W9
 http://s2.callofliberty.fr/direct/W9/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nzh88j8/6ter.png" referer="http://callofliberty.fr/",6TER
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nzh88j8/6ter.png" user-agent="Mozilla/5.0", referer="http://callofliberty.fr/",6TER
 http://s2.callofliberty.fr/direct/6ter/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6RYpdNz/m6int.png",M6 INTERNATIONAL
 https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index.m3u8
