@@ -106,9 +106,9 @@ https://hls-m010-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-ad-hd/hl
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png" group-title="|FR|🇫🇷 INFORMATION",CNEWS (backup)
 https://hls-m010-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-ad-hd/hls-v3-hd-clair/cnews-clair-ad-hd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png" group-title="|FR|🇫🇷 INFORMATION",CNEWS (backup)
-https://hls-m010.p-cdnlive-edge020311-dual.scy.canalplus-cdn.net/__token__id%3D1a569a48e47690c700c0f71662c87679~hmac%3D6d2114baa9bb694f530073a9f707530612577a89d4d0a36aaa72374fa9e12049/live/disk/cnews-clair-hd/hls-v3-hd-clair/cnews-clair-hd.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png" group-title="|FR|🇫🇷 INFORMATION",CNEWS (backup)
 https://hls-m010.p-cdnlive-edge020311-dual.scy.canalplus-cdn.net/__token__id%3D1a569a48e47690c700c0f71662c87679~hmac%3D6d2114baa9bb694f530073a9f707530612577a89d4d0a36aaa72374fa9e12049/live/disk/cnews-clair-ad-hd/hls-ios-fhd-clair/cnews-clair-ad-hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png" group-title="|FR|🇫🇷 INFORMATION",CNEWS (backup)
+https://hls-m010.p-cdnlive-edge020411-dual.scy.canalplus-cdn.net/__token__id%3D30d0283c7e891418deaddd2079712aaa~hmac%3Db2612e5607aecd3745717271a89b4c9f30d655071475de4667bf4819c57cd756/live/disk/cnews-clair-hd/hls-v3-hd-clair/cnews-clair-hd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Zfcrrr1/lci.png" group-title="|FR|🇫🇷 INFORMATION",LCI [tkn-blocked]
 https://live-lci-hls.cdn-0.diff.tf1.fr/out/v1/917aad4fa72f42f7ba7f486226f54bc4/lci-cmaf/index.m3u8
 
@@ -161,6 +161,10 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/d
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/rtltvi.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kKMpCzz/rtltvi.png" group-title="|FR|🇫🇷 GÉNÉRALISTE",RTL TVI
 https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4VS27Jw/tfx.png" group-title="|FR|🇫🇷 GÉNÉRALISTE",TFX
+https://raw.githubusercontent.com/BG47510/sniftv/main/bouy/fx.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9Y4PHKP/tf1sf.png" group-title="|FR|🇫🇷 GÉNÉRALISTE",TF1 SÉRIES-FILMS
+https://raw.githubusercontent.com/BG47510/sniftv/main/bouy/ser.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6RYpdNz/m6int.png" group-title="|FR|🇫🇷 GÉNÉRALISTE",M6 INTERNATIONAL
 https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/420Bjqt/tv5europe.png" group-title="|FR|🇫🇷 GÉNÉRALISTE",TV5MONDE EUROPE [geo-area]
@@ -172,7 +176,9 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x8YnkQ2/tv5.png" group-title="|FR|🇫🇷 GÉNÉRALISTE",TV5MONDE PACIFIQUE [geo-area]
 https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ftYS2bk/CANAL-logo.png" group-title="|FR|🇫🇷 GÉNÉRALISTE",CANAL+ EN CLAIR (backup)
-https://hls-m007.p-cdnlive-edge020311-dual.scy.canalplus-cdn.net/__token__id%3D1a569a48e47690c700c0f71662c87679~hmac%3D6d2114baa9bb694f530073a9f707530612577a89d4d0a36aaa72374fa9e12049/live/disk/canalplusclair-hd/hls-ios-fhd-clair/canalplusclair-hd.m3u8
+https://hls-m007.p-cdnlive-edge020311-dual.scy.canalplus-cdn.net/__token__id%3D1a569a48e47690c700c0f71662c87679~hmac%3D6d2114baa9bb694f530073a9f707530612577a89d4d0a36aaa72374fa9e12049/live/disk/canalplusclair-hd/hls-v3-hd-clair/canalplusclair-hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ftYS2bk/CANAL-logo.png" group-title="|FR|🇫🇷 GÉNÉRALISTE",CANAL+ EN CLAIR (backup)
+https://hls-m007.p-cdnlive-edge020311-dual.scy.canalplus-cdn.net/__token__id%3D30d0283c7e891418deaddd2079712aaa~hmac%3Db2612e5607aecd3745717271a89b4c9f30d655071475de4667bf4819c57cd756/live/disk/canalplusclair-hd/hls-ios-fhd-clair/canalplusclair-hd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cQbcrGZ/c8.png" group-title="|FR|🇫🇷 GÉNÉRALISTE",C8 [tokenized]
 https://hls-m013-live-aka-canalplus.akamaized.net/live/disk/c8-clair-hd/hls-ios-fhd-clair/c8-clair-hd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cQbcrGZ/c8.png" group-title="|FR|🇫🇷 GÉNÉRALISTE",C8 [drm-keycrypted]
@@ -219,6 +225,10 @@ https://live-tmc-hls.cdn-0.diff.tf1.fr/out/v1/44fcb1c776284f2da7c11ef948d7ef34/t
 https://live-tfx-hls.cdn-0.diff.tf1.fr/out/v1/54408d0e39304776bf7b2ce4b1599123/tfx-cmaf/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9Y4PHKP/tf1sf.png" group-title="|FR|🇫🇷 GÉNÉRALISTE",TF1 SÉRIES-FILMS [tkn-blocked]
 https://live-tsf-hls.cdn-0.diff.tf1.fr/out/v1/9990671b96634d799552358352b2570a/tf1-series-film-cmaf/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LNRd253/w9.png" user-agent="Mozilla/5.0", referer="http://callofliberty.fr/" group-title="|FR|🇫🇷 GÉNÉRALISTE",W9
+http://s2.callofliberty.fr/direct/W9/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nzh88j8/6ter.png" user-agent="Mozilla/5.0", referer="http://callofliberty.fr/" group-title="|FR|🇫🇷 GÉNÉRALISTE",6TER
+http://s2.callofliberty.fr/direct/6ter/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png" group-title="|FR|🇫🇷 GÉNÉRALISTE",FRANCE 2 [find-host]
 https://PuthereYourserverHostaddress/fr2curl.php?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y8PjbJ4/fr3bl.png" group-title="|FR|🇫🇷 GÉNÉRALISTE",FRANCE 3 [find-host]
@@ -239,6 +249,8 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ByN83p3/funradtv.png" group-title="|FR|🇫🇷 SOCIÉTÉ",FUN RADIO TV BE
 https://livevideo.infomaniak.com/streaming/livecast/funradiovisionhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ByN83p3/funradtv.png" group-title="|FR|🇫🇷 SOCIÉTÉ",FUN RADIO TV FR
+https://raw.githubusercontent.com/BG47510/motion/main/fun.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/g3YTn6c/geneok.png" group-title="|FR|🇫🇷 SOCIÉTÉ",GÉNÉRATIONS TV
 https://edge.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BPzb19X/melody.png" group-title="|FR|🇫🇷 SOCIÉTÉ",MÉLODY
@@ -770,9 +782,9 @@ https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="|TR|🇹🇷 GENEL",NOW
 https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=7xNF-RhbLnFlvKheRCvH_A&e=1709601177
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="|TR|🇹🇷 GENEL",TV8
-https://tv8-live.daioncdn.net/tv8/tv8.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="|TR|🇹🇷 GENEL",TV8
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="|TR|🇹🇷 GENEL",TV8
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="|TR|🇹🇷 GENEL",ATV
 https://livestream.zazerconer.workers.dev/channel/UCUVZ7T_kwkxDOGFcDlFI-hg.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="|TR|🇹🇷 GENEL",ATV
@@ -1321,6 +1333,8 @@ https://edge1.socialsmart.tv/kanal58/bant1/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="|TR|🇹🇷 YEREL",KANAL 68 AKSARAY
 https://live.artidijitalmedya.com/artidijital_kanal68/kanal68/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="|TR|🇹🇷 YEREL",KANAL EGE
+https://cdn-365tv.yayin.com.tr/365tv/365tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="|TR|🇹🇷 YEREL",KANAL FIRAT
 https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="|TR|🇹🇷 YEREL",KANAL S SAMSUN
