@@ -365,7 +365,7 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/index.m3u8
 https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png",GULLI (backup)
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/gullisd.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ByN83p3/funradtv.png",FUN RADIO TV BE (backup)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ByN83p3/funradtv.png",FUN RADIO TV BE [died-link]
 https://livevideo.infomaniak.com/streaming/livecast/funradiovisionhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ByN83p3/funradtv.png",FUN RADIO TV BE (backup)
 https://edge11.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8
