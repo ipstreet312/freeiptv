@@ -1,0 +1,41 @@
+name: live9w action
+
+on:
+  schedule:
+    - cron: '15 */2 * * *'
+  
+  workflow_dispatch:
+
+jobs:
+
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v3
+
+      - name: config
+        run: |
+          git config --global user.email "<>"
+          git config --global user.name "live9w bot"
+      
+      - name: Install dependencies
+        run: |
+          python3 -m pip install --upgrade pip
+          python3 -m pip install requests beautifulsoup4
+      
+      - name: updating live9w
+        run: python3 ressources/extr/py/live9w.py > ressources/extr/py/live9w.m3u8
+        
+      - name: git add
+        run: |
+          git add -A
+          ls -la 
+          
+      - name: commit & push
+        run: |
+          git pull origin master
+          git commit -m "live9w updated"
+          git push origin master
