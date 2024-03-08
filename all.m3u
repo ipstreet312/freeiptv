@@ -231,10 +231,6 @@ https://PuthereYourserverHostaddress/fr3curl.php?m3u8
 https://PuthereYourserverHostaddress/fr4curl.php?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N9d4yXt/fr5bl.png",FRANCE 5 [find-host]
 https://PuthereYourserverHostaddress/fr5curl.php?m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LNRd253/w9.png" user-agent="Mozilla/5.0", referer="http://callofliberty.fr/",W9
-http://s2.callofliberty.fr/direct/W9/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nzh88j8/6ter.png" user-agent="Mozilla/5.0", referer="http://callofliberty.fr/",6TER
-http://s2.callofliberty.fr/direct/6ter/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6 (backup)
 https://shls-m6-france-prod-dub-ak.akamaized.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png",FRANCE 2 (backup)
