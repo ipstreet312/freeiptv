@@ -21,6 +21,11 @@ jobs:
           git config --global user.email "<>"
           git config --global user.name "tnt9w bot"
       
+      - name: Install dependencies
+        run: |
+          python3 -m pip install --upgrade pip
+          python3 -m pip install requests beautifulsoup4
+      
       - name: updating tnt9w
         run: python3 ressources/extr/py/tnt9w.py > ressources/extr/py/tnt9w.m3u8
         
