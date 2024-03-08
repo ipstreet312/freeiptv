@@ -1887,34 +1887,10 @@ https://streaming-live.rtp.pt/liverepeater/rtp1.smil/playlist.m3u8
 https://streaming-live.rtp.pt/liverepeater/rtp2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HnqCkQj/rtp3.jpg",RTP 3 (backup sd)
 https://streaming-live.rtp.pt/liverepeater/rtpn.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3YZFCjp/rtp1.jpg",RTP 1 (tvhlsdvr,KO)
-https://streaming-live.rtp.pt/livetvhlsDVR/rtp1dvr.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3YZFCjp/rtp1.jpg",RTP 1 (tvhls_HD,KO)
-https://streaming-live.rtp.pt/livetvhls/rtp1HD.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tbFT1V2/rtp2.jpg",RTP 2 (tvhls,KO)
-https://streaming-live.rtp.pt/livetvhls/rtp2.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tbFT1V2/rtp2.jpg",RTP 2 (tvhls_HD,KO)
-https://streaming-live.rtp.pt/livetvhls/rtp2HD.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HnqCkQj/rtp3.jpg",RTP 3 (tvhlsdvr)
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HnqCkQj/rtp3.jpg",RTP 3 (tvhlsdvr_HD)
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3YZFCjp/rtp1.jpg",RTP 1 (129k)
-https://streaming-live.rtp.pt/liverepeater/rtp1.smil/chunklist_b1290000_slpor.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3YZFCjp/rtp1.jpg",RTP 1 (HD254k)
-https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/chunklist_b2540000_slpor.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tbFT1V2/rtp2.jpg",RTP 2 (129k)
-https://streaming-live.rtp.pt/liverepeater/rtp2.smil/chunklist_b1290000_slpor.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tbFT1V2/rtp2.jpg",RTP 2 (HD254k)
-https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/chunklist_b2540000_slpor.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tbFT1V2/rtp2.jpg",RTP 2 (HD10k)
-https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/chunklist_b100000_slpor.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HnqCkQj/rtp3.jpg",RTP 3 (129k)
-https://streaming-live.rtp.pt/liverepeater/rtpn.smil/chunklist_b1290000_slpt.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HnqCkQj/rtp3.jpg",RTP 3 (HD254k)
-https://streaming-live.rtp.pt/liverepeater/rtpnHD.smil/chunklist_b2540000_slpor.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HnqCkQj/rtp3.jpg",RTP 3 (tvhlsdvr_HD64k)
-https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/chunklist_b640000_slpor.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9GMzcw7/rtpaco.jpg",RTP ACORES (backup)
 https://streaming-live.rtp.pt/liverepeater/rtpacoresHD.smil/chunklist_b640000_slpor.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",EURONEWS PT (backup)
@@ -1957,12 +1933,6 @@ https://video-auth6.iol.pt/live_tvi_reality/live_tvi_reality/playlist.m3u8?wmsAu
 https://video-auth4.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-720_passthrough/playlist.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xYNTr2v/tvirea.jpg",TVI REALITY [tkn-blocked]
 https://video-auth2.iol.pt/edge_servers/tvireality-720_passthrough/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3YZFCjp/rtp1.jpg" user-agent="Firefox",RTP 1 [app-off]
-https://streaming-live-app.rtp.pt/liverepeater/rtp1HD.smil/rtp_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tbFT1V2/rtp2.jpg" user-agent="Firefox",RTP 2 [app-off]
-https://streaming-live-app.rtp.pt/liverepeater/rtp2HD.smil/rtp_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HnqCkQj/rtp3.jpg" user-agent="Firefox",RTP 3 [app-off]
-https://streaming-live-app.rtp.pt/liverepeater/rtpnHD.smil/rtp_playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6r1xHn6/sic.png",SIC [offline]
 https://eventos.live.impresa.pt/opto_in1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dJZR1gD/sicnov.png",SIC NOVELAS [offline]
