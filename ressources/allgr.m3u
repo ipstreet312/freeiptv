@@ -723,14 +723,18 @@ https://new.cache-stream.workers.dev/stream/UCKQhfw-lzz0uKnE1fY1PsAA/live.m3u8
 https://ulketv.blutv.com/blutv_ulketv2/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B4XX5Vx/akittv.png" group-title="|TR|🇹🇷 HABER-2",AKIT TV
 http://akittv-live.ercdn.net/akittv/akittv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6m9Pb3t/tv5tr1.png" group-title="|TR|🇹🇷 HABER-2",TV5
-https://new.cache-stream.workers.dev/stream/oExllHiqy1w/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6m9Pb3t/tv5tr1.png" group-title="|TR|🇹🇷 HABER-2",TV 5
+https://ythlsgo.onrender.com/channel/UCrfMYkClzgQHRP-YkgwBkTw.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6m9Pb3t/tv5tr1.png" group-title="|TR|🇹🇷 HABER-2",TV 5
+https://livestream.zazerconer.workers.dev/channel/UCrfMYkClzgQHRP-YkgwBkTw.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y04nCSJ/artii.png" group-title="|TR|🇹🇷 HABER-2",ARTI TV
 https://new.cache-stream.workers.dev/stream/UCxVicskgBc8OD66iLKc7Uaw/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hB9yNXV/yol22.png" group-title="|TR|🇹🇷 HABER-2",YOL TV
 https://stream.yol.tv:9443/medialive/yol.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hB9yNXV/yol22.png" group-title="|TR|🇹🇷 HABER-2",YOL TV
 http://stream.yol.tv:9485/medialive/yol.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CB62fwD/cadde.png" group-title="|TR|🇹🇷 HABER-2",CADDE TV
+https://trn10.tulix.tv/gt-caddetv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CB62fwD/cadde.png" group-title="|TR|🇹🇷 HABER-2",CADDE TV (event time)
 https://new.cache-stream.workers.dev/stream/UCPTF3NxWzcBD8rNnJuGQOSA/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BtYMK4q/halk21a.png" group-title="|TR|🇹🇷 HABER-2",HALK TV (backup)
@@ -763,6 +767,20 @@ https://kanal24.blutv.com/blutv_kanal24_live/live.m3u8
 https://tv.ensonhaber.com/tv24/tv24.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PhwYjQ7/24tv.png" group-title="|TR|🇹🇷 HABER-2",24 (backup)
 https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6m9Pb3t/tv5tr1.png" group-title="|TR|🇹🇷 HABER-2",TV 5 (backup ytch)
+https://new.cache-stream.workers.dev/stream/UCrfMYkClzgQHRP-YkgwBkTw/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6m9Pb3t/tv5tr1.png" group-title="|TR|🇹🇷 HABER-2",TV 5 (backup ytch)
+https://ythls.armelin.one/channel/UCrfMYkClzgQHRP-YkgwBkTw.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6m9Pb3t/tv5tr1.png" group-title="|TR|🇹🇷 HABER-2",TV 5 (backup ytch)
+https://ythls-v2.onrender.com/channel/UCrfMYkClzgQHRP-YkgwBkTw.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6m9Pb3t/tv5tr1.png" group-title="|TR|🇹🇷 HABER-2",TV 5 (backup ytvd)
+https://ythlsgo.onrender.com/video/PpZFjqwNFu0/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6m9Pb3t/tv5tr1.png" group-title="|TR|🇹🇷 HABER-2",TV 5 (backup ytvd)
+https://new.cache-stream.workers.dev/video/PpZFjqwNFu0/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6m9Pb3t/tv5tr1.png" group-title="|TR|🇹🇷 HABER-2",TV 5 (backup ytvd)
+https://ythls.armelin.one/video/PpZFjqwNFu0.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6m9Pb3t/tv5tr1.png" group-title="|TR|🇹🇷 HABER-2",TV 5 (backup ytvd)
+https://ythls-v2.onrender.com/video/PpZFjqwNFu0.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png" group-title="|TR|🇹🇷 GENEL",TRT 1
@@ -925,6 +943,8 @@ https://ciner-live.ercdn.net/showmax/showmax.m3u8
 https://new.cache-stream.workers.dev/stream/UCHqu50_C2U2h_rpzhygs4aA/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2qrg9QF/a2022.png" group-title="|TR|🇹🇷 BELGESEL & YAŞAM",A2 (backup)
 https://ythls.armelin.one/channel/UCHqu50_C2U2h_rpzhygs4aA.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2qrg9QF/a2022.png" group-title="|TR|🇹🇷 BELGESEL & YAŞAM",A2 (backup)
+http://stream.tvcdn.net/eglence/a2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2qrg9QF/a2022.png" group-title="|TR|🇹🇷 BELGESEL & YAŞAM",A2 [tkn-blocked]
 https://trkvz-live.daioncdn.net/a2tv/a2tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png" group-title="|TR|🇹🇷 BELGESEL & YAŞAM",TRT BELGESEL (backup)
@@ -1003,6 +1023,8 @@ https://ythlsgo.onrender.com/channel/UCjkRA7KEdp7PDKDUs396XHg.m3u8
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dgj3MTh/tv85.png" group-title="|TR|🇹🇷 ÇOCUK/SPOR",TV8 BUÇUK
 https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bKKCbst/tivibuspor.png" group-title="|TR|🇹🇷 ÇOCUK/SPOR",TİVİBU SPOR
+https://canlitvulusal.xyz/live/tivibuspor/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8g20RBH/ebatek.png" group-title="|TR|🇹🇷 ÇOCUK/SPOR",TRT EBA TV
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8g20RBH/ebatek.png" group-title="|TR|🇹🇷 ÇOCUK/SPOR",TRT EBA TV
@@ -1503,13 +1525,13 @@ https://kan23w.media.kan.org.il/hls/live/2108842/2108842/source1_2.5k/chunklist.
 https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/video_7201280_p_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zP5vjLD/knesset.png" group-title="|IL|🇮🇱 ISRAEL ישראל",HAKNESSET 99 כנסת
 https://contactgbs.mmdlive.lldns.net/contactgbs/a40693c59c714fecbcba2cee6e5ab957/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jzRyjBn/walla.png" group-title="|IL|🇮🇱 ISRAEL ישראל",WALLA ! +
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jzRyjBn/walla.png" group-title="|IL|🇮🇱 ISRAEL ישראל",WALLA !+ וואלה! חדשות
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01742-walla-wallanews-ono/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5MyMYqB/relevantil.png" group-title="|IL|🇮🇱 ISRAEL ישראל",RELEVANT רלוונט 
 https://6180c994cb835402.mediapackage.eu-west-1.amazonaws.com/out/v1/06e44cd7f7e0445fbd669f279c997fd4/index.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6yjTszg/kan26.png" group-title="|IL|🇮🇱 ISRAEL ישראל",KAN 26 אפיק
 https://reshetbetvideo.media.kan.org.il/hls/live/2044082/2044082/source1_2.5k/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kq4XM0Y/ynet.png" group-title="|IL|🇮🇱 ISRAEL ישראל",YNET NEWS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kq4XM0Y/ynet.png" group-title="|IL|🇮🇱 ISRAEL ישראל",YNET NEWS ידיעות אחרונות
 https://ynet-live-01.ynet-pic1.yit.co.il/ynet/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1rSGfFw/N12n.png" user-agent="SmartOs Tv" group-title="|IL|🇮🇱 ISRAEL ישראל",NEWS 12 חדשות 
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/keshetil/py/n12.m3u8
