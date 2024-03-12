@@ -856,6 +856,8 @@ https://mnorigin-ank-1.mncdn.com/test/live_720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="|TR|🇹🇷 GENEL",ATV (backup)
 https://bozztv.com/inim03/live1/atv-tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="|TR|🇹🇷 GENEL",ATV (backup)
+https://canlitvulusal.xyz/live/atv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="|TR|🇹🇷 GENEL",ATV (backup)
 https://new.cache-stream.workers.dev/stream/UCUVZ7T_kwkxDOGFcDlFI-hg/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="|TR|🇹🇷 GENEL",ATV (backup)
 https://ythlsgo.onrender.com/channel/UCUVZ7T_kwkxDOGFcDlFI-hg.m3u8
@@ -1023,8 +1025,6 @@ https://ythlsgo.onrender.com/channel/UCjkRA7KEdp7PDKDUs396XHg.m3u8
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dgj3MTh/tv85.png" group-title="|TR|🇹🇷 ÇOCUK/SPOR",TV8 BUÇUK
 https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bKKCbst/tivibuspor.png" group-title="|TR|🇹🇷 ÇOCUK/SPOR",TİVİBU SPOR
-https://canlitvulusal.xyz/live/tivibuspor/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8g20RBH/ebatek.png" group-title="|TR|🇹🇷 ÇOCUK/SPOR",TRT EBA TV
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8g20RBH/ebatek.png" group-title="|TR|🇹🇷 ÇOCUK/SPOR",TRT EBA TV
@@ -1506,7 +1506,7 @@ https://cdn1-yozgatbeltv.yayin.com.tr/yozgatbeltv/yozgatbeltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png" group-title="|IL|🇮🇱 ISRAEL ישראל",KAN 11 כאן
 https://kan11w.media.kan.org.il/hls/live/2105694/2105694/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png" group-title="|IL|🇮🇱 ISRAEL ישראל",KAN 11 sub-cc כאן
-https://kan11sub.media.kan.org.il/hls/live/2024678/2024678/master.m3u8
+https://kan11sub.media.kan.org.il/hls/live/2024678/2024678/source1_2.5k/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" user-agent="SmartOs Tv" group-title="|IL|🇮🇱 ISRAEL ישראל",KESHET 12 קשת
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/keshetil/py/k12.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" group-title="|IL|🇮🇱 ISRAEL ישראל",KESHET 12 sub-cc קשת
@@ -1572,9 +1572,9 @@ https://shoppingil-rewriter.vidnt.com/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3RwfT5M/bigbil.png" group-title="|IL|🇮🇱 ISRAEL ישראל",BIG BROTHER IL [geo-blocked]
 https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png" group-title="|IL|🇮🇱 ISRAEL ישראל",KAN 11 כאן (backup)
-https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
+https://kan11.media.kan.org.il/hls/live/2024514/2024514/source1_2.5k/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png" group-title="|IL|🇮🇱 ISRAEL ישראל",KAN 11 כאן (backup)
-https://kan11b.media.kan.org.il/hls/live/2096972/2096972/playlist.m3u8
+https://kan11b.media.kan.org.il/hls/live/2096972/2096972/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" group-title="|IL|🇮🇱 ISRAEL ישראל",KESHET 12 קשת (backup)
 https://repe-depo.000webhostapp.com/kmk.php?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" user-agent="SmartOs Tv" group-title="|IL|🇮🇱 ISRAEL ישראל",KESHET 12 קשת (backup)
@@ -1697,6 +1697,8 @@ https://congresodirecto.akamaized.net/hls/live/2038274/canal1/master.m3u8
 https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GsLm5g5/trece.png" group-title="|ES|🇪🇸 ESPAÑA",TRECE INT
 https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bKLFcnD/a3cine.png" group-title="|ES|🇪🇸 ESPAÑA",ATRES SERIES
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:10_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h17Kt3g/fastatres.jpg" group-title="|ES|🇪🇸 ESPAÑA",ATRES CLÁSICOS
 https://fast-channels.atresmedia.com/648ef12c2bfab0e4507e0d61/648ef12c2bfab0e4507e0d61.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h17Kt3g/fastatres.jpg" group-title="|ES|🇪🇸 ESPAÑA",ATRES COMEDIA
