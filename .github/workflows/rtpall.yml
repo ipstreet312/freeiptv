@@ -29,7 +29,8 @@ jobs:
         run: |
           python3 ressources/tvipt/py/rtp1.py > ressources/tvipt/py/rtp1.m3u8 &&
           python3 ressources/tvipt/py/rtp2.py > ressources/tvipt/py/rtp2.m3u8 &&
-          python3 ressources/tvipt/py/rtp3.py > ressources/tvipt/py/rtp3.m3u8
+          python3 ressources/tvipt/py/rtp3.py > ressources/tvipt/py/rtp3.m3u8 &&
+          python3 ressources/tvipt/py/rtp4.py > ressources/tvipt/py/rtp4.m3u8
 
       - name: git add
         run: |
