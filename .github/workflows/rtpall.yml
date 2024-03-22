@@ -2,7 +2,7 @@ name: rtpall
 
 on:
   schedule:
-    - cron: '14 */14 * * *'
+    - cron: '14 */12 * * *'
   workflow_dispatch:
 
 jobs:
