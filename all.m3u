@@ -581,6 +581,8 @@ https://tvlocales-live.freecaster.com/95d2f6c9-e85f-4388-8e9c-596260a4206f/95d2f
 https://tvlocales-live.freecaster.com/95d2f631-8941-4efd-b223-0ebd56a033c4/95d2f631-8941-4efd-b223-0ebd56a033c4.isml/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fqq90Z2/noovo.png",NOOVO
 https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/index/de22f34f/live/stream/h264/v1/2048000/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CQb8zFT/lemanbleu.jpg",LÉMAN BLEU
+https://livevideo.vedge.infomaniak.com/livecast/naxoo/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y8QFgbN/carac.png",CARAC 1
 https://livevideo.vedge.infomaniak.com/livecast/ik:rougetv/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y8QFgbN/carac.png",CARAC 2
@@ -2671,6 +2673,10 @@ http://blank
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GcZR4DM/daserste.png",DAS ERSTE INTL
 https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GcZR4DM/daserste.png",DAS ERSTE INTL
+https://mcdn.daserste.de/daserste/int/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BPpZPBn/arte.png",ARTE DE
+https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
 #EXTINF:-1 group-title="|EU|🇪🇺 EUROPEAN COCKTAILTOUR🍸",--- |HR:🇭🇷 CROATIA| ---
 http://blank
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zNxvwRc/rtlhr.png",RTL HR
