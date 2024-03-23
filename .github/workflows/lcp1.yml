@@ -2,7 +2,7 @@ name: lcp1
 
 on:
   schedule:
-    - cron: '29 */05 * * *'
+    - cron: '29 */06 * * *'
   push:
     branches:
       - main
