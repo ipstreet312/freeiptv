@@ -600,13 +600,13 @@ https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/inde
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CQb8zFT/lemanbleu.jpg",LÉMAN BLEU
 https://livevideo.vedge.infomaniak.com/livecast/naxoo/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y8QFgbN/carac.png",CARAC 1
-https://livevideo.vedge.infomaniak.com/livecast/ik:rougetv/manifest.m3u8
+https://rougetv.vedge.infomaniak.com/livecast/rougetv/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y8QFgbN/carac.png",CARAC 2
-https://livevideo.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8
+https://onefmhd.vedge.infomaniak.com/livecast/onefmhd/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y8QFgbN/carac.png",CARAC 3
-https://livevideo.vedge.infomaniak.com/livecast/ik:lfmmd/manifest.m3u8
+https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y8QFgbN/carac.png",CARAC 4
-https://livevideo.vedge.infomaniak.com/livecast/ik:compack_media_1/manifest.m3u8
+https://compack_media_1.vedge.infomaniak.com/livecast/compack_media_1/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gz2wbkL/tvm3.png",TVM 3
 https://edge11.vedge.infomaniak.com/livecast/ik:tvm3/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1XYdy6j/canal9.png",CANAL 9
@@ -1072,7 +1072,7 @@ https://tv8-tb-live.ercdn.net/tv8bucuk/tv8bucuk.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xSjB51j/aspor.png",A SPOR (backup)
 https://new.cache-stream.workers.dev/stream/xrf_RbM_MNk/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xSjB51j/aspor.png",A SPOR (backup)
-https://ythls.armelin.one/video/xrf_RbM_MNk.m3u8
+https://ythlsgo.onrender.com/video/SzLuO_PW43A.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xSjB51j/aspor.png",A SPOR [tkn-blocked]
 https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xSjB51j/aspor.png",A SPOR [tkn-blocked]
