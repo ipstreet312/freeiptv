@@ -2,7 +2,7 @@ name: gnrcdm
 
 on:
   schedule:
-    - cron: '56 */5 * * *'
+    - cron: '56 */6 * * *'
   
   workflow_dispatch:
 
