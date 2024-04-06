@@ -545,8 +545,6 @@ https://indisponible
 https://indisponible
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3pbTbdG/ubizom.jpg",UBIZNEWS OM5TV
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/ubiznews.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XjzvmqL/tvmonaco.jpg",TV MONACO
-https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/2025/media.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BwD72ps/madras.png",MADRAS FM TV
 https://edge17.vedge.infomaniak.com/livecast/ik:madrasfmtv/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PxqLyjh/antreu.png",ANTENNE RÉUNION
@@ -571,6 +569,8 @@ https://hdfauth.ftven.fr/esi/TA?url=https://simulcast-p.ftven.fr/simulcast/1erRe
 https://hdfauth.ftven.fr/esi/TA?url=https://simulcast-p.ftven.fr/simulcast/1erMayotte/hls_1er/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",LA 1ÈRE N.CALÉDONIE [geo-area]
 https://hdfauth.ftven.fr/esi/TA?url=https://simulcast-p.ftven.fr/simulcast/1erMayotte/hls_1er/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XjzvmqL/tvmonaco.jpg",TV MONACO
+https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/2025/media.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0VSd8bM/zoombe.png",CANAL ZOOM
 https://tvlocales-live.freecaster.com/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5.isml/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WGHbhfh/latelebe.png",LA TÉLÉ
@@ -587,7 +587,7 @@ https://tvlocales-live.freecaster.com/95d2f480-3c9f-48ba-ba4e-af64b58431ef/95d2f
 https://tvlocales-live.freecaster.com/95d2f6eb-6f01-4d1d-8543-d14966de7b04/95d2f6eb-6f01-4d1d-8543-d14966de7b04.isml/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5TyhqWc/telemb.jpg",TÉLÉ MB
 https://tvlocales-live.freecaster.com/95d2f6c9-e85f-4388-8e9c-596260a4206f/95d2f6c9-e85f-4388-8e9c-596260a4206f.isml/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/y0jz90j/bouke.jpg",BOUKÉ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y0jz90j/bouke.jpg",BOUKÈ
 https://tvlocales-live.freecaster.com/95d2f70d-9229-478b-9aed-bc4fa220316d/95d2f70d-9229-478b-9aed-bc4fa220316d.isml/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2F48hsL/actv.png",ANTENNE CENTRE
 https://tvlocales-live.freecaster.com/95d2f733-1bc2-4bd5-9b96-c53ed3fc450f/95d2f733-1bc2-4bd5-9b96-c53ed3fc450f.isml/master.m3u8
