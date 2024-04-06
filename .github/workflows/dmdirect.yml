@@ -2,7 +2,7 @@ name: dmdirect
 
 on:
   schedule:
-    - cron: '44 */5 * * *'
+    - cron: '44 */6 * * *'
   
   workflow_dispatch:
 
