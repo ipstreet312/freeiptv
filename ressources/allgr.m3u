@@ -122,7 +122,7 @@ https://live-lci-hls.cdn-0.diff.tf1.fr/out/v1/917aad4fa72f42f7ba7f486226f54bc4/l
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pQ7kLNY/tv5fbs.png" group-title="|FR|🇫🇷 GÉNÉRALISTE",TV5MONDE FBSM
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" group-title="|FR|🇫🇷 GÉNÉRALISTE",TF1
-Error: HTTPSConnectionPool(host='pwultrp.alwaysdata.net', port=443): Max retries exceeded with url: /011tf.php?m3u8 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f4e87db69e0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIxODUuMzEuNDAuMjMiLCJjbWNkIjoiIiwiZXhwIjoxNzEyOTYxMzY1LCJnaWQiOiIxOTY3OWQxOS1kZjk2LTRmYTMtYjgxMS02YjQ4YjYyOTczOGUiLCJpYXQiOjE3MTI5NDY5NjUsImlzcyI6ImRlbGl2ZXJ5IiwibWF4YiI6MjAwMDAwMCwic3RlbSI6Ii9vdXQvdjEvNzgwNTQyZjUxNmYxNDNmYzhhZDliZjE0NjIyMzE2ZTcvdGYxLWNtYWYiLCJzdWIiOiIxOTY3OWQxOS1kZjk2LTRmYTMtYjgxMS02YjQ4YjYyOTczOGUifQ.OZ1dkzb_f8rGpFbBy9BBOf8InxMk5xYIGXITl9QsARs/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png" group-title="|FR|🇫🇷 GÉNÉRALISTE",M6
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png" group-title="|FR|🇫🇷 GÉNÉRALISTE",FRANCE 2
@@ -1743,6 +1743,10 @@ https://d3b13j525hja2q.cloudfront.net/23073/Latina/encrypted/4/prog_index.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/encrypted.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bNm7D0p/rlmdrd.png" group-title="|ES|🇪🇸 ESPAÑA",REAL MADRID CINEVERSE
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bNm7D0p/rlmdrd.png" group-title="|ES|🇪🇸 ESPAÑA",REAL MADRID TV
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65f96cd34e01740008ef1c97livestitch/master.m3u8?deviceDNT=%7BTARGETOPT%7D&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bNm7D0p/rlmdrd.png" group-title="|ES|🇪🇸 ESPAÑA",REAL MADRID TV
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65f96c0c2873090008d356d1livestitch/master.m3u8?deviceDNT=%7BTARGETOPT%7D&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NLVj121/eltoro.png" group-title="|ES|🇪🇸 ESPAÑA",EL TORO TV
 https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Qb7LPVN/andartv.png" group-title="|ES|🇪🇸 ESPAÑA",SUR 1 ANDALUCÍA
@@ -2845,6 +2849,8 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dPmZMqq/bbcn.png" group-title="|EN-UK-US|🇬🇧🇺🇸 WORLDWIDE-INTL ℹ️🌐",BBC NEWS
 https://vs-hls-push-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dPmZMqq/bbcn.png" group-title="|EN-UK-US|🇬🇧🇺🇸 WORLDWIDE-INTL ℹ️🌐",BBC NEWS
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8MBM4M1/skyn.png" group-title="|EN-UK-US|🇬🇧🇺🇸 WORLDWIDE-INTL ℹ️🌐",SKY NEWS
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_skynewsamericas_001.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8MBM4M1/skyn.png" group-title="|EN-UK-US|🇬🇧🇺🇸 WORLDWIDE-INTL ℹ️🌐",SKY NEWS
