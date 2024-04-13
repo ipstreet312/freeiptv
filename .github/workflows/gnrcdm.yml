@@ -24,7 +24,6 @@ jobs:
           cd ./ressources/dmotion/py/gnrcpltfrm
           python3 gnrcpltfrm.py "x8dtuir" > lemedia.m3u8
           python3 gnrcpltfrm.py "x7zjeht" > cnbcar.m3u8
-          python3 gnrcpltfrm.py "x6qdjk7" > journalgolf.m3u8
           echo "m3u grabbed"
         
       - name: git add
