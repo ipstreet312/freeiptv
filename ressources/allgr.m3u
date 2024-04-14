@@ -71,6 +71,8 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&e
 https://bloomberg-bloombergtv-1-fr.samsung.wurl.tv/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cCXgWWw/tvfinance.jpg" group-title="|FR|🇫🇷 INFORMATION",TV FINANCE
 https://strhlslb01.streamakaci.tv/str_tvfinance_tvfinance/str_tvfinance_multi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rwbrckj/pressir.png" group-title="|FR|🇫🇷 INFORMATION",PRESS IR FRENCH [temp barker]
+https://live4.presstv.ir/live/smil:presstvfr.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D7w9h7Q/rt.png" group-title="|FR|🇫🇷 INFORMATION",RT FRANÇAIS [censure-blocked]
 https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D7w9h7Q/rt.png" group-title="|FR|🇫🇷 INFORMATION",RT FRANÇAIS [censure-blocked]
@@ -2783,6 +2785,118 @@ http://str.yodacdn.net/medeniyyet/index.m3u8
 https://edge02.odtv.az/o1/ictimai/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png" user-agent="ExoPlayer2/2.37" group-title="|GE-AM-AZ|🇬🇪🇦🇲🇦🇿 CAUCASIAN",SPACE TV
 https://edge02.odtv.az/o1/space/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tMV7LBL/irib1.png" group-title="|IR|🇮🇷 IRAN",IRIB 1
+https://live.aionet.ir/hls/tv1/tv1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6ndKkPM/irib2.png" group-title="|IR|🇮🇷 IRAN",IRIB 2
+https://live.aionet.ir/hls/tv2/tv2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4YQsfv9/irib3.png" group-title="|IR|🇮🇷 IRAN",IRIB 3
+https://live.aionet.ir/hls/tv3/tv3.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D5S2Q2z/irib4.png" group-title="|IR|🇮🇷 IRAN",IRIB 4
+https://live.aionet.ir/hls/tv4/tv4.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kzb8VkY/irib5.png" group-title="|IR|🇮🇷 IRAN",IRIB 5
+https://live.aionet.ir/hls/tv5/tv5.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GMLStpQ/amoozesh.png" group-title="|IR|🇮🇷 IRAN",IRIB AMOOZESH
+https://live.aionet.ir/hls/amoozesh/amoozesh.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1LmYfnH/mostanad.png" group-title="|IR|🇮🇷 IRAN",IRIB MOSTANAD
+https://live.aionet.ir/hls/mostanad/mostanad.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wsVP42F/namayesh.png" group-title="|IR|🇮🇷 IRAN",IRIB NAMAYESH
+https://live.aionet.ir/hls/namayesh/namayesh.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pwxkFvX/nassim.jpg" group-title="|IR|🇮🇷 IRAN",IRIB NASIM
+https://live.aionet.ir/hls/nasim/nasim.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RgQXYbM/pooya.png" group-title="|IR|🇮🇷 IRAN",IRIB POOYA
+https://live.aionet.ir/hls/pooya/pooya.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wJHhH03/salamat.png" group-title="|IR|🇮🇷 IRAN",IRIB SALAMAT
+https://live.aionet.ir/hls/salamat/salamat.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PYMzQFX/tamasha.png" group-title="|IR|🇮🇷 IRAN",IRIB TAMASHA
+https://live.aionet.ir/hls/tamasha/tamasha.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XsXzKJG/varzesh.png" group-title="|IR|🇮🇷 IRAN",IRIB VARZESH
+https://live.aionet.ir/hls/varzesh/varzesh.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N6PTbMG/mesrafsanjan.png" group-title="|IR|🇮🇷 IRAN",IRIB MESRAFSANJAN
+https://live.aionet.ir/hls/mesrafsanjan/mesrafsanjan.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xHSzVy5/eshareh.png" group-title="|IR|🇮🇷 IRAN",IRIB ESHAREH
+https://live.aionet.ir/hls/eshareh/eshareh.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hVkbvpQ/irinn.png" group-title="|IR|🇮🇷 IRAN",IRIB IRINN
+https://live.aionet.ir/hls/irinn/irinn.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X5KJmDS/aiosport1.jpg" group-title="|IR|🇮🇷 IRAN",IRIB AIOSPORT
+https://live.aionet.ir/hls/aiosport/aiosport.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VDQwTkz/aiosport2.jpg" group-title="|IR|🇮🇷 IRAN",IRIB AIOSPORT 2
+https://live.aionet.ir/hls/aiosport2/aiosport2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kDhcymF/ifilm.png" group-title="|IR|🇮🇷 IRAN",IRIB IFILM FAR 1
+https://cdnlive.presstv.ir/ifilmlive/smil:ifilm2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kDhcymF/ifilm.png" group-title="|IR|🇮🇷 IRAN",IRIB IFILM FAR 2
+https://cdnlive.presstv.ir/ifilmlive/smil:ifilmfa.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tqkV2sn/irflag.png" group-title="|IR|🇮🇷 IRAN",HASTI TV
+https://live.hastitv.com/hls/livetv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tqkV2sn/irflag.png" group-title="|IR|🇮🇷 IRAN",ASIL TV
+https://live.asil.tv/asiltv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tqkV2sn/irflag.png" group-title="|IR|🇮🇷 IRAN",SNN TV
+https://live2.snn.ir/hls/snn.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tqkV2sn/irflag.png" group-title="|IR|🇮🇷 IRAN",NEJAT TV
+https://hls.nejat.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tqkV2sn/irflag.png" group-title="|IR|🇮🇷 IRAN",VOX 1
+https://hls.vox1.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tqkV2sn/irflag.png" group-title="|IR|🇮🇷 IRAN",YOUR TIME
+https://hls.yourtime.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tqkV2sn/irflag.png" group-title="|IR|🇮🇷 IRAN",HOD HOD
+https://hls.hodhod.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tqkV2sn/irflag.png" group-title="|IR|🇮🇷 IRAN",24/7 BOX
+https://hls.247box.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tqkV2sn/irflag.png" group-title="|IR|🇮🇷 IRAN",OX IR
+https://hls.oxir.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tqkV2sn/irflag.png" group-title="|IR|🇮🇷 IRAN",AVA FAMILY
+https://familyhls.avatv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tqkV2sn/irflag.png" group-title="|IR|🇮🇷 IRAN",PARS
+https://parshls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tqkV2sn/irflag.png" group-title="|IR|🇮🇷 IRAN",SL ONE
+https://slonehls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tqkV2sn/irflag.png" group-title="|IR|🇮🇷 IRAN",SL TWO
+https://sltwohls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tqkV2sn/irflag.png" group-title="|IR|🇮🇷 IRAN",P FILM
+https://pfilmhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tqkV2sn/irflag.png" group-title="|IR|🇮🇷 IRAN",ITN
+https://itnhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tqkV2sn/irflag.png" group-title="|IR|🇮🇷 IRAN",META FILM
+https://metafilmhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tqkV2sn/irflag.png" group-title="|IR|🇮🇷 IRAN",AVA SERIES
+https://avaserieshls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tqkV2sn/irflag.png" group-title="|IR|🇮🇷 IRAN",BRAVOO
+https://bravoohls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tqkV2sn/irflag.png" group-title="|IR|🇮🇷 IRAN",FX TV
+https://fxtvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tqkV2sn/irflag.png" group-title="|IR|🇮🇷 IRAN",OI TN
+https://oitnhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tqkV2sn/irflag.png" group-title="|IR|🇮🇷 IRAN",TAPESH
+https://iptv.tapesh.tv/tapesh/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tqkV2sn/irflag.png" group-title="|IR|🇮🇷 IRAN",TAPESH IR
+https://iptv.tapesh.tv/tapeshiran/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tqkV2sn/irflag.png" group-title="|IR|🇮🇷 IRAN",MIHAN TV
+https://iptv.mihantv.com/mihantv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tqkV2sn/irflag.png" group-title="|IR|🇮🇷 IRAN",NEGAH TV
+https://iptv.negahtv.com/negahtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tqkV2sn/irflag.png" group-title="|IR|🇮🇷 IRAN",AL WILAYAH
+https://alwilayah.tv/cdn/alwilayah_tv-manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tqkV2sn/irflag.png" group-title="|IR|🇮🇷 IRAN",PAYVAND
+https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tqkV2sn/irflag.png" group-title="|IR|🇮🇷 IRAN",PJ TV
+https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tqkV2sn/irflag.png" group-title="|IR|🇮🇷 IRAN",ASSIRAT
+https://svs.itworkscdn.net/assiratvlive/assirat/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tMV7LBL/irib1.png" group-title="|IR|🇮🇷 IRAN",IRIB 1 (backup)
+https://s1.ettehadlive.com/live/39/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6ndKkPM/irib2.png" group-title="|IR|🇮🇷 IRAN",IRIB 2 (backup)
+https://s1.ettehadlive.com/live/40/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4YQsfv9/irib3.png" group-title="|IR|🇮🇷 IRAN",IRIB 3 (backup)
+https://af.ayas.ir/hls2/tv3.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4YQsfv9/irib3.png" group-title="|IR|🇮🇷 IRAN",IRIB 3 (backup)
+https://s1.ettehadlive.com/live/114/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D5S2Q2z/irib4.png" group-title="|IR|🇮🇷 IRAN",IRIB 4 (backup)
+https://s1.ettehadlive.com/live/41/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kzb8VkY/irib5.png" group-title="|IR|🇮🇷 IRAN",IRIB 5 (backup)
+https://ncdn.telewebion.com/tv5/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hVkbvpQ/irinn.png" group-title="|IR|🇮🇷 IRAN",IRIB IRINN (backup)
+https://s1.ettehadlive.com/live/42/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png" group-title="|EN-UK-US|🇬🇧🇺🇸 WORLDWIDE-INTL ℹ️🌐",CNN INT
