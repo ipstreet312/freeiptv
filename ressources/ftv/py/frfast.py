@@ -13,6 +13,9 @@ def generate_frser_m3u8(original_url, output_file):
 
     newser_string = string.replace("manifest", "video_7201280_p_0")
     with open(output_file, "w") as f:
+        print('#EXTM3U')
+        print('#EXT-X-VERSION:3')
+        print('#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3022199,CODECS="avc1.64001F, mp4a.40.2", RESOLUTION=1280x720, SUBTITLES="subs", AUDIO="audio_1000017564_128"')
         print(newser_string, file=f)
     newser2_string = string.replace("manifest", "A_audio_1000017564_128_fr")
     with open(output_file, "a") as f:
@@ -23,6 +26,9 @@ def generate_frdoc_m3u8(original_url, replacement_url, output_file):
 
     newdoc_string = string.replace(original_url, replacement_url).replace("manifest", "video_7201280_p_0")
     with open(output_file, "w") as f:
+        print('#EXTM3U')
+        print('#EXT-X-VERSION:3')
+        print('#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3022199,CODECS="avc1.64001F, mp4a.40.2", RESOLUTION=1280x720, SUBTITLES="subs", AUDIO="audio_1000017564_128"')
         print(newdoc_string, file=f)
     newdoc2_string = string.replace(original_url, replacement_url).replace("manifest", "A_audio_1000017564_128_fr")
     with open(output_file, "a") as f:
