@@ -45,4 +45,4 @@ if __name__ == "__main__":
     replacement_url = "https://live-thema.ftven.fr/docs/735e9260-bb63-11ee-a1a7-0200170265fd_0_HLS-francedomtom"
     
     generate_frser_m3u8(original_url, sys.argv[1])
-    generate_frdoc_m3u8(original_url, replacement_url, sys.argv[2])
+    generate_frdoc_m3u8(original_url, sys.argv[2])
