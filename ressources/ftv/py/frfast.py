@@ -1,5 +1,4 @@
-
-#!/usr/bin/python3
+ #!/usr/bin/python3
 
 import requests
 import sys
@@ -22,7 +21,9 @@ def generate_frser_m3u8(original_url, output_file):
     with open(output_file, "a") as f:
         print(f'#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_1000017564_128",LANGUAGE="fr",NAME="fr",DEFAULT=YES,AUTOSELECT=YES,URI="{newser2_string}"', file=f)
 
-def generate_frdoc_m3u8(original_url, replacement_url, output_file):
+def generate_frdoc_m3u8(original_url, output_file):
+    replacement_url = "https://live-thema.ftven.fr/docs/735e9260-bb63-11ee-a1a7-0200170265fd_0_HLS-francedomtom"
+
     string = fetch_response(f'https://hdfauth.ftven.fr/esi/TA?url={original_url}/manifest.m3u8')
 
     newdoc_string = string.replace(original_url, replacement_url).replace("manifest", "video_7201280_p_0")
