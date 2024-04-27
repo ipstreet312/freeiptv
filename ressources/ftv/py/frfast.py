@@ -26,7 +26,7 @@ def generate_frdoc_m3u8(original_url, replacement_url):
 
 if __name__ == "__main__":
     if len(sys.argv) != 2:
-        print("Usage: python3 frsr.py <output_file>")
+        print("Usage: python3 frfast.py <output_file>")
         sys.exit(1)
     
     output_file = sys.argv[1]
