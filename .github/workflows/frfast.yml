@@ -1,0 +1,31 @@
+name: frfast action
+
+on:
+  schedule:
+    - cron: '43 */4 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: config
+        run: |
+          git config --global user.email "<>"
+          git config --global user.name "frfast bot"
+
+      - name: updating frfast
+        run: python3 ressources/ftv/py/frfast.py > ressources/ftv/py/frser.m3u8 && ressources/ftv/py/frdoc.m3u8
+
+      - name: git add
+        run: |
+          git add -A
+          ls -la 
+          
+      - name: commit & push
+        run: |
+          git pull
+          git commit -m "frfast updated"
+          git push
