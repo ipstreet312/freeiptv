@@ -30,7 +30,7 @@ def generate_frdoc_m3u8(original_url, output_file):  # Updated function signatur
         print('#EXT-X-VERSION:3', file=f)
         print('#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3022199,CODECS="avc1.64001F, mp4a.40.2", RESOLUTION=1280x720, SUBTITLES="subs", AUDIO="audio_1000017564_128"', file=f)
         print(newdoc_string, file=f)
-    newdoc2_string = newdoc_string.replace("manifest", "A_audio_1000017564_128_fr")
+    newdoc2_string = newdoc_string.replace("video_7201280_p_0", "A_audio_1000017564_128_fr")
     with open(output_file, "a") as f:
         print(f'#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_1000017564_128",LANGUAGE="fr",NAME="fr",DEFAULT=YES,AUTOSELECT=YES,URI="{newdoc2_string}"', file=f)
 
