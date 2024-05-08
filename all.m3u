@@ -55,6 +55,8 @@ https://live-ln24.digiteka.com/1911668011/index.m3u8
 https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sq11nQ1/rdicanada.png",RDI CANADA
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sq11nQ1/rdicanada.png",RDI CANADA
+https://d352zobhe5lhe6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-j7m6inrqe6jat/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pdnMrZn/a24.png",AFRICA 24 FR
 https://livevideo.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XSYtYHZ/africanews.png",AFRICANEWS FR
@@ -139,6 +141,8 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frser.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kJjHW61/frdocs.png",FRANCE TV DOCS
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frdoc.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8KwH7RT/frjo24.png",FRANCE TV JO-2024
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frjo24.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BPpZPBn/arte.png",ARTE
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6spXX2y/nrj12.png",NRJ 12
@@ -292,7 +296,7 @@ https://194270.global.ssl.fastly.net/63b43410861d94a9eee067fb/live_947330308dd91
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yPsXSFf/esprsorc.png" referer="https://player.castr.com/",L'ÉSPRIT SORCIER TV
 https://stream.castr.com/63b43410861d94a9eee067fb/live_947330308dd911edb85c8181cb9b11a8/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Xt5YPJY/jdgolf.png" user-agent="Mozilla/5.0", referer="http://callofliberty.fr/",JOURNAL DU GOLF
-http://s2.callofliberty.fr/directtvcol/journaldugolftv/master.m3u8
+http://s2.callofliberty.fr/directa/journaldugolftv/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HnSphLp/sqool.jpg",SQOOL TV
 https://new.cache-stream.workers.dev/stream/UCaEqMbRYYOmI3WrALMhxuIg/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HnSphLp/sqool.jpg",SQOOL TV
@@ -307,6 +311,8 @@ https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01596-gongnetworks-gong-samsungfr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MMpFXQL/gong.jpg",GONG
 https://amg01596-gongnetworks-gong-samsungfr-2q4y3.amagi.tv/playlist/amg01596-gongnetworks-gong-samsungfr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kDmhscZ/mgg.png",MGG E-SPORT
+https://d1mdvi698umja9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kuib43fy5umqi-ssai-prd/mgg.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0YKFn02/motorvisionfrs.png",MOTORVISION FR
 https://d1qswsont218xa.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-im2kwho8ev6jk/mv_fr.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0sdMx5Z/mtrvsn.png",MOTORVISION TV
@@ -349,6 +355,18 @@ https://livevideo.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifest.m3u8
 https://livevideo.vedge.infomaniak.com/livecast/ik:bblackclassik/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VvMKr5V/wildside.jpg",WILD SIDE TV
 https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XYtgFvZ/Sony-One-Action-Hits.png",SONY ONE ACTION HITS
+https://linear-817.frequency.stream/mt/studio/817/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/V2Q59St/Sony-One-Comedy-Hits.png",SONY ONE COMÉDIE HITS
+https://linear-818.frequency.stream/mt/studio/818/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfK0qb7/Sony-One-Comedy.png",SONY ONE COMÉDIE
+https://linear-819.frequency.stream/mt/studio/819/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2ysh3m6/Sony-One-Favoris.png",SONY ONE FAVORIS
+https://linear-820.frequency.stream/mt/studio/820/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fMzKRRs/Sony-One-Thriller.png",SONY ONE THRILLER
+https://linear-821.frequency.stream/mt/studio/821/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S6Mq95y/Sony-One-blacklist.png",SONY ONE BLACKLIST
+https://linear-822.frequency.stream/mt/studio/822/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/883phd1/ktook.png",KTO
 https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xJyNqdg/dieutv.png",DIEU TV
@@ -1801,6 +1819,8 @@ https://ztnr.rtve.es/ztnr/4952053.m3u8
 https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xmGNS4w/tvcata.jpg",TV3 CATALUNYA 24H
 https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hB1Y74S/infocat.jpg",INFOCIUDADES TV CATALUNYA
+https://consultant1267.cloudhostservers.com:3150/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2F2XDFd/bondia.png",BON DIA TV
 https://directes-tv-int.ccma.cat/live-origin/bondia-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5kpD2Jv/cat8.png",CATALUNYA 8
@@ -1818,13 +1838,13 @@ https://laotra-1-23-secure2.akamaized.net/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6RYq1MS/extram.png",CANAL EXTRAMADURA
 https://cdnapisec.kaltura.com/p/5581662/sp/558166200/playManifest/entryId/1_in8cxw3w/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LtG0fMD/galic.jpg",TVG GALICIA EU
-https://europa-crtvg.flumotion.com/playlist.m3u8
+https://crtvg-europa.flumotion.cloud/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LtG0fMD/galic.jpg",TVG GALICIA AM
-http://america-crtvg.flumotion.com/playlist.m3u8
+https://crtvg-america.flumotion.cloud/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LtG0fMD/galic.jpg",TVG GALICIA MO
-https://amodino-crtvg.flumotion.com/playlist.m3u8
+https://crtvg-amodino.flumotion.cloud/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LtG0fMD/galic.jpg",TVG CULTURAL
-https://cultural-crtvg.flumotion.com/playlist.m3u8
+https://crtvg-cultural.flumotion.cloud/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LtG0fMD/galic.jpg",TVG INFANTIL
 https://infantil-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LtG0fMD/galic.jpg",TVG 2
