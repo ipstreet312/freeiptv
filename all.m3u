@@ -254,6 +254,8 @@ https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/tmc.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LNRd253/w9.png",W9 (check)
 http://gratuittv.free.fr/Files/w9/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6 (test)
+https://s14.tntendirect.com/m6/live/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6 (test)
 https://s14.tntendirect.com/m6/live/playlist.m3u8
 
 
@@ -297,8 +299,12 @@ https://194270.global.ssl.fastly.net/63b43410861d94a9eee067fb/live_947330308dd91
 https://stream.castr.com/63b43410861d94a9eee067fb/live_947330308dd911edb85c8181cb9b11a8/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Xt5YPJY/jdgolf.png" user-agent="Mozilla/5.0", referer="http://callofliberty.fr/",JOURNAL DU GOLF
 http://s2.callofliberty.fr/directa/journaldugolftv/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Xt5YPJY/jdgolf.png" user-agent="Mozilla/5.0", referer="http://s2.callofliberty.fr/directa/",JOURNAL DU GOLF
-http://s2.callofliberty.fr/directa/journaldugolftv/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Xt5YPJY/jdgolf.png" user-agent="Mozilla/5.0", referer="http://callofliberty.fr/",F2 TEST
+http://s2.callofliberty.fr/directa/france.2/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Xt5YPJY/jdgolf.png" user-agent="Mozilla/5.0", referer="http://callofliberty.fr/",C8 TEST
+http://s2.callofliberty.fr/directa/C8/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Xt5YPJY/jdgolf.png" user-agent="Mozilla/5.0", referer="http://callofliberty.fr/",CP TEST
+http://s2.callofliberty.fr/directa/CANALPLUS/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HnSphLp/sqool.jpg",SQOOL TV
 https://new.cache-stream.workers.dev/stream/UCaEqMbRYYOmI3WrALMhxuIg/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HnSphLp/sqool.jpg",SQOOL TV
@@ -2054,13 +2060,13 @@ https://63df3191463ce.streamlock.net/live/ngrp:Live2.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rfwFbLk/telemaroc.gif",TELE MAROC قناة المغرب
 https://api.new.livestream.com/accounts/27130247/events/9197096/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rQJcGTc/medi1tv.png",MEDI 1 MG العربية
-http://streaming2.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rQJcGTc/medi1tv.png" referer="https://idara.medi1tv.ma/",MEDI 1 MG العربية
 http://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rQJcGTc/medi1tv.png" referer="https://idara.medi1tv.ma/",MEDI 1 AR العربية
-http://streaming2.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rQJcGTc/medi1tv.png" referer="https://idara.medi1tv.ma/",MEDI 1 FR العربية
-http://streaming1.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rQJcGTc/medi1tv.png",MEDI 1 AR العربية
+https://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rQJcGTc/medi1tv.png",MEDI 1 FR العربية
+http://streaming2.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rQJcGTc/medi1tv.png",MEDI 1 FR العربية
+https://streaming2.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pdd2VqB/chada.jpg",CHADA TV شدى
 https://edge14.vedge.infomaniak.com/livecast/chadatv/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pdd2VqB/chada.jpg",CHADA TV شدى
@@ -2159,18 +2165,6 @@ http://live.watania1.tn:1935/live/watanya1.stream/playlist.m3u8
 http://live.watania2.tn:1935/live/watanya2.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4N2sNS/cna.png",CNA
 https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rQJcGTc/medi1tv.png" referer="https://idara.medi1tv.ma/",MEDI 1 MG العربية (refchunkps)
-https://streaming2.medi1tv.com/live/smil:medi1tv.smil/chunklist_w1431894868_b2128000_slar.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rQJcGTc/medi1tv.png" referer="https://idara.medi1tv.ma/",MEDI 1 AR العربية (refchunkps)
-https://streaming2.medi1tv.com/live/smil:medi1ar.smil/chunklist_w1867748434_b2256000_slar.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rQJcGTc/medi1tv.png" referer="https://idara.medi1tv.ma/",MEDI 1 FR العربية (refchunkps)
-https://streaming1.medi1tv.com/live/smil:medi1fr.smil/chunklist_w307058997_b2128000_slar.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rQJcGTc/medi1tv.png" referer="https://idara.medi1tv.ma/",MEDI 1 MG العربية (refplyps)
-https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rQJcGTc/medi1tv.png" referer="https://idara.medi1tv.ma/",MEDI 1 AR العربية (refplyps)
-https://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rQJcGTc/medi1tv.png" referer="https://idara.medi1tv.ma/",MEDI 1 FR العربية (refplyps)
-https://streaming2.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s107QNv/araby2.png" group-title="|AR|🇸🇦 MIDDLE EAST-1 عربي",AL ARABY 2
