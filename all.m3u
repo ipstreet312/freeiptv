@@ -254,7 +254,7 @@ https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/tmc.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LNRd253/w9.png",W9 (check)
 http://gratuittv.free.fr/Files/w9/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6 (test)
-https://s14.tntendirect.com/m6/live/chunks.m3u8
+https://livetvde.net/m6/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6 (test)
 https://s14.tntendirect.com/m6/live/playlist.m3u8
 
@@ -298,7 +298,7 @@ https://194270.global.ssl.fastly.net/63b43410861d94a9eee067fb/live_947330308dd91
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yPsXSFf/esprsorc.png" referer="https://player.castr.com/",L'ÉSPRIT SORCIER TV
 https://stream.castr.com/63b43410861d94a9eee067fb/live_947330308dd911edb85c8181cb9b11a8/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Xt5YPJY/jdgolf.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0", referer="http://callofliberty.fr/",JOURNAL DU GOLF
-http://s2.callofliberty.fr/directa/journaldugolftv/master.m3u8
+http://s2.callofliberty.fr/directb/journaldugolftv/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HnSphLp/sqool.jpg",SQOOL TV
 https://new.cache-stream.workers.dev/stream/UCaEqMbRYYOmI3WrALMhxuIg/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HnSphLp/sqool.jpg",SQOOL TV
