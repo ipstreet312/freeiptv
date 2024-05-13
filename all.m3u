@@ -1607,6 +1607,8 @@ https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
 https://contactgbs.mmdlive.lldns.net/contactgbs/dd4f5f04932345f1b47c4bfb45fbd682/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yc5Yf1q/sport5il.png",SPORT5 STUDIO RADIO LIVE
 https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yc5Yf1q/sport5il.png",SPORT5 STUDIO RADIO LIVE
+https://rgelive.akamaized.net/hls/live/2043095/live3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/93bQz4t/kabalah.png",KABBALAH 96
 http://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/93bQz4t/kabalah.png",KABBALAH 96
@@ -1628,7 +1630,7 @@ https://kan11.media.kan.org.il/hls/live/2024514/2024514/source1_2.5k/chunklist.m
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png",KAN 11 כאן (backup)
 https://kan11b.media.kan.org.il/hls/live/2096972/2096972/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png",KESHET 12 קשת (backup)
-https://repe-depo.000webhostapp.com/kmk.php?m3u8
+https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12/profile/3/profileManifest.m3u8?_uid=a004f873-f654-4ab8-a86c-4aa2bbfc909d&rK=a1&_did=5aaade67-aa2b-4ebd-b804-2f884aebce5a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" user-agent="SmartOs Tv",KESHET 12 קשת (backup)
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/keshetil/py/k12cc.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MnSQCcr/R1322.jpg",RESHET 13 רשת (backup)
@@ -1785,6 +1787,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-ci
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65f96cd34e01740008ef1c97livestitch/master.m3u8?deviceDNT=%7BTARGETOPT%7D&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bNm7D0p/rlmdrd.png",REAL MADRID TV
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65f96c0c2873090008d356d1livestitch/master.m3u8?deviceDNT=%7BTARGETOPT%7D&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bNm7D0p/rlmdrd.png",REAL MADRID TV
+https://rmtv-canela.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NLVj121/eltoro.png",EL TORO TV
 https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Qb7LPVN/andartv.png",SUR 1 ANDALUCÍA
