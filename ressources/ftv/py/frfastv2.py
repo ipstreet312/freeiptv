@@ -33,7 +33,7 @@ def generate_frdoc_m3u8(string, output_file):
 
 if __name__ == "__main__":
     if len(sys.argv) != 3:
-        print("Usage: python3 frfast.py <output_file_frser> <output_file_frdoc>")
+        print("Usage: python3 frfastv2.py <output_file_frser> <output_file_frdoc>")
         sys.exit(1)
     
     original_url = "https://live-series.ftven.fr/bde12330-fbf2-44e7-8a7c-c5f31806460c_1000017564_HLS-francedomtom"
