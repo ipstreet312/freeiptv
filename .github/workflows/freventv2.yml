@@ -1,0 +1,31 @@
+name: freventv2 action
+
+on:
+  schedule:
+    - cron: '35 */4 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: config
+        run: |
+          git config --global user.email "<>"
+          git config --global user.name "freventv2 bot"
+
+      - name: updating frfastv2
+        run: python3 ressources/ftv/py/freventv2.py ressources/ftv/py/frjo24v2.m3u8 ressources/ftv/py/frfescanv2.m3u8
+
+      - name: git add
+        run: |
+          git add -A
+          ls -la 
+          
+      - name: commit & push
+        run: |
+          git pull
+          git commit -m "freventv2 updated"
+          git push
