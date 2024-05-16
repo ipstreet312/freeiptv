@@ -8,7 +8,7 @@ def fetch_response(url):
     response = s.get(url)
     return response.text
 
-def generate_frser_m3u8(string, output_file):
+def generate_frjo24v2_m3u8(string, output_file):
     frjo24v2_string = string.replace("master", "b0EF_720p/playlist")
     with open(output_file, "w") as f:
         print('#EXTM3U', file=f)
@@ -16,9 +16,8 @@ def generate_frser_m3u8(string, output_file):
         print('#EXT-X-STREAM-INF:BANDWIDTH=2855600,AVERAGE-BANDWIDTH=2479236,RESOLUTION=1280x720,FRAME-RATE=25.000,CODECS="avc1.640020,mp4a.40.2"', file=f)
         print(frjo24v2_string, file=f)
 
-def generate_frdoc_m3u8(string, output_file):
+def generate_frfescanv2_m3u8(string, output_file):
     fescanv2_string = string.replace("live-olympics", "live-event").replace("paris2024-francedomtom", "out/v1/65fb695a25404e08944943d011abca75").replace("master", "index_france-domtom_26")
-    
     with open(output_file, "w") as f:
         print('#EXTM3U', file=f)
         print('#EXT-X-VERSION:3', file=f)
