@@ -22,6 +22,7 @@ def generate_frser_m3u8(original_url, output_file):
         print(f'#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_1000017564_128",LANGUAGE="fr",NAME="fr",DEFAULT=YES,AUTOSELECT=YES,URI="{newser2_string}"', file=f)
 
 def generate_frdoc_m3u8(original_url, output_file):
+    string = fetch_response(f'https://hdfauth.ftven.fr/esi/TA?url={original_url}/manifest.m3u8')
     newdoc_string = string.replace("live-series", "live-thema").replace("bde12330-fbf2-44e7-8a7c-c5f31806460c_1000017564_HLS-francedomtom", "docs/735e9260-bb63-11ee-a1a7-0200170265fd_0_HLS-francedomtom").replace("manifest", "video_7201280_p_0")
     
     with open(output_file, "w") as f:
