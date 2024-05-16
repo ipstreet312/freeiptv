@@ -1,0 +1,31 @@
+name: frfastv2 action
+
+on:
+  schedule:
+    - cron: '43 */4 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: config
+        run: |
+          git config --global user.email "<>"
+          git config --global user.name "frfastv2 bot"
+
+      - name: updating frfastv2
+        run: python3 ressources/ftv/py/frfastv2.py ressources/ftv/py/frserv2.m3u8 ressources/ftv/py/frdocv2.m3u8
+
+      - name: git add
+        run: |
+          git add -A
+          ls -la 
+          
+      - name: commit & push
+        run: |
+          git pull
+          git commit -m "frfastv2 updated"
+          git push
