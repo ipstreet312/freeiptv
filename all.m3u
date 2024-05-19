@@ -2091,11 +2091,11 @@ https://github.com/MassinDV/Youtube-arabic-channels/raw/main/live/ch35.m3u8
 https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9tsD8WP/TV2Al.png",TV2 ALGERIE
 https://bozztv.com/inim03/live1/giniko_canalalgerie/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pPwR2Tc/ennahar.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0", referer="https://echorouk.dzsecurity.net/",ENNAHAR TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pPwR2Tc/ennahar.png" user-agent="Mozilla/5.0", referer="https://echorouk.dzsecurity.net/",ENNAHAR TV
 https://ennahar-live.dzsecurity.net/fullres/EnnaharTV_First/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yQmcHjz/echourouk.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0", referer="https://echorouk.dzsecurity.net/",ECHOROUK TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yQmcHjz/echourouk.png" user-agent="Mozilla/5.0", referer="https://echorouk.dzsecurity.net/",ECHOROUK TV
 https://echorouk-live-tv.dzsecurity.net/fullres/EchoroukTV_First/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1vH6q4L/echounws.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0", referer="https://echorouk.dzsecurity.net/",ECHOROUK NEWS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1vH6q4L/echounws.png" user-agent="Mozilla/5.0", referer="https://echorouk.dzsecurity.net/",ECHOROUK NEWS
 https://echorouk-live-tv.dzsecurity.net/fullres/EchoroukNews_First/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/stZxQHF/nessma.png",NESSMA
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dzflix/nessma.m3u8
@@ -3199,13 +3199,7 @@ https://
 https://
 #EXTINF:-1,⚪🆗✔️✅Blank Empty New Service
 http://
+#EXTINF:-1 referer="https://echorouk.dzsecurity.net/",test00
+https://echorouk-live-tv.dzsecurity.net/fullres/EchoroukNews_First/playlist.m3u8
 #EXTINF:-1,test01
 http://
-#EXTINF:-1 user-agent="Mozilla/5.0", referer="https://echorouk.dzsecurity.net/",Moz
-https://echorouk-live-tv.dzsecurity.net/fullres/EchoroukNews_First/playlist.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)", referer="https://echorouk.dzsecurity.net/",Moz Win
-https://echorouk-live-tv.dzsecurity.net/fullres/EchoroukNews_First/playlist.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)", referer="https://echorouk.dzsecurity.net/",Moz Win App
-https://echorouk-live-tv.dzsecurity.net/fullres/EchoroukNews_First/playlist.m3u8
-#EXTINF:-1 user-agent="Edg/125.0.0.0", referer="https://echorouk.dzsecurity.net/",Edg
-https://echorouk-live-tv.dzsecurity.net/fullres/EchoroukNews_First/playlist.m3u8
