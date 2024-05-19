@@ -37,3 +37,12 @@ if chunks:
     print(chunked)
 else:
     print("Failed to get the specific line from the online file.")
+    
+print('#EXT-X-STREAM-INF:BANDWIDTH=4681600,AVERAGE-BANDWIDTH=4505600,CODECS="avc1.64002a,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=50.000')
+
+chunksfhd = get_specific_line_online(final_master, 15)
+if chunksfhd:
+    chunkedfhd = f'https://mako-streaming.akamaized.net/direct/hls/live/2033791/k12/{chunksfhd}'
+    print(chunkedfhd)
+else:
+    print("Failed to get the specific line from the online file.")
