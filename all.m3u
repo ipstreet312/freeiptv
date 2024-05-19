@@ -3201,3 +3201,11 @@ https://
 http://
 #EXTINF:-1,test01
 http://
+#EXTINF:-1 user-agent="Mozilla/5.0", referer="https://echorouk.dzsecurity.net/",Moz
+https://echorouk-live-tv.dzsecurity.net/fullres/EchoroukNews_First/playlist.m3u8
+#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)", referer="https://echorouk.dzsecurity.net/",Moz Win
+https://echorouk-live-tv.dzsecurity.net/fullres/EchoroukNews_First/playlist.m3u8
+#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)", referer="https://echorouk.dzsecurity.net/",Moz Win App
+https://echorouk-live-tv.dzsecurity.net/fullres/EchoroukNews_First/playlist.m3u8
+#EXTINF:-1 user-agent="Edg/125.0.0.0", referer="https://echorouk.dzsecurity.net/",Edg
+https://echorouk-live-tv.dzsecurity.net/fullres/EchoroukNews_First/playlist.m3u8
