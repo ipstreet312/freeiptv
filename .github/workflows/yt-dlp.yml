@@ -1,0 +1,48 @@
+name: yt-dlp dm
+
+on:
+  schedule:
+    - cron: '0 */3 * * *'
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: config
+      run: |
+        git config --global user.email "<>"
+        git config --global user.name "yt-dlp dm"
+
+    - name: Install yt-dlp
+      run: |
+        sudo curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -o /usr/local/bin/yt-dlp
+        sudo chmod a+rx /usr/local/bin/yt-dlp
+
+# Dailymotion
+        
+    - name: C8
+      run: |
+        touch ./ressources/dmotion/py/yt-dlp/c8.m3u8
+        sudo cat >./ressources/dmotion/py/yt-dlp/c8.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.dailymotion.com/video/x5gv5rr)
+        EOL
+
+    - name: git add
+      run: |
+        git add -A
+        ls -la
+
+    - name: commit & push
+      run: |
+        git commit -m "hls updated"
+        git push
