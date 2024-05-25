@@ -1609,10 +1609,10 @@ https://contact.gostreaming.tv/Accessibility/myStream/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01742-walla-wallanews-ono/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jzRyjBn/walla.png",WALLA !+ וואלה! חדשות
 https://amg01742-walla-wallanews-ono-btlna.amagi.tv/playlist/amg01742-walla-wallanews-ono/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5MyMYqB/relevantil.png",RELEVANT רלוונט 
-https://6180c994cb835402.mediapackage.eu-west-1.amazonaws.com/out/v1/06e44cd7f7e0445fbd669f279c997fd4/index.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5MyMYqB/relevantil.png",RELEVANT רלוונט
 https://6180c994cb835402.mediapackage.eu-west-1.amazonaws.com/out/v1/f1339272dd24416ca60b00e69075d783/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MyMYqB/relevantil.png",RELEVANT רלוונט 
+https://6180c994cb835402.mediapackage.eu-west-1.amazonaws.com/out/v1/06e44cd7f7e0445fbd669f279c997fd4/index.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6yjTszg/kan26.png",KAN 26 אפיק
 https://reshetbetvideo.media.kan.org.il/hls/live/2044082/2044082/source1_2.5k/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kq4XM0Y/ynet.png",YNET NEWS ידיעות אחרונות
@@ -2634,7 +2634,9 @@ https://mbc-1-usa-ak.akamaized.net/out/v1/8c1ce74bfd0743aab1026ef5b2aecfa4/index
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bvbsV1Z/mbc3.png",MBC 3
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bvbsV1Z/mbc3.png",MBC 3
-https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
+https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bvbsV1Z/mbc3.png",MBC 3
+https://mbc3-eur-prod-dub-ak.akamaized.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bvbsV1Z/mbc3.png",MBC 3
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bvbsV1Z/mbc3.png",MBC 3
