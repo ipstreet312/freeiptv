@@ -18,9 +18,11 @@ fr4_content=$(cat "$input_file" | sed 's/France_2/France_4/g; s/hls_fr2/hls_fr4/
 fr5_content=$(cat "$input_file" | sed 's/France_2/France_5/g; s/hls_fr2/hls_fr5/g')
 noa_content=$(cat "$input_file" | sed 's/France_2/Regions_noa/g; s/hls_fr2/hls_noa/g')
 fri_content=$(cat "$input_file" | sed 's/France_2/France_Info/g; s/hls_fr2/hls_monde_frinfo/g')
+nca_content=$(cat "$input_file" | sed 's/France_2/1er_Nouvelle_Caledonie/g; s/hls_fr2/hls_monde_1er_NC/g')
 
 echo "$fr3_content" > "$output_dir/fr3.m3u8"
 echo "$fr4_content" > "$output_dir/fr4.m3u8"
 echo "$fr5_content" > "$output_dir/fr5.m3u8"
 echo "$noa_content" > "$output_dir/fnoa.m3u8"
 echo "$fri_content" > "$output_dir/frin.m3u8"
+echo "$nca_content" > "$output_dir/fr1nc.m3u8"
