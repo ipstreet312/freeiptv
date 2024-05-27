@@ -12,6 +12,8 @@ s = requests.Session()
 response = s.get(f'https://hdfauth.ftven.fr/esi/TA?url=https://live-event.ftven.fr/dai/v1/master/f6695408824c1f922e63365d0de48c5fa3251476/events_RG_1/out/v1/a03e33307b5e42998022fd5f83cb55d8/index_france-domtom.m3u8')
 
 string = response.text
+print(string)
+"""
 response2 = s.get(string)
 
 pattern = re.compile(r'/([\da-fA-F-]+?)/\d\.m3u8')
@@ -21,3 +23,4 @@ sessid = match.group(1)
 new_string = string.replace("master", "manifest")
 new_string2 = new_string.replace("out/v1/a03e33307b5e42998022fd5f83cb55d8/index_france-domtom.m3u8", f'{sessid}/4.m3u8')
 print(new_string2)
+"""
