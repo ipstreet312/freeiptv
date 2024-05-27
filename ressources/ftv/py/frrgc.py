@@ -31,7 +31,7 @@ def generate_rgc3(string, output_file):
         print('#EXT-X-VERSION:3', file=f)
         print('#EXT-X-STREAM-INF:BANDWIDTH=4569879,AVERAGE-BANDWIDTH=2962350,RESOLUTION=1280x720,FRAME-RATE=25.000,CODECS="avc1.640029,mp4a.40.2"', file=f)
         print(rgc3_string, file=f)
-      
+
 def generate_rgc4(string, output_file):
     rgc4_string = string.replace("62d41da4cc404a34a0c30851c674f91c", "643489f068e04642ad8e3e19ca513a3d").replace("index_france-domtom", "index_france-domtom_10")
     with open(output_file, "w") as f:
@@ -65,7 +65,7 @@ def generate_rgc7(string, output_file):
         print(rgc7_string, file=f)
 
 if __name__ == "__main__":
-    if len(sys.argv) != 3:
+    if len(sys.argv) != 8:
         print("Usage: python3 frrgc.py <output_file_rgc1> <output_file_rgc2> <output_file_rgc3> <output_file_rgc4> <output_file_rgc5> <output_file_rgc6> <output_file_rgc7>")
         sys.exit(1)
     
