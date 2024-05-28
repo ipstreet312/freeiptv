@@ -4,8 +4,8 @@ import requests
 import sys
 
 proxies = {
-  "http": "51.195.137.60:80",
-  "https": "51.38.191.151:80",
+  "http": "http://51.195.137.60:80",
+  "https": "https://51.38.191.151:80",
 }
 
 def fetch_response(url):
