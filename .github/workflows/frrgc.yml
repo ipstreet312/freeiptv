@@ -1,0 +1,31 @@
+name: frrgc action
+
+on:
+  schedule:
+    - cron: '31 */4 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: config
+        run: |
+          git config --global user.email "<>"
+          git config --global user.name "frrgc bot"
+
+      - name: updating frrgc
+        run: python3 ressources/ftv/py/frrgc.py ressources/ftv/py/frrgc1.m3u8 ressources/ftv/py/frrgc2.m3u8
+
+      - name: git add
+        run: |
+          git add -A
+          ls -la 
+          
+      - name: commit & push
+        run: |
+          git pull
+          git commit -m "frrgc updated"
+          git push
