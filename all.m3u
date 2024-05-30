@@ -2513,8 +2513,6 @@ https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_ara
 https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dGjByMq/Sky-News-Arabia.png",SKY NEWS ARABIA
 https://stream.skynewsarabia.com/hls/sna.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FxZYHhM/cnbc.jpg",CNBC ARABIA
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/gnrcpltfrm/cnbcar.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L8KP0z9/DW-arabic.png",DW ARABIC
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/njBtvts/cgtnar.png",CGTN ARABIC
@@ -3225,5 +3223,5 @@ https://
 https://
 #EXTINF:-1,⚪🆗✔️✅Blank Empty New Service
 http://
-#EXTINF:-1,test02
+#EXTINF:-1,test <1>
 http://empty
