@@ -283,7 +283,7 @@ https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
 https://d3awaj0f2u3w26.cloudfront.net/3/media.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png",L'ÉQUIPE LIVE 2
 https://d2l55nvfkhk4sg.cloudfront.net/3/media.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" user-agent="Mozilla/5.0", referer="http://callofliberty.fr/",L'ÉQUIPE TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)" referer="http://callofliberty.fr/",L'ÉQUIPE TV
 http://s2.callofliberty.fr/directd/LEQUIPE/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gTxbf2C/rmcts.jpg",RMC TALK SPORT
 https://d21wdmv2hqydbt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n239v7ne7hack/index.m3u8
@@ -3227,21 +3227,3 @@ https://
 http://
 #EXTINF:-1,test02
 http://empty
-#EXTINF:-1 user-agent="Mozilla/5.0" referer="http://callofliberty.fr/",M5
-http://s2.callofliberty.fr/directd/france.2/master.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)" referer="http://callofliberty.fr/",,M5 WW
-http://s2.callofliberty.fr/directd/france.2/master.m3u8
-#EXTINF:-1 user-agent="AppleWebKit/537.36" referer="http://callofliberty.fr/",A5
-http://s2.callofliberty.fr/directd/france.2/master.m3u8
-#EXTINF:-1 user-agent="AppleWebKit/537.36 (KHTML, like Gecko)" referer="http://callofliberty.fr/",A5 KL
-http://s2.callofliberty.fr/directd/france.2/master.m3u8
-#EXTINF:-1 user-agent="Chrome/125.0.0.0" referer="http://callofliberty.fr/",C125
-http://s2.callofliberty.fr/directd/france.2/master.m3u8
-#EXTINF:-1 user-agent="Safari/537.36" referer="http://callofliberty.fr/",S5
-http://s2.callofliberty.fr/directd/france.2/master.m3u8
-#EXTINF:-1 user-agent="Edg/125.0.0.0" referer="http://callofliberty.fr/",E125
-http://s2.callofliberty.fr/directd/france.2/master.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)" referer="http://callofliberty.fr/",MO W AP K
-http://s2.callofliberty.fr/directd/france.2/master.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 AppleWebKit/537.36" referer="http://callofliberty.fr/",MO AP
-http://s2.callofliberty.fr/directd/france.2/master.m3u8
