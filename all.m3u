@@ -3227,9 +3227,21 @@ https://
 http://
 #EXTINF:-1,test02
 http://empty
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0", referer="http://callofliberty.fr/",L'ÉQUIPE TV UAP
-http://s2.callofliberty.fr/directd/LEQUIPE/master.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0", referer="http://callofliberty.fr/",FR2
+#EXTINF:-1 user-agent="Mozilla/5.0" referer="http://callofliberty.fr/",M5
 http://s2.callofliberty.fr/directd/france.2/master.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0", referer="http://callofliberty.fr/",FR2UAP
+#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)" referer="http://callofliberty.fr/",,M5 WW
+http://s2.callofliberty.fr/directd/france.2/master.m3u8
+#EXTINF:-1 user-agent="AppleWebKit/537.36" referer="http://callofliberty.fr/",A5
+http://s2.callofliberty.fr/directd/france.2/master.m3u8
+#EXTINF:-1 user-agent="AppleWebKit/537.36 (KHTML, like Gecko)" referer="http://callofliberty.fr/",A5 KL
+http://s2.callofliberty.fr/directd/france.2/master.m3u8
+#EXTINF:-1 user-agent="Chrome/125.0.0.0" referer="http://callofliberty.fr/",C125
+http://s2.callofliberty.fr/directd/france.2/master.m3u8
+#EXTINF:-1 user-agent="Safari/537.36" referer="http://callofliberty.fr/",S5
+http://s2.callofliberty.fr/directd/france.2/master.m3u8
+#EXTINF:-1 user-agent="Edg/125.0.0.0" referer="http://callofliberty.fr/",E125
+http://s2.callofliberty.fr/directd/france.2/master.m3u8
+#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)" referer="http://callofliberty.fr/",MO W AP K
+http://s2.callofliberty.fr/directd/france.2/master.m3u8
+#EXTINF:-1 user-agent="Mozilla/5.0 AppleWebKit/537.36" referer="http://callofliberty.fr/",MO AP
 http://s2.callofliberty.fr/directd/france.2/master.m3u8
