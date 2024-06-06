@@ -3235,3 +3235,11 @@ https://
 http://
 #EXTINF:-1,test <1>
 http://empty
+#EXTINF:-1,MASTER VARTAG
+https://video.twimg.com/ext_tw_video/1798318623842312192/pu/pl/ddg6WfGdb2wn6OmA.m3u8?variant_version=1&tag=12
+#EXTINF:-1,MASTER SHORT
+https://video.twimg.com/ext_tw_video/1798318623842312192/pu/pl/ddg6WfGdb2wn6OmA.m3u8
+#EXTINF:-1,AVC1
+https://video.twimg.com/ext_tw_video/1798318623842312192/pu/pl/avc1/1280x720/vKkITPlyir-P3pIj.m3u8
+#EXTINF:-1,MP4A
+https://video.twimg.com/ext_tw_video/1798318623842312192/pu/pl/mp4a/128000/2cK5XeayeXc-ADGr.m3u8
