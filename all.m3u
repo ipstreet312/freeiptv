@@ -3235,5 +3235,7 @@ https://
 https://
 #EXTINF:-1,⚪🆗✔️✅Blank Empty New Service
 http://
-#EXTINF:-1,test <1>
-https://www
+#EXTINF:-1 user-agent="Star Wars",test <1>
+https://streaming1.medi1tv.com:443/live/smil:medi1ar.smil/chunklist_w987413266_b978000_slar.m3u8
+#EXTINF:-1 user-agent="VLC/3.0.20 LibVLC/3.0.20",test <2>
+https://streaming1.medi1tv.com:443/live/smil:medi1ar.smil/chunklist_w987413266_b978000_slar.m3u8
