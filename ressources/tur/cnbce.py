@@ -1,3 +1,4 @@
 import streamlink
 streams = streamlink.streams('https://www.cnbce.com/canli-yayin')
-print(streams)
+master = streams["best"].multivariant.uri
+print(master)
