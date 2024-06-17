@@ -5,18 +5,27 @@ base_url = "https://event1.nrjaudio.fm/hls/live/2038378/nrj_12/"
 
 def fetch_m3u8_content(url):
     response = requests.get(url)
-    response.raise_for_status()  # Ensure bad responses if any
+    response.raise_for_status()  # Ensure we notice bad responses
     lines = response.text.splitlines()
-    
-    # Construct full URLs
-    updated_lines = []
-    for line in lines:
-        if line.startswith("hdntl="):
-            updated_lines.append(base_url + line)
-        else:
-            updated_lines.append(line)
-    
-    return "\n".join(updated_lines)
+
+    # Fetch the content of the third link
+    if len(lines) > 2:
+        third_link = lines[2]
+        third_response = requests.get(third_link)
+        third_response.raise_for_status()
+        third_content = third_response.text.splitlines()
+        
+        # Construct full URLs
+        updated_lines = []
+        for line in third_content:
+            if line.startswith("hdntl="):
+                updated_lines.append(base_url + line)
+            else:
+                updated_lines.append(line)
+        
+        return "\n".join(updated_lines)
+    else:
+        raise ValueError("The file does not contain enough links.")
 
 if __name__ == "__main__":
     try:
