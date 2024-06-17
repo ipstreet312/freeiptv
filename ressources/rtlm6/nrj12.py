@@ -3,15 +3,19 @@ import requests
 github_url = "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/nrj/nrj12.m3u8"
 base_url = "https://event1.nrjaudio.fm/hls/live/2038378/nrj_12/"
 
+headers = {
+    'User-Agent': 'SmartOs Tv'
+}
+
 def fetch_m3u8_content(url):
-    response = requests.get(url)
+    response = requests.get(url, headers=headers)  # Include headers here
     response.raise_for_status()  # Ensure we notice bad responses
     lines = response.text.splitlines()
 
     # Fetch the content of the third link
     if len(lines) > 2:
         third_link = lines[2]
-        third_response = requests.get(third_link)
+        third_response = requests.get(third_link, headers=headers)  # Include headers here
         third_response.raise_for_status()
         third_content = third_response.text.splitlines()
         
