@@ -48,16 +48,16 @@ def write_to_file(content, output_file):
         raise RuntimeError(f"Failed to write to file {output_file}: {e}")
 
 if __name__ == "__main__":
-    if len(sys.argv) != 3:
-        print("Usage: python3 nrj12.py <output_file_nrj12> <output_file_cherie25>")
-        sys.exit(1)
-    
     try:
         nrj12_content = fetch_nrj12_content(github_url)
         cherie25_content = generate_cherie25_content(nrj12_content)
         
-        write_to_file(nrj12_content, sys.argv[1])
-        write_to_file(cherie25_content, sys.argv[2])
+        # Output filenames from GitHub Actions workflow
+        output_file_nrj12 = sys.argv[1]
+        output_file_cherie25 = sys.argv[2]
+        
+        write_to_file(nrj12_content, output_file_nrj12)
+        write_to_file(cherie25_content, output_file_cherie25)
         
     except Exception as e:
         print(f"An error occurred: {e}")
