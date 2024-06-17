@@ -1,5 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NRJ12.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/NRJ12_color.png?h=100" tvg-country="FR",NRJ 12  
-https://event1.nrjaudio.fm/hls/live/2038378/nrj_12/master.m3u8?hdnts=exp=1718674226~acl=/*~hmac=c31dbe58846986d46e1e9fb3b94474554756a7f7a5951b912714ab5011ff3065
-
-#Last refreshed on 17/06/2024 03:30:26 CEST.
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=712494,AVERAGE-BANDWIDTH=621026,RESOLUTION=640x360,CODECS="mp4a.40.5,avc1.4d401e"
+https://event1.nrjaudio.fm/hls/live/2038378/nrj_12/hdntl=exp=1718687859~acl=%2f*~data=hdntl~hmac=afa77c0c80b9f1c8838e1c2ca34b4bdde535cdfbfa8c9482c5055267c52a8df8/SD.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1237215,AVERAGE-BANDWIDTH=1104353,RESOLUTION=854x480,CODECS="mp4a.40.5,avc1.64001e"
+https://event1.nrjaudio.fm/hls/live/2038378/nrj_12/hdntl=exp=1718687859~acl=%2f*~data=hdntl~hmac=afa77c0c80b9f1c8838e1c2ca34b4bdde535cdfbfa8c9482c5055267c52a8df8/MD.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1807155,AVERAGE-BANDWIDTH=1600840,RESOLUTION=1280x720,CODECS="mp4a.40.5,avc1.64001f"
+https://event1.nrjaudio.fm/hls/live/2038378/nrj_12/hdntl=exp=1718687859~acl=%2f*~data=hdntl~hmac=afa77c0c80b9f1c8838e1c2ca34b4bdde535cdfbfa8c9482c5055267c52a8df8/HD.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3492713,AVERAGE-BANDWIDTH=3090719,RESOLUTION=1920x1080,CODECS="mp4a.40.5,avc1.640028"
+https://event1.nrjaudio.fm/hls/live/2038378/nrj_12/hdntl=exp=1718687859~acl=%2f*~data=hdntl~hmac=afa77c0c80b9f1c8838e1c2ca34b4bdde535cdfbfa8c9482c5055267c52a8df8/FHD.m3u8
