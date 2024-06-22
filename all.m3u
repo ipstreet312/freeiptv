@@ -2001,6 +2001,10 @@ https://ennahar-live.dzsecurity.net/fullres/EnnaharTV_First/playlist.m3u8
 https://echorouk-live-tv.dzsecurity.net/fullres/EchoroukTV_First/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1vH6q4L/echounws.png" user-agent="Mozilla/5.0", referer="https://echorouk.dzsecurity.net/",ECHOROUK NEWS 'play-on-pc-first'
 https://echorouk-live-tv.dzsecurity.net/fullres/EchoroukNews_First/playlist.m3u8
+#EXTINF:-1 group-title="|MA-DZ-TN|🇲🇦🇩🇿🇹🇳 MAGHREB المغرب",--- |⬇DOWN/OFFLINES⬇| ---
+https://blank
+#EXTINF:-1 group-title="|MA-DZ-TN|🇲🇦🇩🇿🇹🇳 MAGHREB المغرب",--- |⇩DOWN/OFFLINES⇩| ---
+https://blank
 #EXTINF:-1 tvg-logo="https://i.ibb.co/stZxQHF/nessma.png",NESSMA
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dzflix/nessma.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JmRh3Xn/helwa.png",HELWA
@@ -2461,7 +2465,7 @@ https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tMLDMdy/kwttv.png",KUWAIT TV SPORT EXTRA
 https://kwtalmta.cdn.mangomolo.com/alm/smil:alm.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="|AR|🇸🇦 MIDDLE EAST-2 عربي",--- |DOWN/OFFLINES| ---
+#EXTINF:-1 group-title="|AR|🇸🇦 MIDDLE EAST-2 عربي",--- |⬇️🠗DOWN/OFFLINES🠗⬇️| ---
 http://blank
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WcQV072/saudi1sbc.png",SAUDI CH 1
 https://edge.taghtia.com/sa/1.m3u8
@@ -2711,7 +2715,7 @@ https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index
 https://shls-live-ak.akamaized.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/98TBSSm/mbcfmtv.png",MBC FM LIVE TV
 https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
-#EXTINF:-1 group-title="|AR|🇸🇦 THEMATICS-2 عربي",--- |DOWN/OFFLINES| ---
+#EXTINF:-1 group-title="|AR|🇸🇦 THEMATICS-2 عربي",--- |🔽↓DOWN/OFFLINES↓🔽| ---
 http://blank
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7W5nWYV/rotanacinema.png",ROTANA CINEMA MASR
 https://shls-masr2-ak.akamaized.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
