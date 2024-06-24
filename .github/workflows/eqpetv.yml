@@ -2,7 +2,7 @@ name: eqpetv action
 
 on:
   schedule:
-    - cron: '02 0,6,12,18 * * *'
+    - cron: '00 1,7,13,19 * * *'
   
   workflow_dispatch:
 
