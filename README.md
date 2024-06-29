@@ -1,4 +1,4 @@
-# freeiptv how to use the "ALL.M3U" file link procedure explained here : https://receptioniptv.blogspot.com/
+# freeiptv, how to use the best "ALL.m3u" file link procedure explained here : https://receptioniptv.blogspot.com/
 
 Installer les chaînes françaises - Get free tv channels - Türk tv kanallarını izle m3u listesi ile
 
