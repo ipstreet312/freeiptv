@@ -415,6 +415,8 @@ https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/funr
 https://edge11.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8
 
 
+#EXTINF:-1 group-title="|FR|🇫🇷 RÉGIONS",--- |FR:🇫🇷 FRANCE LOCALES| ---
+https://section
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png" group-title="|FR|🇫🇷 RÉGIONS",BFM ALPES
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_ALPESDUSUD/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png" group-title="|FR|🇫🇷 RÉGIONS",BFM ALSACE
@@ -491,9 +493,9 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/
 https://lives.digiteka.com/stream/e0fe6433-554e-4568-9a7e-31969136d8ff/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3k4Lv34/tvrennes.png" group-title="|FR|🇫🇷 RÉGIONS",TVR RENNES
 https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3y88kpg/telenantes.jpg" group-title="|FR|🇫🇷 RÉGIONS",TELE NANTES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3y88kpg/telenantes.jpg" group-title="|FR|🇫🇷 RÉGIONS",TÉLÉ NANTES
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Telenantes.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3y88kpg/telenantes.jpg" group-title="|FR|🇫🇷 RÉGIONS",TELE NANTES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3y88kpg/telenantes.jpg" group-title="|FR|🇫🇷 RÉGIONS",TÉLÉ NANTES
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/telenantes.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xS8B1qS/tvvendee.png" group-title="|FR|🇫🇷 RÉGIONS",TV VENDÉE
 https://streamer01.myvideoplace.tv/streamer02/hls/VDE_EVEN_PAD_130923.m3u8
@@ -537,7 +539,7 @@ https://edge12.vedge.infomaniak.com/livecast/ik:nancy-webtv/manifest.m3u8
 https://new.cache-stream.workers.dev/stream/UCva-htH2wvmKsG6SkcEJ4Vw/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dDbcFbF/lch32.png" group-title="|FR|🇫🇷 RÉGIONS",LA CHAÎNE 32
 https://new.cache-stream.workers.dev/stream/UChl0zP89T7yZyEwQkCfmmnQ/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VNDPTDY/tgohelle.png" group-title="|FR|🇫🇷 RÉGIONS",TELE GOHELLE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VNDPTDY/tgohelle.png" group-title="|FR|🇫🇷 RÉGIONS",TÉLÉ GOHELLE
 https://videas.agglo-lenslievin.fr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6W98gzZ/tvpi.png" group-title="|FR|🇫🇷 RÉGIONS",TVPI BAYONNE
 https://new.cache-stream.workers.dev/stream/UCwVQAPo6tjC5w5yBBh0WEdA/live.m3u8
@@ -579,8 +581,10 @@ https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/ASTV.m3u8
 https://x5ct4nu/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C99d8Z7/maritima.jpg" group-title="|FR|🇫🇷 RÉGIONS",MARITIMA TV
 https://indisponible
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1RVPRkx/bocal.png" group-title="|FR|🇫🇷 RÉGIONS",TELE BOCAL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1RVPRkx/bocal.png" group-title="|FR|🇫🇷 RÉGIONS",TÉLÉ BOCAL
 https://indisponible
+#EXTINF:-1 group-title="|FR|🇫🇷 RÉGIONS",--- |FR:🇫🇷 OUTRE-MER DOM/TOM| ---
+https://section
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3pbTbdG/ubizom.jpg" group-title="|FR|🇫🇷 RÉGIONS",UBIZNEWS OM5TV
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/ubiznews.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BwD72ps/madras.png" group-title="|FR|🇫🇷 RÉGIONS",MADRAS FM TV
@@ -607,10 +611,12 @@ https://hdfauth.ftven.fr/esi/TA?url=https://simulcast-p.ftven.fr/simulcast/1erRe
 https://hdfauth.ftven.fr/esi/TA?url=https://simulcast-p.ftven.fr/simulcast/1erMayotte/hls_1er/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png" group-title="|FR|🇫🇷 RÉGIONS",LA 1ÈRE N.CALÉDONIE [geo-area]
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1nc.m3u8
+#EXTINF:-1 group-title="|FR|🇫🇷 RÉGIONS",--- |MC:🇲🇨 MONACO PRINCIPAUTÉ| ---
+https://section
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XjzvmqL/tvmonaco.jpg" group-title="|FR|🇫🇷 RÉGIONS",TV MONACO
 https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0VSd8bM/zoombe.png" group-title="|FR|🇫🇷 RÉGIONS",CANAL ZOOM
-https://tvlocales-live.freecaster.com/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5.isml/master.m3u8
+#EXTINF:-1 group-title="|FR|🇫🇷 RÉGIONS",--- |BE:🇧🇪 BELGIQUE WALLONIE| ---
+https://section
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WGHbhfh/latelebe.png" group-title="|FR|🇫🇷 RÉGIONS",LA TÉLÉ
 https://latele2.vedge.infomaniak.com/livecast/latele2/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WGHbhfh/latelebe.png" group-title="|FR|🇫🇷 RÉGIONS",LA TÉLÉ
@@ -629,8 +635,12 @@ https://tvlocales-live.freecaster.com/95d2f6c9-e85f-4388-8e9c-596260a4206f/95d2f
 https://tvlocales-live.freecaster.com/95d2f70d-9229-478b-9aed-bc4fa220316d/95d2f70d-9229-478b-9aed-bc4fa220316d.isml/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2F48hsL/actv.png" group-title="|FR|🇫🇷 RÉGIONS",ANTENNE CENTRE
 https://tvlocales-live.freecaster.com/95d2f733-1bc2-4bd5-9b96-c53ed3fc450f/95d2f733-1bc2-4bd5-9b96-c53ed3fc450f.isml/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0VSd8bM/zoombe.png" group-title="|FR|🇫🇷 RÉGIONS",CANAL ZOOM
+https://tvlocales-live.freecaster.com/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5.isml/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MCtzw8h/tvlux.png" group-title="|FR|🇫🇷 RÉGIONS",TV LUX
 https://tvlocales-live.freecaster.com/95d2f631-8941-4efd-b223-0ebd56a033c4/95d2f631-8941-4efd-b223-0ebd56a033c4.isml/master.m3u8
+#EXTINF:-1 group-title="|FR|🇫🇷 RÉGIONS",--- |CH:🇨🇭 SUISSE ROMANDE| ---
+https://section
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fqq90Z2/noovo.png" group-title="|FR|🇫🇷 RÉGIONS",NOOVO
 https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/index/de22f34f/live/stream/h264/v1/2048000/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CQb8zFT/lemanbleu.jpg" group-title="|FR|🇫🇷 RÉGIONS",LÉMAN BLEU
@@ -649,6 +659,8 @@ https://edge11.vedge.infomaniak.com/livecast/ik:tvm3/manifest.m3u8
 https://edge12.vedge.infomaniak.com/livecast/ik:livehd/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/st6cDg1/calpha.png" group-title="|FR|🇫🇷 RÉGIONS",CANAL ALPHA
 https://livevideo.vedge.infomaniak.com/livecast/ik:canalalpha/manifest.m3u8
+#EXTINF:-1 group-title="|FR|🇫🇷 RÉGIONS",--- |CA-QC:🇨🇦 CANADA\QUÉBEC| ---
+https://section
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LzWqD0s/savoirmedia.png" group-title="|FR|🇫🇷 RÉGIONS",SAVOIR.MÉDIA
 https://hls.savoir.media/live/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hFr5pYb/telequebec.png" group-title="|FR|🇫🇷 RÉGIONS",TÉLÉ QUÉBEC
@@ -668,7 +680,7 @@ https://ensonhaber-live.ercdn.net/haberturk/haberturk.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png" group-title="|TR|🇹🇷 HABER-1",HABER GLOBAL
 https://haberglobal.blutv.com/blutv_haberglobal2/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png" group-title="|TR|🇹🇷 HABER-1",HABER GLOBAL
-https://new.cache-stream.workers.dev/stream/UCtc-a9ZUIg0_5HpsPxEO7Qg/live.m3u8
+https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png" group-title="|TR|🇹🇷 HABER-1",TV 100
 https://tv100-live.daioncdn.net/tv100/tv100.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png" group-title="|TR|🇹🇷 HABER-1",TV 100
@@ -680,7 +692,7 @@ https://new.cache-stream.workers.dev/stream/X_EWYemclKA/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png" group-title="|TR|🇹🇷 HABER-1",NTV
 https://dogus-live.daioncdn.net/ntv/ntv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png" group-title="|TR|🇹🇷 HABER-1",NTV
-http://canli.haber365.com.tr/tr/ntv/index.m3u8
+http://dygvideo.dygdigital.com/live/hls/puhuntvdai?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ln92Dj2/Ekoltv.png" group-title="|TR|🇹🇷 HABER-1",EKOL TV
 https://helga.iptv2022.com/sh/ekol_tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ln92Dj2/Ekoltv.png" group-title="|TR|🇹🇷 HABER-1",EKOL TV
@@ -726,7 +738,7 @@ https://tv.ensonhaber.com/haberturk/haberturk.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png" group-title="|TR|🇹🇷 HABER-1",HABER GLOBAL (backup)
 https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png" group-title="|TR|🇹🇷 HABER-1",HABER GLOBAL (backup)
-https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
+https://new.cache-stream.workers.dev/stream/UCtc-a9ZUIg0_5HpsPxEO7Qg/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png" group-title="|TR|🇹🇷 HABER-1",HABER GLOBAL (off-action)
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/hglobal/hglobal.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png" group-title="|TR|🇹🇷 HABER-1",TV 100 (backup)
@@ -735,6 +747,8 @@ https://tv100.daioncdn.net/tv100/tv100.m3u8?app=web
 http://dogus.daioncdn.net/ntv/ntv.m3u8?ce=3&&app=7c4bb802-0c41-409e-8cd2-799984995694
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png" group-title="|TR|🇹🇷 HABER-1",NTV (backup)
 http://dygvideo.dygdigital.com/live/hls/puhuntvdai?m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png" group-title="|TR|🇹🇷 HABER-1",NTV (downline)
+http://canli.haber365.com.tr/tr/ntv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HXKrJRC/blght22.png" group-title="|TR|🇹🇷 HABER-1",BLOOMBERG HT (backup)
 https://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HXKrJRC/blght22.png" group-title="|TR|🇹🇷 HABER-1",BLOOMBERG HT (backup)
@@ -774,7 +788,7 @@ https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BtYMK4q/halk21a.png" group-title="|TR|🇹🇷 HABER-2",HALK TV
 https://halktvdvr.blutv.com/blutv_halktv2_dvr/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXdf2YF/ulusal22.png" group-title="|TR|🇹🇷 HABER-2",ULUSAL KANAL
-https://stream.guventechnology.com:19360/ulusaltv/ulusaltv.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/ulusalkanal.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXdf2YF/ulusal22.png" group-title="|TR|🇹🇷 HABER-2",ULUSAL KANAL
 https://ulusalkanal.blutv.com/blutv_ulusalkanal/blutv_ulusalkanal/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0MHPk8y/benguturk.png" group-title="|TR|🇹🇷 HABER-2",BENGÜ TÜRK
@@ -876,11 +890,11 @@ https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="|TR|🇹🇷 GENEL",STAR
 https://dogus-live.daioncdn.net/startv/startv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="|TR|🇹🇷 GENEL",STAR
-http://canli.haber365.com.tr/tr/startv/index.m3u8
+http://dygvideo.dygdigital.com/live/hls/stardai?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png" group-title="|TR|🇹🇷 GENEL",SHOW
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png" group-title="|TR|🇹🇷 GENEL",SHOW
-http://canli.haber365.com.tr/tr/showtv/index.m3u8
+https://bloomberght-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="|TR|🇹🇷 GENEL",NOW
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="|TR|🇹🇷 GENEL",NOW
@@ -916,11 +930,11 @@ https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=da2109ea-5dfe-4107-89ab-23
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" group-title="|TR|🇹🇷 GENEL",KANAL D (backup)
 https://gineu10.bozztv.com/gin-36bay4/gt-kanald-2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="|TR|🇹🇷 GENEL",STAR (backup)
-http://dygvideo.dygdigital.com/live/hls/stardai?m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="|TR|🇹🇷 GENEL",STAR (backup)
 https://dogus.daioncdn.net/startv/startv.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png" group-title="|TR|🇹🇷 GENEL",SHOW (backup)
-https://bloomberght-live.daioncdn.net/showtv/showtv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="|TR|🇹🇷 GENEL",STAR [downline]
+http://canli.haber365.com.tr/tr/startv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png" group-title="|TR|🇹🇷 GENEL",SHOW [downline]
+http://canli.haber365.com.tr/tr/showtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="|TR|🇹🇷 GENEL",NOW (backup)
 https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=-SoMC2Nqlw3NTKZma8Zvhw&e=1719732215
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="|TR|🇹🇷 GENEL",NOW (backup)
@@ -949,6 +963,8 @@ https://ythls-v3.onrender.com/channel/UCUVZ7T_kwkxDOGFcDlFI-hg.m3u8
 http://hw1.jemtv.com/app/ATVHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="|TR|🇹🇷 GENEL",ATV (backup)
 http://gineu8.bozztv.com/gin-trn09/gin-atvv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="|TR|🇹🇷 GENEL",ATV (backup)
+https://c.fulltvizle.com/aytv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="|TR|🇹🇷 GENEL",ATV [youtube-src]
 https://youtu.be/1KXZDgP9W5E
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="|TR|🇹🇷 GENEL",ATV [tkn-blocked]
@@ -980,11 +996,11 @@ https://trt2.blutv.com/blutv_trt2/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QQQR6VK/dmax.png" group-title="|TR|🇹🇷 BELGESEL & YAŞAM",DMAX
 https://dogus-live.daioncdn.net/dmax/dmax.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QQQR6VK/dmax.png" group-title="|TR|🇹🇷 BELGESEL & YAŞAM",DMAX
-http://canli.haber365.com.tr/tr/dmax/index.m3u8
+https://dmax.blutv.com/blutv_dmax2/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Z1vHy41/tlc.png" group-title="|TR|🇹🇷 BELGESEL & YAŞAM",TLC TR
 https://dogus-live.daioncdn.net/tlc/tlc.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Z1vHy41/tlc.png" group-title="|TR|🇹🇷 BELGESEL & YAŞAM",TLC TR
-http://canli.haber365.com.tr/tr/tlc/index.m3u8
+https://tlc.blutv.com/blutv_tlc_live/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVnG3Zr/360tv.png" group-title="|TR|🇹🇷 BELGESEL & YAŞAM",360
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVnG3Zr/360tv.png" group-title="|TR|🇹🇷 BELGESEL & YAŞAM",360
@@ -1040,11 +1056,11 @@ https://d2xwn494f2lep.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png" group-title="|TR|🇹🇷 BELGESEL & YAŞAM",TRT BELGESEL (backup)
 http://tv-trtbelgesel.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QQQR6VK/dmax.png" group-title="|TR|🇹🇷 BELGESEL & YAŞAM",DMAX (backup)
-https://dmax.blutv.com/blutv_dmax2/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QQQR6VK/dmax.png" group-title="|TR|🇹🇷 BELGESEL & YAŞAM",DMAX (backup)
 http://dygvideo.dygdigital.com/live/hls/dmaxdai?m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Z1vHy41/tlc.png" group-title="|TR|🇹🇷 BELGESEL & YAŞAM",TLC TR (backup)
-https://tlc.blutv.com/blutv_tlc_live/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QQQR6VK/dmax.png" group-title="|TR|🇹🇷 BELGESEL & YAŞAM",DMAX [downline]
+http://canli.haber365.com.tr/tr/dmax/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Z1vHy41/tlc.png" group-title="|TR|🇹🇷 BELGESEL & YAŞAM",TLC TR [downline]
+http://canli.haber365.com.tr/tr/tlc/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Z1vHy41/tlc.png" group-title="|TR|🇹🇷 BELGESEL & YAŞAM",TLC TR (backup)
 http://dygvideo.dygdigital.com/live/hls/tlctvdai?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Z1vHy41/tlc.png" group-title="|TR|🇹🇷 BELGESEL & YAŞAM",TLC TR (backup)
@@ -1236,7 +1252,7 @@ https://trtturk.blutv.com/blutv_trtturk2/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cDxKJy1/k7avr1.png" group-title="|TR|🇹🇷 DİĞER",KANAL 7 AVRUPA
 https://raw.githubusercontent.com/rideordie16/YouTube/main/ch/kanal7eu.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cDxKJy1/k7avr1.png" group-title="|TR|🇹🇷 DİĞER",KANAL 7 AVRUPA
-https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/kanal7avrupa.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WvhGGP0/showturk1.png" group-title="|TR|🇹🇷 DİĞER",SHOW TÜRK
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shturk.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WvhGGP0/showturk1.png" group-title="|TR|🇹🇷 DİĞER",SHOW TÜRK
@@ -1315,6 +1331,8 @@ https://tv.ensonhaber.com/tgrtbelgesel/tgrtbelgesel.m3u8
 https://canli.haber365.com.tr/tr/tgrtbelgesel/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JHH0xcX/tgrtbel22.png" group-title="|TR|🇹🇷 DİĞER",TGRT BELGESEL (checkalt)
 https://tv.ensonhaber.com/tv/tr/tgrtbelgesel/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cDxKJy1/k7avr1.png" group-title="|TR|🇹🇷 DİĞER",KANAL 7 AVRUPA [off-link]
+https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WvhGGP0/showturk1.png" group-title="|TR|🇹🇷 DİĞER",SHOW TÜRK (geçici geçerli)
 https://bozztv.com/inim03/live1/showtvturk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WvhGGP0/showturk1.png" group-title="|TR|🇹🇷 DİĞER",SHOW TÜRK (geçici geçerli)
@@ -2111,10 +2129,10 @@ https://d198ztbnlup2iq.cloudfront.net/out/v1/2d9050c90fb94df8b78d1d98306a1a65/in
 https://now14.g-mana.live/media/91517161-44ab-4e46-af70-e9fe26117d2e/mainManifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png" group-title="|IL|🇮🇱 ISRAEL ישראל",NOW 14 עכשיו
 https://ch14-channel14-content.akamaized.net/hls/live/2104807/CH14_CHANNEL14/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j68q1Bp/i24.png" group-title="|IL|🇮🇱 ISRAEL ישראל",I24 NEWS עברית
+https://bcovlive-a.akamaihd.net/54b8e6b753e3409c91856201d1f08731/eu-central-1/5377161796001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tLYB26T/h2322.png" group-title="|IL|🇮🇱 ISRAEL ישראל",HINUCHIT 23 חינוכית
 https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tLYB26T/h2322.png" group-title="|IL|🇮🇱 ISRAEL ישראל",HINUCHIT 23 sub-cc חינוכית
-https://kan23w.media.kan.org.il/hls/live/2108842/2108842/source1_2.5k/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7nYM8MK/arutz24tvtrp.png" group-title="|IL|🇮🇱 ISRAEL ישראל",MAKO 24 ערוץ
 https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/video_10801920_p_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7nYM8MK/arutz24tvtrp.png" group-title="|IL|🇮🇱 ISRAEL ישראל",MAKO 24 ערוץ
@@ -2137,8 +2155,6 @@ https://reshetbetvideo.media.kan.org.il/hls/live/2044082/2044082/source1_2.5k/ch
 https://ynet-live-01.ynet-pic1.yit.co.il/ynet/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1rSGfFw/N12n.png" user-agent="SmartOs Tv" group-title="|IL|🇮🇱 ISRAEL ישראל",NEWS 12 חדשות 
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/keshetil/py/n12.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/j68q1Bp/i24.png" group-title="|IL|🇮🇱 ISRAEL ישראל",I24 NEWS HE (30.06.2024)
-https://video.twimg.com/ext_tw_video/1798318623842312192/pu/pl/ddg6WfGdb2wn6OmA.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j68q1Bp/i24.png" group-title="|IL|🇮🇱 ISRAEL ישראל",I24 NEWS FR
 https://bcovlive-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/playlist-all.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j68q1Bp/i24.png" group-title="|IL|🇮🇱 ISRAEL ישראל",I24 NEWS EN
@@ -2187,6 +2203,8 @@ https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/in
 https://d2xg1g9o5vns8m.cloudfront.net/out/v1/66d4ac8748ce4a9298b4e40e48d1ae2f/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1rSGfFw/N12n.png" user-agent="SmartOs Tv" group-title="|IL|🇮🇱 ISRAEL ישראל",NEWS 12 חדשות (backup)
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/keshetil/py/n12b.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tLYB26T/h2322.png" group-title="|IL|🇮🇱 ISRAEL ישראל",HINUCHIT 23 sub-cc חינוכית (backup rescue)
+https://kan23w.media.kan.org.il/hls/live/2108842/2108842/source1_2.5k/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jzRyjBn/walla.png" group-title="|IL|🇮🇱 ISRAEL ישראל",WALLA ! + (backup rescue)
 https://live.wcdn.co.il/news/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jzRyjBn/walla.png" group-title="|IL|🇮🇱 ISRAEL ישראל",WALLA ! + (backup secure)
@@ -2278,7 +2296,7 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/Baynounah/HLS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Dr7jn2L/baynounah.png" group-title="|AR|🇸🇦 MIDDLE EAST-1 عربي",BAYNOUNAH TV
 https://baynounah.cdn.mangomolo.com/btv/smil:btv.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qJ7qVTF/Al-Mamlaka.png" group-title="|AR|🇸🇦 MIDDLE EAST-1 عربي",AL MAMLKA
-https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
+https://bcovlive-a.akamaihd.net/4109c7ba30fd4a44ad9afe917c67a8c8/eu-central-1/6415809151001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5LvvstB/elshasha.png" group-title="|AR|🇸🇦 MIDDLE EAST-1 عربي",SYDAT EL SHASHA
 https://daiconnect.com/live/hls/rotana/selshasha/.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b6ZvV2r/fujairah.png" group-title="|AR|🇸🇦 MIDDLE EAST-1 عربي",FUJAIRAH TV
@@ -2395,6 +2413,8 @@ https://www.enterweb.tv:25463/live/ssadtv/live-tv/1.m3u8
 https://eitc3.secure2.footprint.net/hls/LTV.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png" group-title="|AR|🇸🇦 MIDDLE EAST-1 عربي",ROYA TV (backup)
 https://roya.daioncdn.net/royatv/royatv.m3u8?app=8c1e143a-39cf-40b4-acb2-e78faa1f322d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png" group-title="|AR|🇸🇦 MIDDLE EAST-1 عربي",ROYA TV (backup)
+https://roya-live.ercdn.net/roya/roya.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png" group-title="|AR|🇸🇦 MIDDLE EAST-1 عربي",ROYA TV [geoblocked]
 https://weyyak-live.akamaized.net/weyyak_roya/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YhMgggj/lbcb.jpg" group-title="|AR|🇸🇦 MIDDLE EAST-1 عربي",LBC LBN [geoblocked]
@@ -2564,7 +2584,7 @@ https://bcovlive-a.akamaihd.net/773a2fa387914315ad11e6957cd54f6e/eu-central-1/53
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hKP8X8B/f24.png" group-title="|AR|🇸🇦 THEMATICS-1 عربي",FRANCE 24 AR
 https://new.cache-stream.workers.dev/stream/UCdTyuXgmJkG_O8_75eqej-w/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPkb8TQ/trtar.png" group-title="|AR|🇸🇦 THEMATICS-1 عربي",TRT ARABIYA
-https://tv-trtarabi.live.trt.com.tr/master.m3u8
+https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XDC5cBX/alalam.png" group-title="|AR|🇸🇦 THEMATICS-1 عربي",AL ALAM IR [censure-ifany] 
 https://live2.alalam.ir/alalam.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D7w9h7Q/rt.png" group-title="|AR|🇸🇦 THEMATICS-1 عربي",RT ARABIC [censure-blocked]
