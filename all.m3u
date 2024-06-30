@@ -659,7 +659,7 @@ https://edge11.vedge.infomaniak.com/livecast/ik:tvm3/manifest.m3u8
 https://edge12.vedge.infomaniak.com/livecast/ik:livehd/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/st6cDg1/calpha.png",CANAL ALPHA
 https://livevideo.vedge.infomaniak.com/livecast/ik:canalalpha/manifest.m3u8
-#EXTINF:-1 group-title="|FR|🇫🇷 RÉGIONS",--- |CA-QC:🇨🇦 QUÉBEC\CANADA| ---
+#EXTINF:-1 group-title="|FR|🇫🇷 RÉGIONS",--- |CA-QC:🇨🇦 CANADA\QUÉBEC| ---
 https://section
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LzWqD0s/savoirmedia.png",SAVOIR.MÉDIA
 https://hls.savoir.media/live/stream.m3u8
