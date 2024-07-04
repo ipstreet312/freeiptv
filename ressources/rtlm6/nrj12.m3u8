@@ -1,9 +1,9 @@
 #EXTM3U
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=712494,AVERAGE-BANDWIDTH=621026,RESOLUTION=640x360,CODECS="mp4a.40.5,avc1.4d401e"
-https://event1.nrjaudio.fm/hls/live/2038378/nrj_12/hdntl=exp=1720123887~acl=%2f*~data=hdntl~hmac=a1bb8e25c70854ee4a07b60bd3c79445b2044ea732a6936417662e0800a304af/SD.m3u8
+https://event1.nrjaudio.fm/hls/live/2038378/nrj_12/hdntl=exp=1720140654~acl=%2f*~data=hdntl~hmac=b3df7f754d097456a39e9db77ee890df5a885a9d78443354749b6c77ad077363/SD.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1237215,AVERAGE-BANDWIDTH=1104353,RESOLUTION=854x480,CODECS="mp4a.40.5,avc1.64001e"
-https://event1.nrjaudio.fm/hls/live/2038378/nrj_12/hdntl=exp=1720123887~acl=%2f*~data=hdntl~hmac=a1bb8e25c70854ee4a07b60bd3c79445b2044ea732a6936417662e0800a304af/MD.m3u8
+https://event1.nrjaudio.fm/hls/live/2038378/nrj_12/hdntl=exp=1720140654~acl=%2f*~data=hdntl~hmac=b3df7f754d097456a39e9db77ee890df5a885a9d78443354749b6c77ad077363/MD.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1807155,AVERAGE-BANDWIDTH=1600840,RESOLUTION=1280x720,CODECS="mp4a.40.5,avc1.64001f"
-https://event1.nrjaudio.fm/hls/live/2038378/nrj_12/hdntl=exp=1720123887~acl=%2f*~data=hdntl~hmac=a1bb8e25c70854ee4a07b60bd3c79445b2044ea732a6936417662e0800a304af/HD.m3u8
+https://event1.nrjaudio.fm/hls/live/2038378/nrj_12/hdntl=exp=1720140654~acl=%2f*~data=hdntl~hmac=b3df7f754d097456a39e9db77ee890df5a885a9d78443354749b6c77ad077363/HD.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3492713,AVERAGE-BANDWIDTH=3090719,RESOLUTION=1920x1080,CODECS="mp4a.40.5,avc1.640028"
-https://event1.nrjaudio.fm/hls/live/2038378/nrj_12/hdntl=exp=1720123887~acl=%2f*~data=hdntl~hmac=a1bb8e25c70854ee4a07b60bd3c79445b2044ea732a6936417662e0800a304af/FHD.m3u8
+https://event1.nrjaudio.fm/hls/live/2038378/nrj_12/hdntl=exp=1720140654~acl=%2f*~data=hdntl~hmac=b3df7f754d097456a39e9db77ee890df5a885a9d78443354749b6c77ad077363/FHD.m3u8
