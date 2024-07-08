@@ -1,4 +1,4 @@
-name: eqpetv action
+name: eqpetv7 action
 
 on:
   schedule:
@@ -16,9 +16,9 @@ jobs:
       - name: config
         run: |
           git config --global user.email "<>"
-          git config --global user.name "eqpetv bot"
+          git config --global user.name "eqpetv7 bot"
       
-      - name: updating eqpetv
+      - name: updating eqpetv7
         run: python3 ${GITHUB_WORKSPACE}/ressources/dmotion/py/eqpe/eqpetv.py > ${GITHUB_WORKSPACE}/ressources/dmotion/py/eqpe/eqpetv.m3u8
         
       - name: git add
@@ -28,5 +28,5 @@ jobs:
           
       - name: commit & push
         run: |
-          git commit -m "eqpetv updated"
+          git commit -m "eqpetv7 updated"
           git push
