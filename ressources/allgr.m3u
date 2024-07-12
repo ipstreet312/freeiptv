@@ -706,9 +706,9 @@ https://dogus-live.daioncdn.net/ntv/ntv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png" group-title="|TR|🇹🇷 HABER-1",NTV
 http://dygvideo.dygdigital.com/live/hls/puhuntvdai?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ln92Dj2/Ekoltv.png" group-title="|TR|🇹🇷 HABER-1",EKOL TV
-https://helga.iptv2022.com/sh/ekol_tv/index.m3u8
+https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ln92Dj2/Ekoltv.png" group-title="|TR|🇹🇷 HABER-1",EKOL TV
-https://livestream.zazerconer.workers.dev/channel/UCccxXUKSuqOrlWQxweZBAQw.m3u8
+https://helga.iptv2022.com/sh/ekol_tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HXKrJRC/blght22.png" group-title="|TR|🇹🇷 HABER-1",BLOOMBERG HT
 https://bloomberght-live.daioncdn.net/bloomberght/bloomberght.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HXKrJRC/blght22.png" group-title="|TR|🇹🇷 HABER-1",BLOOMBERG HT
@@ -761,6 +761,8 @@ http://dogus.daioncdn.net/ntv/ntv.m3u8?ce=3&&app=7c4bb802-0c41-409e-8cd2-7999849
 http://dygvideo.dygdigital.com/live/hls/puhuntvdai?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png" group-title="|TR|🇹🇷 HABER-1",NTV (downline)
 http://canli.haber365.com.tr/tr/ntv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ln92Dj2/Ekoltv.png" group-title="|TR|🇹🇷 HABER-1",EKOL TV (backup)
+https://livestream.zazerconer.workers.dev/channel/UCccxXUKSuqOrlWQxweZBAQw.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HXKrJRC/blght22.png" group-title="|TR|🇹🇷 HABER-1",BLOOMBERG HT (backup)
 https://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HXKrJRC/blght22.png" group-title="|TR|🇹🇷 HABER-1",BLOOMBERG HT (backup)
@@ -1011,6 +1013,8 @@ https://trtbelgesel.blutv.com/blutv_trtbelgesel2/live.m3u8
 https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TB5N8cN/trt2.png" group-title="|TR|🇹🇷 BELGESEL & YAŞAM",TRT 2
 https://trt2.blutv.com/blutv_trt2/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WPjPPDf/trt4k.png" group-title="|TR|🇹🇷 BELGESEL & YAŞAM",TRT 4K
+https://mn-nl.mncdn.com/blutv_trt4k/live_1080p3500000kbps/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QQQR6VK/dmax.png" group-title="|TR|🇹🇷 BELGESEL & YAŞAM",DMAX
 https://dogus-live.daioncdn.net/dmax/dmax.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QQQR6VK/dmax.png" group-title="|TR|🇹🇷 BELGESEL & YAŞAM",DMAX
@@ -2155,7 +2159,7 @@ https://d198ztbnlup2iq.cloudfront.net/out/v1/2d9050c90fb94df8b78d1d98306a1a65/in
 https://now14.g-mana.live/media/91517161-44ab-4e46-af70-e9fe26117d2e/mainManifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png" group-title="|IL|🇮🇱 ISRAEL ישראל",NOW 14 עכשיו
 https://ch14-channel14-content.akamaized.net/hls/live/2104807/CH14_CHANNEL14/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/j68q1Bp/i24.png" group-title="|IL|🇮🇱 ISRAEL ישראל",i24 NEWS עברית
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j68q1Bp/i24.png" group-title="|IL|🇮🇱 ISRAEL ישראל",i24 NEWS HE עברית
 https://bcovlive-a.akamaihd.net/54b8e6b753e3409c91856201d1f08731/eu-central-1/5377161796001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tLYB26T/h2322.png" group-title="|IL|🇮🇱 ISRAEL ישראל",HINUCHIT 23 חינוכית
 https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
@@ -2450,37 +2454,31 @@ http://62.182.82.104/OTV/tracks-v1a1/mono.m3u8?token=test
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BCK1L31/DubaiTV.png" group-title="|AR|🇸🇦 MIDDLE EAST-2 عربي",DUBAI TV
-http://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
+https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BCK1L31/DubaiTV.png" group-title="|AR|🇸🇦 MIDDLE EAST-2 عربي",DUBAI TV
-https://dmieigthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BCK1L31/DubaiTV.png" group-title="|AR|🇸🇦 MIDDLE EAST-2 عربي",DUBAI TV [geoblocked]
-https://weyyak-live.akamaized.net/weyyak_dubai_tv/index.m3u8
+https://dmieigthvllta.cdn.mangomolo.com/dubaitvht/smil:dubaitv.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ngKnxmq/dubaione.png" group-title="|AR|🇸🇦 MIDDLE EAST-2 عربي",DUBAI ONE
-http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ngKnxmq/dubaione.png" group-title="|AR|🇸🇦 MIDDLE EAST-2 عربي",DUBAI ONE
+https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/playlist.m3u?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jMsSmvg/dubainoor.png" group-title="|AR|🇸🇦 MIDDLE EAST-2 عربي",DUBAI NOOR
-https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/playlist.m3u8
+https://dmiffthftl.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/g4LTFCS/dubaisama.png" group-title="|AR|🇸🇦 MIDDLE EAST-2 عربي",DUBAI SAMA
-http://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playlist.m3u8
+https://dmieigthvllta.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xDs4dGV/dubaizaman.png" group-title="|AR|🇸🇦 MIDDLE EAST-2 عربي",DUBAI ZAMAN
-http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8
+https://dmiffthftl.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LR2KqPJ/dbaispt.png" group-title="|AR|🇸🇦 MIDDLE EAST-2 عربي",DUBAI SPORTS 1
-https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LR2KqPJ/dbaispt.png" group-title="|AR|🇸🇦 MIDDLE EAST-2 عربي",DUBAI SPORTS 1
-https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.stream.smil/playlist.m3u?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LR2KqPJ/dbaispt.png" group-title="|AR|🇸🇦 MIDDLE EAST-2 عربي",DUBAI SPORTS 2
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LR2KqPJ/dbaispt.png" group-title="|AR|🇸🇦 MIDDLE EAST-2 عربي",DUBAI SPORTS 2
-https://dmitwlfr.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/playlist.m3u8
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/playlist.m3u?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LR2KqPJ/dbaispt.png" group-title="|AR|🇸🇦 MIDDLE EAST-2 عربي",DUBAI SPORTS 3
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LR2KqPJ/dbaispt.png" group-title="|AR|🇸🇦 MIDDLE EAST-2 عربي",DUBAI SPORTS 3
-https://dmitwlfr.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/playlist.m3u8
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/playlist.m3u?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MD9vwnv/dubairacing.png" group-title="|AR|🇸🇦 MIDDLE EAST-2 عربي",DUBAI RACING 1
-https://dmisvthvll.cdn.mgmlcdn.com/events/smil:events.stream.smil/playlist.m3u8
+https://dmisvthvllta.cdn.mgmlcdn.com/events/smil:events.stream.smil/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MD9vwnv/dubairacing.png" group-title="|AR|🇸🇦 MIDDLE EAST-2 عربي",DUBAI RACING 2
-https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
+https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MD9vwnv/dubairacing.png" group-title="|AR|🇸🇦 MIDDLE EAST-2 عربي",DUBAI RACING 3
-https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
+https://dmithrvllta.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WcQV072/saudi1sbc.png" group-title="|AR|🇸🇦 MIDDLE EAST-2 عربي",SAUDI CH 1
 https://sbc-prod-dub-ak.akamaized.net/out/v1/2eb1ad0f29984a339bc0fce4ce94dcbb/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c6QBhj8/actionwalid.png" group-title="|AR|🇸🇦 MIDDLE EAST-2 عربي",SAUDI ACTION WALEED
