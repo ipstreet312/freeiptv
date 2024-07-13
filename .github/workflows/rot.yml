@@ -1,0 +1,42 @@
+name: Rotana
+
+on:
+  schedule:
+    - cron: '0 */21 * * *'
+  workflow_dispatch:
+
+jobs:
+  run_script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4     
+
+      - name: Run Script
+        run: |
+         python_output=$(python ressources/kuw/rotlbc.py)
+         echo "$python_output" >> ressources/kuw/rotlbc.m3u8        
+
+      - name: Pull changes from remote
+        run: git pull origin main
+
+      - name: Commit and Push Changes
+        env:
+         GITHUB_TOKEN: ${{ secrets.ROTANA_TOKEN }}
+        run: |
+          git config --local user.email "no@no.no"
+          git config --local user.name "no"
+          git add ressources/kuw/rotlbc.m3u8
+          git commit -m "Updates"
+          git push
