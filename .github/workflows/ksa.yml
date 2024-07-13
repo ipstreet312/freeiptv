@@ -1,0 +1,41 @@
+name: ksa
+
+on:
+  schedule:
+    - cron: '22 */22 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: config
+        run: |
+          git config --global user.email "<>"
+          git config --global user.name "ksa bot"
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+          
+      - name: Install requests module
+        run: python3 -m pip install requests streamlink
+
+      - name: fetch content ksa
+        run: |
+          python3 ressources/kuw/ksa1.py > ressources/kuw/ksa1.m3u8
+
+      - name: git add
+        run: |
+          git add -A
+          ls -la 
+          
+      - name: commit & push
+        run: |
+          git pull
+          git commit -m "ksa updated"
+          git push
