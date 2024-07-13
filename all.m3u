@@ -948,7 +948,7 @@ https://canlitvulusal.xyz/live/trt1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png",KANAL D (backup)
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=da2109ea-5dfe-4107-89ab-23593336ed61
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png",KANAL D (backup)
-https://gineu10.bozztv.com/gin-36bay4/gt-kanald-2/index.m3u8
+https://bozztv.com/gin-36bay3/gt-Kanald-back/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png",STAR (backup)
 https://dogus.daioncdn.net/startv/startv.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png",STAR [downline]
@@ -2352,7 +2352,7 @@ https://bcovlive-a.akamaihd.net/4109c7ba30fd4a44ad9afe917c67a8c8/eu-central-1/64
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5LvvstB/elshasha.png",SYDAT EL SHASHA
 https://daiconnect.com/live/hls/rotana/selshasha/.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b6ZvV2r/fujairah.png",FUJAIRAH TV
-https://live.kwikmotion.com/fujairahlive/fujairah.smil/fujairahpublish/fujairah_source/playlist.m3u8
+https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png",ROYA TV
 https://royatv-live.daioncdn.net/royatv/royatv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nnQnFjg/sharjahtv.png",SHARJAH TV
@@ -3353,3 +3353,21 @@ https://
 https://
 #EXTINF:-1,⚪🆗✔️✅Blank Empty New Service
 http://
+#EXTINF:-1,vi6t
+https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/main/fr/video6ter.m3u8
+#EXTINF:-1,vitf
+https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/main/fr/videotf1.m3u8
+#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0", referer="https://www.aloula.sa/",ksa ev
+https://live.kwikmotion.com/ksa1live/ksa1.smil/ksa1publish/ksa1_source/hdntl=exp=1720959990~acl=%2fksa1live%2fksa1.smil%2f*~data=hdntl~hmac=6825fc032c52ad0a984eaf41d949e4f2e6abdb0a17d9b774775d2fb79f3c62df/chunks_dvr.m3u8
+#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0", referer="https://www.aloula.sa/",ksa git
+https://live.kwikmotion.com/ksa1live/ksa1.smil/ksa1publish/ksa1_source/hdntl=exp=1720959891~acl=%2fksa1live%2fksa1.smil%2f*~data=hdntl~hmac=fadbf80a3fec03af804a9f6d20a84121de1f07ebf196db0ccd79830b9ef6a8db/chunks_dvr.m3u8
+#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0", referer="https://www.aloula.sa/",lbc aloula
+https://live.kwikmotion.com/rlbclive/rlbc.smil/playlist.m3u8?hdnts=exp=1720872935~acl=/rlbclive/rlbc.smil/*~hmac=93d33f82613223c9745a95b37b87e518bda7958ac6736fe773dd99b596c3d688
+#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0", referer="https://rotana.net/",lbc rotana
+https://live.kwikmotion.com/rlbclive/rlbc.smil/playlist.m3u8?hdnts=exp=1720872935~acl=/rlbclive/rlbc.smil/*~hmac=93d33f82613223c9745a95b37b87e518bda7958ac6736fe773dd99b596c3d688
+#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0", referer="https://rotana.net/en/channels/",lbc rotana ench
+https://live.kwikmotion.com/rlbclive/rlbc.smil/playlist.m3u8?hdnts=exp=1720872935~acl=/rlbclive/rlbc.smil/*~hmac=93d33f82613223c9745a95b37b87e518bda7958ac6736fe773dd99b596c3d688
+#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0", referer="https://rotana.net/",lbc live
+https://live.kwikmotion.com/rlbclive/rlbc.smil/rlbcpublish/rlbc_source/hdntl=exp=1720960635~acl=%2frlbclive%2frlbc.smil%2f*~data=hdntl~hmac=99252695f28ed98a2db63a26a8832cdfe1892d9a38bf16f9574dcfb5fb045659/chunks.m3u8
+#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0", referer="https://rotana.net/en/channels/",lbc live ench
+https://live.kwikmotion.com/rlbclive/rlbc.smil/rlbcpublish/rlbc_source/hdntl=exp=1720960635~acl=%2frlbclive%2frlbc.smil%2f*~data=hdntl~hmac=99252695f28ed98a2db63a26a8832cdfe1892d9a38bf16f9574dcfb5fb045659/chunks.m3u8
