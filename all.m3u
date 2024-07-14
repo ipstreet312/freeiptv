@@ -1693,6 +1693,8 @@ https://ertflix.s.llnwi.net/ertlive/ert2/default/index.mpd
 https://ertflix.s.llnwi.net/ertlive/ert3/clrdef24620/index.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GVDqbDf/ertgr.png",ERT WORLD (backup)
 https://ertflix.s.llnwi.net/ertlive/ertworld/default/index.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GVDqbDf/ertgr.png",ERT NEWS (backup)
+https://ertflix.s.llnwi.net/ertlive/ertnews/default/index.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GVDqbDf/ertgr.png",ERT SPORTS
 https://ertflix.s.llnwi.net/ertlive/ertsports1/default/index.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/480p4sv/alpha.png",ALPHA TV
@@ -1737,18 +1739,38 @@ https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
 https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z6zPQL8/nrg.png",NRG TV
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png",BOYAH TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L9fj1Hj/greece.png",BOYAH TV
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png",AEOLOS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L9fj1Hj/greece.png",AEOLOS
 https://cdn.istoikona.com/aeolostv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png",EXPLORE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L9fj1Hj/greece.png",EXPLORE
 http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png",TOP CHANNEL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L9fj1Hj/greece.png",TOP CHANNEL
 http://eu1.vectromdigital.com:1935/topchannel/topchannel/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png",ράκη Νετ TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L9fj1Hj/greece.png",ράκη Νετ TV
 https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png",Tele ΚΡΗΤΗ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L9fj1Hj/greece.png",TELE ΚΡΗΤΗ
 https://neon.streams.gr:8081/telekriti/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L9fj1Hj/greece.png",START TV
+https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
+##EXTINF:-1 tvg-logo="https://i.ibb.co/L9fj1Hj/greece.png",PELLA TV
+https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L9fj1Hj/greece.png",KONTRA TV
+http://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L9fj1Hj/greece.png",HIGH TV
+http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L9fj1Hj/greece.png",HELLENIC TV
+https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L9fj1Hj/greece.png",GREEK TV LONDON
+https://vdo3.alphaserver.gr:3466/live/greektvlondonlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L9fj1Hj/greece.png",GRD CHANNEL
+https://live.cast-control.eu:443/organismos/organismos/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L9fj1Hj/greece.png",CRETA
+http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L9fj1Hj/greece.png",CORFU
+https://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L9fj1Hj/greece.png",BLUE SKY
+https://cdn1.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png" group-title="|PT|🇵🇹 PORTUGAL",RTP I
