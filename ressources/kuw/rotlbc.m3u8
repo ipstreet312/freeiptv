@@ -2,3 +2,13 @@
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2270400,RESOLUTION=1280x720
 https://
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=4265866,RESOLUTION=1920x1080,CODECS="avc1.640029,mp4a.40.2",CLOSED-CAPTIONS=NONE
+rlbcpublish/rlbc_source/hdntl=exp=1721003578~acl=%2frlbclive%2frlbc.smil%2f*~data=hdntl~hmac=bc679d09467013c18eb73b40dac565cb2ed20573f17f3a2bd0eb727106a4e8d5/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=448252,RESOLUTION=854x480,CODECS="avc1.77.30,mp4a.40.2",CLOSED-CAPTIONS=NONE
+rlbcpublish/rlbc_480p/hdntl=exp=1721003578~acl=%2frlbclive%2frlbc.smil%2f*~data=hdntl~hmac=bc679d09467013c18eb73b40dac565cb2ed20573f17f3a2bd0eb727106a4e8d5/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=292850,RESOLUTION=426x240,CODECS="avc1.42c015,mp4a.40.2",CLOSED-CAPTIONS=NONE
+rlbcpublish/rlbc_240p/hdntl=exp=1721003578~acl=%2frlbclive%2frlbc.smil%2f*~data=hdntl~hmac=bc679d09467013c18eb73b40dac565cb2ed20573f17f3a2bd0eb727106a4e8d5/chunks.m3u8
+
+https://live.kwikmotion.com/rlbclive/rlbc.smil/playlist.m3u8?hdnts=exp=1720917185~acl=/rlbclive/rlbc.smil/*~hmac=cf36e2647a3bc995eee23589f75ee7cb33125ee6c3307c29c9b5a2288a01df4c
