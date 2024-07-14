@@ -32,7 +32,7 @@ def get_channel_token(kwik_key, media_url):
     headers = {
         'Referer': 'https://rotana.net/',
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0',
-        'Content-Type': 'application/x-mpegURL',
+        'Content-Type': 'application/x-www-form-urlencoded',
         'X-Forwarded-For': '216.239.80.141'
     }
     response = requests.post(url, data=data, headers=headers)
