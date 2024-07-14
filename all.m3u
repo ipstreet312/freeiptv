@@ -1681,6 +1681,76 @@ https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
 https://kurdsat.akamaized.net/hls/stream_0.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GVDqbDf/ertgr.png" group-title="|GR|🇬🇷 GREECE",ERT WORLD
+https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GVDqbDf/ertgr.png",ERT NEWS
+https://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_news.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GVDqbDf/ertgr.png",ERT 1 [geoblocked]
+https://ertflix.s.llnwi.net/ertlive/ert1/encdef/index.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GVDqbDf/ertgr.png",ERT 2 [geoblocked]
+https://ertflix.s.llnwi.net/ertlive/ert2/default/index.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GVDqbDf/ertgr.png",ERT 3 [geoblocked]
+https://ertflix.s.llnwi.net/ertlive/ert3/clrdef24620/index.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GVDqbDf/ertgr.png",ERT WORLD (backup)
+https://ertflix.s.llnwi.net/ertlive/ertworld/default/index.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GVDqbDf/ertgr.png",ERT SPORTS
+https://ertflix.s.llnwi.net/ertlive/ertsports1/default/index.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/480p4sv/alpha.png",ALPHA TV
+http://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qk1SMGf/ant1.jpg",ANT 1
+http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qk1SMGf/ant1.jpg",ANT 1
+https://d1nfykbwa3n98t.cloudfront.net/out/v1/6e5667da5a6843899a337dea72adb61b/antenna_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/df2r3NS/skai.jpg",SKAI
+https://skai-live.siliconweb.com/media/cambria4/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PmDyTX6/star.jpg",STAR
+#https://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zX4VXw3/mega.jpg",MEGA
+#https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xq8t3P5/attica.jpg",ATTICA
+http://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sPtkhnL/sigma.png",SIGMA TV
+https://sl2.sigmatv.com/hls/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/txd3r3P/magic.png",MAGIC TV
+https://itv.streams.ovh/magictv/magictv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Gs4djtL/makedonia.png",MAKEDONIA TV
+https://dlm34ll53zqql.cloudfront.net/out/v1/d4177931deff4c7ba994b8126d153d9f/maktv_4.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tQmhZ0K/netmax.png",NET TV TORONTO
+https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tQmhZ0K/netmax.png",NET TV EUROPE
+https://eu1.vectromdigital.com:1936/netveurope/netveurope/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tQmhZ0K/netmax.png",NET MAX TV
+http://live.netmaxtv.com:8080/live/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3sHp7pS/riksat.png",RIK SAT CYPRUS
+http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8bgKVyb/openbyd.png",OPEN BEYOND
+https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/56kWP6F/action24.png",ACTION 24
+https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1qXMwq2/groovy.png",GROOVY TV
+http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0DDXv93/nea.png",NEA CRETE TV
+https://live.neatv.gr:8888/hls/neatv_high/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b2mBMBk/baraza.jpg",BARAZA RELAXING TV
+https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/72657Kw/xalastra.jpg",XALASTRA TV
+https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z6zPQL8/nrg.png",NRG TV
+http://tv.nrg91.gr:1935/onweb/live/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png",BOYAH TV
+http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png",AEOLOS
+https://cdn.istoikona.com/aeolostv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png",EXPLORE
+http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png",TOP CHANNEL
+http://eu1.vectromdigital.com:1935/topchannel/topchannel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png",ράκη Νετ TV
+https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png",Tele ΚΡΗΤΗ
+https://neon.streams.gr:8081/telekriti/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png" group-title="|PT|🇵🇹 PORTUGAL",RTP I
 https://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3YZFCjp/rtp1.jpg",RTP 1
@@ -2931,16 +3001,6 @@ http://blank
 https://v.trm.md/static/streaming-playlists/hls/f272ace4-32c2-4271-bbb6-7fc30a5c6105/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wz954nZ/md2.png",MOLDOVA 2
 https://v2.trm.md/static/streaming-playlists/hls/76541c86-d7de-4c73-b4c0-4fe6670b90a8/master.m3u8
-#EXTINF:-1 group-title="|EU|🇪🇺 EUROPEAN COCKTAILTOUR🍸",--- |GR:🇬🇷 GREECE| ---
-http://blank
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GVDqbDf/ertgr.png",ERT NEWS
-https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_news.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GVDqbDf/ertgr.png",ERT WORLD
-https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world_2Mbps.m3u8
-#EXTINF:-1 group-title="|EU|🇪🇺 EUROPEAN COCKTAILTOUR🍸",--- |CY:🇨🇾 CYPRUS| ---
-http://blank
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xhrtLgq/cyflag.png",RIK INT
-http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png" group-title="|GE-AM-AZ|🇬🇪🇦🇲🇦🇿 CAUCASIAN",GPB 1TV პირველი არხი
