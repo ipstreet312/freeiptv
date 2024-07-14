@@ -1681,7 +1681,7 @@ https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
 https://kurdsat.akamaized.net/hls/stream_0.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GVDqbDf/ertgr.png" group-title="|GR|🇬🇷 GREECE",ERT WORLD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GVDqbDf/ertgr.png" group-title="|GR|🇬🇷 GREECE Ελλά",ERT WORLD
 https://ertflix.s.llnwi.net/ertlive/ertworld/default/index.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GVDqbDf/ertgr.png",ERT 1 [geoblocked]
 https://ertflix.s.llnwi.net/ertlive/ert1/encdef/index.mpd
@@ -3456,4 +3456,8 @@ https://
 #EXTINF:-1,💐🆕⚡💥CHECK Input Entry Test Stream A02
 https://
 #EXTINF:-1,⚪🆗✔️✅Blank Empty New Service
+http://
+#EXTINF:-1,➕🎉Blank Empty New Service B01
+http://
+#EXTINF:-1,➕🎉Blank Empty New Service B02
 http://
