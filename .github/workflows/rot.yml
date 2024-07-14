@@ -1,4 +1,4 @@
-name: Rotana
+name: rotana
 
 on:
   schedule:
@@ -28,8 +28,9 @@ jobs:
          python_output=$(python ressources/kuw/rotlbc.py)
          echo "$python_output" >> ressources/kuw/rotlbc.m3u8        
 
-      - name: Pull changes from remote
-        run: git pull origin main
+      - name: pull
+        run: |
+          git pull origin master
 
       - name: Commit and Push Changes
         env:
@@ -38,5 +39,5 @@ jobs:
           git config --local user.email "no@no.no"
           git config --local user.name "no"
           git add ressources/kuw/rotlbc.m3u8
-          git commit -m "Updates"
-          git push
+          git commit -m "rotana updates"
+          git push origin master
