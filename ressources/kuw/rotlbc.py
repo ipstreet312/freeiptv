@@ -4,8 +4,9 @@ from bs4 import BeautifulSoup
 def get_kwik_key_from_page():
     url = "https://rotana.net/en/channels"
     headers = {
-        'Referer': 'https://rotana.net/en/channels/',
-        'Content-Type': 'application/x-www-form-urlencoded',
+        'Referer': 'https://rotana.net/',
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0',
+        'Content-Type': 'application/x-mpegURL',
         'X-Forwarded-For': '216.239.80.141'
     }
     response = requests.get(url, headers=headers)
@@ -29,8 +30,9 @@ def get_channel_token(kwik_key, media_url):
         'mediaUrl': media_url
     }
     headers = {
-        'Referer': 'https://rotana.net/en/channels/',
-        'Content-Type': 'application/x-www-form-urlencoded',
+        'Referer': 'https://rotana.net/',
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0',
+        'Content-Type': 'application/x-mpegURL',
         'X-Forwarded-For': '216.239.80.141'
     }
     response = requests.post(url, data=data, headers=headers)
