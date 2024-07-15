@@ -2999,6 +2999,8 @@ https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
 https://mcdn.daserste.de/daserste/int/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GcZR4DM/daserste.png",DAS ERSTE DE
 https://mcdn.daserste.de/daserste/de/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GcZR4DM/daserste.png",DAS ERSTE DE
+http://daserstedash.akamaized.net/dash/live/2103597/daserste/dvbt2/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Msmh0pG/rtlde.png",RTL DE
 https://ma.anixa.tv/clips/stream/rtl/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cc4J7ZB/Alphaard.png",ALPHA ARD
