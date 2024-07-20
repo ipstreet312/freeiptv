@@ -2158,7 +2158,7 @@ https://echorouk-live-tv.dzsecurity.net/fullres/EchoroukTV_First/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1vH6q4L/echounws.png" user-agent="Mozilla/5.0", referer="https://echorouk.dzsecurity.net/",ECHOROUK NEWS 'play-on-pc-first'
 https://echorouk-live-tv.dzsecurity.net/fullres/EchoroukNews_First/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pbQCS5g/elwataniadz.jpg" referer="https://player.castr.com/",EL WATANIA TV
-https://stream.castr.com/62c18c3f14d09a0b7e5355a5/live_1b36cfb0ba2411ee9700956e0f7084c8/index.m3u8
+https://stream.castr.com/62c18c3f14d09a0b7e5355a5/live_1b36cfb0ba2411ee9700956e0f7084c8/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4N2sNS/cna.png",CNA
 https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5M4CwmQ/watania1.png",WATANIA 1 (backup)
@@ -3535,5 +3535,5 @@ https://
 http://
 #EXTINF:-1,➕🎉Blank Empty New Service B01
 https://
-#EXTINF:-1,➕🎉Blank Empty New Service B02
+#EXTINF:-1,➕🎉Blank Empty New Service B001
 http://
