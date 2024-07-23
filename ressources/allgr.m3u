@@ -2157,6 +2157,8 @@ https://ennahar-live.dzsecurity.net/fullres/EnnaharTV_First/playlist.m3u8
 https://echorouk-live-tv.dzsecurity.net/fullres/EchoroukTV_First/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1vH6q4L/echounws.png" user-agent="Mozilla/5.0", referer="https://echorouk.dzsecurity.net/" group-title="|MA-DZ-TN|🇲🇦🇩🇿🇹🇳 MAGHREB المغرب",ECHOROUK NEWS 'play-on-pc-first'
 https://echorouk-live-tv.dzsecurity.net/fullres/EchoroukNews_First/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pbQCS5g/elwataniadz.jpg" referer="https://player.castr.com/" group-title="|MA-DZ-TN|🇲🇦🇩🇿🇹🇳 MAGHREB المغرب",EL WATANIA TV
+https://stream.castr.com/62c18c3f14d09a0b7e5355a5/live_1b36cfb0ba2411ee9700956e0f7084c8/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4N2sNS/cna.png" group-title="|MA-DZ-TN|🇲🇦🇩🇿🇹🇳 MAGHREB المغرب",CNA
 https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5M4CwmQ/watania1.png" group-title="|MA-DZ-TN|🇲🇦🇩🇿🇹🇳 MAGHREB المغرب",WATANIA 1 (backup)
@@ -3532,6 +3534,6 @@ https://
 #EXTINF:-1 group-title="|📡|👨‍💻👉GITHUB.COM/IPSTREET312",⚪🆗✔️✅Blank Empty New Service
 http://
 #EXTINF:-1 group-title="|📡|👨‍💻👉GITHUB.COM/IPSTREET312",➕🎉Blank Empty New Service B01
-http://
-#EXTINF:-1 group-title="|📡|👨‍💻👉GITHUB.COM/IPSTREET312",➕🎉Blank Empty New Service B02
+https://
+#EXTINF:-1 group-title="|📡|👨‍💻👉GITHUB.COM/IPSTREET312",➕🎉Blank Empty New Service B001
 http://
