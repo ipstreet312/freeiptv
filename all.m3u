@@ -159,22 +159,6 @@ https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/c8.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Sm9PtLR/cstar.png",CSTAR
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/canalplus/cstar.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NyHqX5R/belrtl.png",BEL RTL
-https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NyHqX5R/belrtl.png",BEL RTL
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/belrtl.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WgNnchd/clubrtl.png",CLUB RTL
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/clubrtl.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wJ3YJGs/rtlplug.png",PLUG RTL
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/plugrtl.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/h2bSSvv/rtlplay.png",RTL PLAY
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/rtlplay.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kKMpCzz/rtltvi.png",RTL TVI
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/rtltvi.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kKMpCzz/rtltvi.png",RTL TVI
-https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6RYpdNz/m6int.png",M6 INTERNATIONAL
-https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/420Bjqt/tv5europe.png",TV5MONDE EUROPE [geo-area]
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x8YnkQ2/tv5.png",TV5MONDE MOYEN-ORIENT [geo-area]
@@ -211,10 +195,6 @@ https://hls-m013-live-aka-canalplus.akamaized.net/live/disk/cstar-clair-hd/hls-i
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$RMC_DECOUVERTE/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fdYg3Lz/rmcstory.png",RMC STORY [drm-keycrypted]
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$NUMERO_23/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fdYg3Lz/rmcstory.png",RMC STORY [wrkflw-deact]
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/rmcst/rmcst.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6 [disabled]
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/m6.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6 [drm-keycrypted]
 https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/6bb64f06f28a4bfb8779bc1a386f7f0b/dash_short_cenc10_m6_hd_index.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6 [drm-keycrypted]
@@ -225,26 +205,6 @@ https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/82a128a679444d3c9b4d68c161
 https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/2babf2563b5b420caa743430699c096b/dash_short_cenc10_scte_w9_hdeindex.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nzh88j8/6ter.png",6TER [drm-keycrypted]
 https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/597b48a710164c0da9a4386bf9f7bef2/dash_short_cenc10_6ter_hdeindex.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1 [ssl-blocked]
-https://live-tf1-hls-dai.cdn-1.diff.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hKVyKj4/tmc.png",TMC [tkn-blocked]
-https://live-tmc-hls.cdn-0.diff.tf1.fr/out/v1/44fcb1c776284f2da7c11ef948d7ef34/tmc-cmaf/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4VS27Jw/tfx.png",TFX [tkn-blocked]
-https://live-tfx-hls.cdn-0.diff.tf1.fr/out/v1/54408d0e39304776bf7b2ce4b1599123/tfx-cmaf/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9Y4PHKP/tf1sf.png",TF1 SÉRIES-FILMS [tkn-blocked]
-https://live-tsf-hls.cdn-0.diff.tf1.fr/out/v1/9990671b96634d799552358352b2570a/tf1-series-film-cmaf/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png",FRANCE 2 [find-host]
-https://PuthereYourserverHostaddress/fr2curl.php?m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/y8PjbJ4/fr3bl.png",FRANCE 3 [find-host]
-https://PuthereYourserverHostaddress/fr3curl.php?m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VgcrtZ5/fr4blok.png",FRANCE 4 [find-host]
-https://PuthereYourserverHostaddress/fr4curl.php?m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N9d4yXt/fr5bl.png",FRANCE 5 [find-host]
-https://PuthereYourserverHostaddress/fr5curl.php?m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6 (out)
-https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6 (out)
-https://shls-m6-france-prod-dub-ak.akamaized.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6spXX2y/nrj12.png" user-agent="SmartOs Tv",NRJ 12 (backup)
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/nrj12.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R3KG4L9/cherie25.png" user-agent="SmartOs Tv",CHÉRIE 25 (backup)
@@ -265,10 +225,6 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2
 https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/tmc.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LNRd253/w9.png",W9 (check)
 http://gratuittv.free.fr/Files/w9/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6 (test)
-https://s14.tntendirect.com/m6/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6 (test)
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/infos/barkers/tp6.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ByN83p3/funradtv.png" group-title="|FR|🇫🇷 SOCIÉTÉ",FUN RADIO TV BE
@@ -629,6 +585,8 @@ https://section
 https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
 #EXTINF:-1 group-title="|FR|🇫🇷 RÉGIONS",--- |BE:🇧🇪 BELGIQUE WALLONIE| ---
 https://section
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NyHqX5R/belrtl.png",BEL RTL
+https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WGHbhfh/latelebe.png",LA TÉLÉ
 https://latele2.vedge.infomaniak.com/livecast/latele2/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WGHbhfh/latelebe.png",LA TÉLÉ
@@ -3112,7 +3070,7 @@ https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png",IMEDI
 https://tv.cdn.xsg.ge/imedihd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png",RUSTAVI 2
-https://sktv-forwarders.7m.pl/get.php?x=Rustavi2&m3u8
+https://dvrfl05.tulix.tv/gin-rustavi2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png",PALITRA
 https://livestream.palitra.ge/hls/palitratv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png",FORMULA
