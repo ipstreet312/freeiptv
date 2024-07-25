@@ -662,7 +662,7 @@ https://tv100-live.daioncdn.net/tv100/tv100.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png",TV 100
 https://tv100.blutv.com/blutv_tv100_live/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png",CNN TÜRK
-https://raw.githubusercontent.com/rideordie16/YouTube/main/haber/cnnturk.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/cnnturk.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png",CNN TÜRK
 https://deathlesstg.serv00.net/Youtube-Live/index.php?id=X_EWYemclKA&m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png",NTV
@@ -721,6 +721,8 @@ https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
 https://ythls.armelin.one/video/X_EWYemclKA.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png",CNN TÜRK (backup)
 https://new.cache-stream.workers.dev/stream/X_EWYemclKA/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png",CNN TÜRK (backup)
+https://raw.githubusercontent.com/rideordie16/YouTube/main/haber/cnnturk.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png",NTV (backup)
 http://dogus.daioncdn.net/ntv/ntv.m3u8?ce=3&&app=7c4bb802-0c41-409e-8cd2-799984995694
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png",NTV (backup)
