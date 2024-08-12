@@ -1767,6 +1767,8 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pyXp0bk/tvi.png",TVI INT
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tviint.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SPX7mJ2/vplus.png",TVI V+
+https://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hg8wkqj/tvific.jpg",TVI FICCAO
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xYNTr2v/tvirea.jpg",TVI REALITY
