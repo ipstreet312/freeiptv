@@ -4,7 +4,7 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png",CNEWS
 https://hls-m010-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v3-hd-clair/cnews-clair-hd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Zfcrrr1/lci.png",LCI
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/lci.m3u8
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/lci1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XkLHrbC/frinfo2bl.png",FRANCE INFO:
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frin.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZBqk6mK/lemedia.jpg",LE MÉDIA TV
@@ -103,6 +103,8 @@ https://PuthereYourserverHostaddress/frijsoncurl.php?m3u8
 https://ythls-v3.onrender.com/video/l8PMl7tUDIE.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hKP8X8B/f24.png",FRANCE 24 FR (backup-off)
 https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_092/HD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Zfcrrr1/lci.png",LCI (backup)
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/lci.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png",CNEWS (backup)
 https://hls-m010-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-ios-fhd-clair/cnews-clair-hd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png",CNEWS (backup)
