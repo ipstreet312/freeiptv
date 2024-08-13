@@ -12,7 +12,7 @@ headers = {
     'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36'
 }
 s = requests.Session()
-resplink = s.get('https://mediainfo.tf1.fr/mediainfocombo/L_LCI?format=hls')
+resplink = s.get('https://mediainfo.tf1.fr/mediainfocombo/L_LCI?context=ONEINFO&format=hls')
 response_json = json.loads(resplink.text)
 mastlnk = response_json["delivery"]["url"]
 new_string = mastlnk.replace("index", "index_1")
