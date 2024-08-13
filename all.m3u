@@ -697,8 +697,10 @@ https://ythls.armelin.one/channel/UCaO-M1dXacMwtyg0Pvovk4w.m3u8
 https://new.cache-stream.workers.dev/channel/UCaO-M1dXacMwtyg0Pvovk4w/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BN9tk1q/tbmm22.png",TBMM TV
 https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/K6BKFqY/dha.png",DHA (feed)
-https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/K6BKFqY/dha.png",DHA (feed 1)
+https://603c568fccdf5.streamlock.net/live/dhaweb1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/K6BKFqY/dha.png",DHA (feed 2)
+https://603c568fccdf5.streamlock.net/live2/dhaweb2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jLd8Fcb/aa.png",AA (feed)
 http://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Bt6frts/trthaber.png",TRT HABER (backup)
