@@ -8,7 +8,7 @@ headers = {
 }
 
 session = requests.Session()
-response = session.get('https://mediainfo.tf1.fr/mediainfocombo/L_LCI?format=hls')
+response = session.get('https://mediainfo.tf1.fr/mediainfocombo/L_LCI?format=hls&context=ONEINFO')
 
 response_json = json.loads(response.text)
 g1 = response_json["delivery"]["url"]
