@@ -1,0 +1,32 @@
+name: tvm action
+
+on:
+  schedule:
+    - cron: '05 */4 * * *'
+  
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    
+      - uses: actions/checkout@v2
+
+      - name: config
+        run: |
+          git config --global user.email "<>"
+          git config --global user.name "tvm bot"
+      
+      - name: updating tvm
+        run: python3 ${GITHUB_WORKSPACE}/ressources/extr/py/tvm.py > ${GITHUB_WORKSPACE}/ressources/extr/py/tvm.m3u8
+        
+      - name: git add
+        run: |
+          git add -A
+          ls -la 
+          
+      - name: commit & push
+        run: |
+          git commit -m "tvm updated"
+          git push
