@@ -670,7 +670,7 @@ https://deathlesstg.serv00.net/Youtube-Live/index.php?id=X_EWYemclKA&m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png",NTV
 https://dogus-live.daioncdn.net/ntv/ntv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png",NTV
-https://deathlesstg.serv00.net/Youtube-Live/index.php?id=-RORLrBwJD0&m3u8
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/ntv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ln92Dj2/Ekoltv.png",EKOL TV
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ln92Dj2/Ekoltv.png",EKOL TV
@@ -731,6 +731,8 @@ https://raw.githubusercontent.com/rideordie16/YouTube/main/haber/cnnturk.m3u8
 http://dogus.daioncdn.net/ntv/ntv.m3u8?ce=3&&app=7c4bb802-0c41-409e-8cd2-799984995694
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png",NTV (backup)
 http://dygvideo.dygdigital.com/live/hls/puhuntvdai?m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png",NTV (backup)
+https://deathlesstg.serv00.net/Youtube-Live/index.php?id=-RORLrBwJD0&m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png",NTV (downline)
 http://canli.haber365.com.tr/tr/ntv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ln92Dj2/Ekoltv.png",EKOL TV (backup)
@@ -3599,5 +3601,5 @@ https://
 http://
 #EXTINF:-1,➕🎉Blank Empty New Service B01
 https://
-#EXTINF:-1,➕🎉Blank Empty New Service B02
+#EXTINF:-1,➕🎉Blank Empty New Service B00
 http://
