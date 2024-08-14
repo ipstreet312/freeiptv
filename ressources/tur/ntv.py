@@ -7,21 +7,19 @@ try:
     response = requests.get(url)
     response.raise_for_status()
 
-    response_url = response.text.strip()
-    print(f"Original response content: {response_url[:500]}...")  # Print the first 500 characters for debugging
+    playlist_content = response.text.strip()
+    print(f"Original playlist content: {playlist_content[:500]}...")
 
-    modified_url = response_url.replace("kralpoptv", "ntv")
-    print(f"Modified URL: {modified_url}")
+    modified_playlist_content = playlist_content.replace("kralpoptv", "ntv")
 
-    content_response = requests.get(modified_url)
-    content_response.raise_for_status()
+    print(f"Modified playlist content: {modified_playlist_content[:500]}...")
 
-    content = content_response.text
-    lines = content.split("\n")
     modified_content = ""
+    lines = modified_playlist_content.split("\n")
 
     for line in lines:
         if line.startswith("chunklist"):
+            # Generate the full URL for chunklist entries
             full_url = base_url + line
             modified_content += full_url + "\n"
         else:
