@@ -1,2 +1,10 @@
-Final URL after redirection: https://mn-nl.mncdn.com/dogusdyg_kralpoptv/dogusdyg_kralpoptv.smil/playlist.m3u8?st=M1tT7DgY4u-WCBN084fN_Q&e=1723734288
-Modified URL: https://mn-nl.mncdn.com/dogusdyg_ntv/dogusdyg_ntv.smil/playlist.m3u8?st=M1tT7DgY4u-WCBN084fN_Q&e=1723734288
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1028000,RESOLUTION=854x480
+https://mn-nl.mncdn.com/dogusdyg_ntv/dogusdyg_ntv.smil/chunklist_b1028000.m3u8?st=9enb9-rpxn-COusQUExo2g&e=1723734711
+#EXT-X-STREAM-INF:BANDWIDTH=1628000,RESOLUTION=1280x720
+https://mn-nl.mncdn.com/dogusdyg_ntv/dogusdyg_ntv.smil/chunklist_b1628000.m3u8?st=9enb9-rpxn-COusQUExo2g&e=1723734711
+#EXT-X-STREAM-INF:BANDWIDTH=3128000,RESOLUTION=1920x1080
+https://mn-nl.mncdn.com/dogusdyg_ntv/dogusdyg_ntv.smil/chunklist_b3128000.m3u8?st=9enb9-rpxn-COusQUExo2g&e=1723734711
+
+
