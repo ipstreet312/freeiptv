@@ -19,7 +19,6 @@ try:
 
     for line in lines:
         if line.startswith("chunklist"):
-            # Generate the full URL for chunklist entries
             full_url = base_url + line
             modified_content += full_url + "\n"
         else:
