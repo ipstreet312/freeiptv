@@ -2087,8 +2087,10 @@ https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
 https://multimedia.eitb.eus/live-content/oka3hd-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ySq76W3/rtva.png",ANDORRA DIFUSIÓ
 https://play.cdn.enetres.net/56495F77FD124FECA75590A906965F2C021/021/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0rxVFbs/tvcanaria.png",TV CANARIA (geo-blocked)
-https://streaming.noumm.es/noumm_live/televisioncanaria/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0rxVFbs/tvcanaria.png",TV CANARIA
+https://ythls.armelin.one/channel/UCTQrUTmzCWIfG6h4EVCdOCQ.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0rxVFbs/tvcanaria.png",TV CANARIA
+https://new.cache-stream.workers.dev/stream/UCTQrUTmzCWIfG6h4EVCdOCQ/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NCQtNX5/telesur.png",TELESUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hKP8X8B/f24.png",FRANCE 24 ES
