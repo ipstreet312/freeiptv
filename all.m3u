@@ -762,7 +762,7 @@ https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ TV
 https://szctvdvr.blutv.com/blutv_szctv_dvr/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ TV
-https://new.cache-stream.workers.dev/stream/ztmY_cCtUl0/live.m3u8
+https://ythls-v3.onrender.com/video/ztmY_cCtUl0.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jZShqBM/Krt24v2.png",KRT
 https://krttv-live.daioncdn.net/krttv/krttv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jZShqBM/Krt24v2.png",KRT
@@ -819,6 +819,10 @@ http://stream.yol.tv:9485/medialive/yol.m3u8
 https://trn10.tulix.tv/gt-caddetv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CB62fwD/cadde.png",CADDE TV (event time)
 https://new.cache-stream.workers.dev/stream/UCPTF3NxWzcBD8rNnJuGQOSA/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ TV (backup)
+https://new.cache-stream.workers.dev/stream/ztmY_cCtUl0/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ TV (backup)
+https://ythls.armelin.one/video/ztmY_cCtUl0.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jZShqBM/Krt24v2.png",KRT (backup)
 https://krttv.daioncdn.net/krttv/krttv.m3u8?app=web
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jZShqBM/Krt24v2.png",KRT (backup)
