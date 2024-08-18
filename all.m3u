@@ -877,17 +877,15 @@ https://tv-trt1.medya.trt.com.tr/master.m3u8
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" tvg-id="KanalD.tr" tvg-name="Kanal D HD",KANAL D
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" tvg-id="Kanald.com.tr" tvg-name="Kanal D HD",KANAL D
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" tvg-id="KanalD.tr" tvg-name="Kanal D HD",KANAL D
 https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" tvg-id="Kanald.tr" tvg-name="Kanal D HD",KANAL D
-https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" tvg-id="Star.tr" tvg-name="Star TV HD",STAR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" tvg-id="Start.tr" tvg-name="Star TV HD",STAR
 https://dogus-live.daioncdn.net/startv/startv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" tvg-id="Start.tr" tvg-name="Star TV HD",STAR
 http://dygvideo.dygdigital.com/live/hls/stardai?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png" tvg-id="ShowTV.tr" tvg-name="Show TV HD",SHOW
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png" tvg-name="Show TV HD",SHOW
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png" tvg-id="ShowTV.tr" tvg-name="Show TV HD",SHOW
 https://bloomberght-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" tvg-id="Fox.tr" tvg-name="FOX",NOW
 https://nowtv.blutv.com/blutv_nowtv/live.m3u8
@@ -895,9 +893,9 @@ https://nowtv.blutv.com/blutv_nowtv/live.m3u8
 https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=auggBPafvYeWBueaeFsLfA&e=1723976916
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" tvg-id="TV8.tr" tvg-name="TV8 HD",TV8
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" tvg-id="TV8.tr",TV8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" tvg-id="TV8.tr" tvg-name="TV8 HD",TV8
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" tvg-id="ATV.tr" tvg-name="ATV",ATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" tvg-id="ATV.tr" tvg-name="ATV HD",ATV
 https://ythls.armelin.one/channel/UCUVZ7T_kwkxDOGFcDlFI-hg.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" tvg-id="ATV.tr" tvg-name="ATV HD",ATV
 https://new.cache-stream.workers.dev/stream/UCUVZ7T_kwkxDOGFcDlFI-hg/live.m3u8
