@@ -387,7 +387,7 @@ https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/funr
 https://edge11.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8
 
 
-#EXTINF:-1 group-title="|FR|🇫🇷 RÉGIONS",--- |FR:🇫🇷 FRANCE LOCALES| ---
+#EXTINF:-1 group-title="|FR|🇫🇷 RÉGIONS & LOCALES",--- |FR:🇫🇷 FRANCE MÉTROPOLITAINE| ---
 https://section
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png",BFM ALPES
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_ALPESDUSUD/index.m3u8?start=LIVE&end=END
