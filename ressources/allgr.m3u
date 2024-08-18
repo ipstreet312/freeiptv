@@ -387,173 +387,173 @@ https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/funr
 https://edge11.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8
 
 
-#EXTINF:-1 group-title="|FR|🇫🇷 RÉGIONS",--- |FR:🇫🇷 FRANCE LOCALES| ---
+#EXTINF:-1 group-title="|FR|🇫🇷 RÉGIONS & LOCALES",--- |FR:🇫🇷 FRANCE MÉTROPOLITAINE| ---
 https://section
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png" group-title="|FR|🇫🇷 RÉGIONS",BFM ALPES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",BFM ALPES
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_ALPESDUSUD/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png" group-title="|FR|🇫🇷 RÉGIONS",BFM ALSACE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",BFM ALSACE
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_ALSACE/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png" group-title="|FR|🇫🇷 RÉGIONS",BFM H.PROVENCE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",BFM H.PROVENCE
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_HAUTEPROVENCE/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png" group-title="|FR|🇫🇷 RÉGIONS",BFM LILLE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",BFM LILLE
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLILLE/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png" group-title="|FR|🇫🇷 RÉGIONS",BFM LITTORAL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",BFM LITTORAL
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLITTORAL/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png" group-title="|FR|🇫🇷 RÉGIONS",BFM LYON
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",BFM LYON
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_LYON/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png" group-title="|FR|🇫🇷 RÉGIONS",BFM MARSEILLE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",BFM MARSEILLE
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_MARSEILLEPROV/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png" group-title="|FR|🇫🇷 RÉGIONS",BFM NICE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",BFM NICE
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NICECOTEDAZUR/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png" group-title="|FR|🇫🇷 RÉGIONS",BFM NORMANDIE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",BFM NORMANDIE
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NORMANDIE/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png" group-title="|FR|🇫🇷 RÉGIONS",BFM PARIS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",BFM PARIS
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_PARIS/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png" group-title="|FR|🇫🇷 RÉGIONS",BFM TOULON
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",BFM TOULON
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="|FR|🇫🇷 RÉGIONS",F3 PARIS IDF
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",F3 PARIS IDF
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fidf.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="|FR|🇫🇷 RÉGIONS",F3 PROVENCE ALPES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",F3 PROVENCE ALPES
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fpra.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="|FR|🇫🇷 RÉGIONS",F3 CÔTE D'AZUR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",F3 CÔTE D'AZUR
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fpca.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="|FR|🇫🇷 RÉGIONS",F3 RHÔNE ALPES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",F3 RHÔNE ALPES
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frha.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="|FR|🇫🇷 RÉGIONS",F3 ALPES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",F3 ALPES
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/falp.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="|FR|🇫🇷 RÉGIONS",F3 AUVERGNE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",F3 AUVERGNE
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fauv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="|FR|🇫🇷 RÉGIONS",F3 BOURGOGNE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",F3 BOURGOGNE
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fbog.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="|FR|🇫🇷 RÉGIONS",F3 FRANCHE COMPTÉ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",F3 FRANCHE COMPTÉ
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/ffrc.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="|FR|🇫🇷 RÉGIONS",F3 CENTRE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",F3 CENTRE
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fctr.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="|FR|🇫🇷 RÉGIONS",F3 CORSE VÍA STELLA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",F3 CORSE VÍA STELLA
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fcrs.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="|FR|🇫🇷 RÉGIONS",F3 ALSACE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",F3 ALSACE
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fals.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="|FR|🇫🇷 RÉGIONS",F3 CHAMPAGNE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",F3 CHAMPAGNE
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fchg.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="|FR|🇫🇷 RÉGIONS",F3 LORRAINE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",F3 LORRAINE
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/flor.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="|FR|🇫🇷 RÉGIONS",F3 NORD PDC
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",F3 NORD PDC
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fpdc.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="|FR|🇫🇷 RÉGIONS",F3 PICARDIE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",F3 PICARDIE
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fpcd.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="|FR|🇫🇷 RÉGIONS",F3 B.NORMANDIE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",F3 B.NORMANDIE
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fbnr.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="|FR|🇫🇷 RÉGIONS",F3 H.NORMANDIE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",F3 H.NORMANDIE
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fhnr.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="|FR|🇫🇷 RÉGIONS",F3 AQUITAINE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",F3 AQUITAINE
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/faqt.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="|FR|🇫🇷 RÉGIONS",F3 NOA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",F3 NOA
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fnoa.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="|FR|🇫🇷 RÉGIONS",F3 LIMOUSIN
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",F3 LIMOUSIN
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/flms.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="|FR|🇫🇷 RÉGIONS",F3 POITOU CHARENTES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",F3 POITOU CHARENTES
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fpch.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="|FR|🇫🇷 RÉGIONS",F3 MIDI PYRÉNÉES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",F3 MIDI PYRÉNÉES
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fmpr.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="|FR|🇫🇷 RÉGIONS",F3 LANGUEDOC
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",F3 LANGUEDOC
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fldr.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="|FR|🇫🇷 RÉGIONS",F3 PAYS LOIRE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",F3 PAYS LOIRE
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fpdl.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="|FR|🇫🇷 RÉGIONS",F3 BRETAGNE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",F3 BRETAGNE
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fbre.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xmhMMDN/tebeo.png" group-title="|FR|🇫🇷 RÉGIONS",TÉBÉO TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xmhMMDN/tebeo.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",TÉBÉO TV
 https://lives.digiteka.com/stream/e0fe6433-554e-4568-9a7e-31969136d8ff/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3k4Lv34/tvrennes.png" group-title="|FR|🇫🇷 RÉGIONS",TVR RENNES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3k4Lv34/tvrennes.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",TVR RENNES
 https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3y88kpg/telenantes.jpg" group-title="|FR|🇫🇷 RÉGIONS",TÉLÉ NANTES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3y88kpg/telenantes.jpg" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",TÉLÉ NANTES
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Telenantes.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3y88kpg/telenantes.jpg" group-title="|FR|🇫🇷 RÉGIONS",TÉLÉ NANTES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3y88kpg/telenantes.jpg" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",TÉLÉ NANTES
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/telenantes.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xS8B1qS/tvvendee.png" group-title="|FR|🇫🇷 RÉGIONS",TV VENDÉE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xS8B1qS/tvvendee.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",TV VENDÉE
 https://streamer01.myvideoplace.tv/streamer02/hls/VDE_EVEN_PAD_130923.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fdcDJWF/tv78.png" group-title="|FR|🇫🇷 RÉGIONS",TV 78
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fdcDJWF/tv78.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",TV 78
 https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WpSPwkN/7alim.png" group-title="|FR|🇫🇷 RÉGIONS",7A LIMOGES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WpSPwkN/7alim.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",7A LIMOGES
 https://new.cache-stream.workers.dev/stream/UCdFv_ZWQ3Xk_NfRiaK-ryGg/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zRLKgFS/alpehuez.png" group-title="|FR|🇫🇷 RÉGIONS",ALPE D'HUEZ TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zRLKgFS/alpehuez.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",ALPE D'HUEZ TV
 https://edge14.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/61mqv2h/biptv.png" group-title="|FR|🇫🇷 RÉGIONS",BIP TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/61mqv2h/biptv.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",BIP TV
 https://biptv.tv/live/biptvstream_orig/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Dpsn6ZV/c32.png" group-title="|FR|🇫🇷 RÉGIONS",CANAL 32
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Dpsn6ZV/c32.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",CANAL 32
 http://canal32.vedge.infomaniak.com/livecast/canal32/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YLL42C6/iltv.png" group-title="|FR|🇫🇷 RÉGIONS",IL TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YLL42C6/iltv.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",IL TV
 https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vmqkmDB/moselle.jpg" group-title="|FR|🇫🇷 RÉGIONS",MOSELLE TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vmqkmDB/moselle.jpg" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",MOSELLE TV
 https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9VrjLFT/tv7b.png" group-title="|FR|🇫🇷 RÉGIONS",TV7 BORDEAUX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9VrjLFT/tv7b.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",TV7 BORDEAUX
 https://lives.digiteka.com/stream/17c6dea8-fb3f-46fe-b170-2ac88cd5667b/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d6x3fxq/tv7colm.png" group-title="|FR|🇫🇷 RÉGIONS",TV7 COLMAR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d6x3fxq/tv7colm.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",TV7 COLMAR
 http://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2nG96GF/tv3v.png" group-title="|FR|🇫🇷 RÉGIONS",TV 3V
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2nG96GF/tv3v.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",TV 3V
 https://tv3v.live-kd.com/live/tv3v/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZfHZhf/viamatele.png" group-title="|FR|🇫🇷 RÉGIONS",VIA MATÉLÉ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZfHZhf/viamatele.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",VIA MATÉLÉ
 https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3My0NGd/viaocc.png" group-title="|FR|🇫🇷 RÉGIONS",VIA OCCITANIE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3My0NGd/viaocc.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",VIA OCCITANIE
 https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3My0NGd/viaocc.png" group-title="|FR|🇫🇷 RÉGIONS",VIA OCCITANIE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3My0NGd/viaocc.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",VIA OCCITANIE
 https://lives.digiteka.com/stream/9c424a1c-d202-465c-84e1-3efb89a43fee/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nQP8st8/telepaese.png" group-title="|FR|🇫🇷 RÉGIONS",VIA TELEPAESE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nQP8st8/telepaese.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",VIA TELEPAESE
 https://srv.webtvmanager.fr:3118/live/viatelepaeselive.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qkkHNPR/vosges.png" group-title="|FR|🇫🇷 RÉGIONS",VOSGES TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qkkHNPR/vosges.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",VOSGES TV
 https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nMkybxK/weo1.png" group-title="|FR|🇫🇷 RÉGIONS",WÉO NORD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nMkybxK/weo1.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",WÉO NORD
 https://lives.digiteka.com/stream/c58028c2-a58b-4526-9ec8-389cad4a71e8/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nMkybxK/weo1.png" group-title="|FR|🇫🇷 RÉGIONS",WÉO PICARDIE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nMkybxK/weo1.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",WÉO PICARDIE
 https://lives.digiteka.com/stream/bbb843db-8540-4156-98a5-b7c85da54d8e/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KGNTppx/nancyweb.jpg" group-title="|FR|🇫🇷 RÉGIONS",NANCY WEB TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KGNTppx/nancyweb.jpg" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",NANCY WEB TV
 https://edge12.vedge.infomaniak.com/livecast/ik:nancy-webtv/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MMDSDQ9/maurienne.png" group-title="|FR|🇫🇷 RÉGIONS",MAURIENNE TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MMDSDQ9/maurienne.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",MAURIENNE TV
 https://new.cache-stream.workers.dev/stream/UCva-htH2wvmKsG6SkcEJ4Vw/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dDbcFbF/lch32.png" group-title="|FR|🇫🇷 RÉGIONS",LA CHAÎNE 32
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dDbcFbF/lch32.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",LA CHAÎNE 32
 https://new.cache-stream.workers.dev/stream/UChl0zP89T7yZyEwQkCfmmnQ/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VNDPTDY/tgohelle.png" group-title="|FR|🇫🇷 RÉGIONS",TÉLÉ GOHELLE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VNDPTDY/tgohelle.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",TÉLÉ GOHELLE
 https://videas.agglo-lenslievin.fr/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6W98gzZ/tvpi.png" group-title="|FR|🇫🇷 RÉGIONS",TVPI BAYONNE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6W98gzZ/tvpi.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",TVPI BAYONNE
 https://new.cache-stream.workers.dev/stream/UCwVQAPo6tjC5w5yBBh0WEdA/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1rDLsMp/puisstv.png" group-title="|FR|🇫🇷 RÉGIONS",PUISSANCE TÉLÉVISION
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1rDLsMp/puisstv.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",PUISSANCE TÉLÉVISION
 https://edge13.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Tr2b0gV/natv.png" group-title="|FR|🇫🇷 RÉGIONS",NA TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Tr2b0gV/natv.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",NA TV
 https://edge11.vedge.infomaniak.com/livecast/ik:naradio/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2Zb8Gmb/kdude.png" group-title="|FR|🇫🇷 RÉGIONS",KANAL DUDE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2Zb8Gmb/kdude.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",KANAL DUDE
 https://5aa375514fbab.streamlock.net:8090/tbzain/smil:kanaldude.smil/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0q3DHhF/cannesler.png" group-title="|FR|🇫🇷 RÉGIONS",CANNES LÉRINS TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0q3DHhF/cannesler.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",CANNES LÉRINS TV
 https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tLPxcFn/littoral.png" group-title="|FR|🇫🇷 RÉGIONS",LITTORAL TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tLPxcFn/littoral.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",LITTORAL TV
 https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QYJL1N7/tarn.png" group-title="|FR|🇫🇷 RÉGIONS",TV TARN
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QYJL1N7/tarn.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",TV TARN
 https://live.creacast.com/albi-tv-ch1/stream/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Jk1ND0P/mosaik.png" group-title="|FR|🇫🇷 RÉGIONS",MOSAIK CRISTAL TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jk1ND0P/mosaik.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",MOSAIK CRISTAL TV
 https://new.cache-stream.workers.dev/stream/UCQC0xLG_W0QpqAXQ4-yhwBA/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/74fJt5v/8mblanc.png" group-title="|FR|🇫🇷 RÉGIONS",TV8 MONTBLANC
+#EXTINF:-1 tvg-logo="https://i.ibb.co/74fJt5v/8mblanc.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",TV8 MONTBLANC
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/8_Mont-Blanc.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vDRB1fK/tvtloire.png" group-title="|FR|🇫🇷 RÉGIONS",TVT TOURS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vDRB1fK/tvtloire.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",TVT TOURS
 https://lives.digiteka.com/stream/920f083a-9e61-4c09-9bc2-bdb664063aa9/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QM2Y7TV/angtl.jpg" group-title="|FR|🇫🇷 RÉGIONS",ANGERS TÉLÉ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QM2Y7TV/angtl.jpg" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",ANGERS TÉLÉ
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/angerstele.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3NX9rPp/lyoncap.png" group-title="|FR|🇫🇷 RÉGIONS",LYON CAPITALE TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3NX9rPp/lyoncap.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",LYON CAPITALE TV
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/lyoncapitale.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/h2VX7Wj/tlcholt.png" group-title="|FR|🇫🇷 RÉGIONS",TL CHOLETAIS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h2VX7Wj/tlcholt.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",TL CHOLETAIS
 https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/TLC.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/c2MfMVN/valloire.jpg" group-title="|FR|🇫🇷 RÉGIONS",VALLOIRE TV 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c2MfMVN/valloire.jpg" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",VALLOIRE TV 
 https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/ValloireTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gj4ZGdY/n31.jpg" group-title="|FR|🇫🇷 RÉGIONS",N31
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gj4ZGdY/n31.jpg" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",N31
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/n31.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/c2CBDqt/grenoble.png" group-title="|FR|🇫🇷 RÉGIONS",TÉLÉ GRENOBLE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c2CBDqt/grenoble.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",TÉLÉ GRENOBLE
 https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/Telegrenoble.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nccDkr5/lmtv.png" group-title="|FR|🇫🇷 RÉGIONS",LM TV SARTHE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nccDkr5/lmtv.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",LM TV SARTHE
 https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/LMTVSarthe.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2qs2HxR/astv.png" group-title="|FR|🇫🇷 RÉGIONS",ASTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2qs2HxR/astv.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",ASTV
 https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/ASTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yRLR4Ny/tl7l.png" group-title="|FR|🇫🇷 RÉGIONS",TL7 LOIRE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yRLR4Ny/tl7l.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",TL7 LOIRE
 https://x5ct4nu/
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C99d8Z7/maritima.jpg" group-title="|FR|🇫🇷 RÉGIONS",MARITIMA TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C99d8Z7/maritima.jpg" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",MARITIMA TV
 https://indisponible
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1RVPRkx/bocal.png" group-title="|FR|🇫🇷 RÉGIONS",TÉLÉ BOCAL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1RVPRkx/bocal.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",TÉLÉ BOCAL
 https://indisponible
 #EXTINF:-1 group-title="|FR|🇫🇷 RÉGIONS",--- |FR:🇫🇷 OUTRE-MER DOM/TOM| ---
 https://section
