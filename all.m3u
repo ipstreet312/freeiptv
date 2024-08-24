@@ -289,8 +289,6 @@ https://ythls.armelin.one/channel/UCaEqMbRYYOmI3WrALMhxuIg.m3u8
 https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/c65696b42ca34e97a9b5f54758d6dd50/cmaf/hlsfmp4_short_q2hyb21h_gulli_sd_index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png",GULLI
 https://lbcdn.6cloud.fr/resource/m6web/l/gulli_hls_sd_short_q2hyb21h.m3u8?groups[]=m6web-live-gulli_ext
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vmk02Tc/tiji.png",TIJI
-https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MMpFXQL/gong.jpg",GONG
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01596-gongnetworks-gong-samsungfr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MMpFXQL/gong.jpg",GONG
@@ -2197,7 +2195,7 @@ https://github.com/MassinDV/Youtube-arabic-channels/raw/main/live/ch35.m3u8
 http://live.watania2.tn:1935/live/watanya2.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8DxdBPf/Attessia9.png",ATTASIA 9
 https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9tsD8WP/TV2Al.png",TV2 ALGERIE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9tsD8WP/TV2Al.png",TV2 ALGÉRIE
 https://bozztv.com/inim03/live1/giniko_canalalgerie/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pPwR2Tc/ennahar.png" user-agent="Mozilla/5.0", referer="https://echorouk.dzsecurity.net/",ENNAHAR TV
 https://ennahar-live.dzsecurity.net/fullres/EnnaharTV_First/playlist.m3u8
@@ -2205,7 +2203,7 @@ https://ennahar-live.dzsecurity.net/fullres/EnnaharTV_First/playlist.m3u8
 https://echorouk-live-tv.dzsecurity.net/fullres/EchoroukTV_First/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1vH6q4L/echounws.png" user-agent="Mozilla/5.0", referer="https://echorouk.dzsecurity.net/",ECHOROUK NEWS 'play-its-website first'
 https://echorouk-live-tv.dzsecurity.net/fullres/EchoroukNews_First/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7Q4Zv2v/elhayat.png" user-agent="Mozilla/5.0", referer="https://elhayat.dzsecurity.net/",EL HAYAT TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7Q4Zv2v/elhayat.png" user-agent="Mozilla/5.0", referer="https://elhayat.dzsecurity.net/",EL HAYAT TV 'play-its-website first'
 https://elhayat-live-tv.dzsecurity.net/fullres/ElhayatTV_First/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pbQCS5g/elwataniadz.jpg" referer="https://player.castr.com/",EL WATANIA TV
 https://stream.castr.com/62c18c3f14d09a0b7e5355a5/live_1b36cfb0ba2411ee9700956e0f7084c8/index.fmp4.m3u8
