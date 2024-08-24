@@ -3041,9 +3041,9 @@ https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8
 https://57068da1deb21.streamlock.net/retetvitalia/retetvitalia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EsZn2cj.png",RETE 55
 https://live1.giocabet.tv/stream/6/index.m3u8
-#EXTINF:-1,CANALE 7
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KmY1chC/Canale-7.png",CANALE 7
 http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
-#EXTINF:-1,CAFE TV 24
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JCzkhFF/cafe24.png",CAFE TV 24
 https://srvx1.selftv.video/cafe/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Canale 10" tvg-logo="https://i.imgur.com/KuQcjYV.png",CANALE 10
 https://nrvideo1.newradio.it:1936/desxcerbht/desxcerbht/playlist.m3u8
