@@ -18,11 +18,57 @@ fr4_content=$(cat "$input_file" | sed 's/France_2/France_4/g; s/hls_fr2/hls_fr4/
 fr5_content=$(cat "$input_file" | sed 's/France_2/France_5/g; s/hls_fr2/hls_fr5/g')
 noa_content=$(cat "$input_file" | sed 's/France_2/Regions_noa/g; s/hls_fr2/hls_noa/g')
 fri_content=$(cat "$input_file" | sed 's/France_2/France_Info/g; s/hls_fr2/hls_monde_frinfo/g')
-nca_content=$(cat "$input_file" | sed 's/France_2/1er_Nouvelle_Caledonie/g; s/hls_fr2/hls_monde_1er_NC/g')
+1wf_content=$(cat "$input_file" | sed 's/France_2/1er_Wallis_Futuna/g; s/hls_fr2/hls_1er_WF/g')
+1wfm_content=$(cat "$input_file" | sed 's/France_2/1er_Wallis_Futuna/g; s/hls_fr2/hls_monde_1er_WF/g')
+1spm_content=$(cat "$input_file" | sed 's/France_2/1er_Saint-Pierre_Miquelon/g; s/hls_fr2/hls_1er_SPM/g')
+1spmm_content=$(cat "$input_file" | sed 's/France_2/1er_Saint-Pierre_Miquelon/g; s/hls_fr2/hls_monde_1er_SPM/g')
+1pol_content=$(cat "$input_file" | sed 's/France_2/1er_Polynesie/g; s/hls_fr2/hls_1er_Polynesie/g')
+1polm_content=$(cat "$input_file" | sed 's/France_2/1er_Polynesie/g; s/hls_fr2/hls_monde_1er_Polynesie/g')
+1mar_content=$(cat "$input_file" | sed 's/France_2/1er_Martinique/g; s/hls_fr2/hls_1er_Mar/g')
+1marm_content=$(cat "$input_file" | sed 's/France_2/1er_Martinique/g; s/hls_fr2/hls_monde_1er_Mar/g')
+1gua_content=$(cat "$input_file" | sed 's/France_2/1er_Guadeloupe/g; s/hls_fr2/hls_1er_Gua/g')
+1guam_content=$(cat "$input_file" | sed 's/France_2/1er_Guadeloupe/g; s/hls_fr2/hls_monde_1er_Gua/g')
+1guy_content=$(cat "$input_file" | sed 's/France_2/1er_Guyane/g; s/hls_fr2/hls_1er_Guy/g')
+1guym_content=$(cat "$input_file" | sed 's/France_2/1er_Guyane/g; s/hls_fr2/hls_monde_1er_Guy/g')
+1may_content=$(cat "$input_file" | sed 's/France_2/1er_Mayotte/g; s/hls_fr2/hls_1er_May/g')
+1maym_content=$(cat "$input_file" | sed 's/France_2/1er_Mayotte/g; s/hls_fr2/hls_monde_1er_May/g')
+1nc_content=$(cat "$input_file" | sed 's/France_2/1er_Nouvelle_Caledonie/g; s/hls_fr2/hls_1er_NC/g')
+1ncm_content=$(cat "$input_file" | sed 's/France_2/1er_Nouvelle_Caledonie/g; s/hls_fr2/hls_monde_1er_NC/g')
+1reu_content=$(cat "$input_file" | sed 's/France_2/1er_Reunion/g; s/hls_fr2/hls_1er_Reu/g')
+1reum_content=$(cat "$input_file" | sed 's/France_2/1er_Reunion/g; s/hls_fr2/hls_monde_1er_Reu/g')
+1nc2_content=$(cat "$input_file" | sed 's/France_2/1er_Nouvelle_Caledonie/g; s/hls_fr2/hls_1er/g')
+1ncm2_content=$(cat "$input_file" | sed 's/France_2/1er_Nouvelle_Caledonie/g; s/hls_fr2/hls_monde_1er/g')
+1ncm3_content=$(cat "$input_file" | sed 's/France_2/1er_Nouvelle_Caledonie/g; s/hls_fr2/hls_monde/g')
+1reu2_content=$(cat "$input_file" | sed 's/France_2/1er_Reunion/g; s/hls_fr2/hls_1er/g')
+1reum2_content=$(cat "$input_file" | sed 's/France_2/1er_Reunion/g; s/hls_fr2/hls_monde_1er/g')
+1reum3_content=$(cat "$input_file" | sed 's/France_2/1er_Reunion/g; s/hls_fr2/hls_monde/g')
 
 echo "$fr3_content" > "$output_dir/fr3.m3u8"
 echo "$fr4_content" > "$output_dir/fr4.m3u8"
 echo "$fr5_content" > "$output_dir/fr5.m3u8"
 echo "$noa_content" > "$output_dir/fnoa.m3u8"
 echo "$fri_content" > "$output_dir/frin.m3u8"
-echo "$nca_content" > "$output_dir/fr1nc.m3u8"
+echo "$1wf_content" > "$output_dir/fr1wf.m3u8"
+echo "$1wfm_content" > "$output_dir/fr1wfm.m3u8"
+echo "$1spm_content" > "$output_dir/fr1spm.m3u8"
+echo "$1spmm_content" > "$output_dir/fr1spmm.m3u8"
+echo "$1mar_content" > "$output_dir/fr1mar.m3u8"
+echo "$1marm_content" > "$output_dir/fr1marm.m3u8"
+echo "$1gua_content" > "$output_dir/fr1gua.m3u8"
+echo "$1guam_content" > "$output_dir/fr1guam.m3u8"
+echo "$1guy_content" > "$output_dir/fr1guy.m3u8"
+echo "$1guym_content" > "$output_dir/fr1guym.m3u8"
+echo "$1may_content" > "$output_dir/fr1may.m3u8"
+echo "$1maym_content" > "$output_dir/fr1maym.m3u8"
+echo "$1nc_content" > "$output_dir/fr1nc.m3u8"
+echo "$1ncm_content" > "$output_dir/fr1ncm.m3u8"
+echo "$1reu_content" > "$output_dir/fr1reu.m3u8"
+echo "$1reum_content" > "$output_dir/fr1reum.m3u8"
+echo "$1pol_content" > "$output_dir/fr1pol.m3u8"
+echo "$1polm_content" > "$output_dir/fr1polm.m3u8"
+echo "$1nc2_content" > "$output_dir/fr1nc2.m3u8"
+echo "$1ncm2_content" > "$output_dir/fr1ncm2.m3u8"
+echo "$1ncm3_content" > "$output_dir/fr1ncm3.m3u8"
+echo "$1reu2_content" > "$output_dir/fr1reu2.m3u8"
+echo "$1reum2_content" > "$output_dir/fr1reum2.m3u8"
+echo "$1reum3_content" > "$output_dir/fr1reum3.m3u8"
