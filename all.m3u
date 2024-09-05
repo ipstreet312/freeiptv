@@ -572,54 +572,43 @@ http://lakay.online/public/telelabrise/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kcPbyTD/tntv.png",TNTV
 https://tntv-samsung-fr.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CB78JpG/etvgp.png",ETV GUADELOUPE
-https://edge15.vedge.infomaniak.com/livecast/ik:etvgp/manifest.m3u8#EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",LA 1ÈRE MARTINIQUE [geo-area]
+https://edge15.vedge.infomaniak.com/livecast/ik:etvgp/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",LA 1ÈRE MARTINIQUE [geo-area]
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1mar.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",LA 1ÈRE MARTINIQUE (news only)
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1marm.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",LA 1ÈRE GUADELOUPE [geo-area]
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1gua.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",LA 1ÈRE GUADELOUPE (news only)
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1guam.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",LA 1ÈRE GUYANE [geo-area]
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1guy.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",LA 1ÈRE GUYANE (news only)
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1guym.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",LA 1ÈRE MAYOTTE [geo-area]
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1may.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",LA 1ÈRE MAYOTTE (news only)
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1maym.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",LA 1ÈRE RÉUNION [geo-area]
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1reu.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",LA 1ÈRE RÉUNION (news only)
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1reum.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",LA 1ÈRE N.CALÉDONIE [geo-area]
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1nc.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",LA 1ÈRE N.CALÉDONIE (news only)
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1ncm.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",LA 1ÈRE POLYNÉSIE [geo-area]
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1pol.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",LA 1ÈRE POLYNÉSIE (news only)
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1polm.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",LA 1ÈRE WALLIS FUTUNA [geo-area]
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1wf.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",LA 1ÈRE WALLIS FUTUNA (news only)
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1wfm.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",LA 1ÈRE SAINT-PIERRE MIQUELON [geo-area]
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1spm.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",LA 1ÈRE MARTINIQUE (news only)
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1marm.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",LA 1ÈRE GUADELOUPE (news only)
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1guam.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",LA 1ÈRE GUYANE (news only)
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1guym.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",LA 1ÈRE MAYOTTE (news only)
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1maym.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",LA 1ÈRE RÉUNION (news only)
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1reum.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",LA 1ÈRE N.CALÉDONIE (news only)
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1ncm.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",LA 1ÈRE POLYNÉSIE (news only)
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1polm.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",LA 1ÈRE WALLIS FUTUNA (news only)
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1wfm.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",LA 1ÈRE SAINT-PIERRE MIQUELON (news only)
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1spmm.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",LA 1ÈRE RÉUNION [geo-area]-2
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1reu2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",LA 1ÈRE RÉUNION (news only)-2
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1reum2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",LA 1ÈRE RÉUNION (news only)-3
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1reum3.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",LA 1ÈRE N.CALÉDONIE [geo-area]-2
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1nc2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",LA 1ÈRE N.CALÉDONIE (news only)-2
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1ncm2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",LA 1ÈRE N.CALÉDONIE (news only)-3
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1ncm3.m3u8
 #EXTINF:-1 group-title="|FR|🇫🇷 RÉGIONS & LOCALES",--- |MC:🇲🇨 MONACO PRINCIPAUTÉ| ---
 https://section
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XjzvmqL/tvmonaco.jpg",TV MONACO
