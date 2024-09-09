@@ -17,6 +17,19 @@ jobs:
         run: |
           git config --global user.email "<>"
           git config --global user.name "one bot"
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python3 -m pip install --upgrade pip
+          pip install beautifulsoup4
+          
+      - name: Install requests module
+        run: python3 -m pip install requests
       
       - name: updating one
         run: python3 ressources/mde/one.py > ressources/mde/one.m3u8
