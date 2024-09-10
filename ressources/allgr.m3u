@@ -2465,14 +2465,14 @@ https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/index.m3u8
 https://mako-streaming.akamaized.net/n12/hls/live/2041434/n12s/index.m3u8?hdnea=
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s107QNv/araby2.png" group-title="|AR|🇸🇦 MIDDLE EAST-1 عربي",AL ARABY 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s107QNv/araby2.png" group-title="|AR|🇸🇦 MIDDLE EAST-1 عربي",AL ALARABY 2
 https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s107QNv/araby2.png" group-title="|AR|🇸🇦 MIDDLE EAST-1 عربي",AL ARABY 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s107QNv/araby2.png" group-title="|AR|🇸🇦 MIDDLE EAST-1 عربي",AL ALARABY 2
 https://alarabyta.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="|AR|🇸🇦 MIDDLE EAST-1 عربي",MTV LBN
-https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
+https://cdnet.alwaysdata.net/mur.php?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vJj1gdb/onetvlb.jpg" group-title="|AR|🇸🇦 MIDDLE EAST-1 عربي",ONE TV LBN
-https://live.3cd.io/v1/broadcast/one/playlist.m3u8
+https://cdnet.alwaysdata.net/one.php?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zH7W9tX/volbn.png" group-title="|AR|🇸🇦 MIDDLE EAST-1 عربي",VOICE OF LBN
 https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wR2jkMz/nbnlb.png" referer="https://odysee.com" group-title="|AR|🇸🇦 MIDDLE EAST-1 عربي",NBN
@@ -2536,6 +2536,8 @@ https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1KcjbKf/almayadeen.png" group-title="|AR|🇸🇦 MIDDLE EAST-1 عربي",AL MAYADEEN
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gZKY6Tn/almanar.png" group-title="|AR|🇸🇦 MIDDLE EAST-1 عربي",AL MANAR
+https://edge.fastpublish.me/live/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gZKY6Tn/almanar.png" group-title="|AR|🇸🇦 MIDDLE EAST-1 عربي",AL MANAR
 https://manar.live/iptv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4Vfg55v/almasira.png" group-title="|AR|🇸🇦 MIDDLE EAST-1 عربي",AL MASIRA
 https://svs.itworkscdn.net/almasiralive/almasira.smil/playlist.m3u8
@@ -2556,7 +2558,7 @@ https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5TZPHf6/atfal.jpg" group-title="|AR|🇸🇦 MIDDLE EAST-1 عربي",ATFAL
 https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sKJGV9q/Ajman.jpg" group-title="|AR|🇸🇦 MIDDLE EAST-1 عربي",AJMAN TV
-https://cdn.logichost.in/ajmantv/live/playlist.m3u8
+https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vm3481D/amman.png" group-title="|AR|🇸🇦 MIDDLE EAST-1 عربي",AMMAN TV
 https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C2c1NJN/alraimedia.png" group-title="|AR|🇸🇦 MIDDLE EAST-1 عربي",ALRAIMEDIA
@@ -2613,6 +2615,8 @@ https://master.starmena-cloud.com/hls/yemenshabab.m3u8
 https://mn-nl.mncdn.com/utviraqi2/64c80359/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8jK0ZR5/alrasheed.png" group-title="|AR|🇸🇦 MIDDLE EAST-1 عربي",AL RASHEED
 https://media1.livaat.com/AL-RASHEED-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8jK0ZR5/alrasheed.png" group-title="|AR|🇸🇦 MIDDLE EAST-1 عربي",AL RASHEED
+https://media1.livaat.com/static/AL-RASHEED-HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MfLxCY6/alrafidain.png" group-title="|AR|🇸🇦 MIDDLE EAST-1 عربي",AL RAFIDAIN
 https://arrafidain.tvplayer.online/arrafidaintv/source/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MfLxCY6/alrafidain.png" group-title="|AR|🇸🇦 MIDDLE EAST-1 عربي",AL RAFIDAIN
@@ -2625,12 +2629,18 @@ https://mn-nl.mncdn.com/qaf/live/playlist.m3u8
 https://www.enterweb.tv:25463/live/ssadtv/live-tv/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ygKx229/lana1.png" group-title="|AR|🇸🇦 MIDDLE EAST-1 عربي",LANA TV (backup)
 https://eitc3.secure2.footprint.net/hls/LTV.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s107QNv/araby2.png" group-title="|AR|🇸🇦 MIDDLE EAST-1 عربي",AL ALARABY 2 (backup)
+https://origin-cae-t482536.cdn.nextologies.com/63d8c759c5db83b4/25c4f89d27a79014ALA2306/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png" group-title="|AR|🇸🇦 MIDDLE EAST-1 عربي",ROYA TV (backup)
 https://roya.daioncdn.net/royatv/royatv.m3u8?app=8c1e143a-39cf-40b4-acb2-e78faa1f322d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png" group-title="|AR|🇸🇦 MIDDLE EAST-1 عربي",ROYA TV (backup)
 https://roya-live.ercdn.net/roya/roya.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png" group-title="|AR|🇸🇦 MIDDLE EAST-1 عربي",ROYA TV [geoblocked]
 https://weyyak-live.akamaized.net/weyyak_roya/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="|AR|🇸🇦 MIDDLE EAST-1 عربي",MTV LBN [offline]
+https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vJj1gdb/onetvlb.jpg" group-title="|AR|🇸🇦 MIDDLE EAST-1 عربي",ONE TV LBN [offline]
+https://live.3cd.io/v1/broadcast/one/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YhMgggj/lbcb.jpg" group-title="|AR|🇸🇦 MIDDLE EAST-1 عربي",LBC LBN [geoblocked]
 https://daiconnect.com/live/hls/rotana/lbc-cdn/.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Svnqq8G/otv.jpg" group-title="|AR|🇸🇦 MIDDLE EAST-1 عربي",OTV LBN [brokenlink]
@@ -2769,9 +2779,9 @@ http://live-hls-web-aja.getaj.net/AJA/index.m3u8
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hcCJkhq/Al-Arabiya.png" group-title="|AR|🇸🇦 THEMATICS-1 عربي",AL ARABIYA
 https://shls-live-ak.akamaized.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/h27qpLJ/araby1.png" group-title="|AR|🇸🇦 THEMATICS-1 عربي",AL ARABY
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h27qpLJ/araby1.png" group-title="|AR|🇸🇦 THEMATICS-1 عربي",AL ALARABY
 https://alarabyta.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/h27qpLJ/araby1.png" group-title="|AR|🇸🇦 THEMATICS-1 عربي",AL ARABY
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h27qpLJ/araby1.png" group-title="|AR|🇸🇦 THEMATICS-1 عربي",AL ALARABY
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nc8F1dj/Al-Hadath.png" group-title="|AR|🇸🇦 THEMATICS-1 عربي",AL ARABIYA HADATH
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
@@ -2795,6 +2805,8 @@ https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203
 https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png" group-title="|AR|🇸🇦 THEMATICS-1 عربي",ROYA NEWS
 https://raw.githubusercontent.com/MassinDV/Youtube-arabic-channels/main/live/ch39.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m4tvbmp/inewsar.png" group-title="|AR|🇸🇦 THEMATICS-1 عربي",INEWS IQ
+https://live.i-news.tv/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m4tvbmp/inewsar.png" group-title="|AR|🇸🇦 THEMATICS-1 عربي",INEWS IQ
 https://svs.itworkscdn.net/inewsiqlive/inewsiq.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JcP5JHq/bbcaranw.png" group-title="|AR|🇸🇦 THEMATICS-1 عربي",BBC NEWS ARABIA
@@ -2827,6 +2839,8 @@ https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PNLHyhs/Al-Sharqiya-News.png" group-title="|AR|🇸🇦 THEMATICS-1 عربي",AL SHARQIYA
 https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PNLHyhs/Al-Sharqiya-News.png" group-title="|AR|🇸🇦 THEMATICS-1 عربي",AL SHARQIYA
+https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4shFvm/elsharq.png" group-title="|AR|🇸🇦 THEMATICS-1 عربي",EL SHARQ
 https://mn-nl.mncdn.com/elsharq_live/live/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KX5tK6Q/Wanasa.png" group-title="|AR|🇸🇦 THEMATICS-1 عربي",WANASAH
@@ -2893,6 +2907,8 @@ https://58cc65c534c67.streamlock.net/ctvchannel.tv/ctv.smil/playlist.m3u8
 https://shls-asharq-prod-dub.shahid.net/out/v1/3b6b4902cf8747a28619411239584002/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nzjbYfR/asharq.png" group-title="|AR|🇸🇦 THEMATICS-1 عربي",ASHARQ NEWS (portrait mode)
 https://bcovlive-a.akamaihd.net/ed81ac1118414d4fa893d3a83ccec9be/eu-central-1/6203311941001/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h27qpLJ/araby1.png" group-title="|AR|🇸🇦 THEMATICS-1 عربي",AL ARABY (backup)
+https://origin-cae-t482536.cdn.nextologies.com/6837800d47c40cb2/1544c5accd8e84d5ALA2306/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h27qpLJ/araby1.png" group-title="|AR|🇸🇦 THEMATICS-1 عربي",AL ARABY (backup)
 https://new.cache-stream.workers.dev/stream/UC65i3Fyq91uiUkIS0i5GLNQ/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s107QNv/araby2.png" group-title="|AR|🇸🇦 THEMATICS-1 عربي",AL ARABY 2 (part-time)
@@ -2980,7 +2996,7 @@ https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/60
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5sJ9vSJ/rotanakhalijia.png" group-title="|AR|🇸🇦 THEMATICS-2 عربي",ROTANA KHALIJA
 https://edge66.magictvbox.com/liveApple/rotana_khalijiah/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SwZKHJj/rcomedy.jpg" group-title="|AR|🇸🇦 THEMATICS-2 عربي",ROTANA COMEDY
-https://cdnet.alwaysdata.net/comedy.php?channel=rcomedy&.m3u8
+https://oppomu.serv00.net/comedy.php?channel=rcomedy&.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SwZKHJj/rcomedy.jpg" group-title="|AR|🇸🇦 THEMATICS-2 عربي",ROTANA COMEDY
 http://hzncdn.42web.io/comedy.php?channel=rcomedy&.m3u8
 #EXTINF:-1 group-title="|AR|🇸🇦 THEMATICS-2 عربي",--- |⬇DOWN/OFFLINES⬇| ---
