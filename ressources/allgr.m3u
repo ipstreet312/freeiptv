@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png" group-title="|FR|🇫🇷 INFORMATION",BFM TV
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2MhqYgg/bfm2.png" group-title="|FR|🇫🇷 INFORMATION",BFM 2 :-)
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM2/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png" group-title="|FR|🇫🇷 INFORMATION",CNEWS
 https://hls-m010-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v3-hd-clair/cnews-clair-hd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Zfcrrr1/lci.png" group-title="|FR|🇫🇷 INFORMATION",LCI
@@ -105,6 +107,8 @@ https://ythls-v3.onrender.com/video/l8PMl7tUDIE.m3u8
 https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_092/HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Zfcrrr1/lci.png" group-title="|FR|🇫🇷 INFORMATION",LCI (backup)
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/lci.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Zfcrrr1/lci.png" group-title="|FR|🇫🇷 INFORMATION",LCI (backup)
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/lci.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png" group-title="|FR|🇫🇷 INFORMATION",CNEWS (backup)
 https://hls-m010-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-ios-fhd-clair/cnews-clair-hd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png" group-title="|FR|🇫🇷 INFORMATION",CNEWS (backup)
@@ -136,7 +140,7 @@ https://live-lci-hls.cdn-0.diff.tf1.fr/out/v1/917aad4fa72f42f7ba7f486226f54bc4/l
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pQ7kLNY/tv5fbs.png" group-title="|FR|🇫🇷 GÉNÉRALISTE",TV5MONDE FBSM
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" group-title="|FR|🇫🇷 GÉNÉRALISTE",TF1
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/tf1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png" group-title="|FR|🇫🇷 GÉNÉRALISTE",FRANCE 2
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y8PjbJ4/fr3bl.png" group-title="|FR|🇫🇷 GÉNÉRALISTE",FRANCE 3
@@ -218,7 +222,7 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/n
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R3KG4L9/cherie25.png" user-agent="SmartOs Tv" group-title="|FR|🇫🇷 GÉNÉRALISTE",CHÉRIE 25 (backup)
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/cherie25.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" group-title="|FR|🇫🇷 GÉNÉRALISTE",TF1 (backup)
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/tf1.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" group-title="|FR|🇫🇷 GÉNÉRALISTE",TF1 (backup)
 https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/main/fr/videotf1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png" group-title="|FR|🇫🇷 GÉNÉRALISTE",FRANCE 2 (backup)
@@ -1125,6 +1129,8 @@ https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F0Tsz1v/htsportr.png" group-title="|TR|🇹🇷 ÇOCUK / SPOR",HT SPOR
 https://ciner-live.ercdn.net/htspor/htspor.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F0Tsz1v/htsportr.png" group-title="|TR|🇹🇷 ÇOCUK / SPOR",HT SPOR
+https://ciner-live.daioncdn.net/ht-spor/ht-spor.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BfM21nC/beinhaber.png" group-title="|TR|🇹🇷 ÇOCUK / SPOR",BIS HABER
 https://raw.githubusercontent.com/rideordie16/YouTube/main/spor/beinsportshaber.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BfM21nC/beinhaber.png" group-title="|TR|🇹🇷 ÇOCUK / SPOR",BIS HABER
@@ -1724,25 +1730,35 @@ https://kurdsat.akamaized.net/hls/stream_0.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GVDqbDf/ertgr.png" group-title="|GR|🇬🇷 GREECE Ελλά",ERT WORLD
+https://ertflix.s.llnwi.net/ertlive/ertworld/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GVDqbDf/ertgr.png" group-title="|GR|🇬🇷 GREECE Ελλά",ERT WORLD
 https://ertflix.s.llnwi.net/ertlive/ertworld/default/index.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GVDqbDf/ertgr.png" group-title="|GR|🇬🇷 GREECE Ελλά",ERT NEWS
+https://ertflix.s.llnwi.net/ertlive/ertnews/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GVDqbDf/ertgr.png" group-title="|GR|🇬🇷 GREECE Ελλά",ERT NEWS
+https://ertflix.s.llnwi.net/ertlive/ertnews/default/index.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GVDqbDf/ertgr.png" group-title="|GR|🇬🇷 GREECE Ελλά",ERT 1 [geoblocked]
 https://ertflix.s.llnwi.net/ertlive/ert1/encdef/index.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GVDqbDf/ertgr.png" group-title="|GR|🇬🇷 GREECE Ελλά",ERT 2 [geoblocked]
 https://ertflix.s.llnwi.net/ertlive/ert2/default/index.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GVDqbDf/ertgr.png" group-title="|GR|🇬🇷 GREECE Ελλά",ERT 3 [geoblocked]
 https://ertflix.s.llnwi.net/ertlive/ert3/clrdef24620/index.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GVDqbDf/ertgr.png" group-title="|GR|🇬🇷 GREECE Ελλά",ERT NEWS [geoblocked]
-https://ertflix.s.llnwi.net/ertlive/ertnews/default/index.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GVDqbDf/ertgr.png" group-title="|GR|🇬🇷 GREECE Ελλά",ERT NEWS [geoblocked]
-https://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_news.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GVDqbDf/ertgr.png" group-title="|GR|🇬🇷 GREECE Ελλά",ERT SPORTS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GVDqbDf/ertgr.png" group-title="|GR|🇬🇷 GREECE Ελλά",ERT KIDS [geoblocked]
+https://ertflix.s.llnwi.net/ertlive/kids/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GVDqbDf/ertgr.png" group-title="|GR|🇬🇷 GREECE Ελλά",ERT KIDS [geoblocked]
+https://ertflix.s.llnwi.net/ertlive/ertkids/default/index.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GVDqbDf/ertgr.png" group-title="|GR|🇬🇷 GREECE Ελλά",ERT MUSIC [geoblocked]
+https://ertflix.s.llnwi.net/ertlive/music/default/index.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GVDqbDf/ertgr.png" group-title="|GR|🇬🇷 GREECE Ελλά",ERT MUSIC [geoblocked]
+https://ertflix.s.llnwi.net/ertlive/music/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GVDqbDf/ertgr.png" group-title="|GR|🇬🇷 GREECE Ελλά",ERT SPORTS [geoblocked]
 https://ertflix.s.llnwi.net/ertlive/ertsports1/default/index.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GVDqbDf/ertgr.png" group-title="|GR|🇬🇷 GREECE Ελλά",ERT SPORTS (backup)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GVDqbDf/ertgr.png" group-title="|GR|🇬🇷 GREECE Ελλά",ERT SPORTS [geoblocked]
 https://ertflix.s.llnwi.net/ertlive/ertsports1/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GVDqbDf/ertgr.png" group-title="|GR|🇬🇷 GREECE Ελλά",ERT WORLD (backup)
-https://ertflix.s.llnwi.net/ertlive/ertworld/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GVDqbDf/ertgr.png" group-title="|GR|🇬🇷 GREECE Ελλά",ERT WORLD (backup)
 https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GVDqbDf/ertgr.png" group-title="|GR|🇬🇷 GREECE Ελλά",ERT NEWS (backup)
+https://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_news.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/480p4sv/alpha.png" group-title="|GR|🇬🇷 GREECE Ελλά",ALPHA TV
 http://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qk1SMGf/ant1.jpg" group-title="|GR|🇬🇷 GREECE Ελλά",ANT 1
@@ -1773,6 +1789,10 @@ https://eu1.vectromdigital.com:1936/netveurope/netveurope/playlist.m3u8
 http://live.netmaxtv.com:8080/live/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3sHp7pS/riksat.png" group-title="|GR|🇬🇷 GREECE Ελλά",RIK SAT CYPRUS
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3sHp7pS/riksat.png" group-title="|GR|🇬🇷 GREECE Ελλά",RIK SAT CYPRUS [geoblocked]
+https://ertflix.s.llnwi.net/ertlive/rik/default/index.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3sHp7pS/riksat.png" group-title="|GR|🇬🇷 GREECE Ελλά",RIK SAT CYPRUS [geoblocked]
+https://ertflix.s.llnwi.net/ertlive/rik/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8bgKVyb/openbyd.png" group-title="|GR|🇬🇷 GREECE Ελλά",OPEN BEYOND
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/56kWP6F/action24.png" group-title="|GR|🇬🇷 GREECE Ελλά",ACTION 24
