@@ -1,10 +1,10 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=1028000,RESOLUTION=854x480
-http://mn-nl.mncdn.com/dogusdyg_eurostar/dogusdyg_eurostar.smil/chunklist_b1028000.m3u8?st=H2NNbpQV-qOvE0IGx4rcew&e=1726105457
-#EXT-X-STREAM-INF:BANDWIDTH=1628000,RESOLUTION=1280x720
-http://mn-nl.mncdn.com/dogusdyg_eurostar/dogusdyg_eurostar.smil/chunklist_b1628000.m3u8?st=H2NNbpQV-qOvE0IGx4rcew&e=1726105457
-#EXT-X-STREAM-INF:BANDWIDTH=3128000,RESOLUTION=1920x1080
-http://mn-nl.mncdn.com/dogusdyg_eurostar/dogusdyg_eurostar.smil/chunklist_b3128000.m3u8?st=H2NNbpQV-qOvE0IGx4rcew&e=1726105457
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000,RESOLUTION=1920x1080
+live_1080p3000000kbps/index.m3u8?st=MxnO6vPfpmTtupuF6pwnbg&e=1726172606
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000,RESOLUTION=1280x720
+live_720p1500000kbps/index.m3u8?st=MxnO6vPfpmTtupuF6pwnbg&e=1726172606
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=90000,RESOLUTION=854x480
+live_480p90000kbps/index.m3u8?st=MxnO6vPfpmTtupuF6pwnbg&e=1726172606
 
 
