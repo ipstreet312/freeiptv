@@ -1,1 +1,10 @@
-An error occurred: 404 Client Error: Not Found for url: https://mn-nl.mncdn.com/dogusdyg_ntv/dogusdyg_ntv.smil/playlist.m3u8?st=Gfb3PPyUgM938pBz5ptnsg&e=1726192044
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000,RESOLUTION=1920x1080
+https://mn-nl.mncdn.com/dogusdyg_ntv/live_1080p3000000kbps/index.m3u8?st=HJ_Nxbb6Q8vF4AiVNYbOAQ&e=1726255746
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000,RESOLUTION=1280x720
+https://mn-nl.mncdn.com/dogusdyg_ntv/live_720p1500000kbps/index.m3u8?st=HJ_Nxbb6Q8vF4AiVNYbOAQ&e=1726255746
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=90000,RESOLUTION=854x480
+https://mn-nl.mncdn.com/dogusdyg_ntv/live_480p90000kbps/index.m3u8?st=HJ_Nxbb6Q8vF4AiVNYbOAQ&e=1726255746
+
+
