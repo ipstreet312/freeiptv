@@ -1,7 +1,7 @@
 import requests
 import re
 
-base_url = "http://mn-nl.mncdn.com/dogusdyg_eurostar/dogusdyg_eurostar.smil/"
+base_url = "https://mn-nl.mncdn.com/dogusdyg_eurostar/"
 url = "https://www.eurostartv.com.tr/canli-izle"
 response = requests.get(url)
 
@@ -20,7 +20,7 @@ if response.status_code == 200:
             modified_content = ""
             
             for line in lines:
-                if line.startswith("chunklist"):
+                if line.startswith("live_"):
                     full_url = base_url + line
                     modified_content += full_url + "\n"
                 else:
