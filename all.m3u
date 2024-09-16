@@ -231,6 +231,8 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/fr4nv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N9d4yXt/fr5bl.png",FRANCE 5 (backup)
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/fr5nv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6 (check)
+https://gitlab.com/movrey/movrel/-/raw/main/msixx.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hKVyKj4/tmc.png",TMC (check)
 https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/tmc.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LNRd253/w9.png",W9 (check)
@@ -3795,9 +3797,3 @@ http://
 http://
 #EXTINF:-1,TEST ENTRY
 https://
-#EXTINF:-1,m3u8 1
-https://gitlab.com/movrey/movrel/-/raw/main/msis.m3u8
-#EXTINF:-1,TSs
-https://gitlab.com/movrey/movrel/-/raw/main/msixx.m3u8
-#EXTINF:-1,M3u8 mul
-https://gitlab.com/movrey/movrel/-/raw/main/msiks.m3u8
