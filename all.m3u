@@ -3795,3 +3795,9 @@ http://
 http://
 #EXTINF:-1,TEST ENTRY
 https://
+#EXTINF:-1,m3u8 1
+https://gitlab.com/movrey/movrel/-/raw/main/msis.m3u8
+#EXTINF:-1,TSs
+https://gitlab.com/movrey/movrel/-/raw/main/msixx.m3u8
+#EXTINF:-1,M3u8 mul
+https://gitlab.com/movrey/movrel/-/raw/main/msiks.m3u8
