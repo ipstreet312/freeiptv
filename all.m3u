@@ -3789,9 +3789,3 @@ http://
 http://
 #EXTINF:-1,TEST ENTRY
 https://
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ncVv4vy/bfm1.png",BFM TV
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pzMY5VC/bfm22.png",BFM 2 nouveau :-)
-https://vod-origin-stream-bfm2.bfmtv.bct.nextradiotv.com/media/v1/pmp4/static/clear/854081247001/75a82581-e5fd-425c-ae91-5be4227a709c/2451679d-4de7-4dd7-ad1b-598c5d55af6e/main.mp4?m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pzMY5VC/bfm22.png",BFM 2 encore+ !
-https://vod-origin-stream-bfm2.bfmtv.bct.nextradiotv.com/media/v1/pmp4/static/clear/854081247001/75a82581-e5fd-425c-ae91-5be4227a709c/2451679d-4de7-4dd7-ad1b-598c5d55af6e/main.mp4
