@@ -3734,7 +3734,8 @@ https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rwbrckj/pressir.png",PRESS TV [censure-ifany]
 https://live.presstv.ir/hls/presstv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D7w9h7Q/rt.png",RT NEWS [censure-blocked]
-https://rt-glb.rttv.com/live/rtnews/playlist.m3u8#EXTINF:-1 tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png",CNN INT (backup)
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png",CNN INT (backup)
 https://dqmhiwgbe98iq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1e8xhm2nv4xdw/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png",CNN INT (backup)
 https://d3508xo7u38fy2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-j79jq28qz6knd/index.m3u8
