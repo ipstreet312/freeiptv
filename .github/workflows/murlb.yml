@@ -33,8 +33,8 @@ jobs:
       - name: Replace Text
         run: |
           murstrm=${murstrm}
-          sed -i "/MTV LBN/{n;s|.*|'"$murstrm"'|}" all.m3u
-          sed -i "/MTV LBN/{n;s|.*|'"$murstrm"'|}" ressources/allgr.m3u
+          sed -i "/MTV LBN/{n;s|.*|"$murstrm"|}" all.m3u
+          sed -i "/MTV LBN/{n;s|.*|"$murstrm"|}" ressources/allgr.m3u
 
       - name: git add
         run: |
