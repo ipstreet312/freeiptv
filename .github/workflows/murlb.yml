@@ -2,7 +2,7 @@ name: murlb
 
 on:
   schedule:
-    - cron: '33 */4 * * *'
+    - cron: '34 */4 * * *'
   workflow_dispatch:
 
 jobs:
