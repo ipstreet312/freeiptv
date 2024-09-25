@@ -2,7 +2,7 @@ name: onelb
 
 on:
   schedule:
-    - cron: '44 */4 * * *'
+    - cron: '43 */4 * * *'
   workflow_dipatch:
 
 jobs:
