@@ -1,0 +1,35 @@
+name: ekip
+
+on:
+  schedule:
+    - cron: '10 7,13,21 * * *'
+  push:
+    branches:
+      - main
+      
+  workflow_dispatch:
+  
+jobs:
+  inject_replace:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout freeiptv
+        uses: actions/checkout@v2
+        
+      - name: Fetch Content
+        id: fetch_content
+        env:
+          PRIVATE_REPO_TOKEN: ${{ secrets.PRIVATE_REPO_TOKEN }}
+        run: |
+          content=$(curl -H "Authorization: token $PRIVATE_REPO_TOKEN" -H "Accept: application/vnd.github.v3.raw" "https://raw.githubusercontent.com/ipstreet312/myrep/main/ressources/ekip.m3u8")
+          echo "$content" > ressources/dmotion/py/eqpe/ekip.m3u8
+    
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.name "ekip Action"
+          git config user.email "<>"
+          git pull
+          git add ressources/dmotion/py/eqpe/ekip.m3u8
+          git commit -m "ekip updated"
+          git push
