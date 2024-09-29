@@ -1,0 +1,33 @@
+name: egetv action
+
+on:
+  schedule:
+    - cron: '55 */3 * * *'
+  
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    
+      - uses: actions/checkout@v3
+
+      - name: config
+        run: |
+          git config --global user.email "<>"
+          git config --global user.name "egetv bot"
+      
+      - name: updating egetv
+        run: python3 ressources/tur/egetv.py > ressources/tur/egetv.m3u8
+        
+      - name: git add
+        run: |
+          git add -A
+          ls -la 
+          
+      - name: commit & push
+        run: |
+          git pull origin master
+          git commit -m "egetv updated"
+          git push origin master
