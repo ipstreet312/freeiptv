@@ -1,6 +1,6 @@
 import requests
 
-url = "https://cdnet.alwaysdata.net/egetvcurlecho.php?m3u8"
+url = "https://cdnet.alwaysdata.net/egetvout.php?m3u8"
 
 response = requests.get(url)
 
