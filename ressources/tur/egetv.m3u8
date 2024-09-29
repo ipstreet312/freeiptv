@@ -1,1 +1,5 @@
-Failed to retrieve the file. Status code: 403
+#EXTM3U<br />
+#EXT-X-VERSION:3<br />
+#EXT-X-STREAM-INF:BANDWIDTH=1825296,CODECS="avc1.42c01f,mp4a.40.2",RESOLUTION=1280x720<br />
+http://50.7.218.154:1935/canlitv/egetv.stream/chunklist_w100699425.m3u8?hash=ab9bff9b334d35e61dfdcfc2d3d4721f<br />
+
