@@ -381,6 +381,8 @@ https://fash1043.cloudycdn.services/slive/ftv_paris_adaptive.smil/playlist.m3u8
 https://34963c1506c8467bb8132d8a9ae4fedc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_FashionTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LYbF1Wt/fashionok.png",FASHION TV
 https://fashiontv-fashiontv-loriginal-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LYbF1Wt/fashionok.png",FASHION TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=5457
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WPbxmgn/tv5style.png",TV5MONDE STYLE [geo-area]
 https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jpk0d48/tv5tivi.png",TV5MONDE TiVi [geo-area]
@@ -543,6 +545,8 @@ https://live.creacast.com/albi-tv-ch1/stream/master.m3u8
 https://new.cache-stream.workers.dev/stream/UCQC0xLG_W0QpqAXQ4-yhwBA/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/74fJt5v/8mblanc.png",TV8 MONTBLANC
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/8_Mont-Blanc.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/74fJt5v/8mblanc.png",TV8 MONTBLANC
+https://tvradiozap.eu/tools/dm-m3u8.php/x3wqv8b.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vDRB1fK/tvtloire.png",TVT TOURS
 https://lives.digiteka.com/stream/920f083a-9e61-4c09-9bc2-bdb664063aa9/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QM2Y7TV/angtl.jpg",ANGERS TÉLÉ
