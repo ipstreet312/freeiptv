@@ -3037,6 +3037,8 @@ https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/in
 https://mbc3-usa-enc.edgenextcdn.net/out/v1/8bbfec9446d84c9ea0dfa34edede6db9/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5smk763/mbc4.png",MBC 4
 https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5smk763/mbc4.png",MBC 4
+https://shls-masr-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vzbhKTj/mbc5.png",MBC 5
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2ndSCfQ/mbcdrama0.png",MBC DRAMA
@@ -3300,9 +3302,9 @@ https://stream2.kanald.ro/iphone/knd-live.m3u8
 #EXTINF:-1 group-title="|EU|🇪🇺 EUROPEAN COCKTAILTOUR🍸",--- |MD:🇲🇩 MOLDOVA| ---
 http://blank
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KjgkLjq/md1.png",MOLDOVA 1
-https://v.trm.md/static/streaming-playlists/hls/f272ace4-32c2-4271-bbb6-7fc30a5c6105/master.m3u8
+https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5cac7ca/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wz954nZ/md2.png",MOLDOVA 2
-https://v2.trm.md/static/streaming-playlists/hls/76541c86-d7de-4c73-b4c0-4fe6670b90a8/master.m3u8
+https://v.trm.md/static/streaming-playlists/hls/937e4e0e-7174-4fb2-a299-480e68b49ecb/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png" group-title="|GE-AM-AZ|🇬🇪🇦🇲🇦🇿 CAUCASIAN",GPB 1TV პირველი არხი
