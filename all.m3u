@@ -559,6 +559,10 @@ https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/angerstele.m3u8
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/lyoncapitale.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h2VX7Wj/tlcholt.png",TL CHOLETAIS
 https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/TLC.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S0X9VM8/brion.jpg",BRIONNAIS TV
+https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S0X9VM8/brion.jpg",BRIONNAIS TV
+https://stream2.mandarine.media/brionnais_tv/brionnais_tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c2MfMVN/valloire.jpg",VALLOIRE TV 
 https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/ValloireTV.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gj4ZGdY/n31.jpg",N31
