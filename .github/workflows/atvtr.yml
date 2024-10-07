@@ -37,17 +37,13 @@ jobs:
           git config --global user.email "<>"
           git config --global user.name "atvtr bot"
       
-      
-      - name: Main
-        run: |
-          pwd
-          chmod +x atvtr.sh
-          ./ressources/ytbe/atvtr.sh
+      - name: updating atvtr
+        run: sh ressources/ytbe/atvtr.sh
         
       - name: git add
         run: |
           git add -A
-          ls -la 
+          ls -la
           
       - name: commit & push
         run: |
