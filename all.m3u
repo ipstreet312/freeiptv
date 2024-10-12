@@ -724,7 +724,7 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/ntv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png",NTV
 https://dogus-live.daioncdn.net/ntv/ntv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png",CNN TÜRK
-https://koprulu.global.ssl.fastly.net/ythls?video_id=7X_EWYemclKA.m3u8
+https://koprulu.global.ssl.fastly.net/ythls?video_id=X_EWYemclKA.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png",CNN TÜRK
 https://deathlesstg.serv00.net/Youtube-Live/index.php?id=X_EWYemclKA&m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HXKrJRC/blght22.png",BLOOMBERG HT
@@ -944,7 +944,7 @@ https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png",TV8
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV
-https://koprulu.global.ssl.fastly.net/ythls?kanal_id=UCUVZ7T_kwkxDOGFcDlFI-hg.m3u8
+https://koprulu.global.ssl.fastly.net/ythls?kanal_id=UCUVZ7T_kwkxDOGFcDlFI-hg&m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV
 https://ythls.armelin.one/channel/UCUVZ7T_kwkxDOGFcDlFI-hg.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1s3fHfm/k7tr1.png",KANAL 7
@@ -3859,11 +3859,3 @@ http://
 http://
 #EXTINF:-1,TEST ENTRY 12
 https://
-#EXTINF:-1,ATV KNL
-https://koprulu.global.ssl.fastly.net/ythls?kanal_id=UCUVZ7T_kwkxDOGFcDlFI-hg.m3u8
-#EXTINF:-1,ATV VDO
-https://koprulu.global.ssl.fastly.net/ythls?video_id=gIdaTOTzZuw.m3u8
-#EXTINF:-1,CNN KNL
-https://koprulu.global.ssl.fastly.net/ythls?kanal_id=UCV6zcRug6Hqp1UX_FdyUeBg.m3u8
-#EXTINF:-1,CNN VDO
-https://koprulu.global.ssl.fastly.net/ythls?video_id=X_EWYemclKA.m3u8
