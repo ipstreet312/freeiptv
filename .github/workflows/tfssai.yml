@@ -20,6 +20,7 @@ jobs:
       - name: Fetch content TF1 SSAI
         run: |
           final_url=$(curl -s https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/tf1plus/tf1_ssai.m3u8 | grep -oP '(https://[^\s]+)')
+          final_url=$(echo "$final_url" | sed 's/[[:space:]]//g')
           echo "tf1ssai=${final_url}" >> $GITHUB_ENV
 
       - name: Replace Text
