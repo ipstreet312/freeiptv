@@ -9,7 +9,7 @@ s = requests.Session()
 response = s.get(f'https://hdfauth.ftven.fr/esi/TA?url=https://simulcast-fr3regions-b.ftven.fr/simulcast/paris/hls_francedomtom_paris/master.m3u8')
 
 string = response.text
-new_string = string.replace("master", "paris-avc1_2500000=10001.m3u8")
+new_string = string.replace("master", "paris-avc1_2500000=10001")
 print(new_string)
-new2_string = string.replace("master", "paris-mp4a_96000_fra=20000.m3u8")
+new2_string = string.replace("master", "paris-mp4a_96000_fra=20000")
 print(f'#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-AACL-96",LANGUAGE="fr",NAME="Francais",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2",URI="{new2_string}"')
