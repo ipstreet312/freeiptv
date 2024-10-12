@@ -1,0 +1,41 @@
+name: tfssai
+
+on:
+  schedule:
+    - cron: '50 */2 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: config
+        run: |
+          git config --global user.email "<>"
+          git config --global user.name "tfssai bot"
+
+      - name: Fetch content TF1 SSAI
+        run: |
+          final_url=$(curl -s https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/tf1plus/tf1_ssai.m3u8 | grep -oP '(https://[^\s]+)')
+          echo "tf1ssai=${final_url}" >> $GITHUB_ENV
+
+      - name: Replace Text
+        run: |
+          tf1ssai=${tf1ssai}
+          sed -i "/TF1 SSAI/{n;s|.*|"$tf1ssai"|}" all.m3u
+          sed -i "/TF1 SSAI/{n;s|.*|"$tf1ssai"|}" ressources/allgr.m3u
+
+      - name: git add
+        run: |
+          git add -A
+          ls -la 
+          
+      - name: commit & push
+        run: |
+          git pull
+          git add all.m3u ressources/allgr.m3u
+          git commit -m "tfssai updated"
+          git push
