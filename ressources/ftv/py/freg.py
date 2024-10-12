@@ -3,13 +3,13 @@
 import requests
 
 print('#EXTM3U')
-print('#EXT-X-VERSION:4')
-print('#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3019179,RESOLUTION=1280x720,FRAME-RATE=25.000,AUDIO="audio1",SUBTITLES="subs"')
+print('#EXT-X-VERSION:5')
+print('#EXT-X-STREAM-INF:BANDWIDTH=3032655,AVERAGE-BANDWIDTH=2756959,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=25.000,AUDIO="audio-AACL-96",SUBTITLES="text"')
 s = requests.Session()
-response = s.get(f'https://hdfauth.ftven.fr/esi/TA?url=https://live-regions-p.ftven.fr/hls/live/2037716/F3_Paris_IDF/index.m3u8')
+response = s.get(f'https://hdfauth.ftven.fr/esi/TA?url=https://simulcast-fr3regions-b.ftven.fr/simulcast/paris/hls_francedomtom_paris/master.m3u8')
 
 string = response.text
-new_string = string.replace("index", "stream04/streamPlaylist")
+new_string = string.replace("master", "paris-avc1_2500000=10001.m3u8")
 print(new_string)
-new2_string = string.replace("index", "stream05/streamPlaylist")
-print(f'#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio1",NAME="FRA",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="FRA",URI="{new2_string}"')
+new2_string = string.replace("master", "paris-mp4a_96000_fra=20000.m3u8")
+print(f'#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-AACL-96",LANGUAGE="fr",NAME="Francais",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2",URI="{new2_string}"')
