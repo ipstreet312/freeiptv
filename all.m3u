@@ -2069,12 +2069,20 @@ https://d3nnqrdb77sy13.cloudfront.net/Clan_ES.m3u8
 https://ztnr.rtve.es/ztnr/5466990.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hYTkm8L/A3es.png",ANTENNA 3
 http://nodep002.service.openstream.es/SVoriginOperatorEdge3/smil:7_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hYTkm8L/A3es.png",ANTENNA 3
+https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:7_HD.smil/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hRs6WrH/C4es.png",CUATRO
 http://nodep002.service.openstream.es/SVoriginOperatorEdge/smil:9_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hRs6WrH/C4es.png",CUATRO
+https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7gMg1nb/t5es.png",TELECINCO
 http://nodep002.service.openstream.es/SVoriginOperatorEdge/smil:8_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7gMg1nb/t5es.png",TELECINCO
+https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:8_HD.smil/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6JF4BK4/l6es.png",LA SEXTA
 http://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:11_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6JF4BK4/l6es.png",LA SEXTA
+https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:11_HD.smil/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/99kVf9W/somoscine.png",TVE SOMOS CINE [geo-limited]
 https://ztnr.rtve.es/ztnr/5836726.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/99kVf9W/somoscine.png",TVE SOMOS CINE [geo-limited]
@@ -2113,6 +2121,8 @@ https://live-edge-ams-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live
 https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bKLFcnD/a3cine.png",ATRES SERIES
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:10_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bKLFcnD/a3cine.png",ATRES SERIES
+http://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:10_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h17Kt3g/fastatres.jpg",ATRES CLÁSICOS
 https://fast-channels.atresmedia.com/648ef12c2bfab0e4507e0d61/648ef12c2bfab0e4507e0d61.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h17Kt3g/fastatres.jpg",ATRES COMEDIA
