@@ -2,7 +2,7 @@ name: tfdai action
 
 on:
   schedule:
-    - cron: '58 */2 * * *'
+    - cron: '28 */3 * * *'
   
   workflow_dispatch:
 
