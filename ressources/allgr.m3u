@@ -724,7 +724,7 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/ntv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png" group-title="|TR|🇹🇷 HABER-1",NTV
 https://dogus-live.daioncdn.net/ntv/ntv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png" group-title="|TR|🇹🇷 HABER-1",CNN TÜRK
-https://koprulu.global.ssl.fastly.net/ythls?video_id=7X_EWYemclKA.m3u8
+https://koprulu.global.ssl.fastly.net/ythls?video_id=X_EWYemclKA.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png" group-title="|TR|🇹🇷 HABER-1",CNN TÜRK
 https://deathlesstg.serv00.net/Youtube-Live/index.php?id=X_EWYemclKA&m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HXKrJRC/blght22.png" group-title="|TR|🇹🇷 HABER-1",BLOOMBERG HT
@@ -944,7 +944,7 @@ https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="|TR|🇹🇷 ULUSAL GENEL",TV8
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="|TR|🇹🇷 ULUSAL GENEL",ATV
-https://koprulu.global.ssl.fastly.net/ythls?kanal_id=UCUVZ7T_kwkxDOGFcDlFI-hg.m3u8
+https://koprulu.global.ssl.fastly.net/ythls?kanal_id=UCUVZ7T_kwkxDOGFcDlFI-hg&m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="|TR|🇹🇷 ULUSAL GENEL",ATV
 https://ythls.armelin.one/channel/UCUVZ7T_kwkxDOGFcDlFI-hg.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1s3fHfm/k7tr1.png" group-title="|TR|🇹🇷 ULUSAL GENEL",KANAL 7
@@ -1535,9 +1535,9 @@ https://cdn-haber61tv.yayin.com.tr/haber61tv/haber61tv/playlist.m3u8
 http://stream.tvcdn.net/yerel/hrt-akdeniz.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="|TR|🇹🇷 YEREL - BÖLGESEL",HUNAT TV KAYSERİ
 https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="|TR|🇹🇷 YEREL - BÖLGESEL",İÇEL TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="|TR|🇹🇷 YEREL - BÖLGESEL",İÇEL TV MERSİN
 http://stream.taksimbilisim.com:1935/iceltv/bant1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="|TR|🇹🇷 YEREL - BÖLGESEL",İÇEL TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="|TR|🇹🇷 YEREL - BÖLGESEL",İÇEL TV MERSİN
 https://edge1.socialsmart.tv/iceltv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" referer="https://player.castr.com/" group-title="|TR|🇹🇷 YEREL - BÖLGESEL",İSTANBUL TV
 https://stream.castr.com/6606b96e9fa9fb790a255296/live_0303bec01eac11efa26bbdf96dc3f28e/index.m3u8
@@ -2069,12 +2069,20 @@ https://d3nnqrdb77sy13.cloudfront.net/Clan_ES.m3u8
 https://ztnr.rtve.es/ztnr/5466990.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hYTkm8L/A3es.png" group-title="|ES|🇪🇸 ESPAÑA",ANTENNA 3
 http://nodep002.service.openstream.es/SVoriginOperatorEdge3/smil:7_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hYTkm8L/A3es.png" group-title="|ES|🇪🇸 ESPAÑA",ANTENNA 3
+https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:7_HD.smil/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hRs6WrH/C4es.png" group-title="|ES|🇪🇸 ESPAÑA",CUATRO
 http://nodep002.service.openstream.es/SVoriginOperatorEdge/smil:9_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hRs6WrH/C4es.png" group-title="|ES|🇪🇸 ESPAÑA",CUATRO
+https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7gMg1nb/t5es.png" group-title="|ES|🇪🇸 ESPAÑA",TELECINCO
 http://nodep002.service.openstream.es/SVoriginOperatorEdge/smil:8_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7gMg1nb/t5es.png" group-title="|ES|🇪🇸 ESPAÑA",TELECINCO
+https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:8_HD.smil/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6JF4BK4/l6es.png" group-title="|ES|🇪🇸 ESPAÑA",LA SEXTA
 http://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:11_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6JF4BK4/l6es.png" group-title="|ES|🇪🇸 ESPAÑA",LA SEXTA
+https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:11_HD.smil/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/99kVf9W/somoscine.png" group-title="|ES|🇪🇸 ESPAÑA",TVE SOMOS CINE [geo-limited]
 https://ztnr.rtve.es/ztnr/5836726.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/99kVf9W/somoscine.png" group-title="|ES|🇪🇸 ESPAÑA",TVE SOMOS CINE [geo-limited]
@@ -2113,6 +2121,8 @@ https://live-edge-ams-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live
 https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bKLFcnD/a3cine.png" group-title="|ES|🇪🇸 ESPAÑA",ATRES SERIES
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:10_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bKLFcnD/a3cine.png" group-title="|ES|🇪🇸 ESPAÑA",ATRES SERIES
+http://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:10_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h17Kt3g/fastatres.jpg" group-title="|ES|🇪🇸 ESPAÑA",ATRES CLÁSICOS
 https://fast-channels.atresmedia.com/648ef12c2bfab0e4507e0d61/648ef12c2bfab0e4507e0d61.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h17Kt3g/fastatres.jpg" group-title="|ES|🇪🇸 ESPAÑA",ATRES COMEDIA
@@ -2503,7 +2513,7 @@ http://wowza.media-line.co.il/Musayof-Live/livestream.sdp/playlist.m3u8
 https://1247634592.rsc.cdn77.org/1247634592/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2g7Sw4c/21.jpg" group-title="|IL|🇮🇱 ISRAEL ישראל",SHOPPING 21
 https://shoppingil-rewriter.vidnt.com/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3RwfT5M/bigbil.png" group-title="|IL|🇮🇱 ISRAEL ישראל",BIG BROTHER IL [geo-blocked]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3RwfT5M/bigbil.png" referer="https://13tv.co.il/home/bb-livestream/" group-title="|IL|🇮🇱 ISRAEL ישראל",BIG BROTHER IL [geo-blocked]
 https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png" group-title="|IL|🇮🇱 ISRAEL ישראל",KAN 11 כאן (backup)
 https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
@@ -3857,13 +3867,5 @@ http://
 http://
 #EXTINF:-1 group-title="|📡|👨‍💻👉GITHUB.COM/IPSTREET312",[⚽🏅🏆] *Empty* 'New' Service ❶❷❸ ➊➋➌
 http://
-#EXTINF:-1 group-title="|📡|👨‍💻👉GITHUB.COM/IPSTREET312",TEST ENTRY 12
+#EXTINF:-1 group-title="|📡|👨‍💻👉GITHUB.COM/IPSTREET312",TEST ENTRY 11
 https://
-#EXTINF:-1 group-title="|📡|👨‍💻👉GITHUB.COM/IPSTREET312",ATV KNL
-https://koprulu.global.ssl.fastly.net/ythls?kanal_id=UCUVZ7T_kwkxDOGFcDlFI-hg.m3u8
-#EXTINF:-1 group-title="|📡|👨‍💻👉GITHUB.COM/IPSTREET312",ATV VDO
-https://koprulu.global.ssl.fastly.net/ythls?video_id=gIdaTOTzZuw.m3u8
-#EXTINF:-1 group-title="|📡|👨‍💻👉GITHUB.COM/IPSTREET312",CNN KNL
-https://koprulu.global.ssl.fastly.net/ythls?kanal_id=UCV6zcRug6Hqp1UX_FdyUeBg.m3u8
-#EXTINF:-1 group-title="|📡|👨‍💻👉GITHUB.COM/IPSTREET312",CNN VDO
-https://koprulu.global.ssl.fastly.net/ythls?video_id=X_EWYemclKA.m3u8
