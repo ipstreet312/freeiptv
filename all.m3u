@@ -231,10 +231,14 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/c
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/tf1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1 (backup)
 https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/main/fr/videotf1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1 (backup)
+https://live.tntdirect.tv/9CM2pADCxF/w5BA32MP6P/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1 DAI
 https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/btv/py/tf1dai.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1 SSAI
 https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI4Ni4yMzUuMTA2LjIyNCIsImNtY2QiOiIiLCJleHAiOjE3MjkwNTk1MzksImdpZCI6IjA0NmI5NTIzLTcwN2QtNDc2My04MWM2LWU0MzU1NDEyMTdkNSIsImlhdCI6MTcyOTA0NTEzOSwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjA0NmI5NTIzLTcwN2QtNDc2My04MWM2LWU0MzU1NDEyMTdkNSJ9.VNSYctY3XpNUiusldoU8pGJ620I6tolVvZMc6z-frbU/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LNRd253/w9.png" user-agent="VAVOO/1.0", referer="https://vavoo.to/",W9 (test)
+https://joaquinito02.es/vavoo/128046615.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png",FRANCE 2 (backup)
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/fr2nv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y8PjbJ4/fr3bl.png",FRANCE 3 (backup)
@@ -293,8 +297,6 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/extr/py
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Xt5YPJY/jdgolf.png",JOURNAL DU GOLF
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/jdg-tv/jdg-tv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8KwH7RT/frjo24.png",FRANCE TV JO PARIS 2024 (ended)
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frjo24v2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yPsXSFf/esprsorc.png",L'ÉSPRIT SORCIER TV
 https://194270.global.ssl.fastly.net/63b43410861d94a9eee067fb/live_947330308dd911edb85c8181cb9b11a8/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yPsXSFf/esprsorc.png" referer="https://player.castr.com/",L'ÉSPRIT SORCIER TV
