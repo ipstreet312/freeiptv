@@ -1,7 +1,6 @@
-import sys
 import requests
 
-def fetch_and_print_from_url(base_url, variant):
+def fetch_and_save_to_file(base_url, variant, output_file):
     initial_url = f"https://dygvideo.dygdigital.com/live/hls/{variant}?m3u8"
 
     try:
@@ -15,24 +14,12 @@ def fetch_and_print_from_url(base_url, variant):
         content_response.raise_for_status()
         content = content_response.text
         
-        process_content(content, base_url)
+        save_to_file(content, base_url, output_file)
 
     except requests.RequestException as e:
         print(f"An error occurred: {e}")
 
-def fetch_and_print_from_file(file_path, base_url):
-    try:
-        with open(file_path, "r") as file:
-            content = file.read()
-        
-        process_content(content, base_url)
-
-    except FileNotFoundError:
-        print(f"Error: The file {file_path} was not found.")
-    except Exception as e:
-        print(f"An error occurred: {e}")
-
-def process_content(content, base_url):
+def save_to_file(content, base_url, output_file):
     lines = content.split("\n")
     modified_content = ""
 
@@ -43,29 +30,13 @@ def process_content(content, base_url):
         else:
             modified_content += line + "\n"
     
-    print(modified_content)
+    with open(output_file, "w") as f:
+        f.write(modified_content)
+    print(f"Saved content to {output_file}")
 
 if __name__ == "__main__":
-    if len(sys.argv) > 1:
-        # If arguments are provided, use file-based processing
-        if len(sys.argv) < 3:
-            print("Usage: python3 yourpython.py <ntv_file_path> <star_file_path>")
-            sys.exit(1)
+    # Fetch content and save to ntv.m3u8
+    fetch_and_save_to_file("ntv", "kralpop", "ressources/tur/ntv.m3u8")
 
-        ntv_file_path = sys.argv[1]
-        star_file_path = sys.argv[2]
-
-        # Process NTV file
-        fetch_and_print_from_file(ntv_file_path, "ntv")
-
-        # Process STAR file
-        fetch_and_print_from_file(star_file_path, "star")
-    else:
-        # If no arguments are provided, use URL-based fetching
-        print("No files provided, fetching content from URLs...")
-
-        # Fetch for NTV variant
-        fetch_and_print_from_url("ntv", "kralpop")
-
-        # Fetch for STAR variant
-        fetch_and_print_from_url("star", "kralpop")
+    # Fetch content and save to star.m3u8
+    fetch_and_save_to_file("star", "kralpop", "ressources/tur/star.m3u8")
