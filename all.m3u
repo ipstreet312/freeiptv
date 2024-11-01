@@ -3921,3 +3921,17 @@ http://
 http://
 #EXTINF:-1,TEST ENTRY 11
 https://
+#EXTINF:-1  user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0", referer="https://idara.medi1tv.ma/",1
+https://streaming1.medi1tv.com/live/smil:medi1tv.smil/chunklist_w1398422054_b2128000_slar.m3u8
+#EXTINF:-1  user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0", referer="https://idara.medi1tv.ma/",2
+https://streaming1.medi1tv.com/live/smil:medi1tv.smil/chunklist_w1344151507_b2128000_slar.m3u8
+#EXTINF:-1,3
+http://streaming1.medi1tv.com/live/smil:medi1tv.smil/chunklist_w1398422054_b2128000_slar.m3u8
+#EXTINF:-1,3B
+https://streaming1.medi1tv.com/live/smil:medi1tv.smil/chunklist_w1398422054_b2128000_slar.m3u8
+#EXTINF:-1,4
+http://streaming1.medi1tv.com/live/smil:medi1tv.smil/chunklist_w1344151507_b2128000_slar.m3u8
+#EXTINF:-1  user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0", referer="https://idara.medi1tv.ma/",5
+https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
+#EXTINF:-1,6
+http://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
