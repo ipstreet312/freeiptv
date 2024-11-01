@@ -2372,6 +2372,8 @@ https://63df3191463ce.streamlock.net/live/ngrp:Live2.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rfwFbLk/telemaroc.gif",TELE MAROC قناة المغرب
 https://api.new.livestream.com/accounts/27130247/events/9197096/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rQJcGTc/medi1tv.png",MEDI 1 MG العربية
+https://streaming1.medi1tv.com/live/smil:medi1tv.smil/chunklist_w1675843453_b978000_slar.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rQJcGTc/medi1tv.png",MEDI 1 MG العربية
 https://streaming1.medi1tv.com/live/smil:medi1tv.smil/chunklist_w_b978000_slar.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rQJcGTc/medi1tv.png",MEDI 1 AR العربية
 https://streaming1.medi1tv.com/live/smil:medi1ar.smil/chunklist_w_b978000_slar.m3u8
@@ -3931,9 +3933,3 @@ http://
 http://
 #EXTINF:-1,TEST ENTRY 1
 http://
-#EXTINF:-1 tvg-logo="https://i.ibb.co/71WgnqJ/HLN.png",HLN
-https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/71WgnqJ/HLN.png" user-agent="Star Wars",HLN
-https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/71WgnqJ/HLN.png" user-agent="Star Wars",HLN
-https://turnerlive.akamaized.net/hls/live/586496/cnngo/hln/index.m3u8
