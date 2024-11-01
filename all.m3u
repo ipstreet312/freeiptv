@@ -3930,3 +3930,10 @@ http://
 #EXTINF:-1,[⚽🏅🏆] *Empty* 'New' Service ❶❷❸ ➊➋➌
 http://
 #EXTINF:-1,TEST ENTRY 1
+http://
+#EXTINF:-1 tvg-logo="https://i.ibb.co/71WgnqJ/HLN.png",HLN
+https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/71WgnqJ/HLN.png" user-agent="Star Wars",HLN
+https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/71WgnqJ/HLN.png" user-agent="Star Wars",HLN
+https://turnerlive.akamaized.net/hls/live/586496/cnngo/hln/index.m3u8
