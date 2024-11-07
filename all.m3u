@@ -324,7 +324,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01596-gongnetworks-gong-samsungfr/p
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MMpFXQL/gong.jpg",GONG
 https://amg01596-gongnetworks-gong-samsungfr-2q4y3.amagi.tv/playlist/amg01596-gongnetworks-gong-samsungfr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m4qxfcH/supertoons.jpg",SUPERTOONS FR
-https://d37aiu112stb78.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l64mdrsnz9wn3/feed/samsung/streams/SUPERTOONS_FR/master.m3u8
+https://jmp2.uk/sam-FRBD5100002NL.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/92Q9cRS/plutokids.jpg",PLUTO KIDS
 https://jmp2.uk/sam-FRAJ38000035M.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/brFBnw8/vevopop.png",VEVO POP
@@ -395,14 +395,6 @@ https://jmp2.uk/sam-FRAJ38000089S.m3u8
 https://d2o63bkh2qz410.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CineNanar-FR-prod/64953490-a5a5-4f44-a4fb-7bf3638dd24c/2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QbDCvVf/cinewestern.png",CINÉ WESTERN
 https://d1rmn2456fdhrx.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-cj5v6orcb1e6m/e6540a94-93a6-4b38-bb2d-eafe9fa047e2/2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png",TEST S
-https://d3hwf0o3rgili3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ayxj0cgwkdi61/out/v1/58a411f9efb641f68f338bbebd8c911d/HLS_CMAF_DRM/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png",TEST L
-https://dfbgrt3v57l5f.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n8lwjeyst6tz9/out/v1/0289980c58e9404db89dd495471e35cf/HLS_CMAF_DRM/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=FR3000139Z
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png",TEST D
-https://jmp2.uk/sam-FR3000139Z.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png",TEST F
-https://d358c6mfrono1y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0ppx9nh29jpk7-prod/lefigaro/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/883phd1/ktook.png",KTO
 https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xJyNqdg/dieutv.png",DIEU TV
