@@ -1,0 +1,13 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=3370400,RESOLUTION=1920x1080
+https://evangiletv-live1-b31-cdn.hexaglobe.net/92531d4d113a645fa61f9e518f130b77/672c2506/evangiletv/EvangileTV-website-web-1/evangiletvlive1_fre.smil/evangiletvlive1_fre_0.m3u8
+
+#EXT-X-STREAM-INF:BANDWIDTH=2270400,RESOLUTION=1280x720
+https://evangiletv-live1-b31-cdn.hexaglobe.net/92531d4d113a645fa61f9e518f130b77/672c2506/evangiletv/EvangileTV-website-web-1/evangiletvlive1_fre.smil/evangiletvlive1_fre_1.m3u8
+
+#EXT-X-STREAM-INF:BANDWIDTH=1170400,RESOLUTION=960x540
+https://evangiletv-live1-b31-cdn.hexaglobe.net/92531d4d113a645fa61f9e518f130b77/672c2506/evangiletv/EvangileTV-website-web-1/evangiletvlive1_fre.smil/evangiletvlive1_fre_2.m3u8
+
+#EXT-X-STREAM-INF:BANDWIDTH=620400,RESOLUTION=640x360
+https://evangiletv-live1-b31-cdn.hexaglobe.net/92531d4d113a645fa61f9e518f130b77/672c2506/evangiletv/EvangileTV-website-web-1/evangiletvlive1_fre.smil/evangiletvlive1_fre_3.m3u8
