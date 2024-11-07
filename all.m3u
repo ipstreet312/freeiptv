@@ -399,9 +399,12 @@ https://d1rmn2456fdhrx.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da
 https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xJyNqdg/dieutv.png",DIEU TV
 https://cdn.katapy.io/cache/stream/katapytv/dieu/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KhXn6GB/evevangile.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0
-",EV TV ÉVANGILE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KhXn6GB/evevangile.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",EV TV ÉVANGILE
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/extr/py/evtv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KhXn6GB/evevangile.png",EVTV FRE
+https://evangiletv-live1-b31-cdn.hexaglobe.net/c9129c75d567f3edb36a64c33ce05b7f/672c20db/evangiletv/EvangileTV-website-web-1/evangiletvlive1_fre.smil/evangiletvlive1_fre_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KhXn6GB/evevangile.png",ETV PLY
+https://evangiletv-live1-b30-cdn.hexaglobe.net/777808503df919cc4ba170315157dcc5/672c22fa/evangiletv/EvangileTV-website-web-1/evangiletvlive1_fre.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0FM2MbV/emci.png",EMCI TV
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/dmdirect/emcieu.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LgSzMCy/museum.webp",MUSEUM
