@@ -3981,9 +3981,3 @@ http://
 http://
 #EXTINF:-1,TEST ENTRY 1
 http://
-#EXTINF:-1,EVTV
-https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/extr/py/evtv1.m3u8
-#EXTINF:-1,EQ PL
-https://equidia-live2-b31-cdn.hexaglobe.net/fc50e4398ecdc52bbd238208fbdcfc8a/672c2201/equidia/equidia-mobileapp-ios-1/eqdlivepri_fre.smil/playlist.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0", referer="https://www.equidia.fr/",EQ PL UA REF
-https://equidia-live2-b31-cdn.hexaglobe.net/fc50e4398ecdc52bbd238208fbdcfc8a/672c2201/equidia/equidia-mobileapp-ios-1/eqdlivepri_fre.smil/playlist.m3u8
