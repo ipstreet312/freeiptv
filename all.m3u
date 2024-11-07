@@ -3983,3 +3983,7 @@ http://
 http://
 #EXTINF:-1,EVTV
 https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/extr/py/evtv1.m3u8
+#EXTINF:-1,EQ M3
+https://equidia-live2-b28-cdn.hexaglobe.net/9ffd4603e3052b18f3119d4aba22f3af/672c29b6/equidia/equidia-website-web-1/eqdlivepri_fre.smil/playlistfairplay.m3u8
+#EXTINF:-1,EQ MD
+https://equidia-live2-b29-cdn.hexaglobe.net/871037288bb60079d0632a5f927233bc/672c29d2/equidia/equidia-website-web-1/eqdlivepri_fre.smil/manifestplayready.mpd
