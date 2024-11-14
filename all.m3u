@@ -3987,3 +3987,7 @@ http://
 https://equidia-live2-b31-cdn.hexaglobe.net/3a76e382247945bc76a909c1a7f05426/67358648/equidia/equidia-mobileapp-ios-1/eqdlivepri_fre.smil/playlist.m3u8
 #EXTINF:-1,TEST ENTRY 1
 https://evangiletv-live1-b28-cdn.hexaglobe.net/37c1834dc85922e18429571cf46d7412/673590f9/evangiletv/EvangileTV-website-web-1/evangiletvlive1_fre.smil/playlist.m3u8
+#EXTINF:-1,TEST 
+https://evangiletv-live1-b31-cdn.hexaglobe.net/1168e38bd58b8609064cc2a6ab10a259/673593a4/evangiletv/EvangileTV-website-web-1/evangiletvlive1_fre.smil/playlist.m3u8
+#EXTINF:-1 user-agent="Star Wars",TEST UA
+https://evangiletv-live1-b31-cdn.hexaglobe.net/1168e38bd58b8609064cc2a6ab10a259/673593a4/evangiletv/EvangileTV-website-web-1/evangiletvlive1_fre.smil/playlist.m3u8
