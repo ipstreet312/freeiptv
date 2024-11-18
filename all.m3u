@@ -2465,6 +2465,12 @@ https://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8
 https://streaming1.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rQJcGTc/medi1tv.png",MEDI 1 MG العربية (off-backup)
 https://streaming2.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png" referer="https://snrtlive.ma/",Al AOULA INT الأولى (backup)
+https://cdn-globecast.akamaized.net/live/eds/al_aoula_inter/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dp5Z2dh/2m.png",2M MONDE الثانية (backup)
+https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wk8BWg4/arryadia.png" referer="https://snrtlive.ma/",ARRYADIA الرياضية (backup)
+https://cdn-globecast.akamaized.net/live/eds/arriadia/hls_snrt/index.m3u8
 #EXTINF:-1 group-title="|MA-DZ-TN|🇲🇦🇩🇿🇹🇳 MAGHREB المغرب",--- |⬇DOWN/OFFLINES⬇| ---
 https://blank
 #EXTINF:-1 tvg-logo="https://i.ibb.co/stZxQHF/nessma.png",NESSMA
