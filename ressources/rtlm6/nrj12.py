@@ -25,7 +25,7 @@ def fetch_nrj12_content(url):
             # Construct full URLs
             updated_lines = []
             for line in third_content:
-                if line.startswith("hdntl="):
+                if line.startswith(("1/", "2/", "3/", "4/")):
                     updated_lines.append(base_nrj12 + line)
                 else:
                     updated_lines.append(line)
