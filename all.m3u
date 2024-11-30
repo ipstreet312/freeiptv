@@ -2433,17 +2433,19 @@ http://live.watania2.tn:1935/live/watanya2.stream/playlist.m3u8
 https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9tsD8WP/TV2Al.png",TV2 ALGÉRIE
 https://bozztv.com/inim03/live1/giniko_canalalgerie/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pPwR2Tc/ennahar.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)", referer="https://echorouk.dzsecurity.net/embed/echorouk.php",ENNAHAR TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pPwR2Tc/ennahar.png" referer="https://echorouk.dzsecurity.net/embed/echorouk.php",ENNAHAR TV
 https://ennahar-live.dzsecurity.net/fullres/EnnaharTV_First/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pPwR2Tc/ennahar.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)", referer="https://echorouk.dzsecurity.net/embed/echorouk.php",ENNAHAR TV
-https://ennahar-live.dzsecurity.net/fullres/EnnaharTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yQmcHjz/echourouk.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)", referer="https://echorouk.dzsecurity.net/embed/echorouk.php",ECHOROUK TV 'play-its-website first'
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pPwR2Tc/ennahar.png" referer="https://echorouk.dzsecurity.net/embed/echorouk.php",ENNAHAR TV
+https://ennahar-live.dzsecurity.net/fullsrc/EnnaharTV/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yQmcHjz/echourouk.png" referer="https://echorouk.dzsecurity.net/embed/echorouk.php",ECHOROUK TV 'play web first'
 https://echorouk-live-tv.dzsecurity.net/fullres/EchoroukTV_First/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yQmcHjz/echourouk.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)", referer="https://echorouk.dzsecurity.net/",ECHOROUK TV 'play-its-website first'
-https://echorouk-live-tv.dzsecurity.net/fullres/EchoroukTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1vH6q4L/echounws.png" user-agent="Mozilla/5.0", referer="https://echorouk.dzsecurity.net/",ECHOROUK NEWS 'play-its-website first'
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yQmcHjz/echourouk.png" referer="https://echorouk.dzsecurity.net/",ECHOROUK TV 'play web first'
+https://echorouk-live-tv.dzsecurity.net/fullsrc/EchoroukTV/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1vH6q4L/echounws.png" referer="https://echorouk.dzsecurity.net/",ECHOROUK NEWS 'play web first'
 https://echorouk-live-tv.dzsecurity.net/fullres/EchoroukNews_First/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7Q4Zv2v/elhayat.png" user-agent="Mozilla/5.0", referer="https://elhayat.dzsecurity.net/",EL HAYAT TV 'play-its-website first'
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1vH6q4L/echounws.png" referer="https://echorouk.dzsecurity.net/",ECHOROUK NEWS 'play web first'
+https://echorouk-live-tv.dzsecurity.net/fullsrc/EchoroukNews/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7Q4Zv2v/elhayat.png" referer="https://elhayat.dzsecurity.net/",EL HAYAT TV 'play web first'
 https://elhayat-live-tv.dzsecurity.net/fullres/ElhayatTV_First/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pbQCS5g/elwataniadz.jpg" referer="https://player.castr.com/",EL WATANIA TV
 https://stream.castr.com/62c18c3f14d09a0b7e5355a5/live_1b36cfb0ba2411ee9700956e0f7084c8/index.fmp4.m3u8
@@ -3445,6 +3447,8 @@ https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
 http://blank
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VprDD5J/rtllux.png",RTL LUX
 https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VprDD5J/rtllux.png",RTL LUX 2
+https://stream.rtl.lu/data/live/tele/channel2/playlist.m3u8
 #EXTINF:-1 group-title="|EU|🇪🇺 EUROPEAN COCKTAILTOUR🍸",--- |HR:🇭🇷 CROATIA| ---
 http://blank
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zNxvwRc/rtlhr.png",RTL HR
