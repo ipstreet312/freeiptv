@@ -1,5 +1,4 @@
 import requests
-import m3u8
 
 url = "https://dygvideo.dygdigital.com/live/hls/kralpop?m3u8"
 
