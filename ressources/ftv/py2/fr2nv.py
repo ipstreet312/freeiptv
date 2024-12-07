@@ -6,10 +6,10 @@ import re
 print('#EXTM3U')
 print('#EXT-X-VERSION:4')
 print('#EXT-X-INDEPENDENT-SEGMENTS')
-print('#EXT-X-STREAM-INF:CODECS="avc1.64001F,mp4a.40.2",AVERAGE-BANDWIDTH=2857132,RESOLUTION=1280x720,SUBTITLES="subtitles",FRAME-RATE=25.0,BANDWIDTH=3019038,AUDIO="audio_0"')
+print('#EXT-X-STREAM-INF:CODECS="avc1.64001F,mp4a.40.2",AVERAGE-BANDWIDTH=2855564,RESOLUTION=1280x720,SUBTITLES="subtitles",FRAME-RATE=25.0,BANDWIDTH=3266590,AUDIO="audio_0"')
 
 s = requests.Session()
-response = s.get(f'https://hdfauth.ftven.fr/esi/TA?url=https://live-ssai.ftven.fr/dai/v1/master/14bff07f70f2518f32f1c6cc13a91ef489dc83f1/SSARFrance2OTTEMTConfiguration/out/v1/535afd7806de45fea4e030b74cea3b8f/index.m3u8')
+response = s.get(f'https://hdfauth.ftven.fr/esi/TA?url=https://live-ssai-v2.ftven.fr/dai/v1/master/c6f323e65336fbba9ea766d582216fd61ed74452/SSAIFrance2OTTEMTConfiguration/out/v1/3f5d86a548454a27ab9a06078aa68a03/index.m3u8')
 
 string = response.text
 response2 = s.get(string)
