@@ -8,9 +8,7 @@ url = "https://dygvideo.dygdigital.com/live/hls/kralpop?m3u8"
 # }
 
 # response = requests.get(url, headers=headers)
-#
 
 response = requests.get(url)
 
-playlist = m3u8.loads(response.text)
-print(playlist.segments)
+print(response.text)
