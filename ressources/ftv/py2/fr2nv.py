@@ -19,7 +19,7 @@ match = pattern.search(response2.text)
 sessid = match.group(1)
 
 new_string = string.replace("master", "manifest")
-new_string2 = new_string.replace("out/v1/535afd7806de45fea4e030b74cea3b8f/index.m3u8", f'{sessid}/4.m3u8')
+new_string2 = new_string.replace("out/v1/3f5d86a548454a27ab9a06078aa68a03/index.m3u8", f'{sessid}/4.m3u8')
 print(new_string2)
 
 new2_string = new_string2.replace("/4.m3u8", "/6.m3u8")
