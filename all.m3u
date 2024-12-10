@@ -876,9 +876,9 @@ https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BtYMK4q/halk21a.png",HALK TV
 https://halktvdvr.blutv.com/blutv_halktv2_dvr/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXdf2YF/ulusal22.png",ULUSAL KANAL
-http://dvrfl05.tulix.tv/gin-ulusalkanal/playlist.m3u8
+https://internettv.guventechnology.com:19360/ulusaltv/ulusaltv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXdf2YF/ulusal22.png",ULUSAL KANAL
-https://new.cache-stream.workers.dev/stream/UC6T0L26KS1NHMPbTwI1L4Eg/live.m3u8
+http://dvrfl05.tulix.tv/gin-ulusalkanal/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6m9Pb3t/tv5tr1.png",TV 5
 https://tv5-live.ercdn.net/tv5/tv5.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0MHPk8y/benguturk.png",BENGÜ TÜRK
@@ -926,9 +926,11 @@ https://new.cache-stream.workers.dev/stream/UCVKWwHoLwUMMa80cu_1uapA/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BtYMK4q/halk21a.png",HALK TV (backup)
 https://halktv.daioncdn.net/halktv/halktv.m3u8?app=c86957d3-74a7-44da-9ad2-dc358c769609
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXdf2YF/ulusal22.png",ULUSAL KANAL (backup)
-https://ulusalkanal.blutv.com/blutv_ulusalkanal/blutv_ulusalkanal/live.m3u8
+https://new.cache-stream.workers.dev/stream/UC6T0L26KS1NHMPbTwI1L4Eg/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXdf2YF/ulusal22.png",ULUSAL KANAL (backup)
 https://new.cache-stream.workers.dev/stream/UC6T0L26KS1NHMPbTwI1L4Eg/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tXdf2YF/ulusal22.png",ULUSAL KANAL (backoff)
+https://ulusalkanal.blutv.com/blutv_ulusalkanal/blutv_ulusalkanal/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0MHPk8y/benguturk.png",BENGÜ TÜRK (backup)
 https://new.cache-stream.workers.dev/stream/UChNgvcVZ_ggDdZ0zCcuuzFw/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1RWhvy4/tvnet.png",TV NET (backup)
