@@ -2025,9 +2025,9 @@ https://ertflix.s.llnwi.net/ertlive/rik/default/index.m3u8
 https://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3YZFCjp/rtp1.jpg" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)", referer="https://www.rtp.pt/play/direto/rtp1",RTP 1
 https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tbFT1V2/rtp2.jpg" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)", referer="https://www.rtp.pt/play/direto/rtp1",RTP 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tbFT1V2/rtp2.jpg" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)", referer="https://www.rtp.pt/play/direto/rtp2",RTP 2
 https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HnqCkQj/rtp3.jpg" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)", referer="https://www.rtp.pt/play/direto/rtp1",RTP 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HnqCkQj/rtp3.jpg" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)", referer="https://www.rtp.pt/play/direto/rtp3",RTP 3
 https://streaming-live.rtp.pt/liverepeater/rtpnHD.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",EURONEWS PT
 https://euronews-euronews-portugues-1-us.plex.wurl.tv/playlist.m3u8
@@ -2055,13 +2055,13 @@ https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/ch
 https://bcovlive-a.akamaihd.net/34ec8f209dcc48dda853aca054c97ab2/eu-west-1/6415811594001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vvRXDTV/tviafrica.jpg",TVI AFRICA
 https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BsdgH54/rtpafr.webp" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)", referer="https://www.rtp.pt/play/",RTP AFRICA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BsdgH54/rtpafr.webp" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)", referer="https://www.rtp.pt/play/rtpafrica",RTP AFRICA
 https://streaming-live.rtp.pt/liverepeater/rtpafrica.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9GMzcw7/rtpaco.jpg" user-agent="Mozilla/5.0", referer="https://www.rtp.pt/play/direto/rtpacores",RTP ACORES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9GMzcw7/rtpaco.jpg" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)", referer="https://www.rtp.pt/play/direto/rtpacores",RTP ACORES
 https://streaming-live.rtp.pt/liverepeater/rtpacores.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bvwwcB9/rtpmad.jpg" user-agent="Mozilla/5.0", referer="https://www.rtp.pt/play/direto/rtpmadeira",RTP MADEIRA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bvwwcB9/rtpmad.jpg" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)", referer="https://www.rtp.pt/play/direto/rtpmadeira",RTP MADEIRA
 https://streaming-live.rtp.pt/liverepeater/rtpmadeira.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vZ9S4rV/rtpmem.jpg" user-agent="Star Wars", referer="https://www.rtp.pt/play/direto/rtpmem",RTP MEMORIA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vZ9S4rV/rtpmem.jpg" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)", referer="https://www.rtp.pt/play/direto/rtpmemoria",RTP MEMORIA
 https://streaming-live.rtp.pt/liverepeater/rtpmem.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zZwMM3d/arparl.png",AR PARLAMENTO
 https://playout175.livextend.cloud/livenlin4/_definst_/2liveartvpub2/playlist.m3u8
