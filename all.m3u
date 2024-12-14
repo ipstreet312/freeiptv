@@ -4109,3 +4109,13 @@ https://mcdn.antennaplus.gr/live/media0/MAK/HLS/MAK-avc1_2000000=2246142959.m3u8
 https://mcdn.antennaplus.gr/live/media0/MAK/HLS/index.m3u8
 #EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)",MAK UA CHK
 https://mcdn.antennaplus.gr/live/media0/MAK/HLS/MAK-avc1_2000000=2246142959.m3u8
+#EXTINF:-1,ANT HD
+https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1-avc1_8000000=1141144780.m3u8
+#EXTINF:-1 user-agent="VLC/3.0.20 LibVLC/3.0.20",ANT HD UA
+https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1-avc1_8000000=1141144780.m3u8
+#EXTINF:-1 user-agent="VLC/3.0.20 LibVLC/3.0.20",ANT HD UA MP4
+https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1-avc1_8000000=1141144780-p=26241358009333-init.mp4
+#EXTINF:-1 user-agent="VLC/3.0.20 LibVLC/3.0.20",ANT HD UA M4S
+https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1-avc1_8000000=1141144780-begin=752153200-dur=100-seq=7834930.m4s
+#EXTINF:-1 user-agent="VLC/3.0.20 LibVLC/3.0.20",ANT HD UA M4S 443
+https://mcdn.antennaplus.gr:443/live/media0/Ant1/HLS/Ant1-avc1_8000000=1141144780-begin=752155900-dur=100-seq=7834958.m4s
