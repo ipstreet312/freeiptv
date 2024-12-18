@@ -846,6 +846,8 @@ http://dogus.daioncdn.net/ntv/ntv.m3u8?ce=3&&app=7c4bb802-0c41-409e-8cd2-7999849
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png",NTV (backup)
 http://dygvideo.dygdigital.com/live/hls/puhuntvdai?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png",NTV (backup)
+http://dygvideo.dygdigital.com/live/hls/ntv4puhu?m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png",NTV (backup)
 https://deathlesstg.serv00.net/Youtube-Live/index.php?id=-RORLrBwJD0&m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png",NTV (downline)
 http://canli.haber365.com.tr/tr/ntv/index.m3u8
@@ -924,9 +926,7 @@ http://akittv-live.ercdn.net/akittv/akittv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y04nCSJ/artii.png",ARTI TV
 https://new.cache-stream.workers.dev/stream/UCxVicskgBc8OD66iLKc7Uaw/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hB9yNXV/yol22.png",YOL TV
-https://stream.yol.tv:9443/medialive/yol.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hB9yNXV/yol22.png",YOL TV
-http://stream.yol.tv:9485/medialive/yol.m3u8
+https://iptv.amgsmart2home.de/YOLTVMAIN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ TV (backup)
 https://new.cache-stream.workers.dev/stream/ztmY_cCtUl0/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ TV (backup)
@@ -1000,7 +1000,7 @@ https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png",STAR
 https://dogus-live.daioncdn.net/startv/startv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png",STAR
-http://dygvideo.dygdigital.com/live/hls/stardai?m3u8
+http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png",SHOW
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png",SHOW
@@ -1056,6 +1056,8 @@ https://dogus.daioncdn.net/startv/startv.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png",STAR (backup)
 https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/tur/star.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png",STAR (backup)
+http://dygvideo.dygdigital.com/live/hls/stardai?m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png",STAR (backup)
 https://hw1.jemtv.com/app/StarTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png",STAR (backup)
 https://trn03.tulix.tv/gt-startv/playlist.m3u8
@@ -1073,6 +1075,8 @@ http://hw1.jemtv.com/app/FoxTurkey/chunks.m3u8
 https://bozztv.com/inim03/live1/turkfoxtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png",NOW (backup)
 https://mnorigin-ank-1.mncdn.com/test/live_720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png",NOW (backup)
+https://c.fulltvizle.com/fox/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV (backup)
 https://tgn.bozztv.com/trn03/gt-atv-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV (backup)
@@ -1783,8 +1787,12 @@ https://rumelitv-live.ercdn.net/rumelitv/rumelitv.m3u8
 https://edge1.socialsmart.tv/tekrumelitv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",TEMPO TV
 https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",TH HABER 
+https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",TV 1 ADANA
 https://live.artidijitalmedya.com/artidijital_tva/tva/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",TV 3 AFYONKARAHİSAR
+https://live.artidijitalmedya.com/artidijital_tv3/tv3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",TİVİ TURK
 https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",TON TV ÇANAKKALE
@@ -2811,6 +2819,8 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/YASSportsChannel/HLS/index.m3
 https://vo-live.cdb.cdn.orange.com/Content/Channel/Baynounah/HLS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Dr7jn2L/baynounah.png",BAYNOUNAH TV
 https://baynounah.cdn.mangomolo.com/btv/smil:btv.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b2KHBPn/halalnd.png",HALA LONDON
+https://halalondon-live.ercdn.net/halalondon/halalondon.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qJ7qVTF/Al-Mamlaka.png",AL MAMLKA
 https://bcovlive-a.akamaihd.net/4109c7ba30fd4a44ad9afe917c67a8c8/eu-central-1/6415809151001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5LvvstB/elshasha.png",SYDAT EL SHASHA
@@ -3593,6 +3603,8 @@ http://stream02.vnet.am/Kinoman/index.m3u8
 https://streamer1.connectto.com/ARTN_mobile/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png",AZ TV Azərbaycan Televiziyası
 http://str.yodacdn.net/aztv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png",AZ TV
+https://hw2.jemtv.com/app/aztv1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png",AZ STAR
 http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png",AZ STAR
