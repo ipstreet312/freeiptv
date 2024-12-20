@@ -477,55 +477,55 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NORMANDIE/index.m3u8?start=LIVE&
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_PARIS/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png",BFM TOULON
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",F3 PARIS IDF
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z8SYHqs/f3ici.png",F3/ICI PARIS IDF
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fidf.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",F3 PROVENCE ALPES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z8SYHqs/f3ici.png",F3/ICI PROVENCE ALPES
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fpra.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",F3 CÔTE D'AZUR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z8SYHqs/f3ici.png",F3/ICI CÔTE D'AZUR
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fpca.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",F3 RHÔNE ALPES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z8SYHqs/f3ici.png",F3/ICI RHÔNE ALPES
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frha.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",F3 ALPES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z8SYHqs/f3ici.png",F3/ICI ALPES
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/falp.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",F3 AUVERGNE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z8SYHqs/f3ici.png",F3/ICI AUVERGNE
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fauv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",F3 BOURGOGNE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z8SYHqs/f3ici.png",F3/ICI BOURGOGNE
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fbog.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",F3 FRANCHE COMPTÉ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z8SYHqs/f3ici.png",F3/ICI FRANCHE COMPTÉ
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/ffrc.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",F3 CENTRE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z8SYHqs/f3ici.png",F3/ICI CENTRE
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fctr.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",F3 CORSE VÍA STELLA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z8SYHqs/f3ici.png",F3/ICI CORSE VÍA STELLA
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fcrs.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",F3 ALSACE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z8SYHqs/f3ici.png",F3/ICI ALSACE
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fals.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",F3 CHAMPAGNE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z8SYHqs/f3ici.png",F3/ICI CHAMPAGNE
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fchg.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",F3 LORRAINE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z8SYHqs/f3ici.png",F3/ICI LORRAINE
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/flor.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",F3 NORD PDC
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z8SYHqs/f3ici.png",F3/ICI NORD PDC
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fpdc.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",F3 PICARDIE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z8SYHqs/f3ici.png",F3/ICI PICARDIE
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fpcd.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",F3 B.NORMANDIE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z8SYHqs/f3ici.png",F3/ICI B.NORMANDIE
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fbnr.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",F3 H.NORMANDIE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z8SYHqs/f3ici.png",F3/ICI H.NORMANDIE
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fhnr.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",F3 AQUITAINE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z8SYHqs/f3ici.png",F3/ICI AQUITAINE
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/faqt.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",F3 NOA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z8SYHqs/f3ici.png",F3/ICI NOA
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fnoa.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",F3 LIMOUSIN
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z8SYHqs/f3ici.png",F3/ICI LIMOUSIN
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/flms.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",F3 POITOU CHARENTES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z8SYHqs/f3ici.png",F3/ICI POITOU CHARENTES
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fpch.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",F3 MIDI PYRÉNÉES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z8SYHqs/f3ici.png",F3/ICI MIDI PYRÉNÉES
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fmpr.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",F3 LANGUEDOC
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z8SYHqs/f3ici.png",F3/ICI LANGUEDOC
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fldr.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",F3 PAYS LOIRE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z8SYHqs/f3ici.png",F3/ICI PAYS LOIRE
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fpdl.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",F3 BRETAGNE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z8SYHqs/f3ici.png",F3/ICI BRETAGNE
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fbre.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xmhMMDN/tebeo.png",TÉBÉO TV
 https://lives.digiteka.com/stream/e0fe6433-554e-4568-9a7e-31969136d8ff/index.m3u8
@@ -1024,7 +1024,7 @@ https://kanal7.blutv.com/blutv_kanal7_live/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0tc3PYz/beyaz22b.png",BEYAZ TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0tc3PYz/beyaz22b.png",BEYAZ TV
-https://beyaztv.blutv.com/blutv_beyaztv_live/live.m3u8
+https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f34805c397d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png",TRT 1 (backup)
 https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png",TRT 1 (backup)
@@ -1117,10 +1117,8 @@ https://dvrfl05.tulix.tv/gin-tv8/index.m3u8
 https://bozztv.com/inim03/live1/tv8tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1s3fHfm/k7tr1.png",KANAL 7 (backup)
 https://kanal7.daioncdn.net/kanal7/kanal7.m3u8?app=f99587ad-1637-494d-8255-da35b09d17a1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0tc3PYz/beyaz22b.png",BEYAZ TV (backup)
-https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f34805c397d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1Z22dCY/teve2.png",TEVE 2 (backup)
-https://demiroren.daioncdn.net/teve2/teve2.m3u8?app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0tc3PYz/beyaz22b.png",BEYAZ TV [diedlink]
+https://beyaztv.blutv.com/blutv_beyaztv_live/live.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png" group-title="|TR|🇹🇷 BELGESEL & YAŞAM",TRT BELGESEL
@@ -1191,6 +1189,8 @@ https://ythls.armelin.one/channel/UCHqu50_C2U2h_rpzhygs4aA.m3u8
 http://stream.tvcdn.net/eglence/a2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2qrg9QF/a2022.png",A2 [tkn-blocked]
 https://trkvz-live.daioncdn.net/a2tv/a2tv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1Z22dCY/teve2.png",TEVE 2 (backup)
+https://demiroren.daioncdn.net/teve2/teve2.m3u8?app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png",TRT BELGESEL (backup)
 https://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png",TRT BELGESEL (backup)
@@ -2649,10 +2649,10 @@ https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/in
 https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jzRyjBn/walla.png",WALLA !+ וואלה! חדשות
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01742-walla-wallanews-ono/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5MyMYqB/relevantil.png",RELEVANT רלוונט
-https://6180c994cb835402.mediapackage.eu-west-1.amazonaws.com/out/v1/f1339272dd24416ca60b00e69075d783/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6yjTszg/kan26.png",KAN 26 אפיק
-https://reshetbetvideo.media.kan.org.il/hls/live/2044082/2044082/source1_2.5k/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yc5Yf1q/sport5il.png",SPORT5 STUDIO RADIO LIVE
+https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yc5Yf1q/sport5il.png",SPORT5 STUDIO RADIO LIVE
+https://rgelive.akamaized.net/hls/live/2043095/live3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kq4XM0Y/ynet.png",YNET NEWS ידיעות אחרונות
 https://ynet-live-01.ynet-pic1.yit.co.il/ynet/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1rSGfFw/N12n.png" user-agent="SmartOs Tv",NEWS 12 חדשות 
@@ -2674,11 +2674,7 @@ https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PYtP8fm/arutz9ru.png",ISRAEL 9TV канал
 https://new.cache-stream.workers.dev/channel/UCixtbfonx_QIjS1DB96zcFg/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PYtP8fm/arutz9ru.png",ISRAEL 9TV канал
-https://contactgbs.mmdlive.lldns.net/contactgbs/dd4f5f04932345f1b47c4bfb45fbd682/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yc5Yf1q/sport5il.png",SPORT5 STUDIO RADIO LIVE
-https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yc5Yf1q/sport5il.png",SPORT5 STUDIO RADIO LIVE
-https://rgelive.akamaized.net/hls/live/2043095/live3/playlist.m3u8
+https://ythls.armelin.one/channel/UCixtbfonx_QIjS1DB96zcFg.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/93bQz4t/kabalah.png",KABBALAH 96
 http://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/93bQz4t/kabalah.png",KABBALAH 96
@@ -2691,8 +2687,12 @@ https://edge-fs-10.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
 http://wowza.media-line.co.il/Musayof-Live/livestream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tMm7vdM/shelanug.jpg",SHELANU GOD-IL
 https://1247634592.rsc.cdn77.org/1247634592/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2g7Sw4c/21.jpg",SHOPPING 21
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2g7Sw4c/21.jpg",SHOPPING 21 [ended]
 https://shoppingil-rewriter.vidnt.com/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MyMYqB/relevantil.png",RELEVANT רלוונט [ended]
+https://6180c994cb835402.mediapackage.eu-west-1.amazonaws.com/out/v1/f1339272dd24416ca60b00e69075d783/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6yjTszg/kan26.png",KAN 26 אפיק [ended]
+https://reshetbetvideo.media.kan.org.il/hls/live/2044082/2044082/source1_2.5k/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3RwfT5M/bigbil.png" referer="https://13tv.co.il/home/bb-livestream/",BIG BROTHER IL [geo-blocked]
 https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png",KAN 11 כאן (backup)
@@ -2765,6 +2765,8 @@ https://ch14-channel14.akamaized.net/hls/live/2097589/CH14_CHANNEL14/master.m3u8
 https://ch14-channel14eur.akamaized.net/hls/live/2099700/CH14_CHANNEL14/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png",NOW 14 עכשיו [deadlink]
 https://now14.g-mana.live/media/91517161-44ab-4e46-af70-e9fe26117d2e/mainManifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PYtP8fm/arutz9ru.png",ISRAEL 9TV канал [diedlink]
+https://contactgbs.mmdlive.lldns.net/contactgbs/dd4f5f04932345f1b47c4bfb45fbd682/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png",KESHET 12 קשת [mako-src]
 https://mako-streaming.akamaized.net/direct/hls/live/2035325/k12cc/index.m3u8?hdnea=
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png",KESHET 12 קשת [mako-src]
