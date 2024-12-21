@@ -396,7 +396,7 @@ https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yhRGCbH/Brefcin.png",BREF CINÉ
 https://c3776ebb1c7742cb9c0191b41b8b2432.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-fr_Brefcinema/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Hpqbt3q/cineprime.png",CINÉ PRIME
-https://d1epkvgkeqefgi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-myfiyxckorqab/index.m3u8
+https://d1epkvgkeqefgi.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-myfiyxckorqab/257aeb10-abc9-4b30-952c-2c6775eb768d/2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xqMPP7j/famclub.png",FAMILY CLUB
 https://d3kwy5wwq7dpr1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5ty5rugo8lr9f/famcl.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M9XhS35/filmsfr.jpg",FILMS FRANÇAIS
@@ -4149,5 +4149,5 @@ http://
 http://
 #EXTINF:-1,[⚽🏅🏆] *Empty* 'New' Service ❶❷❸ ➊➋➌
 http://
-#EXTINF:-1,TEST 011
+#EXTINF:-1,TEST 01
 https://
