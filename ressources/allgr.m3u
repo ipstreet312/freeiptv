@@ -38,7 +38,7 @@ http://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nR2HsVr/ln24.png" group-title="|FR|🇫🇷 INFORMATION",LN24 BE
 https://live-ln24.digiteka.com/1911668011/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MZLCTmN/monacoinfo.png" group-title="|FR|🇫🇷 INFORMATION",MONACO INFO
-https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
+https://webtv.monacoinfo.com/live/prod/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sq11nQ1/rdicanada.png" group-title="|FR|🇫🇷 INFORMATION",RDI CANADA
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pdnMrZn/a24.png" group-title="|FR|🇫🇷 INFORMATION",AFRICA 24 FR
@@ -249,6 +249,8 @@ https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/main/fr/videotf
 http://live.tntdirect.tv/9CM2pADCxF/w5BA32MP6P/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LNRd253/w9.png" user-agent="VAVOO/1.0", referer="https://vavoo.to/" group-title="|FR|🇫🇷 GÉNÉRALISTE",W9 (test)
 https://joaquinito02.es/vavoo/128046615.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png" group-title="|FR|🇫🇷 GÉNÉRALISTE",M6 (test)
+http://gratuittv.free.fr/Files/m6/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BPpZPBn/arte.png" group-title="|FR|🇫🇷 GÉNÉRALISTE",ARTE (backup)
 https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/ftv/py/frarte.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png" group-title="|FR|🇫🇷 GÉNÉRALISTE",FRANCE 2 (backup)
@@ -347,6 +349,8 @@ https://d3mzlmrngyf08j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d2q982f39qtdzh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-np9jnkbfjxrog/Vevo90and2000_FR.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kDmhscZ/mgg.png" group-title="|FR|🇫🇷 SOCIÉTÉ",MGG E-SPORT
 https://d1mdvi698umja9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kuib43fy5umqi-ssai-prd/mgg.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Xs1PxZs/driveauto.png" group-title="|FR|🇫🇷 SOCIÉTÉ",DRIVE AUTO
+https://amg01796-amg01796c2-rakuten-uk-3887.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-drivetv-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0YKFn02/motorvisionfrs.png" group-title="|FR|🇫🇷 SOCIÉTÉ",MOTORVISION FR
 https://d1qswsont218xa.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-im2kwho8ev6jk/mv_fr.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0sdMx5Z/mtrvsn.png" group-title="|FR|🇫🇷 SOCIÉTÉ",MOTORVISION TV
@@ -365,12 +369,12 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion
 https://d3tuo4zu8l334y.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x8ri0qojo9mfh/e5997ac8-9e9c-42cc-a2ef-633dc0a4f5a3/2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d66k2fw/maisontrvx.png" group-title="|FR|🇫🇷 SOCIÉTÉ",MAISON & TRAVAUX
 https://d387lnkgycbwl.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sdi2aweg8u1y4/761cde02-1df4-4a1a-ad50-7033ede188ef/2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HzXTSvk/naturetime.jpg" group-title="|FR|🇫🇷 SOCIÉTÉ",NATURE TIME
+https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tYqGGQp/travelxp.jpg" group-title="|FR|🇫🇷 SOCIÉTÉ",TRAVEL XP
 https://0b0a5371d15f48128cf69b029230eac6.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-fr_TravelXP/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vxqS6F0/tv5voyage.png" group-title="|FR|🇫🇷 SOCIÉTÉ",TV5MONDE VOYAGE
 https://d1qvkge2x4ev90.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8q6p9i1t9dw2k/tvfvo.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HzXTSvk/naturetime.jpg" group-title="|FR|🇫🇷 SOCIÉTÉ",NATURE TIME
-https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2F8Cqdn/voyagessaveurs.png" group-title="|FR|🇫🇷 SOCIÉTÉ",VOYAGES ET SAVEURS
 https://amg01821-amg01821c24-samsung-fr-5157.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-voyagesandsaveurs-samsungfr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JRX9cpG/voyagesplus.jpg" group-title="|FR|🇫🇷 SOCIÉTÉ",VOYAGES+
@@ -389,6 +393,14 @@ https://ddt6vdovkiskj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://d1yl6bf4hrzbr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5km3zs4zs9sp0/allo.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3v8W06Q/rakutenfilms.png" group-title="|FR|🇫🇷 SOCIÉTÉ",RAKUTEN TOP FILMS TV
 https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yhRGCbH/Brefcin.png" group-title="|FR|🇫🇷 SOCIÉTÉ",BREF CINÉ
+https://c3776ebb1c7742cb9c0191b41b8b2432.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-fr_Brefcinema/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Hpqbt3q/cineprime.png" group-title="|FR|🇫🇷 SOCIÉTÉ",CINÉ PRIME
+https://d1epkvgkeqefgi.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-myfiyxckorqab/257aeb10-abc9-4b30-952c-2c6775eb768d/2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xqMPP7j/famclub.png" group-title="|FR|🇫🇷 SOCIÉTÉ",FAMILY CLUB
+https://d3kwy5wwq7dpr1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5ty5rugo8lr9f/famcl.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M9XhS35/filmsfr.jpg" group-title="|FR|🇫🇷 SOCIÉTÉ",FILMS FRANÇAIS
+https://rakuten-films-francais-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VvMKr5V/wildside.jpg" group-title="|FR|🇫🇷 SOCIÉTÉ",WILD SIDE TV
 https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/grBSqt4/novela.png" group-title="|FR|🇫🇷 SOCIÉTÉ",TELE NOVELA TV
@@ -421,6 +433,8 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/extr/py
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/dmdirect/emcieu.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LgSzMCy/museum.webp" group-title="|FR|🇫🇷 SOCIÉTÉ",MUSEUM
 https://live2.creacast.com/museum-france/smil:museum-france.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LgSzMCy/museum.webp" group-title="|FR|🇫🇷 SOCIÉTÉ",MUSEUM
+https://amg01492-secomsasmediart-museumtv-fr-rakuten-5ofja.amagi.tv/hls/amagi_hls_data_rakutenAA-museumtv-fr-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VvRpRty/myzen.png" group-title="|FR|🇫🇷 SOCIÉTÉ",MY ZEN
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VvRpRty/myzen.png" group-title="|FR|🇫🇷 SOCIÉTÉ",MY ZEN
@@ -606,6 +620,8 @@ https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/8_Mont-Blanc.
 #EXTINF:-1 tvg-logo="https://i.ibb.co/74fJt5v/8mblanc.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",TV8 MONTBLANC
 https://tvradiozap.eu/tools/dm-m3u8.php/x3wqv8b.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vDRB1fK/tvtloire.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",TVT TOURS
+https://live-tvtours.digiteka.com/1982825398/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vDRB1fK/tvtloire.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",TVT TOURS
 https://lives.digiteka.com/stream/920f083a-9e61-4c09-9bc2-bdb664063aa9/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QM2Y7TV/angtl.jpg" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",ANGERS TÉLÉ
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/angerstele.m3u8
@@ -635,6 +651,8 @@ https://indisponible
 https://indisponible
 #EXTINF:-1 group-title="|FR|🇫🇷 RÉGIONS & LOCALES",--- |FR:🇫🇷 OUTRE-MER DOM/TOM| ---
 https://section
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3pbTbdG/ubizom.jpg" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",UBIZNEWS OM5TV
+https://tvradiozap.eu/tools/dm-m3u8.php/x8dicii.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3pbTbdG/ubizom.jpg" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",UBIZNEWS OM5TV
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/ubiznews.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BwD72ps/madras.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",MADRAS FM TV
@@ -713,6 +731,10 @@ https://tvlocales-live.freecaster.com/95d2f70d-9229-478b-9aed-bc4fa220316d/95d2f
 https://tvlocales-live.freecaster.com/95d2f733-1bc2-4bd5-9b96-c53ed3fc450f/95d2f733-1bc2-4bd5-9b96-c53ed3fc450f.isml/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0VSd8bM/zoombe.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",CANAL ZOOM
 https://tvlocales-live.freecaster.com/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5.isml/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8gczbQk/sambre.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",SAMBRE CHARLEROI
+https://tvlocales-live.freecaster.com/95d2f67c-de80-486b-9e60-9c72cb2782e2/95d2f67c-de80-486b-9e60-9c72cb2782e2.isml/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NSZgQQG/Brabant.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",BRABANT WALLON
+https://tvlocales-live.freecaster.com/95d2f656-50f1-432b-84a6-ce11c6cdb482/95d2f656-50f1-432b-84a6-ce11c6cdb482.isml/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MCtzw8h/tvlux.png" group-title="|FR|🇫🇷 RÉGIONS & LOCALES",TV LUX
 https://tvlocales-live.freecaster.com/95d2f631-8941-4efd-b223-0ebd56a033c4/95d2f631-8941-4efd-b223-0ebd56a033c4.isml/master.m3u8
 #EXTINF:-1 group-title="|FR|🇫🇷 RÉGIONS & LOCALES",--- |CH:🇨🇭 SUISSE ROMANDE| ---
@@ -766,7 +788,7 @@ https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png" group-title="|TR|🇹🇷 HABER-1",TV 100
 https://tv100-live.daioncdn.net/tv100/tv100.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png" group-title="|TR|🇹🇷 HABER-1",TV 100
-https://tv100.blutv.com/blutv_tv100_live/live.m3u8
+https://ensonhaber-live.ercdn.net/tv100/tv100.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ln92Dj2/Ekoltv.png" group-title="|TR|🇹🇷 HABER-1",EKOL TV
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ln92Dj2/Ekoltv.png" group-title="|TR|🇹🇷 HABER-1",EKOL TV
@@ -828,7 +850,11 @@ https://new.cache-stream.workers.dev/stream/UCtc-a9ZUIg0_5HpsPxEO7Qg/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png" group-title="|TR|🇹🇷 HABER-1",HABER GLOBAL (off-action)
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/hglobal/hglobal.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png" group-title="|TR|🇹🇷 HABER-1",TV 100 (backup)
+https://tv100.blutv.com/blutv_tv100_live/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png" group-title="|TR|🇹🇷 HABER-1",TV 100 (backup)
 https://tv100.daioncdn.net/tv100/tv100.m3u8?app=web
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png" group-title="|TR|🇹🇷 HABER-1",TV 100 (backup)
+https://tv.ensonhaber.com/tv100/tv100.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png" group-title="|TR|🇹🇷 HABER-1",CNN TÜRK (tokened)
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png" group-title="|TR|🇹🇷 HABER-1",CNN TÜRK (backup)
@@ -1227,6 +1253,10 @@ https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 https://new.cache-stream.workers.dev/stream/UCCfTktnzWK__FUN4gj0zIpA/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Zxd0j45/cartoonnetwork.png" group-title="|TR|🇹🇷 ÇOCUK / SPOR",CARTOON NETWORK TR
 https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L8ftBdN/minikacocuk.png" group-title="|TR|🇹🇷 ÇOCUK / SPOR",MİNİKA ÇOCUK
+https://ythls.armelin.one/channel/UCVbCXWXWd0WCNhdBnmP_TmA.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L8ftBdN/minikacocuk.png" group-title="|TR|🇹🇷 ÇOCUK / SPOR",MİNİKA ÇOCUK
+https://new.cache-stream.workers.dev/channel/UCVbCXWXWd0WCNhdBnmP_TmA/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SwwjnF5/gstv.png" group-title="|TR|🇹🇷 ÇOCUK / SPOR",GALATASARAY TV
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/867fC4z/fbtv22a.png" group-title="|TR|🇹🇷 ÇOCUK / SPOR",FENERBAHÇE TV
@@ -1239,7 +1269,7 @@ https://ciner-live.daioncdn.net/ht-spor/ht-spor.m3u8
 https://koprulu.global.ssl.fastly.net/ythls?kanal_id=UCPe9vNjHF1kEExT5kHwc7aw.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BfM21nC/beinhaber.png" group-title="|TR|🇹🇷 ÇOCUK / SPOR",BIS HABER
 https://ythls.kekikakademi.org/youtube/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BfM21nC/beinhaber.png" group-title="|TR|🇹🇷 ÇOCUK / SPOR",A SPOR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xSjB51j/aspor.png" group-title="|TR|🇹🇷 ÇOCUK / SPOR",A SPOR
 https://ythls.kekikakademi.org/youtube/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xSjB51j/aspor.png" group-title="|TR|🇹🇷 ÇOCUK / SPOR",A SPOR
 https://koprulu.global.ssl.fastly.net/ythls?video_id=7uBpwcn2ZZ0.m3u8
@@ -1287,9 +1317,9 @@ https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk.m3u8
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8g20RBH/ebatek.png" group-title="|TR|🇹🇷 ÇOCUK / SPOR",TRT EBA TV
 https://ebao.blutv.com/blutv_ebao2/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/L8ftBdN/minikacocuk.png" group-title="|TR|🇹🇷 ÇOCUK / SPOR",MİNİKA ÇOCUK
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L8ftBdN/minikacocuk.png" group-title="|TR|🇹🇷 ÇOCUK / SPOR",MİNİKA ÇOCUK (offline)
 http://trn10.tulix.tv/gt-minikacocuk/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/R2Zgy7F/minikago.png" group-title="|TR|🇹🇷 ÇOCUK / SPOR",MİNİKA GO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R2Zgy7F/minikago.png" group-title="|TR|🇹🇷 ÇOCUK / SPOR",MİNİKA GO (offline)
 http://trn10.tulix.tv/gt-minikago/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F0Tsz1v/htsportr.png" group-title="|TR|🇹🇷 ÇOCUK / SPOR",HT SPOR (backup)
 https://ythls.armelin.one/channel/UCK3mI2lsk3LSo8PBUc8JTSw.m3u8
@@ -4127,5 +4157,5 @@ http://
 http://
 #EXTINF:-1 group-title="|📡|👨‍💻👉GITHUB.COM/IPSTREET312",[⚽🏅🏆] *Empty* 'New' Service ❶❷❸ ➊➋➌
 http://
-#EXTINF:-1 group-title="|📡|👨‍💻👉GITHUB.COM/IPSTREET312",TEST 011
+#EXTINF:-1 group-title="|📡|👨‍💻👉GITHUB.COM/IPSTREET312",TEST 01
 https://
