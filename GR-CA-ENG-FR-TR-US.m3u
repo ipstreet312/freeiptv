@@ -128,4 +128,5 @@ http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
 https://raw.githubusercontent.com/iptvnikolas/Nikki-TVM3U8/main/ioanninatv.m3u8
 #EXTINF:-1 tvg-id="BBC.One.EastHD.uk" tvg-name="BBC One" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-uk.png" group-title="UK",BBC One
 https://xyzdddd.mizhls.ru/lb/premium356/index.m3u8
-
+#EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-name="NBCNY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/2077px-NBC_logo.svg.png" group-title="USA",NBCNY
+https://xyzdddd.mizhls.ru/lb/premium769/index.m3u8
