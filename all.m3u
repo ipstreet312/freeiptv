@@ -2027,9 +2027,9 @@ https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
 https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z6zPQL8/nrg.png",NRG TV
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/L9fj1Hj/greece.png",BOYAH TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L9fj1Hj/greece.png",BOYAH TV - KANALI VOULIS
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/L9fj1Hj/greece.png",BOYAH TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L9fj1Hj/greece.png",BOYAH TV - KANALI VOULIS
 https://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L9fj1Hj/greece.png",AEOLOS
 https://cdn.istoikona.com/aeolostv/live/playlist.m3u8
