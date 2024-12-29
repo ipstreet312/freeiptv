@@ -2060,7 +2060,13 @@ http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L9fj1Hj/greece.png",CORFU
 https://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L9fj1Hj/greece.png",BLUE SKY
-https://cdn1.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
+https://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L9fj1Hj/greece.png",RED MUSIC
+https://fr.crystalweb.net:1936/redmusic/redmusic/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L9fj1Hj/greece.png",BARAZA TV
+https://eco.streams.ovh:8081/barazatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L9fj1Hj/greece.png",10 CHANNEL
+https://castor.streamthatvideo.co:8081/10channel/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GVDqbDf/ertgr.png",ERT NEWS 2
 http://ertflix.s.llnwi.net/ertlive/ertnews2/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GVDqbDf/ertgr.png",ERT NEWS 3
@@ -2079,6 +2085,8 @@ https://ertflix.s.llnwi.net/ertlive/ertkids/default/index.mpd
 https://ertflix.s.llnwi.net/ertlive/music/default/index.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GVDqbDf/ertgr.png",ERT SPORTS [geoblocked]
 https://ertflix.s.llnwi.net/ertlive/ertsports1/default/index.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GVDqbDf/ertgr.png",ERT SPORTS [geoblocked]
+http://hbbtvapp.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3sHp7pS/riksat.png",RIK SAT CYPRUS [geoblocked]
 https://ertflix.s.llnwi.net/ertlive/rik/default/index.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3sHp7pS/riksat.png",RIK SAT CYPRUS [geoblocked]
@@ -2831,6 +2839,8 @@ https://hms.pfs.gdn/stream/mtv.m3u8?token=Q5IwvHvtdcWXHd5HIYeCkQ:x6OJCdCx-S1Aiea
 https://hms.pfs.gdn/stream/mtv.m3u8?token=IYee-FOHK8PjNUE-nwh9Gg:01ZVp1TH3r35BkmJlR749-cGNHp-aw_9a8T7ccKccnp2JRWPA_QUge4ZYohMtjg4xnlb6e7OQQ6_Hwqz268OtpwklkAaU5In2if0ehBjbmQJwARlaIOg8fDF9CyaWPoTuXweoj8ReSAQavmIVQn-DVfhm76QELvAluhD-uKfXllPpw8PdErIEdb6v4u1BerJaikm7yv160xvOdZBN_h9RWcFBT5lW-xyfFosrrIrYIdCHE3NXOhNunF_wgwFP5pl
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zH7W9tX/volbn.png",VOICE OF LBN
 https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZB8x8TP/futlbn.png",FUTURE LBN
+https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wR2jkMz/nbnlb.png" referer="https://odysee.com",NBN
 https://cloud.odysee.live/content/1d8edd84bd42e695555dbf20d83b45e203ed9ed0/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ygKx229/lana1.png",LANA TV
