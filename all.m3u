@@ -2089,8 +2089,10 @@ https://ertflix.s.llnwi.net/ertlive/ertkids/default/index.mpd
 https://ertflix.s.llnwi.net/ertlive/music/default/index.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GVDqbDf/ertgr.png",ERT SPORTS [geoblocked]
 https://ertflix.s.llnwi.net/ertlive/ertsports1/default/index.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GVDqbDf/ertgr.png",ERT SPORTS [geoblocked]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GVDqbDf/ertgr.png",ERT SPORTS 1 [geoblocked]
 http://hbbtvapp.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GVDqbDf/ertgr.png",ERT SPORTS 2 [geoblocked]
+http://hbbtvapp.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3sHp7pS/riksat.png",RIK SAT CYPRUS [geoblocked]
 https://ertflix.s.llnwi.net/ertlive/rik/default/index.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3sHp7pS/riksat.png",RIK SAT CYPRUS [geoblocked]
