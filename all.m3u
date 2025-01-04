@@ -737,7 +737,7 @@ https://tvlocales-live.freecaster.com/95d2f67c-de80-486b-9e60-9c72cb2782e2/95d2f
 https://tvlocales-live.freecaster.com/95d2f656-50f1-432b-84a6-ce11c6cdb482/95d2f656-50f1-432b-84a6-ce11c6cdb482.isml/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MCtzw8h/tvlux.png",TV LUX
 https://tvlocales-live.freecaster.com/95d2f631-8941-4efd-b223-0ebd56a033c4/95d2f631-8941-4efd-b223-0ebd56a033c4.isml/master.m3u8
-#EXTINF:-1 group-title="|FR|🇫🇷 RÉGIONS & LOCALES",--- |CH:🇨🇭 SUISSE ROMANDE| ---
+#EXTINF:-1 group-title="|FR|🇫🇷 RÉGIONS & LOCALES",--- |CH:🇨🇭 BASSIN SUISSE ROMANDE| ---
 https://section
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fqq90Z2/noovo.png",NOOVO
 https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/index/de22f34f/live/stream/h264/v1/2048000/manifest.m3u8
@@ -761,7 +761,7 @@ https://edge12.vedge.infomaniak.com/livecast/ik:livehd/manifest.m3u8
 https://livevideo.vedge.infomaniak.com/livecast/ik:canalalpha/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FzJtxkx/mmediach.png",M LE MÉDIA
 https://raw.githubusercontent.com/BG47510/tube/refs/heads/main/mlemedia.m3u8
-#EXTINF:-1 group-title="|FR|🇫🇷 RÉGIONS & LOCALES",--- |CA-QC:🇨🇦 CANADA\QUÉBEC| ---
+#EXTINF:-1 group-title="|FR|🇫🇷 RÉGIONS & LOCALES",--- |CA-QC:🇨🇦 ZONE CANADA\QUÉBEC| ---
 https://section
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LzWqD0s/savoirmedia.png",SAVOIR.MÉDIA
 https://hls.savoir.media/live/stream.m3u8
@@ -1745,26 +1745,6 @@ https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/chunks.m3u
 https://ythls.armelin.one/channel/UC4Ohyy56H4EZAy0Pagsv3iA.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",KOZA TV ADANA
 https://new.cache-stream.workers.dev/stream/UC4Ohyy56H4EZAy0Pagsv3iA/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",KIBRIS BRT 1
-https://sc-kuzeykibrissmarttv.ercdn.net/brt1hd/bant1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",KIBRIS BRT 2
-https://sc-kuzeykibrissmarttv.ercdn.net/brt2hd/bant1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",KIBRIS BRT 3
-http://gineu8.bozztv.com/gin-36bay3/gt-kibrisbrt3/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",KIBRIS ADA TV
-https://sc-kuzeykibrissmarttv.ercdn.net/adatv/bant1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",KIBRIS KANAL T
-https://sc-kuzeykibrissmarttv.ercdn.net/kanalt/bantp1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",KIBRIS GENÇ TV
-https://sc-kuzeykibrissmarttv.ercdn.net/kibrisgenctv/bant1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",KIBRIS TV
-https://sc-kuzeykibrissmarttv.ercdn.net/kibristv/bant1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",KIBRIS SİM TV
-https://sc-kuzeykibrissmarttv.ercdn.net/simtv/bantp1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",KIBRIS TV2020
-https://sc-kuzeykibrissmarttv.ercdn.net/tv2020/bantp1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",KIBRIS KK TV
-http://kuzeykibris.tv/m3u8/kktv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",LIFE TV KAYSERİ
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",MALATYA VUSLAT TV
@@ -1893,6 +1873,44 @@ https://live.euromediacenter.com/gurmetv/index.m3u8
 https://live.euromediacenter.com/ezgitv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",*ESKİ TÜRKİYE* - NOSTALJİ TV KANALLAR...
 https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/eskitrnost.ts
+#EXTINF:-1 group-title="|TR|🇹🇷 YEREL - BÖLGESEL",--- |KKTC: KUZEY KIBRIS| ---
+http://blank
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y8p46cM/Kktc.png",BRT 1
+https://sc-kuzeykibrissmarttv.ercdn.net/brt1hd/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y8p46cM/Kktc.png",BRT 1
+https://spor.kuzeykibris.tv/m3u8/tv_brt1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y8p46cM/Kktc.png",BRT 2
+https://sc-kuzeykibrissmarttv.ercdn.net/brt2hd/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y8p46cM/Kktc.png",BRT 2
+https://spor.kuzeykibris.tv/m3u8/tv_brt2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y8p46cM/Kktc.png",ADA TV
+https://sc-kuzeykibrissmarttv.ercdn.net/adatv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y8p46cM/Kktc.png",ADA TV
+https://spor.kuzeykibris.tv/m3u8/tv_ada.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y8p46cM/Kktc.png",KANAL T
+https://sc-kuzeykibrissmarttv.ercdn.net/kanalt/bantp1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y8p46cM/Kktc.png",KANAL T
+https://spor.kuzeykibris.tv/m3u8/tv_kanalt.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y8p46cM/Kktc.png",GENÇ TV
+https://sc-kuzeykibrissmarttv.ercdn.net/kibrisgenctv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y8p46cM/Kktc.png",GENÇ TV
+https://spor.kuzeykibris.tv/m3u8/tv_genc.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y8p46cM/Kktc.png",KIBRIS TV
+https://sc-kuzeykibrissmarttv.ercdn.net/kibristv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y8p46cM/Kktc.png",KIBRIS TV
+https://spor.kuzeykibris.tv/m3u8/tv_ktv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y8p46cM/Kktc.png",SİM TV
+https://sc-kuzeykibrissmarttv.ercdn.net/simtv/bantp1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y8p46cM/Kktc.png",SİM TV
+https://spor.kuzeykibris.tv/m3u8/tv_sim.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y8p46cM/Kktc.png",TV 2020
+https://sc-kuzeykibrissmarttv.ercdn.net/tv2020/bantp1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y8p46cM/Kktc.png",TV 2020
+https://spor.kuzeykibris.tv/m3u8/tv_2020.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y8p46cM/Kktc.png",KK TV
+http://kuzeykibris.tv/m3u8/kktv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y8p46cM/Kktc.png",KK TV
+https://old.kuzeykibris.tv/m3u8/kktv.m3u8
 #EXTINF:-1 group-title="|TR|🇹🇷 YEREL - BÖLGESEL",--- |KURDÎ: SORANİ, ZAZA| ---
 http://blank
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png",ZAROK KURMANÎ
@@ -3276,7 +3294,7 @@ https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pZJLjc1/salam.png",SALAM
 https://b01c02nl.mediatriple.net/videoonlylive/mtiwaxdzdfggbnlive/broadcast_5d1b0969c3188.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dQtMFVT/qamar.jpg",AL QAMAR
-https://pull-cdnw.anystream.uk/live/d84d4809018b100059f000f600000000/playlist.m3u8
+https://streamer3.premio.link/alqamar/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ypj95gJ/almasirah.png",ALMASIRA MUBASHER
 https://svs.itworkscdn.net/almasiramubacherlive/almasira.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TkVK043/ekbariya.png",AL EKHBARIA
