@@ -3,8 +3,7 @@
 import streamlink
 import requests
 streams = streamlink.streams('https://player.vimeo.com/video/1044527541')
-playlist = streams["best"].multivariant.uri
-master = playlist.text
+master = streams["best"].multivariant.uri
 
 hls_v1 = master.replace("hls", "chunklist_b3000000_cmaf_v")
 hls_v2 = master.replace("hls", "chunklist_b600000_cmaf_v")
