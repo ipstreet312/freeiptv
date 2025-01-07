@@ -2,7 +2,7 @@ name: tlmc
 
 on:
   schedule:
-    - cron: '22 */02 * * *'
+    - cron: '*/30 * * * *'
   workflow_dispatch:
 
 jobs:
