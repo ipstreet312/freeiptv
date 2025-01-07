@@ -1,0 +1,41 @@
+name: tlmc
+
+on:
+  schedule:
+    - cron: '22 */02 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: config
+        run: |
+          git config --global user.email "<>"
+          git config --global user.name "tlmc bot"
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+          
+      - name: Install requests module
+        run: python3 -m pip install requests streamlink
+
+      - name: fetch content tlmc
+        run: |
+          python3 ressources/kuw/tlmc.py > ressources/kuw/tlmc.m3u8
+
+      - name: git add
+        run: |
+          git add -A
+          ls -la 
+          
+      - name: commit & push
+        run: |
+          git pull
+          git commit -m "tlmc updated"
+          git push
