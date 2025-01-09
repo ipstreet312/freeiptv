@@ -30,7 +30,7 @@ jobs:
 
       - name: fetch content nowtrnew
         run: |
-          final_url=$(python3 ressources/tur/nowtvtrwork.py)
+          final_url=$(python3 ressources/tur/nowtrnew.py)
           final_url2=$(echo $final_url | sed 's/ce=3&app=mobile_web&//')
           echo "dastrm=${final_url2}" >> $GITHUB_ENV
           erstrm=$(echo $final_url2 | sed 's/nowtv.daioncdn.net\/nowtv\/nowtv.m3u8/nowtv-live-ad.ercdn.net\/nowtv\/playlist.m3u8/')
