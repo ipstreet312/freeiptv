@@ -5,6 +5,6 @@ session = streamlink.Streamlink(
         "http-disable-dh": True
     }
 )
-streams = session.streams('https://www.nowtv.com.tr/canli-yayin')
+streams = session.streams('http://www.nowtv.com.tr/canli-yayin')
 dastrm = streams["best"].multivariant.uri
 print(dastrm)
