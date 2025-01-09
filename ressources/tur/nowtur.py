@@ -1,8 +1,11 @@
 import requests
 from bs4 import BeautifulSoup
 import re
+import urllib3
 
 url = "http://www.nowtv.com.tr/canli-yayin"
+
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 try:
     response = requests.get(url, verify=False)
