@@ -2,7 +2,7 @@ name: telmar
 
 on:
   schedule:
-    - cron: '*/50 * * * *'
+    - cron: '*/30 4-23,0-2 * * *'
   workflow_dispatch:
 
 jobs:
