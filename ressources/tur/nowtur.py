@@ -5,7 +5,7 @@ import re
 url = "http://www.nowtv.com.tr/canli-yayin"
 
 try:
-    response = requests.get(url)
+    response = requests.get(url, verify=False)
     response.raise_for_status()
     html_content = response.text
 
