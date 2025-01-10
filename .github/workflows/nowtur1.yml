@@ -18,8 +18,21 @@ jobs:
           git config --global user.email "<>"
           git config --global user.name "nowtur1 bot"
 
-      - name: updating nowtur
-        run: python3 ressources/tur/nowtur1.py > ressources/tur/nowtur1.m3u8
+      - name: fetch content nowtur1
+        run: |
+          final_url=$(python3 ressources/tur/nowtur1.py)
+          echo "erstrm=${final_url}" >> $GITHUB_ENV
+          dastrm=$(echo $final_url | sed 's/nowtv-live-ad.ercdn.net\/nowtv\/playlist.m3u8/nowtv.daioncdn.net\/nowtv\/nowtv.m3u8/')
+          echo "dastrm=${dastrm}" >> $GITHUB_ENV
+
+      - name: Replace Text
+        run: |
+          erstrm=${erstrm}
+          dastrm=${dastrm}
+          sed -i "\|daioncdn.net/nowtv| c $dastrm" all.m3u
+          sed -i "\|ercdn.net/nowtv| c $erstrm" all.m3u
+          sed -i "\|daioncdn.net/nowtv| c $dastrm" ressources/allgr.m3u
+          sed -i "\|ercdn.net/nowtv| c $erstrm" ressources/allgr.m3u
         
       - name: git add
         run: |
@@ -28,6 +41,7 @@ jobs:
           
       - name: commit & push
         run: |
-          git pull origin master
+          git pull
+          git add all.m3u ressources/allgr.m3u
           git commit -m "nowtur1 updated"
-          git push origin master
+          git push
