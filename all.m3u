@@ -2444,10 +2444,8 @@ https://cdn-globecast.akamaized.net/live/eds/assadissa/hls_snrt/index.m3u8
 https://cdn-globecast.akamaized.net/live/eds/tamazight_tv8_snrt/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jx8GW4D/m24.png",M24 TV للأنباء
 https://63df3191463ce.streamlock.net/live/ngrp:Live2.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rfwFbLk/telemaroc.gif",TELE MAROC قناة المغرب
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rfwFbLk/telemaroc.gif" user-agent="VLC/3.0.20 LibVLC/3.0.20",TELE MAROC قناة المغرب
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/kuw/telmar.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rfwFbLk/telemaroc.gif",TELE MAROC قناة المغرب
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/kuw/tlmc.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rQJcGTc/medi1tv.png",MEDI 1 MG العربية
 https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rQJcGTc/medi1tv.png",MEDI 1 AR العربية
