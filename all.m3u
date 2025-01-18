@@ -937,7 +937,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1s3fHfm/k7tr1.png",KANAL 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1s3fHfm/k7tr1.png",KANAL 7
-https://kanal7.blutv.com/blutv_kanal7_live/live.m3u8
+https://kanal7.daioncdn.net/kanal7/kanal7.m3u8?app=f99587ad-1637-494d-8255-da35b09d17a1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0tc3PYz/beyaz22b.png",BEYAZ TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0tc3PYz/beyaz22b.png",BEYAZ TV
@@ -1039,7 +1039,7 @@ http://tgn.bozztv.com/trn03/gt-tv8-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png",TV8 (backup)
 https://x.canlitvapp.com/kanal8/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1s3fHfm/k7tr1.png",KANAL 7 (backup)
-https://kanal7.daioncdn.net/kanal7/kanal7.m3u8?app=f99587ad-1637-494d-8255-da35b09d17a1
+https://kanal7.blutv.com/blutv_kanal7_live/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0tc3PYz/beyaz22b.png",BEYAZ TV [diedlink]
 https://beyaztv.blutv.com/blutv_beyaztv_live/live.m3u8
 
@@ -2889,7 +2889,7 @@ https://new.cache-stream.workers.dev/stream/UCTny7s_VPsTS_TtnWIlJF6w/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0mtj39x/Mekameleen.png",MEKAMELEEN
 http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kDhcymF/ifilm.png",IFILM AR
-https://cdnlive.presstv.ir/cdnlive/smil:ifilmar.smil/playlist.m3u8
+https://live.presstv.ir/hls/ifilmar_4_482/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VCfg2xY/almahriah.png",YEMEN MAHRIAH
 https://master.starmena-cloud.com/hls/almahriah.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PFCf0SG/jaylia.jpg",AL JAYLIA
@@ -3668,10 +3668,8 @@ https://s1.ettehadlive.com/live/114/chunklist.m3u8
 https://s1.ettehadlive.com/live/41/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hVkbvpQ/irinn.png",IRIB IRINN
 https://s1.ettehadlive.com/live/42/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kDhcymF/ifilm.png",IRIB IFILM FAR 1
-https://cdnlive.presstv.ir/ifilmlive/smil:ifilm2.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kDhcymF/ifilm.png",IRIB IFILM FAR 2
-https://cdnlive.presstv.ir/ifilmlive/smil:ifilmfa.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kDhcymF/ifilm.png",IRIB IFILM FAR
+https://live.presstv.ir/hls/ifilmfa_4_482/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tqkV2sn/irflag.png",MBC PERSIA
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tqkV2sn/irflag.png",MBC PERSIA
