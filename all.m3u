@@ -2968,8 +2968,6 @@ https://www.enterweb.tv:25463/live/ssadtv/live-tv/1.m3u8
 http://ishtar.cdncast.xyz:1935/live/iShtarHD/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CQjzKk9/alsabah.png",AL SABAH KW
 https://ffs1.gulfsat.com/Al-Sabah-TV/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tqkV2sn/irflag.png",AL WILAYAH
-https://hls.nl3.livekadeh.com/hls2/alwilayah_tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ygKx229/lana1.png",LANA TV (backup)
 https://eitc3.secure2.footprint.net/hls/LTV.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s107QNv/araby2.png",AL ALARABY 2 (backup)
@@ -3759,7 +3757,7 @@ https://iptv.mihantv.com/mihantv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tqkV2sn/irflag.png",NEGAH TV
 https://iptv.negahtv.com/negahtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tqkV2sn/irflag.png",AL WILAYAH
-https://alwilayah.tv/cdn/alwilayah_tv-manifest.m3u8
+https://hls.nl3.livekadeh.com/hls2/alwilayah_tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tqkV2sn/irflag.png",PAYVAND
 https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tqkV2sn/irflag.png",PJ TV
