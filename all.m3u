@@ -4192,7 +4192,7 @@ http://
 http://
 #EXTINF:-1,[⚽🏅🏆] *Empty* 'New' Service ❶❷❸ ➊➋➌
 http://
-#EXTINF:-1,TEST 010
+#EXTINF:-1,TEST 0102
 https://
 #EXTINF:-1 timeshift="1",FRANCE 2
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr2.m3u8
@@ -4200,9 +4200,9 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr2.m3u8?utc=1737480451&lutc=1737487758
 #EXTINF:-1 timeshift="1",FRANCE 2
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr2.m3u8?utc=1737480451
-#EXTINF:-1 timeshift="1",FRANCE 2
-https://simulcast-p.ftven.fr/ZXhwPTE3Mzc1MDk0MjB+YWNsPSUyZip+aG1hYz02NmVmZWE3NmFhMmRmY2Q4ZDkxY2Q5M2M1MDJkNzQwOTg4ODkxMDQ5Mzg0ZTA2M2Y5NGI0ZjYzYTczMGQxODY5/simulcast/France_2/hls_fr2/index.m3u8?hdnea=exp=1737488420~acl=%2f*~hmac=338c58b170e687d25f6f48c512d4002960de99e1115d9fd2872e386f321db40a
-#EXTINF:-1 timeshift="1",FRANCE 2
-https://simulcast-p.ftven.fr/ZXhwPTE3Mzc1MDk0MjB+YWNsPSUyZip+aG1hYz02NmVmZWE3NmFhMmRmY2Q4ZDkxY2Q5M2M1MDJkNzQwOTg4ODkxMDQ5Mzg0ZTA2M2Y5NGI0ZjYzYTczMGQxODY5/simulcast/France_2/hls_fr2/index.m3u8?hdnea=exp=1737488420~acl=%2f*~hmac=338c58b170e687d25f6f48c512d4002960de99e1115d9fd2872e386f321db40a&utc=1737480451&lutc=1737487758
-#EXTINF:-1 timeshift="1",FRANCE 2
-https://simulcast-p.ftven.fr/ZXhwPTE3Mzc1MDk0MjB+YWNsPSUyZip+aG1hYz02NmVmZWE3NmFhMmRmY2Q4ZDkxY2Q5M2M1MDJkNzQwOTg4ODkxMDQ5Mzg0ZTA2M2Y5NGI0ZjYzYTczMGQxODY5/simulcast/France_2/hls_fr2/index.m3u8?hdnea=exp=1737488420~acl=%2f*~hmac=338c58b170e687d25f6f48c512d4002960de99e1115d9fd2872e386f321db40a&utc=1737480451
+#EXTINF:-1 timeshift="1" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0",FRANCE 2
+https://simulcast-p.ftven.fr/ZXhwPTE3Mzc1MDk1NDZ+YWNsPSUyZip+aG1hYz1iNWU1NGMzYmI1MzE2MWY0OWY2ZDkzMmQ1ZTZiMGE3YWFjZGM0YWQxYjIwMDMwZTFjODkzZjAxMDUwNGRiN2Q3/simulcast/France_2/hls_fr2/index.m3u8?hdnea=exp=1737488546~acl=%2f*~hmac=c3e871a86a0548446704c54ac660202b644916662ec61ee67a4758f4a787652c
+#EXTINF:-1 timeshift="1" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0",FRANCE 2
+https://simulcast-p.ftven.fr/ZXhwPTE3Mzc1MDk1NDZ+YWNsPSUyZip+aG1hYz1iNWU1NGMzYmI1MzE2MWY0OWY2ZDkzMmQ1ZTZiMGE3YWFjZGM0YWQxYjIwMDMwZTFjODkzZjAxMDUwNGRiN2Q3/simulcast/France_2/hls_fr2/index.m3u8?hdnea=exp=1737488546~acl=%2f*~hmac=c3e871a86a0548446704c54ac660202b644916662ec61ee67a4758f4a787652c&utc=1737480451&lutc=1737487758
+#EXTINF:-1 timeshift="1" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0",FRANCE 2
+https://simulcast-p.ftven.fr/ZXhwPTE3Mzc1MDk1NDZ+YWNsPSUyZip+aG1hYz1iNWU1NGMzYmI1MzE2MWY0OWY2ZDkzMmQ1ZTZiMGE3YWFjZGM0YWQxYjIwMDMwZTFjODkzZjAxMDUwNGRiN2Q3/simulcast/France_2/hls_fr2/index.m3u8?hdnea=exp=1737488546~acl=%2f*~hmac=c3e871a86a0548446704c54ac660202b644916662ec61ee67a4758f4a787652c&utc=1737480451
