@@ -1901,7 +1901,7 @@ https://livestar.siliconweb.com/media/star1/star1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PmDyTX6/star.jpg" group-title="12. |GR|🇬🇷 GREECE Ελλά",STAR
 https://livestar.siliconweb.com/media/star4/star4.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PmDyTX6/star.jpg" group-title="12. |GR|🇬🇷 GREECE Ελλά",STAR
-https://telmacosa.s.llnwi.net/starcgr/default/index.m3u8
+http://telmaco-cdn.akamaized.net/starcgr/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y6D9CPT/megagr.png" group-title="12. |GR|🇬🇷 GREECE Ελλά",MEGA
 http://c98db5952cb54b358365984178fb898a.msvdn.net/live/S14373792/aGr5KG7RcZ9a/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y6D9CPT/megagr.png" group-title="12. |GR|🇬🇷 GREECE Ελλά",MEGA
@@ -2967,7 +2967,7 @@ https://www.enterweb.tv:25463/live/ssadtv/live-tv/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZNQPS3x/Ishtar.jpg" group-title="17. |AR|🇸🇦 MIDDLE EAST-1 عربي",ISHTAR TV
 http://ishtar.cdncast.xyz:1935/live/iShtarHD/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CQjzKk9/alsabah.png" group-title="17. |AR|🇸🇦 MIDDLE EAST-1 عربي",AL SABAH KW
-https://ffs1.gulfsat.com/Al-Sabah-TV/index.fmp4.m3u8
+https://ffs1.gulfsat.com/Al-Sabah-TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ygKx229/lana1.png" group-title="17. |AR|🇸🇦 MIDDLE EAST-1 عربي",LANA TV (backup)
 https://eitc3.secure2.footprint.net/hls/LTV.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s107QNv/araby2.png" group-title="17. |AR|🇸🇦 MIDDLE EAST-1 عربي",AL ALARABY 2 (backup)
@@ -4194,3 +4194,15 @@ http://
 http://
 #EXTINF:-1 group-title="27. |📡|👨‍💻👉GITHUB.COM/IPSTREET312",TEST 010
 https://
+#EXTINF:-1 timeshift="1" group-title="27. |📡|👨‍💻👉GITHUB.COM/IPSTREET312",TV5MONDE INFO
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8?utc=1737478541&lutc=1737485892
+#EXTINF:-1 timeshift="1" group-title="27. |📡|👨‍💻👉GITHUB.COM/IPSTREET312",TV5MONDE INFO
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8?utc=2025-01-21T19:02:51Z
+#EXTINF:-1 timeshift="1" group-title="27. |📡|👨‍💻👉GITHUB.COM/IPSTREET312",TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8?utc=1737478541&lutc=1737485892
+#EXTINF:-1 timeshift="1" group-title="27. |📡|👨‍💻👉GITHUB.COM/IPSTREET312",TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8?utc=1737478541&lutc=2025-01-21T19:02:51Z
+#EXTINF:-1 timeshift="1" group-title="27. |📡|👨‍💻👉GITHUB.COM/IPSTREET312",TRT 1
+https://trt.daioncdn.net/trt-1/master.m3u8?app=web&utc=1737478541&lutc=1737485892
+#EXTINF:-1 timeshift="1" group-title="27. |📡|👨‍💻👉GITHUB.COM/IPSTREET312",TRT 1
+https://trt.daioncdn.net/trt-1/master.m3u8?app=web&utc=1737478541&lutc=2025-01-21T19:02:51Z
