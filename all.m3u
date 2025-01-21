@@ -4194,9 +4194,15 @@ http://
 http://
 #EXTINF:-1,TEST 010
 https://
-#EXTINF:-1 timeshift="1",TV5MONDE INFO
-https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
-#EXTINF:-1 timeshift="1",TRT 1
-https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 timeshift="1",TRT 1
-https://trt.daioncdn.net/trt-1/master.m3u8?app=web
+#EXTINF:-1 timeshift="1",FRANCE 2
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr2.m3u8
+#EXTINF:-1 timeshift="1",FRANCE 2
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr2.m3u8?utc=1737480451&lutc=1737487758
+#EXTINF:-1 timeshift="1",FRANCE 2
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr2.m3u8?utc=1737480451
+#EXTINF:-1 timeshift="1",FRANCE 2
+https://simulcast-p.ftven.fr/ZXhwPTE3Mzc1MDk0MjB+YWNsPSUyZip+aG1hYz02NmVmZWE3NmFhMmRmY2Q4ZDkxY2Q5M2M1MDJkNzQwOTg4ODkxMDQ5Mzg0ZTA2M2Y5NGI0ZjYzYTczMGQxODY5/simulcast/France_2/hls_fr2/index.m3u8?hdnea=exp=1737488420~acl=%2f*~hmac=338c58b170e687d25f6f48c512d4002960de99e1115d9fd2872e386f321db40a
+#EXTINF:-1 timeshift="1",FRANCE 2
+https://simulcast-p.ftven.fr/ZXhwPTE3Mzc1MDk0MjB+YWNsPSUyZip+aG1hYz02NmVmZWE3NmFhMmRmY2Q4ZDkxY2Q5M2M1MDJkNzQwOTg4ODkxMDQ5Mzg0ZTA2M2Y5NGI0ZjYzYTczMGQxODY5/simulcast/France_2/hls_fr2/index.m3u8?hdnea=exp=1737488420~acl=%2f*~hmac=338c58b170e687d25f6f48c512d4002960de99e1115d9fd2872e386f321db40a&utc=1737480451&lutc=1737487758
+#EXTINF:-1 timeshift="1",FRANCE 2
+https://simulcast-p.ftven.fr/ZXhwPTE3Mzc1MDk0MjB+YWNsPSUyZip+aG1hYz02NmVmZWE3NmFhMmRmY2Q4ZDkxY2Q5M2M1MDJkNzQwOTg4ODkxMDQ5Mzg0ZTA2M2Y5NGI0ZjYzYTczMGQxODY5/simulcast/France_2/hls_fr2/index.m3u8?hdnea=exp=1737488420~acl=%2f*~hmac=338c58b170e687d25f6f48c512d4002960de99e1115d9fd2872e386f321db40a&utc=1737480451
