@@ -249,7 +249,7 @@ https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/tf1.m3u8
 https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/main/fr/videotf1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1 (backup)
 http://live.tntdirect.tv/9CM2pADCxF/w5BA32MP6P/1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LNRd253/w9.png" user-agent="VAVOO/1.0", referer="https://vavoo.to/",W9 (test)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LNRd253/w9.png" user-agent="VAVOO/1.0" referer="https://vavoo.to/",W9 (test)
 https://joaquinito02.es/vavoo/128046615.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6 (test)
 http://gratuittv.free.fr/Files/m6/live/playlist.m3u8
@@ -314,19 +314,19 @@ https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/lequip
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gTxbf2C/rmcts.jpg",RMC TALK SPORT
 https://d21wdmv2hqydbt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n239v7ne7hack/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p0CLPqT/equidia.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0", referer="https://www.equidia.fr/",ÉQUIDIA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p0CLPqT/equidia.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" referer="https://www.equidia.fr/",ÉQUIDIA
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/extr/py/equidi.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p0CLPqT/equidia.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0", referer="https://www.equidia.fr/",ÉQUIDIA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p0CLPqT/equidia.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" referer="https://www.equidia.fr/",ÉQUIDIA
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-live.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p0CLPqT/equidia.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)", referer="https://www.equidia.fr/",ÉQUIDIA RACING GALOP
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p0CLPqT/equidia.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)" referer="https://www.equidia.fr/",ÉQUIDIA RACING GALOP
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racinggalop.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p0CLPqT/equidia.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)", referer="https://www.equidia.fr/",ÉQUIDIA RACING MAG
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p0CLPqT/equidia.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)" referer="https://www.equidia.fr/",ÉQUIDIA RACING MAG
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racingmag.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p0CLPqT/equidia.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)", referer="https://www.equidia.fr/",ÉQUIDIA RACING TROT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p0CLPqT/equidia.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)" referer="https://www.equidia.fr/",ÉQUIDIA RACING TROT
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racingtrot.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p0CLPqT/equidia.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)", referer="https://www.equidia.fr/",ÉQUIDIA RACING 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p0CLPqT/equidia.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)" referer="https://www.equidia.fr/",ÉQUIDIA RACING 1
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racing1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p0CLPqT/equidia.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)", referer="https://www.equidia.fr/",ÉQUIDIA RÉGION 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p0CLPqT/equidia.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)" referer="https://www.equidia.fr/",ÉQUIDIA RÉGION 1
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/region01.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Xt5YPJY/jdgolf.png",JOURNAL DU GOLF
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/jdg-tv/jdg-tv.m3u8
@@ -436,7 +436,7 @@ https://d1rmn2456fdhrx.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da
 https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xJyNqdg/dieutv.png",DIEU TV
 https://cdn.katapy.io/cache/stream/katapytv/dieu/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KhXn6GB/evevangile.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0", referer="https://evangile.tv/",EV TV ÉVANGILE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KhXn6GB/evevangile.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" referer="https://evangile.tv/",EV TV ÉVANGILE
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/extr/py/evtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0FM2MbV/emci.png",EMCI TV
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/dmdirect/emcieu.m3u8
@@ -2040,13 +2040,13 @@ http://hbbtv.ert.gr/stream.php/v/vid_kidstv-hbbtv_mpeg.2ts
 https://ertflix.akamaized.net/ertlive/rik/default/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"", referer="https://www.rtp.pt/play/direto/rtpinternacional" group-title="13. |PT|🇵🇹 PORTUGAL",RTP I
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)" referer="https://www.rtp.pt/play/direto/rtpinternacional" group-title="13. |PT|🇵🇹 PORTUGAL",RTP I
 https://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3YZFCjp/rtp1.jpg" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)", referer="https://www.rtp.pt/play/direto/rtp1",RTP 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YZFCjp/rtp1.jpg" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)" referer="https://www.rtp.pt/play/direto/rtp1",RTP 1
 https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tbFT1V2/rtp2.jpg" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)", referer="https://www.rtp.pt/play/direto/rtp2",RTP 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tbFT1V2/rtp2.jpg" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)" referer="https://www.rtp.pt/play/direto/rtp2",RTP 2
 https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HnqCkQj/rtp3.jpg" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)", referer="https://www.rtp.pt/play/direto/rtp3",RTP 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HnqCkQj/rtp3.jpg" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)" referer="https://www.rtp.pt/play/direto/rtp3",RTP 3
 https://streaming-live.rtp.pt/liverepeater/rtpnHD.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",EURONEWS PT
 https://euronews-euronews-portugues-1-us.plex.wurl.tv/playlist.m3u8
@@ -2074,13 +2074,13 @@ https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/ch
 https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vvRXDTV/tviafrica.jpg",TVI AFRICA
 https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BsdgH54/rtpafr.webp" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)", referer="https://www.rtp.pt/play/rtpafrica",RTP AFRICA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BsdgH54/rtpafr.webp" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)" referer="https://www.rtp.pt/play/rtpafrica",RTP AFRICA
 https://streaming-live.rtp.pt/liverepeater/rtpafrica.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9GMzcw7/rtpaco.jpg" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)", referer="https://www.rtp.pt/play/direto/rtpacores",RTP ACORES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9GMzcw7/rtpaco.jpg" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)" referer="https://www.rtp.pt/play/direto/rtpacores",RTP ACORES
 https://streaming-live.rtp.pt/liverepeater/rtpacores.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bvwwcB9/rtpmad.jpg" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)", referer="https://www.rtp.pt/play/direto/rtpmadeira",RTP MADEIRA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bvwwcB9/rtpmad.jpg" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)" referer="https://www.rtp.pt/play/direto/rtpmadeira",RTP MADEIRA
 https://streaming-live.rtp.pt/liverepeater/rtpmadeira.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vZ9S4rV/rtpmem.jpg" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)", referer="https://www.rtp.pt/play/direto/rtpmemoria",RTP MEMORIA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vZ9S4rV/rtpmem.jpg" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)" referer="https://www.rtp.pt/play/direto/rtpmemoria",RTP MEMORIA
 https://streaming-live.rtp.pt/liverepeater/rtpmem.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zZwMM3d/arparl.png",AR PARLAMENTO
 https://playout175.livextend.cloud/livenlin4/_definst_/2liveartvpub2/playlist.m3u8
@@ -4396,5 +4396,5 @@ http://
 http://
 #EXTINF:-1,[⚽🏅🏆] *Empty* 'New' Service ❶❷❸ ➊➋➌
 http://
-#EXTINF:-1,TEST 011
+#EXTINF:-1,TEST 013
 https://
