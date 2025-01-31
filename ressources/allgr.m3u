@@ -10,7 +10,7 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZBqk6mK/lemedia.jpg" group-title="1. |FR|🇫🇷 INFORMATION",LE MÉDIA TV
 https://raw.githubusercontent.com/BG47510/tube/refs/heads/main/lemedia.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png" group-title="1. |FR|🇫🇷 INFORMATION",EURONEWS FR
-https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8
+https://jmp2.uk/sam-FR2600004SS.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/drk4BWw/tv5inf.png" group-title="1. |FR|🇫🇷 INFORMATION",TV5MONDE INFO
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hKP8X8B/f24.png" group-title="1. |FR|🇫🇷 INFORMATION",FRANCE 24 FR
@@ -798,12 +798,12 @@ https://tv-trthaber.medya.trt.com.tr/master.m3u8
 https://szctvdvr.blutv.com/blutv_szctv_dvr/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wdwm0fn/haberturk.png" group-title="5. |TR|🇹🇷 HABER",HABER TÜRK
 https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4Mhmggc/tele1.png" group-title="5. |TR|🇹🇷 HABER",TELE 1
-https://tele1-live.ercdn.net/tele1/tele1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png" group-title="5. |TR|🇹🇷 HABER",HABER GLOBAL
-https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BtYMK4q/halk21a.png" group-title="5. |TR|🇹🇷 HABER",HALK TV
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png" group-title="5. |TR|🇹🇷 HABER",HABER GLOBAL
+https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4Mhmggc/tele1.png" group-title="5. |TR|🇹🇷 HABER",TELE 1
+https://tele1-live.ercdn.net/tele1/tele1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png" group-title="5. |TR|🇹🇷 HABER",TV 100
 https://tv100-live.daioncdn.net/tv100/tv100.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jZShqBM/Krt24v2.png" group-title="5. |TR|🇹🇷 HABER",KRT
@@ -2059,7 +2059,7 @@ https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HnqCkQj/rtp3.jpg" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)" referer="https://www.rtp.pt/play/direto/rtp3" group-title="13. |PT|🇵🇹 PORTUGAL",RTP 3
 https://streaming-live.rtp.pt/liverepeater/rtpnHD.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png" group-title="13. |PT|🇵🇹 PORTUGAL",EURONEWS PT
-https://euronews-euronews-portugues-1-us.plex.wurl.tv/playlist.m3u8
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619e6614c9d9650007a2b171livestitch/master.m3u8?deviceDNT=%7BTARGETOPT%7D&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png" group-title="13. |PT|🇵🇹 PORTUGAL",CNN PORTUGAL
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1QHfvZJ/sicnoc.png" group-title="13. |PT|🇵🇹 PORTUGAL",SIC NOTÍCIAS
@@ -2125,7 +2125,7 @@ https://7c8b7dbf12d64234a983336fdddb88c2.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png" group-title="13. |PT|🇵🇹 PORTUGAL",EURONEWS PT (backup)
 https://0ff3c09c7580460e8e018cdcaacbadee.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pt_EuroNewsLive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png" group-title="13. |PT|🇵🇹 PORTUGAL",EURONEWS PT (backup)
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619e6614c9d9650007a2b171livestitch/master.m3u8?deviceDNT=%7BTARGETOPT%7D&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung
+https://7c8b7dbf12d64234a983336fdddb88c2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-pt_EuroNewsLive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png" group-title="13. |PT|🇵🇹 PORTUGAL",CNN PORTUGAL (backup)
 https://sktv-forwarders.7m.pl/get.php?x=CNN_Portugal&m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1QHfvZJ/sicnoc.png" group-title="13. |PT|🇵🇹 PORTUGAL",SIC NOTÍCIAS (backup)
@@ -2201,19 +2201,19 @@ https://ztnr.rtve.es/ztnr/5466990.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hYTkm8L/A3es.png" group-title="14. |ES|🇪🇸 ESPAÑA",ANTENNA 3
 http://nodep002.service.openstream.es/SVoriginOperatorEdge3/smil:7_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hYTkm8L/A3es.png" group-title="14. |ES|🇪🇸 ESPAÑA",ANTENNA 3
-https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:7_HD.smil/index.m3u8
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:7_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hRs6WrH/C4es.png" group-title="14. |ES|🇪🇸 ESPAÑA",CUATRO
 http://nodep002.service.openstream.es/SVoriginOperatorEdge3/smil:9_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hRs6WrH/C4es.png" group-title="14. |ES|🇪🇸 ESPAÑA",CUATRO
-https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/index.m3u8
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:9_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7gMg1nb/t5es.png" group-title="14. |ES|🇪🇸 ESPAÑA",TELECINCO
 http://nodep002.service.openstream.es/SVoriginOperatorEdge3/smil:8_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7gMg1nb/t5es.png" group-title="14. |ES|🇪🇸 ESPAÑA",TELECINCO
-https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:8_HD.smil/index.m3u8
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:8_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6JF4BK4/l6es.png" group-title="14. |ES|🇪🇸 ESPAÑA",LA SEXTA
 http://nodep002.service.openstream.es/SVoriginOperatorEdge3/smil:11_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6JF4BK4/l6es.png" group-title="14. |ES|🇪🇸 ESPAÑA",LA SEXTA
-https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:11_HD.smil/index.m3u8
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:11_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hYTkm8L/A3es.png" group-title="14. |ES|🇪🇸 ESPAÑA",ANTENNA 3
 https://tvnoov.com/fadoo/antena3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hRs6WrH/C4es.png" group-title="14. |ES|🇪🇸 ESPAÑA",CUATRO
@@ -2239,7 +2239,7 @@ https://ztnr.rtve.es/ztnr/5562351.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SRbKtLk/rtve.png" group-title="14. |ES|🇪🇸 ESPAÑA",RTVE
 https://rtvelivestream.akamaized.net/hls/nxrtgolumi/mastdp/stream1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png" group-title="14. |ES|🇪🇸 ESPAÑA",EURONEWS ES
-https://euronews-euronews-spanish-2-us.plex.wurl.tv/playlist.m3u8
+https://jmp2.uk/sam-ES260000968.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png" group-title="14. |ES|🇪🇸 ESPAÑA",EURONEWS ES
 https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cQwqfFC/ees.jpg" group-title="14. |ES|🇪🇸 ESPAÑA",EL PAIS
@@ -2254,10 +2254,14 @@ https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3
 https://congresodirecto.akamaized.net/hls/live/2038274/canal1/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TthjhJ6/solmusica.png" group-title="14. |ES|🇪🇸 ESPAÑA",SOL MÙSICA
 https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GsLm5g5/trece.png" group-title="14. |ES|🇪🇸 ESPAÑA",TRECE INT
+https://5940924978228.streamlock.net/8009/ngrp:8009_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GsLm5g5/trece.png" group-title="14. |ES|🇪🇸 ESPAÑA",TRECE
 https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/021/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GsLm5g5/trece.png" group-title="14. |ES|🇪🇸 ESPAÑA",TRECE INT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GsLm5g5/trece.png" group-title="14. |ES|🇪🇸 ESPAÑA",TRECE
 https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GsLm5g5/trece.png" group-title="14. |ES|🇪🇸 ESPAÑA",TRECE
+https://live-edge-ff-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bKLFcnD/a3cine.png" group-title="14. |ES|🇪🇸 ESPAÑA",ATRES SERIES
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:10_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bKLFcnD/a3cine.png" group-title="14. |ES|🇪🇸 ESPAÑA",ATRES SERIES
@@ -2354,8 +2358,6 @@ https://limited35.todostreaming.es/live/mitjans-livestream.m3u8
 https://consultant1267.cloudhostservers.com:3150/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/crzKf1n/tenerife4.jpg" group-title="14. |ES|🇪🇸 ESPAÑA",TENERIFE 4
 https://videoserver.tmcreativos.com:19360/ccxwhsfcnq/ccxwhsfcnq.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zxnPhtW/melilla.png" group-title="14. |ES|🇪🇸 ESPAÑA",COPE MELILLA
-https://5940924978228.streamlock.net/8009/ngrp:8009_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zxnPhtW/melilla.png" group-title="14. |ES|🇪🇸 ESPAÑA",MELILLA TV
 https://tvmelilla-hls-rm-lw.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HKFVwnt/ceum.jpg" group-title="14. |ES|🇪🇸 ESPAÑA",CEUTA RTV
@@ -2691,9 +2693,7 @@ https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/53
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j68q1Bp/i24.png" group-title="16. |IL|🇮🇱 ISRAEL ישראל",i24 NEWS AR
 https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/5377161796001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MG43H4H/hala.png" group-title="16. |IL|🇮🇱 ISRAEL ישראל",PANET 30 HALA هلا
-https://live1.panet.co.il/edge_abr/halaTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MG43H4H/hala.png" group-title="16. |IL|🇮🇱 ISRAEL ישראל",PANET 30 HALA هلا
-https://gstream4.panet.co.il/edge/halaTV/playlist.m3u8
+https://stream.panet.com/edge/halaTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fqTYrGY/33.png" group-title="16. |IL|🇮🇱 ISRAEL ישראל",KAN 33 MAKAN مكان
 https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PYtP8fm/arutz9ru.png" group-title="16. |IL|🇮🇱 ISRAEL ישראל",ISRAEL 9TV канал
@@ -3450,6 +3450,8 @@ https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/in
 https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/98TBSSm/mbcfmtv.png" group-title="20. |AR|🇸🇦 THEMATICS-2 عربي",MBC FM LIVE TV
 https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Hy2GLK8/mbcloud.png" group-title="20. |AR|🇸🇦 THEMATICS-2 عربي",MBC LOUD FM TV
+https://d2lfa0y84k5bwn.cloudfront.net/out/v1/86dd4506a70c4d7fb35e2ab50296d9a3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7W5nWYV/rotanacinema.png" group-title="20. |AR|🇸🇦 THEMATICS-2 عربي",ROTANA CINEMA KSA
 https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5sJ9vSJ/rotanakhalijia.png" group-title="20. |AR|🇸🇦 THEMATICS-2 عربي",ROTANA KHALIJA
@@ -3611,7 +3613,7 @@ https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mSWw8uW.png" group-title="21. |IT|🇮🇹 ITALIA - LOCALE",AZZURRA TV
 https://59d7d6f47d7fc.streamlock.net/azzurratv/azzurratv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png" group-title="21. |IT|🇮🇹 ITALIA - LOCALE",EURONEWS IT
-https://rakuten-euronews-3-it.samsung.wurl.tv/manifest/playlist.m3u8
+https://jmp2.uk/sam-IT2600009QD.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h8h2d5Q/tag24.png" group-title="22. |DE|🇩🇪 DEUTSCHLAND - LOKALE",TAGESSCHAU 24
@@ -3643,7 +3645,7 @@ https://mcdn.wdr.de/wdr/wdrfs/de/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BPpZPBn/arte.png" group-title="22. |DE|🇩🇪 DEUTSCHLAND - LOKALE",ARTE DE
 https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png" group-title="22. |DE|🇩🇪 DEUTSCHLAND - LOKALE",EURONEWS DE
-https://rakuten-euronews-5-de.samsung.wurl.tv/manifest/playlist.m3u8
+https://jmp2.uk/sam-DE2600003TR.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D7w9h7Q/rt.png" group-title="22. |DE|🇩🇪 DEUTSCHLAND - LOKALE",RT DEUTSCH [censure-blocked]
 https://rt-ger.rttv.com/live/rtdeutsch/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D7w9h7Q/rt.png" group-title="22. |DE|🇩🇪 DEUTSCHLAND - LOKALE",RT DEUTSCH [censure-blocked]
@@ -4221,7 +4223,7 @@ https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R4xVMYc/enews.png" group-title="26. |EN-UK-US|🇬🇧🇺🇸 WORLDWIDE-INTL ℹ️🌐",EURONEWS EN
 https://euronews-euronews-world-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R4xVMYc/enews.png" group-title="26. |EN-UK-US|🇬🇧🇺🇸 WORLDWIDE-INTL ℹ️🌐",EURONEWS EN
-https://rakuten-euronews-9-gb.lg.wurl.tv/playlist.m3u8
+https://jmp2.uk/sam-GB2600019ON.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XSYtYHZ/africanews.png" group-title="26. |EN-UK-US|🇬🇧🇺🇸 WORLDWIDE-INTL ℹ️🌐",AFRICANEWS EN
 https://rakuten-africanews-1-ie.samsung.wurl.tv/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XSYtYHZ/africanews.png" group-title="26. |EN-UK-US|🇬🇧🇺🇸 WORLDWIDE-INTL ℹ️🌐",AFRICANEWS EN
