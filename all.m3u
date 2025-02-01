@@ -3668,24 +3668,6 @@ http://blank
 https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VprDD5J/rtllux.png",RTL LUX 2
 https://stream.rtl.lu/data/live/tele/channel2/playlist.m3u8
-#EXTINF:-1 group-title="23. |EU|🇪🇺 EUROPEAN COCKTAILTOUR🍸",--- |HR:🇭🇷 CROATIA| ---
-http://blank
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zNxvwRc/rtlhr.png",RTL HR
-https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nnkDGpc/hrthr.png",HRT 1
-https://webtvstream.bhtelecom.ba/hrt1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nnkDGpc/hrthr.png",HRT 2
-https://webtvstream.bhtelecom.ba/hrt2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nnkDGpc/hrthr.png",HRT 3
-https://webtvstream.bhtelecom.ba/hrt3.m3u8
-#EXTINF:-1 group-title="23. |EU|🇪🇺 EUROPEAN COCKTAILTOUR🍸",--- |RS:🇷🇸 SERBIA| ---
-http://blank
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xHMT7Jz/rtsrs.png",RTS 1
-https://webtvstream.bhtelecom.ba/rts1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xHMT7Jz/rtsrs.png",RTS 2
-https://webtvstream.bhtelecom.ba/rts2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZJB71LL/pinktvrs.png",PINK
-https://live.rednet.rs/providus/pink1.m3u8
 #EXTINF:-1 group-title="23. |EU|🇪🇺 EUROPEAN COCKTAILTOUR🍸",--- |PL:🇵🇱 POLONIA| ---
 http://blank
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yhjqqNQ/tvppol.png",TVP POLONIA
@@ -3718,7 +3700,71 @@ https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5c
 https://v.trm.md/static/streaming-playlists/hls/937e4e0e-7174-4fb2-a299-480e68b49ecb/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png" group-title="24. |GE-AM-AZ|🇬🇪🇦🇲🇦🇿 CAUCASIAN",GPB 1TV პირველი არხი
+#EXTINF:-1 group-title="24. |RS-HR-BA|🇷🇸🇭🇷🇧🇦 BALKANIC",--- |HR:🇭🇷 CROATIA| ---
+http://blank
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nnkDGpc/hrthr.png",HRT 1
+https://webtvstream.bhtelecom.ba/hrt1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nnkDGpc/hrthr.png",HRT 2
+https://webtvstream.bhtelecom.ba/hrt2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nnkDGpc/hrthr.png",HRT 3
+https://webtvstream.bhtelecom.ba/hrt3.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zNxvwRc/rtlhr.png",RTL HR
+https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NgPZkKhJ/cmctv.png",CMC TV
+https://stream.cmctv.hr:49998/cmc/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nM7rVmT4/jadran.png",TV JADRAN
+https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pBZ486WC/n1bal.png",N1 HRV
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0&m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pBZ486WC/n1bal.png",N1 HRV
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pBZ486WC/n1bal.png",N1 HRV
+https://n1-bg-ku-h3-2.umn.cdn.united.cloud/stream?i=aRzPw9q4KOPF3ThIvzGpkw&a=FawmVICC5jAMy4yIZjCx1bXic34dmWE5LAemcTBv8qK8i-LFIKA_aMY0Gohd70oLuekRDzLr_mEE4GR6EGCrpceW-TM6WCZZdBRvsbeSHy2z0vhWTDUxNsJ3Dck7yMSsdunsu-FH90XHNEhFWTaUelFggiS8shWwkNaI1jx9ASgoKFN5sbNPqWAsrRggqFUV6_GF4pnXHSKq1VeiqEcpiWC-q8u6KimXqpJmCyAmqcpJEnxYHmGpSr25C1Qot-x4&sp=n1info&u=n1info&session=e9b84f0e-2361-6872-e9ef-f2936943ee74&player=m3u8
+#EXTINF:-1 group-title="23. |EU|🇪🇺 EUROPEAN COCKTAILTOUR🍸",--- |BA:🇧🇦 BOSNIA| ---
+http://blank
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HLzRKs7k/bhrt.png",BH RT
+https://webtvstream.bhtelecom.ba/hls13/bhrtportal.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YFPPw1Wf/tvmba.png",TELEVIZIJA M
+https://live.tv-m.net/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4nyQwgwX/Aljbalk.png",AL JAZEERA BALKANS
+https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pBZ486WC/n1bal.png",N1 BOS
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1bos&u=n1info&p=n1Sh4redSecre7iNf0&m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pBZ486WC/n1bal.png",N1 BOS
+https://best-str.umn.cdn.united.cloud/stream?type=m3u8&i=Vn9q8W7mVOG4y6Ui1eK2vA&a=Th9Xz0Yo--RdSNrDXdye641ofxX9aEbKFid5d23nXpC5_LHUWgxQ1Twupxc5uAtyeMMOyLS6L2dqTbdYBmEj-w3Ja_97A3Xr-xVR4Iv74nSxGwoBbRiA2BEyNjqLMHc9V6mKs_iBq6mkAjHWJiMX-EpB7bAvOfAnq4JOxUMcab_w70X6pFrcNpB8kLqmqQmT&sp=n1info&u=n1info
+#EXTINF:-1 group-title="24. |RS-HR-BA|🇷🇸🇭🇷🇧🇦 BALKANIC",--- |RS:🇷🇸 SERBIA| ---
+http://blank
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xHMT7Jz/rtsrs.png",RTS 1
+https://webtvstream.bhtelecom.ba/rts1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xHMT7Jz/rtsrs.png",RTS 2
+https://webtvstream.bhtelecom.ba/rts2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xHMT7Jz/rtsrs.png",RTS SVET
+https://webtvstream.bhtelecom.ba/rts_svet.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZJB71LL/pinktvrs.png",PINK
+https://edge8.pink.rs/pinktv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TBZ2pnKW/bntv.png",BN TV
+https://rtvbn.tv:8080/live/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wvttv9WX/Tvas.png",TV AS
+https://srv1.adriatelekom.com/TVAS/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0y3F6QYq/Piknl.png",PI KANAL
+https://stream.pikanal.rs/pikanal/pgm.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pBZ486WC/n1bal.png",N1 SRB
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1srp&u=n1info&p=n1Sh4redSecre7iNf0&m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pBZ486WC/n1bal.png",N1 SRB
+https://n1-bg-ku-h3-2.umn.cdn.united.cloud/stream?m3u8&i=etf3tIZHnpxKX8txfJ25dw&a=JV6SCov1DaCoD4aUxQd25sD-hRlaUQyDY5g1YNV0qv713IrhtUZWpYWuIslxvaiib-HbxdeA1VjxfNt6sgb0Nw8uhpimKyEJdQEKj8uMuYjkfCa8XXIr5RR1iGYI24NjAYF9Tx2H1FIj8V-4UpJDFPJP3VAOTSGASesDue54PyrPwXJEY6bNRnOdH9D1mLkFa9hvKUt9KEXXPoY0SAGSGYnGGn5Yu9HVbCjbmhEjcavBcHKuLtPmLBy7owX4PtQm&sp=n1info&u=n1info&session=0f91bbb0-4462-06f1-b06d-55694accd408&player=m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",EURONEWS SRB
+https://d1ei8ofhgfmkac.cloudfront.net/app-19518-1306/ngrp:QoZfNjsg_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F4FwJnNY/moba.png",MOBA
+https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gMLsMZ9P/popstar.png",POP STAR
+https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kVXqj9fQ/Jeka.png",JEKA
+https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/W4zhWby6/Zztv.png",ZZ TV
+https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png" group-title="25. |GE-AM-AZ|🇬🇪🇦🇲🇦🇿 CAUCASIAN",GPB 1TV პირველი არხი
 https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png",GPB 2TV
 https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
@@ -3780,7 +3826,7 @@ http://stream.tvcdn.net/azerbaycan/tmb-azerbaycan.m3u8
 https://hw2.jemtv.com/app/xazar/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tMV7LBL/irib1.png" group-title="25. |IR|🇮🇷 IRAN",IRIB 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tMV7LBL/irib1.png" group-title="26. |IR|🇮🇷 IRAN",IRIB 1
 https://s1.ettehadlive.com/live/39/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6ndKkPM/irib2.png",IRIB 2
 https://s1.ettehadlive.com/live/40/chunklist.m3u8
@@ -4008,7 +4054,7 @@ https://familyhls.persiana.live/hls/stream.m3u8
 https://scihls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tqkV2sn/irflag.png",PERSIANA JUNIOR
 https://junhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="25. |IR|🇮🇷 IRAN",--- |⬇DOWN-OFF/TOKENED⬇| ---
+#EXTINF:-1 group-title="26. |IR|🇮🇷 IRAN",--- |⬇DOWN-OFF/TOKENED⬇| ---
 http://blank
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tMV7LBL/irib1.png",IRIB 1
 https://lb-cdn.sepehrtv.ir/securelive3/tv1hd/tv1hd.m3u8
@@ -4054,7 +4100,7 @@ https://live.aionet.ir/hls/aiosport/aiosport.m3u8
 https://live.aionet.ir/hls/aiosport2/aiosport2.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png" group-title="26. |EN-UK-US|🇬🇧🇺🇸 WORLDWIDE-INTL ℹ️🌐",CNN INT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png" group-title="27. |EN-UK-US|🇬🇧🇺🇸 WORLDWIDE-INTL ℹ️🌐",CNN INT
 https://d3696l48vwq25d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0g2918mubifjw/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png",CNN INT
 https://d1yx2biofua75q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-agcuky3hp0j0j/index.m3u8
@@ -4394,9 +4440,9 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-fox-newsnow-samsung/playlist
 https://fox-foxnewsnow-samsungus-tsv2-hm6vl.amagi.tv/playlist/samsungus-fox-newsnow-samsung/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mywSdSQ/att.png" group-title="27. |📡|👨‍💻👉GITHUB.COM/IPSTREET312",|ℹ️|MORE-INFO➡️: ☛RECEPTIONIPTV.BLOGSPOT.COM
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mywSdSQ/att.png" group-title="28. |📡|👨‍💻👉GITHUB.COM/IPSTREET312",|ℹ️|MORE-INFO➡️: ☛RECEPTIONIPTV.BLOGSPOT.COM
 https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/blogv.ts
-#EXTINF:-1 group-title="27. |📡|👨‍💻👉GITHUB.COM/IPSTREET312",--- |🎁⭐ ⬇↓ DELUXE PACKAGE👍 ↓⬇🤩❤️| --- 🎵💯
+#EXTINF:-1 group-title="28. |📡|👨‍💻👉GITHUB.COM/IPSTREET312",--- |🎁⭐ ⬇↓ DELUXE PACKAGE👍 ↓⬇🤩❤️| --- 🎵💯
 http://
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6t2ztJT/dlxmsc.png",DELUXE MUSIC English
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
