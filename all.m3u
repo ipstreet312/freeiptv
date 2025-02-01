@@ -3700,7 +3700,7 @@ https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5c
 https://v.trm.md/static/streaming-playlists/hls/937e4e0e-7174-4fb2-a299-480e68b49ecb/master.m3u8
 
 
-#EXTINF:-1 group-title="24. |RS-HR-BA|🇷🇸🇭🇷🇧🇦 BALKANIC",--- |HR:🇭🇷 CROATIA| ---
+#EXTINF:-1 group-title="24. |HR-BA-RS|🇭🇷🇧🇦🇷🇸 BALKANIC",--- |HR:🇭🇷 CROATIA| ---
 http://blank
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nnkDGpc/hrthr.png",HRT 1
 https://webtvstream.bhtelecom.ba/hrt1.m3u8
@@ -3715,12 +3715,8 @@ https://stream.cmctv.hr:49998/cmc/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nM7rVmT4/jadran.png",TV JADRAN
 https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pBZ486WC/n1bal.png",N1 HRV
-https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0&m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pBZ486WC/n1bal.png",N1 HRV
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pBZ486WC/n1bal.png",N1 HRV
-https://n1-bg-ku-h3-2.umn.cdn.united.cloud/stream?i=aRzPw9q4KOPF3ThIvzGpkw&a=FawmVICC5jAMy4yIZjCx1bXic34dmWE5LAemcTBv8qK8i-LFIKA_aMY0Gohd70oLuekRDzLr_mEE4GR6EGCrpceW-TM6WCZZdBRvsbeSHy2z0vhWTDUxNsJ3Dck7yMSsdunsu-FH90XHNEhFWTaUelFggiS8shWwkNaI1jx9ASgoKFN5sbNPqWAsrRggqFUV6_GF4pnXHSKq1VeiqEcpiWC-q8u6KimXqpJmCyAmqcpJEnxYHmGpSr25C1Qot-x4&sp=n1info&u=n1info&session=e9b84f0e-2361-6872-e9ef-f2936943ee74&player=m3u8
-#EXTINF:-1 group-title="24. |RS-HR-BA|🇷🇸🇭🇷🇧🇦 BALKANIC",--- |BA:🇧🇦 BOSNIA| ---
+#EXTINF:-1 group-title="24. |HR-BA-RS|🇭🇷🇧🇦🇷🇸 BALKANIC",--- |BA:🇧🇦 BOSNIA| ---
 http://blank
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HLzRKs7k/bhrt.png",BH RT
 https://webtvstream.bhtelecom.ba/hls13/bhrtportal.m3u8
@@ -3729,10 +3725,8 @@ https://live.tv-m.net/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4nyQwgwX/Aljbalk.png",AL JAZEERA BALKANS
 https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pBZ486WC/n1bal.png",N1 BOS
-https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1bos&u=n1info&p=n1Sh4redSecre7iNf0&m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pBZ486WC/n1bal.png",N1 BOS
-https://best-str.umn.cdn.united.cloud/stream?type=m3u8&i=Vn9q8W7mVOG4y6Ui1eK2vA&a=Th9Xz0Yo--RdSNrDXdye641ofxX9aEbKFid5d23nXpC5_LHUWgxQ1Twupxc5uAtyeMMOyLS6L2dqTbdYBmEj-w3Ja_97A3Xr-xVR4Iv74nSxGwoBbRiA2BEyNjqLMHc9V6mKs_iBq6mkAjHWJiMX-EpB7bAvOfAnq4JOxUMcab_w70X6pFrcNpB8kLqmqQmT&sp=n1info&u=n1info
-#EXTINF:-1 group-title="24. |RS-HR-BA|🇷🇸🇭🇷🇧🇦 BALKANIC",--- |RS:🇷🇸 SERBIA| ---
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1bos&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8
+#EXTINF:-1 group-title="24. |HR-BA-RS|🇭🇷🇧🇦🇷🇸 BALKANIC",--- |RS:🇷🇸 SERBIA| ---
 http://blank
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xHMT7Jz/rtsrs.png",RTS 1
 https://webtvstream.bhtelecom.ba/rts1.m3u8
@@ -3749,9 +3743,7 @@ https://srv1.adriatelekom.com/TVAS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0y3F6QYq/Piknl.png",PI KANAL
 https://stream.pikanal.rs/pikanal/pgm.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pBZ486WC/n1bal.png",N1 SRB
-https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1srp&u=n1info&p=n1Sh4redSecre7iNf0&m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pBZ486WC/n1bal.png",N1 SRB
-https://n1-bg-ku-h3-2.umn.cdn.united.cloud/stream?m3u8&i=etf3tIZHnpxKX8txfJ25dw&a=JV6SCov1DaCoD4aUxQd25sD-hRlaUQyDY5g1YNV0qv713IrhtUZWpYWuIslxvaiib-HbxdeA1VjxfNt6sgb0Nw8uhpimKyEJdQEKj8uMuYjkfCa8XXIr5RR1iGYI24NjAYF9Tx2H1FIj8V-4UpJDFPJP3VAOTSGASesDue54PyrPwXJEY6bNRnOdH9D1mLkFa9hvKUt9KEXXPoY0SAGSGYnGGn5Yu9HVbCjbmhEjcavBcHKuLtPmLBy7owX4PtQm&sp=n1info&u=n1info&session=0f91bbb0-4462-06f1-b06d-55694accd408&player=m3u8
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1srp&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",EURONEWS SRB
 https://d1ei8ofhgfmkac.cloudfront.net/app-19518-1306/ngrp:QoZfNjsg_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F4FwJnNY/moba.png",MOBA
