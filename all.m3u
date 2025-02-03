@@ -969,7 +969,7 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0tc3PYz/beyaz22b.png",BEYAZ TV
 https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f34805c397d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png",TRT 1 (backup)
-https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
+https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png",TRT 1 (backup)
 https://trt.daioncdn.net/trt-1/master.m3u8?app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png",TRT 1 (backup)
@@ -1896,6 +1896,8 @@ https://ertflix.akamaized.net/ertlive/ertsports1/clrdef24724a/playlist.m3u8
 https://ertflix.akamaized.net/ertlive/ertsports2/clrdef24724b/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pPkt9Yg/ertsports3.png",ERT SPORTS 3
 https://ertflix.akamaized.net/ertlive/ertsports3/clrdef24724c/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KYrkMLk/ertsports4.png",ERT SPORTS 4
+https://ertflix.akamaized.net/ertlive/ertsports4/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zbvFC65/ertkids.jpg",ERT KIDS
 https://ertflix.akamaized.net/ertlive/kids/default/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zbvFC65/ertkids.jpg",ERT KIDS
@@ -2015,7 +2017,7 @@ http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L9fj1Hj/greece.png",HELLENIC TV
 https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L9fj1Hj/greece.png",GREEK TV LONDON
-https://vdo3.alphaserver.gr:3466/live/greektvlondonlive.m3u8
+https://vdo.streams.gr:3125/live/greektvlondonlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L9fj1Hj/greece.png",GRD CHANNEL
 https://live.cast-control.eu:443/organismos/organismos/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L9fj1Hj/greece.png",CRETA
@@ -2046,6 +2048,10 @@ https://ertflix.akamaized.net/ertlive/ertsports1/clrdef24724a/index.mpd
 http://hbbtvapp.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HYMZh7V/ertsports2.png",ERT SPORTS 2 (backup)
 http://hbbtvapp.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pPkt9Yg/ertsports3.png",ERT SPORTS 3 (backup)
+http://hbbtvapp.ert.gr/stream.php/v/vid_ertplay3_mpeg.2ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KYrkMLk/ertsports4.png",ERT SPORTS 4 (backup)
+http://hbbtv.ert.gr/stream.php/v/vid_ertplay4_mpeg.2ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c8NJjxh/ertmusic.jpg",ERT MUSIC (backup)
 http://hbbtv.ert.gr/stream.php/v/vid_ertplay5_mpeg.2ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zbvFC65/ertkids.jpg",ERT KIDS (backup)
@@ -3742,8 +3748,10 @@ https://webtvstream.bhtelecom.ba/rts1.m3u8
 https://webtvstream.bhtelecom.ba/rts2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xHMT7Jz/rtsrs.png",RTS SVET
 https://webtvstream.bhtelecom.ba/rts_svet.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZJB71LL/pinktvrs.png",PINK
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZJB71LL/pinktvrs.png",PINK TV
 https://edge8.pink.rs/pinktv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZJB71LL/pinktvrs.png",PINK RED
+https://edge8.pink.rs/redtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TBZ2pnKW/bntv.png",BN TV
 https://rtvbn.tv:8080/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wvttv9WX/Tvas.png",TV AS
@@ -4282,6 +4290,8 @@ https://euronews-live-eng-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b74
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca1da6c593a5d78f0e7edcelivestitch/master.m3u8?deviceDNT=%7BTARGETOPT%7D&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R4xVMYc/enews.png",EURONEWS EN
 https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R4xVMYc/enews.png",EURONEWS EN
+https://euronews-euronews-world-1-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R4xVMYc/enews.png",EURONEWS EN
 https://euronews-euronews-world-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R4xVMYc/enews.png",EURONEWS EN
