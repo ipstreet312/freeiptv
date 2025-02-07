@@ -826,7 +826,9 @@ https://bloomberght-live.daioncdn.net/bloomberght/bloomberght.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xS3zLQr/ekoturk.png",EKO TÜRK
 https://ekoturk.blutv.com/blutv_ekoturk2/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png",CNN TÜRK
-http://tgn.bozztv.com/dvrfl05/gin-cnnturk/index.m3u8
+https://yayin2.canlitv.fun/livetv/cnnturk.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png",CNN TÜRK
+http://yayin2.canlitv.fun/livetv/cnnturk.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9s9YKYT/gzt.png",GZT
 https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0MHPk8y/benguturk.png",BENGÜ TÜRK
@@ -899,6 +901,12 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/ntv
 https://flashtv.blutv.com/blutv_flashtv/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F5FcvbZ/flash4ok.png",FLASH HABER (backup)
 https://internettv.guventechnology.com:19360/flashhabertv/flashhabertv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ TV (backup)
+https://x.canlitvapp.com/sozcu/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ TV (backup)
+https://canlitvulusal.xyz/live/sozcutv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ TV (backup)
+https://trn03.tulix.tv/gt-sozcutv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ln92Dj2/Ekoltv.png",EKOL TV (backup)
 https://helga.iptv2022.com/sh/ekol_tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4Mhmggc/tele1.png",TELE 1 (backup)
@@ -1078,7 +1086,7 @@ https://beyaztv.blutv.com/blutv_beyaztv_live/live.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png" group-title="7. |TR|🇹🇷 BELGESEL & YAŞAM",TRT BELGESEL
-http://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+https://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TB5N8cN/trt2.png",TRT 2
 https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QQQR6VK/dmax.png",DMAX
@@ -1154,7 +1162,7 @@ https://trkvz-live.daioncdn.net/a2tv/a2tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1Z22dCY/teve2.png",TEVE 2 (backup)
 https://demiroren.daioncdn.net/teve2/teve2.m3u8?app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png",TRT BELGESEL (backup)
-https://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png",TRT BELGESEL (backup)
 https://d2xwn494f2lep.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-Belgesel/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png",TRT BELGESEL (backup)
@@ -1191,6 +1199,8 @@ https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 https://new.cache-stream.workers.dev/stream/UCCfTktnzWK__FUN4gj0zIpA/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Zxd0j45/cartoonnetwork.png",CARTOON NETWORK TR
 https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R2Zgy7F/minikago.png",MİNİKA GO
+http://tgn.bozztv.com/dvrfl05/gin-minikago/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L8ftBdN/minikacocuk.png",MİNİKA ÇOCUK
 https://ythls.armelin.one/channel/UCVbCXWXWd0WCNhdBnmP_TmA.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SwwjnF5/gstv.png",GALATASARAY TV
@@ -1856,9 +1866,11 @@ https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png",ZAGROS TV
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png",KURDMAX SHOW
-https://6476e46b58f91.streamlock.net/liveTrans/SHOW1/playlist.m3u8
+https://6476e46b58f91.streamlock.net/liveTrans/SHOW2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png",KURDMAX SORANÎ
 https://6476e46b58f91.streamlock.net/liveTrans/KurdmaxS0rani!/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png",KURDMAX MUSIC
+https://6476e46b58f91.streamlock.net/music/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png",RÛDAW TV
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png",KURD CHANNEL
@@ -3801,7 +3813,7 @@ https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5c
 https://v.trm.md/static/streaming-playlists/hls/937e4e0e-7174-4fb2-a299-480e68b49ecb/master.m3u8
 
 
-#EXTINF:-1 group-title="24. |HR-BA-RS|🇭🇷🇧🇦🇷🇸 BALKANIC",--- |HR:🇭🇷 CROATIA| ---
+#EXTINF:-1 group-title="24. |HR-BA-RS++|🇭🇷🇧🇦🇷🇸 BALKANIC",--- |HR:🇭🇷 CROATIA| ---
 http://blank
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nnkDGpc/hrthr.png",HRT 1
 https://webtvstream.bhtelecom.ba/hrt1.m3u8
@@ -3817,7 +3829,7 @@ https://stream.cmctv.hr:49998/cmc/live.m3u8
 https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pBZ486WC/n1bal.png",N1 HRV
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8
-#EXTINF:-1 group-title="24. |HR-BA-RS|🇭🇷🇧🇦🇷🇸 BALKANIC",--- |BA:🇧🇦 BOSNIA| ---
+#EXTINF:-1 group-title="24. |HR-BA-RS++|🇭🇷🇧🇦🇷🇸 BALKANIC",--- |BA:🇧🇦 BOSNIA| ---
 http://blank
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HLzRKs7k/bhrt.png",BH RT
 https://webtvstream.bhtelecom.ba/hls13/bhrtportal.m3u8
@@ -3827,7 +3839,7 @@ https://live.tv-m.net/hls/stream.m3u8
 https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pBZ486WC/n1bal.png",N1 BOS
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1bos&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8
-#EXTINF:-1 group-title="24. |HR-BA-RS|🇭🇷🇧🇦🇷🇸 BALKANIC",--- |RS:🇷🇸 SERBIA| ---
+#EXTINF:-1 group-title="24. |HR-BA-RS++|🇭🇷🇧🇦🇷🇸 BALKANIC",--- |RS:🇷🇸 SERBIA| ---
 http://blank
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xHMT7Jz/rtsrs.png",RTS 1
 https://webtvstream.bhtelecom.ba/rts1.m3u8
@@ -3857,6 +3869,22 @@ https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
 https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/W4zhWby6/Zztv.png",ZZ TV
 https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
+#EXTINF:-1 group-title="24. |HR-BA-RS++|🇭🇷🇧🇦🇷🇸 BALKANIC",--- |ME:🇲🇪 MONTENEGRO| ---
+http://blank
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5x1cbJqN/rtcg.png",TVCG 1
+http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5x1cbJqN/rtcg.png",TVCG 2
+http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5x1cbJqN/rtcg.png",TVCG 3
+https://parlament.rtcg.me:1936/pr/smil:parlament.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5x1cbJqN/rtcg.png",TVCG MNE
+http://cdn3.bcdn.rs:1935/cgsat/smil:cgsat.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5x1cbJqN/rtcg.png",TVCG MNE
+http://rtcg2.videostreaming.rs:1935/rtcg/rtcg.2.stream/playlist.m3u8
+#EXTINF:-1 group-title="24. |HR-BA-RS++|🇭🇷🇧🇦🇷🇸 BALKANIC",--- |AL:🇦🇱 ALBANIA| ---
+http://blank
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rf1Vmfs5/Nwsalb.png",NEWS 24 ALB
+https://tv.balkanweb.com/news24/livestream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png" group-title="25. |GE-AM-AZ|🇬🇪🇦🇲🇦🇿 CAUCASIAN",GPB 1TV პირველი არხი
