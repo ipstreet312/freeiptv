@@ -826,9 +826,7 @@ https://bloomberght-live.daioncdn.net/bloomberght/bloomberght.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xS3zLQr/ekoturk.png",EKO TÜRK
 https://ekoturk.blutv.com/blutv_ekoturk2/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png",CNN TÜRK
-https://yayin2.canlitv.fun/livetv/cnnturk.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png",CNN TÜRK
-http://yayin2.canlitv.fun/livetv/cnnturk.stream/playlist.m3u8
+http://tgn.bozztv.com/dvrfl05/gin-cnnturk/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9s9YKYT/gzt.png",GZT
 https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0MHPk8y/benguturk.png",BENGÜ TÜRK
@@ -886,7 +884,7 @@ https://tv.ensonhaber.com/tv100/tv100.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png",CNN TÜRK (backup)
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png",CNN TÜRK (backup)
-http://tgn.bozztv.com/dvrfl05/gin-cnnturk/index.m3u8
+https://yayin2.canlitv.fun/livetv/cnnturk.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXdf2YF/ulusal22.png",ULUSAL KANAL (backup)
 https://koprulu1.global.ssl.fastly.net/yt.m3u8/?id=Fr0Dku2UZmI.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png",NTV (backup)
