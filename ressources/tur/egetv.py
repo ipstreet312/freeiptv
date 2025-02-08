@@ -1,6 +1,6 @@
 import requests
 
-url = "https://cdnet.alwaysdata.net/egetvout.php?m3u8"
+url = "https://egetest"
 
 response = requests.get(url)
 
