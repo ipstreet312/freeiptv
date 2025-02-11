@@ -4637,3 +4637,19 @@ http://
 http://
 #EXTINF:-1,TEST 013
 https://
+#EXTINF:-1,GS MS
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
+#EXTINF:-1,GS CH
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b1828000_sltur.m3u8
+#EXTINF:-1,GS MS TP
+http://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
+#EXTINF:-1,GS CH TP
+http://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b1828000_sltur.m3u8
+#EXTINF:-1 user-agent="VLC/3.0.20 LibVLC/3.0.20",GS MS UA
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
+#EXTINF:-1 user-agent="VLC/3.0.20 LibVLC/3.0.20",GS CH UA
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b1828000_sltur.m3u8
+#EXTINF:-1 user-agent="VLC/3.0.20 LibVLC/3.0.20",GS MS TP UA
+http://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
+#EXTINF:-1 user-agent="VLC/3.0.20 LibVLC/3.0.20",GS CH TP UA
+http://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b1828000_sltur.m3u8
