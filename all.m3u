@@ -3863,12 +3863,10 @@ https://stream.rtl.lu/data/live/tele/channel2/playlist.m3u8
 http://blank
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6Rdh3h1Q/drtva.png",DR TVA
 https://drlivedrtvahls.akamaized.net/hls/live/2113613/drlivedrtva/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fYdx4Cb8/dr1.png",DR 1
-https://drlivedr1hls.akamaized.net/hls/live/2113625/drlivedr1/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XTF1hTp/dr2.png",DR 2
-https://drlivedr2hls.akamaized.net/hls/live/2113623/drlivedr2/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WNRndm7v/drramajang.png",DR RAMAJANG
-https://drlivedrrhls.akamaized.net/hls/live/2113621/drlivedrr/master.m3u8
+#EXTINF:-1 group-title="23. |EU|🇪🇺 EUROPEAN COCKTAILTOUR🍸",--- |FI:🇫🇮 FINLAND| ---
+http://blank
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r29pMj4B/Ylew.png",YLE TV WORLD
+https://yletvworld.akamaized.net/hls/live/622540/yletv1w/index.m3u8
 #EXTINF:-1 group-title="23. |EU|🇪🇺 EUROPEAN COCKTAILTOUR🍸",--- |PL:🇵🇱 POLONIA| ---
 http://blank
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yhjqqNQ/tvppol.png",TVP POLONIA
