@@ -3095,6 +3095,8 @@ https://arrafidain.tvplayer.online/arrafidaintv/source/playlist.m3u8
 https://arrafidain.tvplayer.online/arrafidaintv/source2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zSv52T7/watanegypt.png",WATAN EGYPT
 https://n101.stream.tactivemedia.com/watantv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b5gcrBs4/Alshoob.jpg",AL SHOOB
+https://alshoobtv.rp.tactivemedia.com/alshoobtv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mFb5JL3/qaftv.png",QAF
 https://mn-nl.mncdn.com/qaf/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zGS6X8G/ssad.jpg",SSAD TV
@@ -3158,21 +3160,21 @@ https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MD9vwnv/dubairacing.png",DUBAI RACING 3
 https://dmithrvllta.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3h4XCtZ/kasqatar.png",KAS QATAR 1
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1bup/master.m3u8
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1mhu/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3h4XCtZ/kasqatar.png",KAS QATAR 2
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2hgof/master.m3u8
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2hef/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3h4XCtZ/kasqatar.png",KAS QATAR 3
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3pzrjl/master.m3u8
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3vak/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3h4XCtZ/kasqatar.png",KAS QATAR 4
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4xiuytgfficcn/master.m3u8
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4cn/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3h4XCtZ/kasqatar.png",KAS QATAR 5
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5xtyuwqa/master.m3u8
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5nnha/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3h4XCtZ/kasqatar.png",KAS QATAR 5
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5xtgb/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3h4XCtZ/kasqatar.png",KAS QATAR 5
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5xtwe/master.m3u8
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6buzat/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3h4XCtZ/kasqatar.png",KAS QATAR 6
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6xydam/master.m3u8
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6Shoof1/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WcQV072/saudi1sbc.png",SAUDI SBC CH
 https://sbc-prod-dub-ak.akamaized.net/out/v1/2eb1ad0f29984a339bc0fce4ce94dcbb/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qNXgWyZ/sauditv.jpg",SAUDIA TV CH 1
@@ -3273,6 +3275,22 @@ https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNh2.smil/playlist.m3u
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5xtgb/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3h4XCtZ/kasqatar.png",KAS QATAR 6
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6laq/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3h4XCtZ/kasqatar.png",KAS QATAR 1
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1bup/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3h4XCtZ/kasqatar.png",KAS QATAR 2
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2hgof/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3h4XCtZ/kasqatar.png",KAS QATAR 3
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3pzrjl/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3h4XCtZ/kasqatar.png",KAS QATAR 4
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4xiuytgfficcn/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3h4XCtZ/kasqatar.png",KAS QATAR 5
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5xtyuwqa/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3h4XCtZ/kasqatar.png",KAS QATAR 5
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5xtgb/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3h4XCtZ/kasqatar.png",KAS QATAR 5
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5xtwe/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3h4XCtZ/kasqatar.png",KAS QATAR 6
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6xydam/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jLYWYh7/Al-Jazeera.png" group-title="19. |AR|🇸🇦 THEMATICS-1 عربي",AL JAZEERA
