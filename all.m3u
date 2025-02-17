@@ -2111,6 +2111,8 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/s
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tviint.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gDFmb2z/vplustvi.png",TVI V+
 https://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hg8wkqj/tvific.jpg",TVI FICCAO
+https://video-auth1.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xYNTr2v/tvirea.jpg",TVI REALITY
 https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dJZR1gD/sicnov.png",SIC NOVELAS
@@ -2139,6 +2141,10 @@ https://streamer-a03.videos.sapo.pt/live/sobrenaturaltv/playlist.m3u8
 https://video-auth2.iol.pt/live_hd2/live_hd2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RpQj4Dd/fama.png",FAMA FM TV
 https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cX8tGgsv/Kuriakos.png",KURIAKOS TV
+https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KxXJddKf/Kuriakosmsc.png",KURIAKOS MUSIC
+https://w2.manasat.com/kmusic/smil:kmusic.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TcpshFx/kuricine.png",KURIAKOS CINE
 https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B2YCsC0/kurikids.png",KURIAKOS KIDS
@@ -3119,10 +3125,10 @@ https://roya.daioncdn.net/royatv/royatv.m3u8?app=8c1e143a-39cf-40b4-acb2-e78faa1
 https://roya-live.ercdn.net/roya/roya.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png",ROYA TV [geoblocked]
 https://weyyak-live.akamaized.net/weyyak_roya/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png",MTV LBN (backup)
-https://hms.pfs.gdn/stream/mtv.m3u8?token=kQxex9dNWXJttNoulmMDjA:Jk_XvSKK3621F4VfCtP78NBjvkdwRaz55LImPPKBrzlT_qIKtoisEaQR7h0uADQtC1JJEOVvg5Fmq52otOADUbAr3y3yBX9odpDUskInVJ4rZL_a1VPRg2RrZWMvyDb_mPNCn6If9MgQ2dcZXMHRxRfY7E2bozOmXGFp7KAzkU7cAeGqva6u0hNbnYsdFvdGuvM7cLLNI9P-MvFkjM1R-9NZ6ZGA7gaG_HmW-kf3Lz04E9Xj_q1EOMVuUzyPkw4m
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vJj1gdb/onetvlb.jpg",ONE TV LBN (backup)
-https://hms.pfs.gdn/stream/mtv.m3u8?token=Zttz760gCZIzsIs22z3IXA:tD-dqLBlL0TNAQWYJYvODboIJanwNSqCjiMkbHFgz5gAqqi7abBg8hM_koKmVi5OMdxnHiJGljKb6fr-yn0A3cObkuMvT0QqLph_BchQCFmMPVzm3qL4RviA_wozDQ_HS0Y6cBgLySZXu8bEQftT22iz8Y3SHc6zM0NwzW2DZJcf9bxxeWx_fMFv8seGg7Igi5VFQvQNTCGfShhfywQT8J1Df2p7Afr-tF_uKMpkEx0rlCvHQstc0myEsSQKqGO_
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png",MURR LEBANON (backup)
+https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vJj1gdb/onetvlb.jpg",ONE LEBANON (backup)
+https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" user-agent="Mozilla/5.0",MTV_LBN [offline]
 https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vJj1gdb/onetvlb.jpg" user-agent="Mozilla/5.0",ONE TV_LBN [offline]
