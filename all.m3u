@@ -2263,12 +2263,20 @@ https://joaquinito02.es/vavoo/2660027208.m3u8
 https://joaquinito02.es/vavoo/238901671.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hYTkm8L/A3es.png",ANTENA 3
 https://tvnoov.com/fadoo/antena3.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hYTkm8L/A3es.png",ANTENA 3
+https://gitlab.com/movrey/movrel/-/raw/main/antena3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hRs6WrH/C4es.png",CUATRO
 https://tvnoov.com/fadoo/cuatrohd.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hRs6WrH/C4es.png",CUATRO
+https://gitlab.com/movrey/movrel/-/raw/main/cuatro.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7gMg1nb/t5es.png",TELECINCO
 https://tvnoov.com/fadoo/telecincohd.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7gMg1nb/t5es.png",TELECINCO
+https://gitlab.com/movrey/movrel/-/raw/main/telecinco.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6JF4BK4/l6es.png",LA SEXTA
 https://tvnoov.com/fadoo/lasexta.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6JF4BK4/l6es.png",LA SEXTA
+https://gitlab.com/movrey/movrel/-/raw/main/sexta.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/99kVf9W/somoscine.png",TVE SOMOS CINE [geo-limited]
 https://ztnr.rtve.es/ztnr/5836726.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/99kVf9W/somoscine.png",TVE SOMOS CINE [geo-limited]
