@@ -813,14 +813,16 @@ https://tv-trthaber.medya.trt.com.tr/master.m3u8
 https://szctvdvr.blutv.com/blutv_szctv_dvr/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wdwm0fn/haberturk.png" group-title="5. |TR|🇹🇷 HABER",HABER TÜRK
 https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BtYMK4q/halk21a.png" group-title="5. |TR|🇹🇷 HABER",HALK TV
-https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+#EXTINF:-1 tvg-logo=" https://i.ibb.co/wrMn5rgQ/mktv.png" group-title="5. |TR|🇹🇷 HABER",MK TV
+https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png" group-title="5. |TR|🇹🇷 HABER",HABER GLOBAL
 https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4Mhmggc/tele1.png" group-title="5. |TR|🇹🇷 HABER",TELE 1
-https://tele1-live.ercdn.net/tele1/tele1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BtYMK4q/halk21a.png" group-title="5. |TR|🇹🇷 HABER",HALK TV
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png" group-title="5. |TR|🇹🇷 HABER",TV 100
 https://tv100-live.daioncdn.net/tv100/tv100.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4Mhmggc/tele1.png" group-title="5. |TR|🇹🇷 HABER",TELE 1
+https://tele1-live.ercdn.net/tele1/tele1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jZShqBM/Krt24v2.png" group-title="5. |TR|🇹🇷 HABER",KRT
 https://koprulu1.global.ssl.fastly.net/yt.m3u8/?id=Avu7O3hKslA.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ln92Dj2/Ekoltv.png" group-title="5. |TR|🇹🇷 HABER",EKOL TV
@@ -855,6 +857,8 @@ https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 http://akittv-live.ercdn.net/akittv/akittv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1X8nWHc/ahaber.png" group-title="5. |TR|🇹🇷 HABER",A HABER
 https://canlitvulusal.xyz/live/ahaber/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="5. |TR|🇹🇷 HABER",LİDER HABER TV
+http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b2b6Zn0/businesschtr.jpg" group-title="5. |TR|🇹🇷 HABER",BUSINESS CHANNEL TÜRK
 https://new.cache-stream.workers.dev/stream/UCLPc5pYOl2clEkCA82Sfb0Q/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KwXzY6B/apara.png" group-title="5. |TR|🇹🇷 HABER",A PARA
@@ -1625,8 +1629,6 @@ https://stream.castr.com/6606b96e9fa9fb790a255296/live_0303bec01eac11efa26bbdf96
 https://cdn-time35tv.yayin.com.tr/time35tv/time35tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="11. |TR|🇹🇷 YEREL - BÖLGESEL",İZMİR TÜRK TV
 http://stream.tvcdn.net/yerel/izmir-turk-tv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="11. |TR|🇹🇷 YEREL - BÖLGESEL",LİDER HABER TV
-http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="11. |TR|🇹🇷 YEREL - BÖLGESEL",KANAL 15 BURDUR
 https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="11. |TR|🇹🇷 YEREL - BÖLGESEL",KANAL 19 ÇORUM
@@ -1705,8 +1707,6 @@ https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/playlist.m3u8
 https://edge1.socialsmart.tv/manisaetv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="11. |TR|🇹🇷 YEREL - BÖLGESEL",MARMARİS TV
 https://cdn-marmariswebtv.yayin.com.tr/marmariswebtv/marmariswebtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="11. |TR|🇹🇷 YEREL - BÖLGESEL",MAVİ KARADENİZ TV
-https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="11. |TR|🇹🇷 YEREL - BÖLGESEL",MERCAN TV ADIYAMAN
 https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="11. |TR|🇹🇷 YEREL - BÖLGESEL",METROPOL DENİZLİ
@@ -2245,30 +2245,22 @@ https://ztnr.rtve.es/ztnr/1712295.m3u8
 https://d3nnqrdb77sy13.cloudfront.net/Clan_ES.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BGy5vM5/clan.jpg" group-title="14. |ES|🇪🇸 ESPAÑA",TVE CLAN
 https://ztnr.rtve.es/ztnr/5466990.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hYTkm8L/A3es.png" user-agent="VAVOO/1.0" referer="https://vavoo.to/" group-title="14. |ES|🇪🇸 ESPAÑA",ANTENA 3
-https://joaquinito02.es/vavoo/254679370.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hYTkm8L/A3es.png" user-agent="VAVOO/1.0" referer="https://vavoo.to/" group-title="14. |ES|🇪🇸 ESPAÑA",ANTENA 3
-https://joaquinito02.es/vavoo/2255480833.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hRs6WrH/C4es.png" user-agent="VAVOO/1.0" referer="https://vavoo.to/" group-title="14. |ES|🇪🇸 ESPAÑA",CUATRO
-https://joaquinito02.es/vavoo/1590334161.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hRs6WrH/C4es.png" user-agent="VAVOO/1.0" referer="https://vavoo.to/" group-title="14. |ES|🇪🇸 ESPAÑA",CUATRO
-https://joaquinito02.es/vavoo/4194733823.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7gMg1nb/t5es.png" user-agent="VAVOO/1.0" referer="https://vavoo.to/" group-title="14. |ES|🇪🇸 ESPAÑA",TELECINCO
-https://joaquinito02.es/vavoo/1024256819.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7gMg1nb/t5es.png" user-agent="VAVOO/1.0" referer="https://vavoo.to/" group-title="14. |ES|🇪🇸 ESPAÑA",TELECINCO
-https://joaquinito02.es/vavoo/353095972.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6JF4BK4/l6es.png" user-agent="VAVOO/1.0" referer="https://vavoo.to/" group-title="14. |ES|🇪🇸 ESPAÑA",LA SEXTA
-https://joaquinito02.es/vavoo/2660027208.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6JF4BK4/l6es.png" user-agent="VAVOO/1.0" referer="https://vavoo.to/" group-title="14. |ES|🇪🇸 ESPAÑA",LA SEXTA
-https://joaquinito02.es/vavoo/238901671.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hYTkm8L/A3es.png" group-title="14. |ES|🇪🇸 ESPAÑA",ANTENA 3
 https://tvnoov.com/fadoo/antena3.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hYTkm8L/A3es.png" group-title="14. |ES|🇪🇸 ESPAÑA",ANTENA 3
+https://gitlab.com/movrey/movrel/-/raw/main/antena3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hRs6WrH/C4es.png" group-title="14. |ES|🇪🇸 ESPAÑA",CUATRO
 https://tvnoov.com/fadoo/cuatrohd.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hRs6WrH/C4es.png" group-title="14. |ES|🇪🇸 ESPAÑA",CUATRO
+https://gitlab.com/movrey/movrel/-/raw/main/cuatro.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7gMg1nb/t5es.png" group-title="14. |ES|🇪🇸 ESPAÑA",TELECINCO
 https://tvnoov.com/fadoo/telecincohd.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7gMg1nb/t5es.png" group-title="14. |ES|🇪🇸 ESPAÑA",TELECINCO
+https://gitlab.com/movrey/movrel/-/raw/main/telecinco.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6JF4BK4/l6es.png" group-title="14. |ES|🇪🇸 ESPAÑA",LA SEXTA
 https://tvnoov.com/fadoo/lasexta.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6JF4BK4/l6es.png" group-title="14. |ES|🇪🇸 ESPAÑA",LA SEXTA
+https://gitlab.com/movrey/movrel/-/raw/main/sexta.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/99kVf9W/somoscine.png" group-title="14. |ES|🇪🇸 ESPAÑA",TVE SOMOS CINE [geo-limited]
 https://ztnr.rtve.es/ztnr/5836726.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/99kVf9W/somoscine.png" group-title="14. |ES|🇪🇸 ESPAÑA",TVE SOMOS CINE [geo-limited]
@@ -2533,6 +2525,22 @@ http://nodep002.service.openstream.es/SVoriginOperatorEdge3/smil:11_HD.smil/mani
 https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:11_premium.smil/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6JF4BK4/l6es.png" group-title="14. |ES|🇪🇸 ESPAÑA",LA SEXTA (backup)
 https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:11_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hYTkm8L/A3es.png" user-agent="VAVOO/1.0" referer="https://vavoo.to/" group-title="14. |ES|🇪🇸 ESPAÑA",ANTENA 3 (backup)
+https://joaquinito02.es/vavoo/254679370.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hYTkm8L/A3es.png" user-agent="VAVOO/1.0" referer="https://vavoo.to/" group-title="14. |ES|🇪🇸 ESPAÑA",ANTENA 3 (backup)
+https://joaquinito02.es/vavoo/2255480833.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hRs6WrH/C4es.png" user-agent="VAVOO/1.0" referer="https://vavoo.to/" group-title="14. |ES|🇪🇸 ESPAÑA",CUATRO (backup)
+https://joaquinito02.es/vavoo/1590334161.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hRs6WrH/C4es.png" user-agent="VAVOO/1.0" referer="https://vavoo.to/" group-title="14. |ES|🇪🇸 ESPAÑA",CUATRO (backup)
+https://joaquinito02.es/vavoo/4194733823.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7gMg1nb/t5es.png" user-agent="VAVOO/1.0" referer="https://vavoo.to/" group-title="14. |ES|🇪🇸 ESPAÑA",TELECINCO (backup)
+https://joaquinito02.es/vavoo/1024256819.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7gMg1nb/t5es.png" user-agent="VAVOO/1.0" referer="https://vavoo.to/" group-title="14. |ES|🇪🇸 ESPAÑA",TELECINCO (backup)
+https://joaquinito02.es/vavoo/353095972.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6JF4BK4/l6es.png" user-agent="VAVOO/1.0" referer="https://vavoo.to/" group-title="14. |ES|🇪🇸 ESPAÑA",LA SEXTA (backup)
+https://joaquinito02.es/vavoo/2660027208.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6JF4BK4/l6es.png" user-agent="VAVOO/1.0" referer="https://vavoo.to/" group-title="14. |ES|🇪🇸 ESPAÑA",LA SEXTA (backup)
+https://joaquinito02.es/vavoo/238901671.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BGy5vM5/clan.jpg" group-title="14. |ES|🇪🇸 ESPAÑA",TVE CLAN [geo-restricted]
 https://rtvelivestream-clnx.rtve.es/rtvesec/clan/clan_main_dvr_720.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BGy5vM5/clan.jpg" group-title="14. |ES|🇪🇸 ESPAÑA",TVE CLAN [geo-restricted]
