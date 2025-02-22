@@ -2601,18 +2601,18 @@ https://edge66.magictvbox.com/liveApple/nessma/index.m3u8
 https://tgn.bozztv.com/dvrfl05/gin-canalalgerie/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Gn19S8p/al24dz.png",AL24 NEWS
 https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yQmcHjz/echourouk.png" referer="https://echorouk.dzsecurity.net/embed/echorouk.php",ECHOROUK TV DZ
+https://hls-distrib-rlb1.dzsecurity.net/live/EchoroukTV/playlist.m3u8?e=1740246216&token=lololololo
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1vH6q4L/echounws.png" referer="https://echorouk.dzsecurity.net/",ECHOROUK NEWS DZ
+https://hls-distrib-rlb1.dzsecurity.net/live/EchoroukNews/playlist.m3u8?e=1740246881&token=lololololo
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7Q4Zv2v/elhayat.png" referer="https://elhayat.dzsecurity.net/",EL HAYAT DZ
+https://hls-distrib-rlb1.dzsecurity.net/live/ElhayatTV/playlist.m3u8?e=1740246312&token=lololololo
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pbQCS5g/elwataniadz.jpg" referer="https://player.castr.com/",EL WATANIA TV
+https://stream.castr.com/62c18c3f14d09a0b7e5355a5/live_1b36cfb0ba2411ee9700956e0f7084c8/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pPwR2Tc/ennahar.png" referer="https://echorouk.dzsecurity.net/embed/echorouk.php",ENNAHAR TV
 https://ennahar-live.dzsecurity.net/fullres/EnnaharTV_First/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pPwR2Tc/ennahar.png" referer="https://echorouk.dzsecurity.net/embed/echorouk.php",ENNAHAR TV
 https://ennahar-live.dzsecurity.net/fullsrc/EnnaharTV/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yQmcHjz/echourouk.png" referer="https://echorouk.dzsecurity.net/embed/echorouk.php",ECHOROUK TV 'play web first'
-https://echorouk-live-tv.dzsecurity.net/fullres/EchoroukTV_First/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1vH6q4L/echounws.png" referer="https://echorouk.dzsecurity.net/",ECHOROUK NEWS 'play web first'
-https://echorouk-live-tv.dzsecurity.net/fullres/EchoroukNews_First/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7Q4Zv2v/elhayat.png" referer="https://elhayat.dzsecurity.net/",EL HAYAT TV 'play web first'
-https://elhayat-live-tv.dzsecurity.net/fullres/ElhayatTV_First/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pbQCS5g/elwataniadz.jpg" referer="https://player.castr.com/",EL WATANIA TV
-https://stream.castr.com/62c18c3f14d09a0b7e5355a5/live_1b36cfb0ba2411ee9700956e0f7084c8/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4N2sNS/cna.png",CNA
 https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5M4CwmQ/watania1.png",WATANIA 1 (backup)
