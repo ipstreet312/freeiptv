@@ -33,8 +33,8 @@ jobs:
       - name: Replace Text
         run: |
           enwstrm=${enwstrm}
-          sed -i "/ECHOROUK NEWS DZ/{n;s|.*|"$enwstrm"|}" all.m3u
-          sed -i "/ECHOROUK NEWS DZ/{n;s|.*|"$enwstrm"|}" ressources/allgr.m3u
+          sed -i "/ECHOROUK NEWS DZ/{n;s|.*|${enwstrm}|}" all.m3u
+          sed -i "/ECHOROUK NEWS DZ/{n;s|.*|${enwstrm}|}" ressources/allgr.m3u
 
       - name: git add
         run: |
