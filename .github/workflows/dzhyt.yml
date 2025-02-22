@@ -32,9 +32,8 @@ jobs:
 
       - name: Replace Text
         run: |
-          hytstrm=${hytstrm}
-          sed -i "/EL HAYAT DZ/{n;s|.*|"$hytstrm"|}" all.m3u
-          sed -i "/EL HAYAT DZ/{n;s|.*|"$hytstrm"|}" ressources/allgr.m3u
+          sed -i "/EL HAYAT DZ/{n;s|.*|${hytstrm}|}" all.m3u
+          sed -i "/EL HAYAT DZ/{n;s|.*|${hytstrm}|}" ressources/allgr.m3u
 
       - name: git add
         run: |
