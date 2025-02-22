@@ -1,23 +1,20 @@
-from yt_dlp import YoutubeDL
+import requests
+import re
 
 url = 'https://hls-players.dzsecurity.net/live/player/elhayattv'
+referer = 'https://elhayat.dz/'
 
-ydl_opts = {
-    'quiet': True,
-    'skip_download': True,
-    'force_generic_extractor': True,
-    'http_headers': {
-        'Referer': 'https://elhayat.dz/'
-    }
+headers = {
+    'Referer': referer
 }
 
-with YoutubeDL(ydl_opts) as ydl:
-    info_dict = ydl.extract_info(url, download=False)
-    formats = info_dict.get('formats', [])
-    for f in formats:
-        if f.get('ext') == 'm3u8':
-            m3u8_url = f.get('url')
-            print(f'Found m3u8 URL: {m3u8_url}')
-            break
+response = requests.get(url, headers=headers)
+if response.status_code == 200:
+    m3u8_url = re.search(r'https://.*?\.m3u8', response.text)
+    if m3u8_url:
+        m3u8_url = m3u8_url.group()
+        print(f'Found m3u8 URL: {m3u8_url}')
     else:
         print('No m3u8 URL found.')
+else:
+    print(f'Failed to retrieve the page. Status code: {response.status_code}')
