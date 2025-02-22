@@ -32,9 +32,9 @@ jobs:
 
       - name: Replace Text
         run: |
-          echstrm${echstrm}
-          sed -i "\|live/EchoroukTV| c $echstrm" all.m3u
-          sed -i "\|live/EchoroukTV| c $echstrm" ressources/allgr.m3u
+          echo "echstrm=${echstrm}"
+          sed -i "s|live/EchoroukTV.*|${echstrm}|" all.m3u
+          sed -i "s|live/EchoroukTV.*|${echstrm}|" ressources/allgr.m3u
 
       - name: git add
         run: |
