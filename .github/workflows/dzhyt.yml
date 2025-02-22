@@ -25,14 +25,14 @@ jobs:
       - name: Install requests module
         run: python3 -m pip install requests
 
-      - name: fetch content murlb
+      - name: fetch content dzhyt
         run: |
           final_url=$(python3 ressources/kuw/dzhyt.py)
           echo "hytstrm=${final_url}" >> $GITHUB_ENV
 
       - name: Replace Text
         run: |
-          murstrm=${murstrm}
+          hytstrm=${hytstrm}
           sed -i "/EL HAYAT DZ/{n;s|.*|"$hytstrm"|}" all.m3u
           sed -i "/EL HAYAT DZ/{n;s|.*|"$hytstrm"|}" ressources/allgr.m3u
 
