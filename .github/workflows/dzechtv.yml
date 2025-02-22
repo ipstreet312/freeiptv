@@ -32,7 +32,7 @@ jobs:
 
       - name: Replace Text
         run: |
-          murstrm=${murstrm}
+          echstrm${echstrm}
           sed -i "/ECHOROUK TV DZ/{n;s|.*|"$echstrm"|}" all.m3u
           sed -i "/ECHOROUK TV DZ/{n;s|.*|"$echstrm"|}" ressources/allgr.m3u
 
@@ -45,5 +45,5 @@ jobs:
         run: |
           git pull
           git add all.m3u ressources/allgr.m3u
-          git commit -m "dzechtv updated"
+          git commit -m "dzechorouk updated"
           git push
