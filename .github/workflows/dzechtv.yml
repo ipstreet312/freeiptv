@@ -2,7 +2,7 @@ name: dzechtv
 
 on:
   schedule:
-    - cron: '5-55/50 * * * *'
+    - cron: '10-59/50 * * * *'
   workflow_dispatch:
 
 jobs:
