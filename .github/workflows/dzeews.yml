@@ -1,4 +1,4 @@
-name: dzeews
+name: dzenws
 
 on:
   schedule:
@@ -15,7 +15,7 @@ jobs:
       - name: config
         run: |
           git config --global user.email "<>"
-          git config --global user.name "dzeews bot"
+          git config --global user.name "dzenws bot"
 
       - name: Set up Python
         uses: actions/setup-python@v2
@@ -25,9 +25,9 @@ jobs:
       - name: Install requests module
         run: python3 -m pip install requests
 
-      - name: fetch and replace content dzeews
+      - name: fetch and replace content dzenws
         run: |
-          final_url=$(python3 ressources/kuw/dzeews.py)
+          final_url=$(python3 ressources/kuw/dzechnws.py)
           new_e=$(echo "$final_url" | grep -o 'e=[0-9]*' | cut -d= -f2)
           new_token=$(echo "$final_url" | grep -o 'token=[^&]*' | cut -d= -f2)
           sed -i "/ECHOROUK NEWS DZ/{n;s/e=[0-9]*/e=$new_e/;s/token=[^&]*/token=$new_token/}" all.m3u
@@ -42,5 +42,5 @@ jobs:
         run: |
           git pull
           git add all.m3u ressources/allgr.m3u
-          git commit -m "dzeews updated"
+          git commit -m "dzenws updated"
           git push
