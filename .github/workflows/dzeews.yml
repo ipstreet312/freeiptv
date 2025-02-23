@@ -25,16 +25,13 @@ jobs:
       - name: Install requests module
         run: python3 -m pip install requests
 
-      - name: fetch content dzeews
+      - name: fetch and replace content dzeews
         run: |
-          final_url=$(python3 ressources/kuw/dzechnws.py)
-          echo "enwstrm=${final_url}" >> $GITHUB_ENV
-
-      - name: Replace Text
-        run: |
-          enwstrm=${enwstrm}
-          sed -i "/ECHOROUK NEWS DZ/{n;s|.*|${enwstrm}|}" all.m3u
-          sed -i "/ECHOROUK NEWS DZ/{n;s|.*|${enwstrm}|}" ressources/allgr.m3u
+          final_url=$(python3 ressources/kuw/dzeews.py)
+          new_e=$(echo "$final_url" | grep -o 'e=[0-9]*' | cut -d= -f2)
+          new_token=$(echo "$final_url" | grep -o 'token=[^&]*' | cut -d= -f2)
+          sed -i "/ECHOROUK NEWS DZ/{n;s/e=[0-9]*/e=$new_e/;s/token=[^&]*/token=$new_token/}" all.m3u
+          sed -i "/ECHOROUK NEWS DZ/{n;s/e=[0-9]*/e=$new_e/;s/token=[^&]*/token=$new_token/}" ressources/allgr.m3u
 
       - name: git add
         run: |
