@@ -2,7 +2,7 @@ name: dzhyt
 
 on:
   schedule:
-    - cron: '*/51 * * * *'
+    - cron: '*/55 * * * *'
   workflow_dispatch:
 
 jobs:
