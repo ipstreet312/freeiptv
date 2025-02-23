@@ -1,8 +1,8 @@
 import requests
 import re
 
-url = 'https://hls-players.dzsecurity.net/live/player/elhayattv'
-referer = 'https://elhayat.dz/'
+url = 'https://hls-players.dzsecurity.net/live/player/ennahartv'
+referer = 'https://www.ennaharonline.com/'
 
 headers = {
     'Referer': referer
