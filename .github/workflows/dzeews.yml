@@ -2,7 +2,7 @@ name: dzenws
 
 on:
   schedule:
-    - cron: '*/49 * * * *'
+    - cron: '*/59 * * * *'
   workflow_dispatch:
 
 jobs:
