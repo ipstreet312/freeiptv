@@ -28,9 +28,10 @@ jobs:
       - name: fetch and replace content dzhyt
         run: |
           final_url=$(python3 ressources/kuw/dzhyt.py)
-          new_values=$(echo "$final_url" | grep -o 'e=[0-9]*&token=[^&]*')
-          sed -i "/EL HAYAT DZ/{n;s/e=[0-9]*&token=[^&]*/'"$new_values"'/}" all.m3u
-          sed -i "/EL HAYAT DZ/{n;s/e=[0-9]*&token=[^&]*/'"$new_values"'/}" ressources/allgr.m3u
+          new_e=$(echo "$final_url" | grep -o 'e=[0-9]*')
+          new_token=$(echo "$final_url" | grep -o 'token=[^&]*')
+          sed -i "/EL HAYAT DZ/{n;s/e=[0-9]*&token=[^&]*/$new_e&$new_token/}" all.m3u
+          sed -i "/EL HAYAT DZ/{n;s/e=[0-9]*&token=[^&]*/$new_e&$new_token/}" ressources/allgr.m3u
 
       - name: git add
         run: |
