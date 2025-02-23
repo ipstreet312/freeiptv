@@ -25,16 +25,13 @@ jobs:
       - name: Install requests module
         run: python3 -m pip install requests
 
-      - name: fetch content dzechtv
+      - name: fetch and replace content dzechtv
         run: |
           final_url=$(python3 ressources/kuw/dzechtv.py)
-          echo "echstrm=${final_url}" >> $GITHUB_ENV
-
-      - name: Replace Text
-        run: |
-          echo "echstrm=${echstrm}"
-          sed -i "s|live/EchoroukTV.*|${echstrm}|" all.m3u
-          sed -i "s|live/EchoroukTV.*|${echstrm}|" ressources/allgr.m3u
+          new_e=$(echo "$final_url" | grep -o 'e=[0-9]*' | cut -d= -f2)
+          new_token=$(echo "$final_url" | grep -o 'token=[^&]*' | cut -d= -f2)
+          sed -i "/ECHOROUK TV DZ/{n;s/e=[0-9]*/e=$new_e/;s/token=[^&]*/token=$new_token/}" all.m3u
+          sed -i "/ECHOROUK TV DZ/{n;s/e=[0-9]*/e=$new_e/;s/token=[^&]*/token=$new_token/}" ressources/allgr.m3u
 
       - name: git add
         run: |
@@ -45,5 +42,5 @@ jobs:
         run: |
           git pull
           git add all.m3u ressources/allgr.m3u
-          git commit -m "dzechorouk updated"
+          git commit -m "dzechtv updated"
           git push
