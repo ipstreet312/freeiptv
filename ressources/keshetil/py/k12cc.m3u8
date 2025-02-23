@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-STREAM-INF:BANDWIDTH=2622400,AVERAGE-BANDWIDTH=2525600,CODECS="avc1.4d4028,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=25.000
-https://mako-streaming.akamaized.net/direct/hls/live/2035325/k12cc/hdntl=exp=1740361257~acl=%2f*~data=hdntl~hmac=43ddc36cd110a6ff95b4149765ea62d071b5a930794cbc529cd079427da9d08a/index_2200.m3u8
+https://mako-streaming.akamaized.net/direct/hls/live/2035325/k12cc/hdntl=exp=1740428364~acl=%2f*~data=hdntl~hmac=a02a409b322291b8f7cd430e3c684af569b50017977d276fa154806a4d517792/index_2200.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=4681600,AVERAGE-BANDWIDTH=4505600,CODECS="avc1.64002a,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=50.000
-https://mako-streaming.akamaized.net/direct/hls/live/2035325/k12cc/hdntl=exp=1740361257~acl=%2f*~data=hdntl~hmac=43ddc36cd110a6ff95b4149765ea62d071b5a930794cbc529cd079427da9d08a/index_4000.m3u8
+https://mako-streaming.akamaized.net/direct/hls/live/2035325/k12cc/hdntl=exp=1740428364~acl=%2f*~data=hdntl~hmac=a02a409b322291b8f7cd430e3c684af569b50017977d276fa154806a4d517792/index_4000.m3u8
