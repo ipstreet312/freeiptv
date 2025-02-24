@@ -2491,6 +2491,8 @@ https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fqg1vfr/24h.png",TVE 24 H (backup)
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fqg1vfr/24h.png",TVE 24 H (backup)
+https://rtvelivestream.rtve.es/rtvesec/24h/24h_main.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ypn5DBD/tveint.png",TVE INTERNACIONAL (backup)
 https://ztnr.rtve.es/ztnr/6891743.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ypn5DBD/tveint.png",TVE INTERNACIONAL (america)
@@ -2549,6 +2551,8 @@ https://rtvelivestream-clnx.rtve.es/rtvesec/clan/clan_main_dvr_720.m3u8
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/clan/clan_main_720.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BGy5vM5/clan.jpg",TVE CLAN [geo-restricted]
 https://rtvelivestream.akamaized.net/rtvesec/clan/clan_main.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BGy5vM5/clan.jpg",TVE CLAN [geo-restricted]
+https://rtvelivestream.rtve.es/rtvesec/clan/clan_main.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/crzKf1n/tenerife4.jpg",TENERIFE 4 (offlink)
 https://5940924978228.streamlock.net/Directo1/Directo1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QnMxFJD/madr.jpg",TELE MADRID (offlink)
@@ -2742,7 +2746,7 @@ https://d198ztbnlup2iq.cloudfront.net/out/v1/2d9050c90fb94df8b78d1d98306a1a65/in
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png",NOW 14 עכשיו
 https://ch14-channel14-content.akamaized.net/hls/live/2104807/CH14_CHANNEL14/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j68q1Bp/i24.png",i24 NEWS HE עברית
-https://bcovlive-a.akamaihd.net/54b8e6b753e3409c91856201d1f08731/eu-central-1/5377161796001/playlist.m3u8
+https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tLYB26T/h2322.png",HINUCHIT 23 חינוכית
 https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7nYM8MK/arutz24tvtrp.png",MAKO 24 ערוץ
@@ -2769,8 +2773,6 @@ https://rgelive.akamaized.net/hls/live/2043095/live3/playlist.m3u8
 https://ynet-live-01.ynet-pic1.yit.co.il/ynet/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1rSGfFw/N12n.png" user-agent="SmartOs Tv",NEWS 12 חדשות 
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/keshetil/py/n12.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/j68q1Bp/i24.png",i24 NEWS HE עברית
-https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j68q1Bp/i24.png",i24 NEWS FR
 https://bcovlive-a.akamaihd.net/41814196d97e433fb401c5e632d985e9/eu-central-1/5377161796001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j68q1Bp/i24.png",i24 NEWS EN
@@ -2991,8 +2993,8 @@ https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d58T05P/Syria-tv.jpg",SYRIA TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6017
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d58T05P/Syria-tv.jpg",SYRIA TV
-https://stream.ads.ottera.tv/cl/250113cu26vbu7g596f0blaoo0/1280x720_2218128_0_f.m3u8?i=475_6017
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0kQdg9X/syria2.png",SYRIA TV 2
+https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XrC6F6JW/salam.png",SALAM
 https://amsart-live.ercdn.net/salamtv/salamtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QPv27Qc/wtw.jpg",AL WASAT TV
