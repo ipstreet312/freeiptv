@@ -1,7 +1,7 @@
 import sys
 import requests
 
-github_url = "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/nrj/nrj12.m3u8"
+github_url = "https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/nrj/cherie25.m3u8"
 base_nrj12 = "https://event1.nrjaudio.fm/hls/live/2038378/nrj_12/"
 base_cherie25 = "https://event2.nrjaudio.fm/hls/live/2038379/cherie_25/"
 
