@@ -4743,3 +4743,17 @@ http://
 http://
 #EXTINF:-1,TEST 0131
 https://
+#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",RTP1
+https://streaming-live.rtp.pt/liverepeater/rtpmadeira_5ch1016h264H14.stream/playlist.m3u8?token=1741048626_22b797fae06c7bd9be9fb9e9bdd39db8da676ff5
+#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",RTP2
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8?token=1741046726_796ae9641f154428f5288a65841e16a636ec966e
+#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",RTP3
+https://streaming-live.rtp.pt/liverepeater/rtpi_5ch120h264.stream/playlist.m3u8
+#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",RTP4
+https://streaming-live.rtp.pt/liverepeater/rtpi_5ch120h264.stream/playlist.m3u8?token=1741046726_796ae9641f154428f5288a65841e16a636ec966e
+#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",RTP5
+http://streaming-live-app.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
+#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",RTP6
+http://streaming-live-app.rtp.pt/liverepeater/rtpi_5ch120h264.stream/playlist.m3u8
+#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",RTP7
+http://streaming-live-app.rtp.pt/liverepeater/rtpi_5ch120h264.stream/playlist.m3u8?token=1741046726_796ae9641f154428f5288a65841e16a636ec966e
