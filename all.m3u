@@ -4757,3 +4757,15 @@ http://streaming-live-app.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
 http://streaming-live-app.rtp.pt/liverepeater/rtpi_5ch120h264.stream/playlist.m3u8
 #EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",RTP7
 http://streaming-live-app.rtp.pt/liverepeater/rtpi_5ch120h264.stream/playlist.m3u8?token=1741046726_796ae9641f154428f5288a65841e16a636ec966e
+#EXTINF:-1,3A
+http://streaming-live.rtp.pt/liverepeater/rtpnHD.smil/playlist.m3u8
+#EXTINF:-1 user-agent="IE",3B
+http://streaming-live.rtp.pt/liverepeater/rtpnHD.smil/playlist.m3u8
+#EXTINF:-1,3C
+https://streaming-live-app.rtp.pt/liverepeater/rtpnHD.smil/playlist.m3u8
+#EXTINF:-1 user-agent="IE",3D
+https://streaming-live-app.rtp.pt/liverepeater/rtpnHD.smil/playlist.m3u8
+#EXTINF:-1,4A
+https://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
+#EXTINF:-1 user-agent="IE",4B
+https://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
