@@ -4769,3 +4769,7 @@ https://streaming-live-app.rtp.pt/liverepeater/rtpnHD.smil/playlist.m3u8
 https://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
 #EXTINF:-1 user-agent="IE",4B
 https://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
+#EXTINF:-1,4AB
+https://streaming-live-app.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
+#EXTINF:-1 user-agent="IE",4BB
+https://streaming-live-app.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
