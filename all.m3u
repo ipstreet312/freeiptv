@@ -806,7 +806,7 @@ https://tv100-live.daioncdn.net/tv100/tv100.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4Mhmggc/tele1.png",TELE 1
 https://tele1-live.ercdn.net/tele1/tele1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jZShqBM/Krt24v2.png",KRT
-https://koprulu1.global.ssl.fastly.net/yt.m3u8/?id=QGoLQhm_GaE.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=QGoLQhm_GaE.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ln92Dj2/Ekoltv.png",EKOL TV
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXdf2YF/ulusal22.png",ULUSAL KANAL
@@ -1142,7 +1142,7 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shm
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kxjKk89/showmax.png",SHOW MAX
 https://ythls.armelin.one/video/Y3vGHFrsqrs.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2qrg9QF/a2022.png",A2
-https://ythlsgo.onrender.com/channel/UCHqu50_C2U2h_rpzhygs4aA.m3u8
+https://trkvz-live.daioncdn.net/a2tv/a2tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2qrg9QF/a2022.png",A2
 https://livestream.zazerconer.workers.dev/channel/UCHqu50_C2U2h_rpzhygs4aA.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Zd6fMvZ/filtr.png",FİL TV
@@ -1212,9 +1212,9 @@ https://new.cache-stream.workers.dev/stream/UCCfTktnzWK__FUN4gj0zIpA/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Zxd0j45/cartoonnetwork.png",CARTOON NETWORK TR
 https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R2Zgy7F/minikago.png",MİNİKA GO
-http://tgn.bozztv.com/dvrfl05/gin-minikago/index.m3u8
+https://trkvz-live.daioncdn.net/minikago/minikago.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L8ftBdN/minikacocuk.png",MİNİKA ÇOCUK
-https://ythls.armelin.one/channel/UCVbCXWXWd0WCNhdBnmP_TmA.m3u8
+https://trkvz-live.daioncdn.net/minikago_cocuk/minikago_cocuk.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SwwjnF5/gstv.png",GALATASARAY TV
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/867fC4z/fbtv22a.png",FENERBAHÇE TV
@@ -1225,6 +1225,8 @@ https://ciner-live.ercdn.net/htspor/htspor.m3u8
 https://ciner-live.daioncdn.net/ht-spor/ht-spor.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xSjB51j/aspor.png",A SPOR
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xSjB51j/aspor.png",A SPOR
+https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BfM21nC/beinhaber.png",BIS HABER
 https://ythls-v3.onrender.com/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BfM21nC/beinhaber.png",BIS HABER
@@ -1273,6 +1275,8 @@ https://ebao.blutv.com/blutv_ebao2/live.m3u8
 http://trn10.tulix.tv/gt-minikacocuk/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R2Zgy7F/minikago.png",MİNİKA GO (offline)
 http://trn10.tulix.tv/gt-minikago/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R2Zgy7F/minikago.png",MİNİKA GO (backup)
+http://tgn.bozztv.com/dvrfl05/gin-minikago/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F0Tsz1v/htsportr.png",HT SPOR (backup)
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F0Tsz1v/htsportr.png",HT SPOR (backup)
@@ -4745,33 +4749,23 @@ http://
 http://
 #EXTINF:-1,TEST 0131
 https://
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",RTP1
-https://streaming-live.rtp.pt/liverepeater/rtpmadeira_5ch1016h264H14.stream/playlist.m3u8?token=1741048626_22b797fae06c7bd9be9fb9e9bdd39db8da676ff5
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",RTP2
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8?token=1741046726_796ae9641f154428f5288a65841e16a636ec966e
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",RTP3
-https://streaming-live.rtp.pt/liverepeater/rtpi_5ch120h264.stream/playlist.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",RTP4
-https://streaming-live.rtp.pt/liverepeater/rtpi_5ch120h264.stream/playlist.m3u8?token=1741046726_796ae9641f154428f5288a65841e16a636ec966e
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",RTP5
+#EXTINF:-1 user-agent="Star Wars",1
+http://streaming-live-app.rtp.pt/liverepeater/rtpClean1HD.smil/playlist.m3u8
+#EXTINF:-1 user-agent="Star Wars",1A
+http://streaming-live.rtp.pt/liverepeater/rtpClean1HD.smil/playlist.m3u8
+#EXTINF:-1 user-agent="Star Wars",2
+http://streaming-live-app.rtp.pt/liverepeater/rtpClean2HD.smil/playlist.m3u8
+#EXTINF:-1 user-agent="Star Wars",2Z
+http://streaming-live.rtp.pt/liverepeater/rtpClean2HD.smil/playlist.m3u8
+#EXTINF:-1 user-agent="Star Wars",3
+http://streaming-live-app.rtp.pt/liverepeater/rtpnHD.smil/playlist.m3u8
+#EXTINF:-1 user-agent="Star Wars",3A
+http://streaming-live.rtp.pt/liverepeater/rtpnHD.smil/playlist.m3u8
+#EXTINF:-1 user-agent="Star Wars",IA
 http://streaming-live-app.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",RTP6
-http://streaming-live-app.rtp.pt/liverepeater/rtpi_5ch120h264.stream/playlist.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",RTP7
-http://streaming-live-app.rtp.pt/liverepeater/rtpi_5ch120h264.stream/playlist.m3u8?token=1741046726_796ae9641f154428f5288a65841e16a636ec966e
-#EXTINF:-1,3A
-http://streaming-live.rtp.pt/liverepeater/rtpnHD.smil/playlist.m3u8
-#EXTINF:-1 user-agent="IE",3B
-http://streaming-live.rtp.pt/liverepeater/rtpnHD.smil/playlist.m3u8
-#EXTINF:-1,3C
-https://streaming-live-app.rtp.pt/liverepeater/rtpnHD.smil/playlist.m3u8
-#EXTINF:-1 user-agent="IE",3D
-https://streaming-live-app.rtp.pt/liverepeater/rtpnHD.smil/playlist.m3u8
-#EXTINF:-1,4A
-https://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
-#EXTINF:-1 user-agent="IE",4B
-https://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
-#EXTINF:-1,4AB
-https://streaming-live-app.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
-#EXTINF:-1 user-agent="IE",4BB
-https://streaming-live-app.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
+#EXTINF:-1 user-agent="Star Wars",IB
+http://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
+#EXTINF:-1 user-agent="IE",I1
+http://streaming-live-app.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
+#EXTINF:-1 user-agent="IE",I2
+http://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
