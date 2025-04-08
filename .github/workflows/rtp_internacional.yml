@@ -1,0 +1,32 @@
+name: rtp_internacional
+
+on:
+  schedule:
+    - cron: '33 */3 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    
+      - uses: actions/checkout@v3
+
+      - name: config
+        run: |
+          git config --global user.email "<>"
+          git config --global user.name "rtpi bot"
+      
+      - name: updating rtpi
+        run: python3 ressources/tvipt/py/rtp_internacional.py > ressources/tvipt/py/rtp_internacional.m3u8
+        
+      - name: git add
+        run: |
+          git add -A
+          ls -la 
+          
+      - name: commit & push
+        run: |
+          git pull origin master
+          git commit -m "rtpi updated"
+          git push origin master
