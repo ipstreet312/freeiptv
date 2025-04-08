@@ -1,0 +1,32 @@
+name: rtp_3n
+
+on:
+  schedule:
+    - cron: '43 */2 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    
+      - uses: actions/checkout@v3
+
+      - name: config
+        run: |
+          git config --global user.email "<>"
+          git config --global user.name "rtp3n bot"
+      
+      - name: updating rtp3n
+        run: python3 ressources/tvipt/py/rtp_3.py
+        
+      - name: git add
+        run: |
+          git add -A
+          ls -la 
+          
+      - name: commit & push
+        run: |
+          git pull origin master
+          git commit -m "rtpi updated"
+          git push origin master
