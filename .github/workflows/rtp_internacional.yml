@@ -2,7 +2,7 @@ name: rtp_internacional
 
 on:
   schedule:
-    - cron: '33 */3 * * *'
+    - cron: '40 */2 * * *'
   workflow_dispatch:
 
 jobs:
