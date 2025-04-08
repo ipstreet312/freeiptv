@@ -18,7 +18,7 @@ jobs:
           git config --global user.name "rtpi bot"
       
       - name: updating rtpi
-        run: python3 ressources/tvipt/py/rtp_internacional.py > ressources/tvipt/py/rtp_internacional.m3u8
+        run: python3 ressources/tvipt/py/rtp_internacional.py
         
       - name: git add
         run: |
