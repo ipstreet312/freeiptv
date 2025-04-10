@@ -227,6 +227,8 @@ https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/nrj12.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cQbcrGZ/c8.png",C8 [OUT]
 https://tvradiozap.eu/tools/dm-m3u8.php/x5gv5rr.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cQbcrGZ/c8.png",C8 [OUT]
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/refs/heads/main/Stream/Live/C8.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Sm9PtLR/cstar.png",CSTAR (backup)
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/canalplus/cstar.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1 (backup)
@@ -235,10 +237,10 @@ https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/tf1.m3u8
 https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/main/fr/videotf1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1 (backup)
 http://live.tntdirect.tv/9CM2pADCxF/w5BA32MP6P/1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LNRd253/w9.png" user-agent="VAVOO/1.0" referer="https://vavoo.to/",W9 (test)
-https://joaquinito02.es/vavoo/128046615.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BPpZPBn/arte.png",ARTE (backup)
-https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/ftv/py/frarte.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1 (backup)
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/refs/heads/main/Stream/Live/TF1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png",FRANCE 2 (backup)
+https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/fr/videof2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png",FRANCE 2 (backup)
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/fr2nv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y8PjbJ4/fr3bl.png",FRANCE 3 (backup)
@@ -247,6 +249,10 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/fr4nv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N9d4yXt/fr5bl.png",FRANCE 5 (backup)
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/fr5nv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BPpZPBn/arte.png",ARTE (backup)
+https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/ftv/py/frarte.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LNRd253/w9.png" user-agent="VAVOO/1.0" referer="https://vavoo.to/",W9 (test)
+https://joaquinito02.es/vavoo/128046615.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6 (backup)
 http://live.tntdirect.tv/9CM2pADCxF/w5BA32MP6P/6.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6 (backup)
@@ -857,6 +863,8 @@ https://trkvz-live.ercdn.net/ahaberhd/ahaberhd.m3u8
 http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b2b6Zn0/businesschtr.jpg",BUSINESS CHANNEL TÜRK
 https://new.cache-stream.workers.dev/stream/UCLPc5pYOl2clEkCA82Sfb0Q/live.m3u8
+https://i.ibb.co/GQdBjZfW/finansturk.png",FİNANS TÜRK
+https://yayin30.haber100.com/live/finansturk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KwXzY6B/apara.png",A PARA
 https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kcpSwmK/cnbce.png",CNBC-E
@@ -1503,6 +1511,8 @@ https://cdn-berattv.yayin.com.tr/berattv/berattv/playlist.m3u8
 https://trkvz-live.ercdn.net/vavtv/vavtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FX1SqtR/cantv.jpg",CAN TV
 http://canbroadcast.com:7000/canlican/tv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FX1SqtR/cantv.jpg",CAN TV
+https://livetv.canbroadcast.com:7443/canlican/tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6B8M20v/on422.png",ON4 TV
 https://edge1.socialsmart.tv/on4/bant1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DMRJYJM/afroturk.png",AFRO TURK TV
@@ -1987,6 +1997,8 @@ http://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.
 http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qk1SMGf/ant1.jpg",ANT 1
 http://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qk1SMGf/ant1.jpg",ANT 1
+https://pcdn.antennaplus.gr/live/media0/antenna-gr/HLS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qk1SMGf/ant1.jpg",ANT 1
 https://cdn1.smart-tv-data.com/live/ant1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qk1SMGf/ant1.jpg",ANT 1
@@ -3544,6 +3556,8 @@ https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QFvZPd9/spacetoon.png",SPACE TOON
 https://spacetoon-prod-dub-ak.akamaized.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QFvZPd9/spacetoon.png",SPACE TOON
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LYMKBP2/Sat7kids.png",SAT7 KIDS
 https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HVLKncL/afarin.png",AFARIN TV
@@ -3726,6 +3740,8 @@ https://shls-live-enc.edgenextcdn.net/out/v1/90143f040feb40589d18c57863d9e829/in
 https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mc475nQ/shadidblck.jpg",MBC MOVIES THRILLER
 https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/98TBSSm/mbcfmtv.png",MBC RABEH SAQER
+https://shls-live-enc.edgenextcdn.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/98TBSSm/mbcfmtv.png",MBC FM LIVE TV
 https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Hy2GLK8/mbcloud.png",MBC LOUD FM TV
@@ -3746,8 +3762,6 @@ https://rotana.hibridcdn.net/rotana/clip_net-7Y83PP5adWixDF93/playlist.m3u8
 https://rotana.hibridcdn.net/rotana/classical_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SwZKHJj/rcomedy.jpg",ROTANA COMEDY
 https://rotana.hibridcdn.net/rotana/comedy_net-7Y83PP5adWixDF93/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SwZKHJj/rcomedy.jpg",ROTANA COMEDY KHALIJA
-https://shls-live-enc.edgenextcdn.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5sJ9vSJ/rotanakhalijia.png",ROTANA KHALIJA
 https://edge66.magictvbox.com/liveApple/rotana_khalijiah/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5sJ9vSJ/rotanakhalijia.png",ROTANA KHALIJA
