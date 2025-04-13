@@ -1,0 +1,44 @@
+name: strmlnkwkfw
+
+on:
+  schedule:
+    - cron: '09 */3 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: config
+        run: |
+          git config --global user.email "<>"
+          git config --global user.name "strmlnkwkfw bot"
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+          
+      - name: Install requests module
+        run: python3 -m pip install requests streamlink
+
+      - name: fetch content strmlnkwkfw
+        run: |
+          python3 ressources/strmlnk/masterbest.py > ressources/strmlnk/masterbest.m3u8
+          python3 ressources/strmlnk/mastercontent.py > ressources/strmlnk/mastercontent.m3u8
+          python3 ressources/strmlnk/masteripv4.py > ressources/strmlnk/masteripv4.m3u8
+          python3 ressources/strmlnk/masteroptions.py > ressources/strmlnk/masteroptions.m3u8
+
+      - name: git add
+        run: |
+          git add -A
+          ls -la 
+          
+      - name: commit & push
+        run: |
+          git pull
+          git commit -m "strmlnkwkfw updated"
+          git push
