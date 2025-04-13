@@ -1,4 +1,4 @@
 import streamlink
-streams = streamlink.streams('https://www.nowtv.com.tr/canli-yayin')
+streams = streamlink.streams('https://stream.tvp.pl/?channel_id=1455')
 erstrm = streams["best"].multivariant.uri
 print(erstrm)
