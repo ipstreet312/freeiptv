@@ -28,6 +28,8 @@ jobs:
       - name: fetch content tvp
         run: |
           python3 ressources/wld/tvpin.py > ressources/wld/tvpin.m3u8
+          python3 ressources/wld/tvpol.py > ressources/wld/tvpol.m3u8
+          python3 ressources/wld/tvpwd.py > ressources/wld/tvpwd.m3u8
 
       - name: git add
         run: |
