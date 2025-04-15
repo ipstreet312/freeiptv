@@ -2,7 +2,7 @@ name: tvp
 
 on:
   schedule:
-    - cron: '09 */3 * * *'
+    - cron: '09 */2 * * *'
   workflow_dispatch:
 
 jobs:
