@@ -27,11 +27,6 @@ jobs:
 
       - name: fetch content strmlnkwkfw
         run: |
-          python3 ressources/strmlnk/masterbest.py > ressources/strmlnk/masterbest.m3u8
-          python3 ressources/strmlnk/mastercontent.py > ressources/strmlnk/mastercontent.m3u8
-          python3 ressources/strmlnk/masteripv4.py > ressources/strmlnk/masteripv4.m3u8
-          python3 ressources/strmlnk/masteroptions.py > ressources/strmlnk/masteroptions.m3u8
-          python3 ressources/strmlnk/streamprint.py > ressources/strmlnk/streamprint.m3u8
           python3 ressources/strmlnk/streamchoice.py > ressources/strmlnk/streamchoice.m3u8
           python3 ressources/strmlnk/streammulvar.py > ressources/strmlnk/streammulvar.m3u8
 
