@@ -4,7 +4,7 @@ session = Streamlink()
 streams = session.streams('https://stream.tvp.pl/?channel_id=1455')
 
 # Try to prioritize 'dash', then 'best', or just get any stream
-for quality in ["dash", "best"]:
+for quality in ["dash", "besti"]:
     if quality in streams:
         stream = streams[quality]
         break
