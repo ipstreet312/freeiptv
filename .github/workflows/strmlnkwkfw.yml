@@ -25,8 +25,8 @@ jobs:
       - name: Install requests module
         run: python3 -m pip install requests streamlink
         
-      #- name: Install FFmpeg
-      #  run: sudo apt-get update && sudo apt-get install -y ffmpeg
+      - name: Install FFmpeg
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
 
       - name: fetch content strmlnkwkfw
         run: |
