@@ -1,7 +1,7 @@
 from streamlink import Streamlink
 
 session = Streamlink()
-streams = session.streams('https://stream.tvp.pl/?channel_id=1455')
+streams = session.streams('https://www.nowtv.com.tr/canli-yayin')
 
 # Try to prioritize 'dash', then 'best', or just get any stream
 for quality in ["dash", "best"]:
