@@ -1,6 +1,6 @@
 import requests
 import re
-from urllib.parse import urljoin, urlparse
+from urllib.parse import urljoin
 
 # Step 1: Fetch the HTML page from telemaroc.tv
 html_url = "https://www.telemaroc.tv/liveTV"
@@ -35,7 +35,6 @@ m3u8_response.raise_for_status()
 
 lines = m3u8_response.text.strip().splitlines()
 
-print("# Full M3U8 content with absolute URLs:\n")
 for line in lines:
     if line.startswith("#") or line.strip() == "":
         print(line)
