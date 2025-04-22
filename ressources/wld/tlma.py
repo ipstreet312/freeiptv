@@ -15,7 +15,7 @@ if not token_match:
 token = token_match.group(1)
 
 # Step 3: Build the restream metadata URL
-restream_metadata_url = f"https://player-backend.restream.io/public/videos/{token}"
+restream_metadata_url = f"https://player-backend.restream.io/public/videos/{token}?instant=true"
 
 # Step 4: Fetch metadata JSON and extract videoUrlHls
 meta_response = requests.get(restream_metadata_url)
