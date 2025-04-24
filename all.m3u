@@ -1271,8 +1271,10 @@ https://womantv.blutv.com/blutv_womantv/blutv_womantv/index.m3u8
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qDF8pHQ/tdcc.png",TRT DİYANET ÇOCUK
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DM1tZ9Q/diyncc.png",DİYANET ÇOCUK TV
-https://new.cache-stream.workers.dev/stream/UCCfTktnzWK__FUN4gj0zIpA/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R2Zgy7F/minikago.png",MİNİKA GO (sometimes)
+https://trkvz-live.daioncdn.net/minikago/minikago.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L8ftBdN/minikacocuk.png",MİNİKA ÇOCUK (sometimes)
+https://trkvz-live.daioncdn.net/minikago_cocuk/minikago_cocuk.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SwwjnF5/gstv.png",GALATASARAY TV
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/867fC4z/fbtv22a.png",FENERBAHÇE TV
@@ -1917,6 +1919,8 @@ https://spor.kuzeykibris.tv/m3u8/tv_brt2.m3u8
 https://sc-kuzeykibrissmarttv.ercdn.net/adatv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y8p46cM/Kktc.png",ADA TV
 https://spor.kuzeykibris.tv/m3u8/tv_ada.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y8p46cM/Kktc.png",ADA TV
+https://yayin1.canlitv.fun/live/kibrisadatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y8p46cM/Kktc.png",KANAL T
 https://sc-kuzeykibrissmarttv.ercdn.net/kanalt/bantp1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y8p46cM/Kktc.png",KANAL T
@@ -2093,6 +2097,12 @@ http://ellastv.gotdns.com:88/freetv/madworldtv/index.m3u8
 https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3sHp7pS/riksat.png",RIK SAT CYPRUS
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3sHp7pS/riksat.png",RIK 1
+http://l6.cloudskep.com/rikct/rik1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3sHp7pS/riksat.png",RIK 2
+http://l6.cloudskep.com/rikct/rik2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3sHp7pS/riksat.png",RIK HD
+http://l6.cloudskep.com/rikct/rikhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/56kWP6F/action24.png",ACTION 24
 https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1qXMwq2/groovy.png",GROOVY TV
