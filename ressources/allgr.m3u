@@ -1271,8 +1271,10 @@ https://womantv.blutv.com/blutv_womantv/blutv_womantv/index.m3u8
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qDF8pHQ/tdcc.png" group-title="8. |TR|🇹🇷 ÇOCUK / SPOR",TRT DİYANET ÇOCUK
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DM1tZ9Q/diyncc.png" group-title="8. |TR|🇹🇷 ÇOCUK / SPOR",DİYANET ÇOCUK TV
-https://new.cache-stream.workers.dev/stream/UCCfTktnzWK__FUN4gj0zIpA/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R2Zgy7F/minikago.png" group-title="8. |TR|🇹🇷 ÇOCUK / SPOR",MİNİKA GO (sometimes)
+https://trkvz-live.daioncdn.net/minikago/minikago.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L8ftBdN/minikacocuk.png" group-title="8. |TR|🇹🇷 ÇOCUK / SPOR",MİNİKA ÇOCUK (sometimes)
+https://trkvz-live.daioncdn.net/minikago_cocuk/minikago_cocuk.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SwwjnF5/gstv.png" group-title="8. |TR|🇹🇷 ÇOCUK / SPOR",GALATASARAY TV
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/867fC4z/fbtv22a.png" group-title="8. |TR|🇹🇷 ÇOCUK / SPOR",FENERBAHÇE TV
@@ -1917,6 +1919,8 @@ https://spor.kuzeykibris.tv/m3u8/tv_brt2.m3u8
 https://sc-kuzeykibrissmarttv.ercdn.net/adatv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y8p46cM/Kktc.png" group-title="11. |TR|🇹🇷 YEREL - BÖLGESEL",ADA TV
 https://spor.kuzeykibris.tv/m3u8/tv_ada.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y8p46cM/Kktc.png" group-title="11. |TR|🇹🇷 YEREL - BÖLGESEL",ADA TV
+https://yayin1.canlitv.fun/live/kibrisadatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y8p46cM/Kktc.png" group-title="11. |TR|🇹🇷 YEREL - BÖLGESEL",KANAL T
 https://sc-kuzeykibrissmarttv.ercdn.net/kanalt/bantp1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y8p46cM/Kktc.png" group-title="11. |TR|🇹🇷 YEREL - BÖLGESEL",KANAL T
@@ -2093,6 +2097,12 @@ http://ellastv.gotdns.com:88/freetv/madworldtv/index.m3u8
 https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3sHp7pS/riksat.png" group-title="12. |GR|🇬🇷 GREECE Ελλά",RIK SAT CYPRUS
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3sHp7pS/riksat.png" group-title="12. |GR|🇬🇷 GREECE Ελλά",RIK 1
+http://l6.cloudskep.com/rikct/rik1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3sHp7pS/riksat.png" group-title="12. |GR|🇬🇷 GREECE Ελλά",RIK 2
+http://l6.cloudskep.com/rikct/rik2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3sHp7pS/riksat.png" group-title="12. |GR|🇬🇷 GREECE Ελλά",RIK HD
+http://l6.cloudskep.com/rikct/rikhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/56kWP6F/action24.png" group-title="12. |GR|🇬🇷 GREECE Ελλά",ACTION 24
 https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1qXMwq2/groovy.png" group-title="12. |GR|🇬🇷 GREECE Ελλά",GROOVY TV
@@ -2690,12 +2700,6 @@ https://cdn.live.easybroadcast.io/abr_corp/73_almaghribia_83tz85q/playlist_dvr.m
 https://cdn.live.easybroadcast.io/abr_corp/73_assadissa_7b7u5n1/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rmRc08Z/tamazight.png" group-title="15. |MA-DZ-TN|🇲🇦🇩🇿🇹🇳 MAGHREB المغرب",TAMAZIGHT الأمازيغية
 https://cdn.live.easybroadcast.io/abr_corp/73_tamazight_tccybxt/playlist_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Jx8GW4D/m24.png" group-title="15. |MA-DZ-TN|🇲🇦🇩🇿🇹🇳 MAGHREB المغرب",M24 TV للأنباء
-https://63df3191463ce.streamlock.net/live/ngrp:Live2.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rfwFbLk/telemaroc.gif" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" referer="https://player.restream.io/" group-title="15. |MA-DZ-TN|🇲🇦🇩🇿🇹🇳 MAGHREB المغرب",TELE MAROC قناة المغرب
-https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/wld/tlma.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rfwFbLk/telemaroc.gif" group-title="15. |MA-DZ-TN|🇲🇦🇩🇿🇹🇳 MAGHREB المغرب",TELE MAROC قناة المغرب
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/wld/tlma.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rQJcGTc/medi1tv.png" group-title="15. |MA-DZ-TN|🇲🇦🇩🇿🇹🇳 MAGHREB المغرب",MEDI 1 MG العربية
 https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rQJcGTc/medi1tv.png" group-title="15. |MA-DZ-TN|🇲🇦🇩🇿🇹🇳 MAGHREB المغرب",MEDI 1 AR العربية
