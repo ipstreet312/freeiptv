@@ -2,6 +2,9 @@
 
 <img src="https://github.com/ipstreet312/freeiptv/blob/master/ressources/infos/barkers/groups1602.png?raw=true">
 
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/all.m3u
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/allgr.m3u
+
 Installer les chaînes françaises - Get free tv channels - Türk tv kanallarını izle m3u listesi ile
 
 <img src="http://i.ibb.co/19nnp7n/Screenshot-20220929-084632.png">
