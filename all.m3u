@@ -277,6 +277,10 @@ https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/funr
 https://edge11.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BPzb19X/melody.png",MÉLODY
 https://live.creacast.com/telemelody/smil:telemelody-yjvCxE7x.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/svWdczbW/ina.png",INA 70s
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/frina.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/svWdczbW/ina.png",INA 70s
+https://fast-rakuten.okast.tv/channels/34d82f76-b51f-4bf5-9b35-769fb5904e79/96f96405-90e7-489a-a1e6-8ede5d2b4933/media_.m3u8?bpkio_serviceid=fa2e8c4385712f9af3e719ec904b3543
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M5P1TMG/clubbing.png",CLUBBING TV
 https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M5P1TMG/clubbing.png",CLUBBING TV
