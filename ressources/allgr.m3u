@@ -277,6 +277,10 @@ https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/funr
 https://edge11.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BPzb19X/melody.png" group-title="3. |FR|🇫🇷 SOCIÉTÉ",MÉLODY
 https://live.creacast.com/telemelody/smil:telemelody-yjvCxE7x.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/svWdczbW/ina.png" group-title="3. |FR|🇫🇷 SOCIÉTÉ",INA 70s
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/frina.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/svWdczbW/ina.png" group-title="3. |FR|🇫🇷 SOCIÉTÉ",INA 70s
+https://fast-rakuten.okast.tv/channels/34d82f76-b51f-4bf5-9b35-769fb5904e79/96f96405-90e7-489a-a1e6-8ede5d2b4933/media_.m3u8?bpkio_serviceid=fa2e8c4385712f9af3e719ec904b3543
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M5P1TMG/clubbing.png" group-title="3. |FR|🇫🇷 SOCIÉTÉ",CLUBBING TV
 https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M5P1TMG/clubbing.png" group-title="3. |FR|🇫🇷 SOCIÉTÉ",CLUBBING TV
@@ -884,7 +888,7 @@ https://yayin30.haber100.com/live/finansturk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KwXzY6B/apara.png" group-title="5. |TR|🇹🇷 HABER",A PARA
 https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kcpSwmK/cnbce.png" group-title="5. |TR|🇹🇷 HABER",CNBC-E
-https://koprulu1.global.ssl.fastly.net/yt.m3u8/?id=XihyuKSyUD0.m3u8
+https://uzunmuhalefet.serv00.net/canlitv2.php?id=13406&.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BN9tk1q/tbmm22.png" group-title="5. |TR|🇹🇷 HABER",TBMM TV
 https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/K6BKFqY/dha.png" group-title="5. |TR|🇹🇷 HABER",DHA (feed 1)
@@ -1189,6 +1193,8 @@ https://live.euromediacenter.com/tvmor/index.m3u8
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PZW37ch0/onstv.jpg" group-title="7. |TR|🇹🇷 BELGESEL & YAŞAM",ONS TV
 https://cdn-onstv.yayin.com.tr/onstv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PZW37ch0/onstv.jpg" group-title="7. |TR|🇹🇷 BELGESEL & YAŞAM",ONS TV
+https://live.artidijitalmedya.com/artidijital_onstv/onstv/artidijital_onstv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1Z22dCY/teve2.png" group-title="7. |TR|🇹🇷 BELGESEL & YAŞAM",TEVE 2
 https://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1Z22dCY/teve2.png" group-title="7. |TR|🇹🇷 BELGESEL & YAŞAM",TEVE 2
@@ -1277,6 +1283,8 @@ https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 https://trkvz-live.daioncdn.net/minikago/minikago.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L8ftBdN/minikacocuk.png" group-title="8. |TR|🇹🇷 ÇOCUK / SPOR",MİNİKA ÇOCUK (sometimes)
 https://trkvz-live.daioncdn.net/minikago_cocuk/minikago_cocuk.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Zxd0j45/cartoonnetwork.png" group-title="8. |TR|🇹🇷 ÇOCUK / SPOR",CARTOON NETWORK TR
+http://51.20.137.71/stream/yt/cartoonnetwork.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SwwjnF5/gstv.png" group-title="8. |TR|🇹🇷 ÇOCUK / SPOR",GALATASARAY TV
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/867fC4z/fbtv22a.png" group-title="8. |TR|🇹🇷 ÇOCUK / SPOR",FENERBAHÇE TV
@@ -1526,7 +1534,7 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_6409f
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jwgqtSB/dosttv.png" group-title="10. |TR|🇹🇷 AVRUPA; DİNÎ; DİĞER",DOST TV
 https://dost.stream.emsal.im/tv/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tHfxLTn/rehbertv.png" group-title="10. |TR|🇹🇷 AVRUPA; DİNÎ; DİĞER",REHBER TV
-https://yayin30.haber100.com/live/rehbertv/playlist.m3u8
+https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wrL2khn/lalegul.png" group-title="10. |TR|🇹🇷 AVRUPA; DİNÎ; DİĞER",LALEGÜL TV
 https://lbl.netmedya.net/hls/lalegultv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yN9HKJ6/berrat.png" group-title="10. |TR|🇹🇷 AVRUPA; DİNÎ; DİĞER",BERAT TV
@@ -2113,6 +2121,8 @@ http://l6.cloudskep.com/rikct/rikhd/playlist.m3u8
 https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1qXMwq2/groovy.png" group-title="12. |GR|🇬🇷 GREECE Ελλά",GROOVY TV
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3m2fYyYw/skaibb.jpg" group-title="12. |GR|🇬🇷 GREECE Ελλά",SKAI BIG BROTHER
+https://cdn1.smart-tv-data.com/skai/skaiBB/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DDXv93/nea.png" group-title="12. |GR|🇬🇷 GREECE Ελλά",NEA CRETE TV
 https://live.neatv.gr:8888/hls/neatv_high/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b2mBMBk/baraza.jpg" group-title="12. |GR|🇬🇷 GREECE Ελλά",BARAZA RELAXING TV
