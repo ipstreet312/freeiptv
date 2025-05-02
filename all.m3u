@@ -1193,6 +1193,8 @@ https://live.euromediacenter.com/tvmor/index.m3u8
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PZW37ch0/onstv.jpg",ONS TV
 https://cdn-onstv.yayin.com.tr/onstv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PZW37ch0/onstv.jpg",ONS TV
+https://live.artidijitalmedya.com/artidijital_onstv/onstv/artidijital_onstv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1Z22dCY/teve2.png",TEVE 2
 https://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1Z22dCY/teve2.png",TEVE 2
@@ -1532,7 +1534,7 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_6409f
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jwgqtSB/dosttv.png",DOST TV
 https://dost.stream.emsal.im/tv/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tHfxLTn/rehbertv.png",REHBER TV
-https://yayin30.haber100.com/live/rehbertv/playlist.m3u8
+https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wrL2khn/lalegul.png",LALEGÜL TV
 https://lbl.netmedya.net/hls/lalegultv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yN9HKJ6/berrat.png",BERAT TV
@@ -2119,6 +2121,8 @@ http://l6.cloudskep.com/rikct/rikhd/playlist.m3u8
 https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1qXMwq2/groovy.png",GROOVY TV
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3m2fYyYw/skaibb.jpg",SKAI BIG BROTHER
+https://cdn1.smart-tv-data.com/skai/skaiBB/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DDXv93/nea.png",NEA CRETE TV
 https://live.neatv.gr:8888/hls/neatv_high/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b2mBMBk/baraza.jpg",BARAZA RELAXING TV
