@@ -4952,13 +4952,3 @@ http://
 http://
 #EXTINF:-1,TEST 01
 http://
-#EXTINF:-1 user-agent="ExoPlayerDemo/2.0.6 (Linux;Android 14) ExoPlayerLib/2.14.0" referer="https://www.rtp.pt/play/direto/rtpinternacional",RTP I
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
-#EXTINF:-1 user-agent="FMLE/3.0 (compatible; FMSc/1.0)" referer="https://www.rtp.pt/play/direto/rtpinternacional",RTP I
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
-#EXTINF:-1 user-agent="Lavf/60.3.100" referer="https://www.rtp.pt/play/direto/rtpinternacional",RTP I
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
-#EXTINF:-1 user-agent="Lavf/60.3.100",RTP I
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
-#EXTINF:-1 user-agent="FMLE/3.0 (compatible; FMSc/1.0)",RTP I
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
