@@ -1975,6 +1975,8 @@ https://6476e46b58f91.streamlock.net/liveTrans/KurdmaxS0rani!/playlist.m3u8
 https://6476e46b58f91.streamlock.net/music/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png",RÛDAW TV
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png",ROJAVA TV
+https://iko-streamline-live1.akamaized.net/RojavaTV/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png",KURD CHANNEL
 https://kurd-channel.ikoflix.com/hls/stream_2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png",KURDISTAN 24
@@ -2741,7 +2743,7 @@ https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/stZxQHF/nessma.png",NESSMA
 https://edge66.magictvbox.com/liveApple/nessma/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9tsD8WP/TV2Al.png",TV2 ALGÉRIE
-https://tgn.bozztv.com/dvrfl05/gin-canalalgerie/index.m3u8
+http://69.64.57.208/canalalgerie/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Gn19S8p/al24dz.png",AL24 NEWS
 https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yQmcHjz/echourouk.png",ECHOROUK TV DZ
@@ -3658,6 +3660,8 @@ https://sbc-prod-dub-enc.edgenextcdn.net/out/v1/b09bbb8d9b684763be4211b088168de7
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MctgDQ8/sunnah.png",AL SUNNAH TV
 https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Qj9JJTCZ/amhquran.png",AL MAJD HOLY QURAN TV
+https://edge66.magictvbox.com/liveApple/al_majd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/f0cKj4S/kareem.jpg",QURAN KAREEM TV
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/G3xHLRPy/resalah.png",AL RESALAH
@@ -4948,3 +4952,13 @@ http://
 http://
 #EXTINF:-1,TEST 01
 http://
+#EXTINF:-1 user-agent="ExoPlayerDemo/2.0.6 (Linux;Android 14) ExoPlayerLib/2.14.0" referer="https://www.rtp.pt/play/direto/rtpinternacional",RTP I
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:-1 user-agent="FMLE/3.0 (compatible; FMSc/1.0)" referer="https://www.rtp.pt/play/direto/rtpinternacional",RTP I
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:-1 user-agent="Lavf/60.3.100" referer="https://www.rtp.pt/play/direto/rtpinternacional",RTP I
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:-1 user-agent="Lavf/60.3.100",RTP I
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:-1 user-agent="FMLE/3.0 (compatible; FMSc/1.0)",RTP I
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
