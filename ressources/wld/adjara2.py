@@ -8,7 +8,7 @@ headers = {
     "User-Agent": "Mozilla/5.0",
 }
 data = {
-    "channelSeoName": "adjara-tv"  # <-- replace with actual payload fields
+    "channelSeoName": "adjara-tv-canli"  # <-- replace with actual payload fields
 }
 response = requests.post(url, json=data, headers=headers)
 print(response.json())
