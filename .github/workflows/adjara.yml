@@ -31,7 +31,7 @@ jobs:
 
       - name: Execute Python script
         run: |
-          python3 ressources/wld/adjara1.py > ressources/wld/adjara1.m3u8
+          python3 ressources/wld/adjara2.py > ressources/wld/adjara2.m3u8
 
       - name: git add
         run: |
