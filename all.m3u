@@ -1014,9 +1014,9 @@ https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png",SHOW
 https://bloomberght-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" tvg-id="Fox.tr",NOW
-https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=JOzJdykoFqrk9dmK-3gQUg&e=1746699828
+Request failed: HTTPConnectionPool(host='www.nowtv.com.tr', port=80): Max retries exceeded with url: /canli-yayin (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x7fed3b9c08c0>: Failed to resolve 'www.nowtv.com.tr' ([Errno -3] Temporary failure in name resolution)"))
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" tvg-id="Fox.tr",NOW
-https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=JOzJdykoFqrk9dmK-3gQUg&e=1746699828
+Request failed: HTTPConnectionPool(host='www.nowtv.com.tr', port=80): Max retries exceeded with url: /canli-yayin (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x7fed3b9c08c0>: Failed to resolve 'www.nowtv.com.tr' ([Errno -3] Temporary failure in name resolution)"))
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png",TV8
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png",TV8
