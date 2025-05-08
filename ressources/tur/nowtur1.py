@@ -1,17 +1,26 @@
-import requests
+import ssl
+import urllib.request
 import re
 
+# Create an SSL context to disable certificate verification
+ssl_context = ssl.create_default_context()
+ssl_context.check_hostname = False
+ssl_context.verify_mode = ssl.CERT_NONE
+
+# URL to fetch
 url = 'https://www.nowtv.com.tr/canli-yayin'
 
-response = requests.get(url, verify=False)
+try:
+    # Fetch the HTML content
+    with urllib.request.urlopen(url, context=ssl_context) as response:
+        html_content = response.read().decode('utf-8')
 
-if response.status_code == 200:
-    match = re.search(r"daiUrl\s*:\s*'(https?://[^\']+)'", response.text)
-  
+    # Search for daiUrl using regex
+    match = re.search(r"daiUrl\s*:\s*'([^']+)'", html_content)
+
     if match:
-        erstrm = match.group(1)
-        print(erstrm)
+        print(match.group(1))
     else:
-        print("erstrm not found in the content.")
-else:
-    print(f"Failed to fetch content. HTTP Status code: {response.status_code}")
+        print("daiUrl not found in the content.")
+except Exception as e:
+    print(f"An error occurred: {e}")
