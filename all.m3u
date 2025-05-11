@@ -823,8 +823,8 @@ https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Bt6frts/trthaber.png" group-title="5. |TR|🇹🇷 HABER",TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ TV
-http://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=ztmY_cCtUl0.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" referer="https://turkcanli.tv",SÖZCÜ TV
+https://helga.iptv2022.com/szc_tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ TV
 http://176.65.146.123:6004/play/a019/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wdwm0fn/haberturk.png",HABER TÜRK
@@ -4954,5 +4954,5 @@ http://
 http://
 #EXTINF:-1,[⚽🏅🏆] *Empty* 'New' Service ❶❷❸ ➊➋➌
 http://
-#EXTINF:-1,TEST 01
+#EXTINF:-1,TEST 02
 http://
