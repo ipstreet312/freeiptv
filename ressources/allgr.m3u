@@ -281,6 +281,8 @@ https://live.creacast.com/telemelody/smil:telemelody-yjvCxE7x.smil/playlist.m3u8
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/frina.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/svWdczbW/ina.png" group-title="3. |FR|🇫🇷 SOCIÉTÉ",INA 70s
 https://fast-rakuten.okast.tv/channels/34d82f76-b51f-4bf5-9b35-769fb5904e79/96f96405-90e7-489a-a1e6-8ede5d2b4933/media_.m3u8?bpkio_serviceid=fa2e8c4385712f9af3e719ec904b3543
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B2Z50vtt/qwest.png" group-title="3. |FR|🇫🇷 SOCIÉTÉ",QWEST JAZZ
+https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M5P1TMG/clubbing.png" group-title="3. |FR|🇫🇷 SOCIÉTÉ",CLUBBING TV
 https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M5P1TMG/clubbing.png" group-title="3. |FR|🇫🇷 SOCIÉTÉ",CLUBBING TV
@@ -357,6 +359,8 @@ https://d3mzlmrngyf08j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d2q982f39qtdzh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-np9jnkbfjxrog/Vevo90and2000_FR.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kDmhscZ/mgg.png" group-title="3. |FR|🇫🇷 SOCIÉTÉ",MGG E-SPORT
 https://d1mdvi698umja9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kuib43fy5umqi-ssai-prd/mgg.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFf6hc4T/fifaplus.jpg" group-title="3. |FR|🇫🇷 SOCIÉTÉ",FIFA+ FR
+https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Xs1PxZs/driveauto.png" group-title="3. |FR|🇫🇷 SOCIÉTÉ",DRIVE AUTO
 https://amg01796-amg01796c2-rakuten-uk-3887.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-drivetv-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0YKFn02/motorvisionfrs.png" group-title="3. |FR|🇫🇷 SOCIÉTÉ",MOTORSPORT FR
@@ -387,6 +391,8 @@ https://d387lnkgycbwl.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da6
 https://d387lnkgycbwl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sdi2aweg8u1y4/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HzXTSvk/naturetime.jpg" group-title="3. |FR|🇫🇷 SOCIÉTÉ",NATURE TIME
 https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HzXTSvk/naturetime.jpg" group-title="3. |FR|🇫🇷 SOCIÉTÉ",NATURE TIME
+https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tYqGGQp/travelxp.jpg" group-title="3. |FR|🇫🇷 SOCIÉTÉ",TRAVEL XP
 https://0b0a5371d15f48128cf69b029230eac6.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-fr_TravelXP/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vxqS6F0/tv5voyage.png" group-title="3. |FR|🇫🇷 SOCIÉTÉ",TV5MONDE VOYAGE
@@ -823,8 +829,8 @@ https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Bt6frts/trthaber.png" group-title="5. |TR|🇹🇷 HABER",TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" group-title="5. |TR|🇹🇷 HABER",SÖZCÜ TV
-http://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=ztmY_cCtUl0.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" referer="https://turkcanli.tv" group-title="5. |TR|🇹🇷 HABER",SÖZCÜ TV
+https://helga.iptv2022.com/szc_tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" group-title="5. |TR|🇹🇷 HABER",SÖZCÜ TV
 http://176.65.146.123:6004/play/a019/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wdwm0fn/haberturk.png" group-title="5. |TR|🇹🇷 HABER",HABER TÜRK
@@ -901,6 +907,8 @@ http://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.s
 https://ensonhaber-live.ercdn.net/trthaber/trthaber.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Bt6frts/trthaber.png" group-title="5. |TR|🇹🇷 HABER",TRT HABER (backup)
 https://tv.ensonhaber.com/trthaber/trthaber.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" group-title="5. |TR|🇹🇷 HABER",SÖZCÜ TV (backup)
+https://b.fulltvizle.com/sozcu/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" group-title="5. |TR|🇹🇷 HABER",SÖZCÜ TV (backup)
 http://185.234.111.229:8000/play/a00y
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" group-title="5. |TR|🇹🇷 HABER",SÖZCÜ TV (backup)
@@ -1663,7 +1671,7 @@ https://cdn-duguntvmedya.yayin.com.tr/duguntvmedya/duguntvmedya/playlist.m3u8
 https://tv170.radyotelekom.com.tr:21764/edessatv/edessatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" referer="https://fm.tv.tr/" group-title="11. |TR|🇹🇷 YEREL - BÖLGESEL",EGE TV İZMİR
 https://radyotelekomtv.com/player/m3u8/366fe57e47b8093df9bb22ff1e7f5bd6/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="11. |TR|🇹🇷 YEREL - BÖLGESEL",EGE TV İZMİR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="11. |TR|🇹🇷 YEREL - BÖLGESEL",EGE MAX İZMİR
 https://customer-c7coo2iloxeojh2d.cloudflarestream.com/c61484b2af92bef0814536122d01233c/manifest/stream_t5f28a648e8b16a70a2ceec733b098bc5_r899548610.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="11. |TR|🇹🇷 YEREL - BÖLGESEL",EGE LIVE TV
 http://stream.tvcdn.net/yerel/ege-live-tv.m3u8
@@ -2254,6 +2262,8 @@ https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
 https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fk0Vttj/tracebraz.png" group-title="13. |PT|🇵🇹 PORTUGAL",TRACE BRAZUCA
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-brazuca/encrypted.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fk0Vttj/tracebraz.png" group-title="13. |PT|🇵🇹 PORTUGAL",TRACE BRAZUCA
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ccfvktkgxl5qg/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3YZFCjp/rtp1.jpg" group-title="13. |PT|🇵🇹 PORTUGAL",RTP 1 (backup sd)
 https://streaming-live.rtp.pt/liverepeater/rtp1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tbFT1V2/rtp2.jpg" group-title="13. |PT|🇵🇹 PORTUGAL",RTP 2 (backup sd)
@@ -2548,6 +2558,8 @@ https://videoserver.tmcreativos.com:19360/ccxwhsfcnq/ccxwhsfcnq.m3u8
 https://tvmelilla-hls-rm-lw.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HKFVwnt/ceum.jpg" group-title="14. |ES|🇪🇸 ESPAÑA",CEUTA RTV
 https://cdnlive.codev8.net/rtvcelive/channel1.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PGd1Sj9H/huelva.jpg" group-title="14. |ES|🇪🇸 ESPAÑA",HUELVA TV
+https://5f71743aa95e4.streamlock.net:1936/huelvatv/htvdirecto/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QnMxFJD/madr.jpg" group-title="14. |ES|🇪🇸 ESPAÑA",TELE MADRID
 https://telemadrid-23-secure2.akamaized.net/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QnMxFJD/madr.jpg" group-title="14. |ES|🇪🇸 ESPAÑA",TELE MADRID INT
@@ -3136,6 +3148,8 @@ https://starmenajo.com/hls/almasar/index.m3u8
 https://63b03f7689049.streamlock.net/live/1tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HtKQ15z/alw1.png" group-title="17. |AR|🇸🇦 MIDDLE EAST-1 عربي",ALAWLA TV
 https://63b03f7689049.streamlock.net/live/_definst_/1tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Lh6wp1q4/assirat.png" group-title="17. |AR|🇸🇦 MIDDLE EAST-1 عربي",ASSIRAT
+https://softverse.b-cdn.net/Assirat/assiratobs/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nnQnFjg/sharjahtv.png" group-title="17. |AR|🇸🇦 MIDDLE EAST-1 عربي",SHARJAH TV
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nnQnFjg/sharjahtv.png" group-title="17. |AR|🇸🇦 MIDDLE EAST-1 عربي",SHARJAH TV
@@ -3666,8 +3680,8 @@ https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
 https://edge66.magictvbox.com/liveApple/al_majd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/f0cKj4S/kareem.jpg" group-title="19. |AR|🇸🇦 THEMATICS-1 عربي",QURAN KAREEM TV
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/G3xHLRPy/resalah.png" group-title="19. |AR|🇸🇦 THEMATICS-1 عربي",AL RESALAH
-https://rotana.hibridcdn.net/rotana/risala_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/G3xHLRPy/resalah.png" referer="https://rotana.net/" group-title="19. |AR|🇸🇦 THEMATICS-1 عربي",AL RESALAH
+https://rotana.hibridcdn.net/rotananet/risala_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HPzRmd3/alistiqama.png" group-title="19. |AR|🇸🇦 THEMATICS-1 عربي",AL ISTIQAMA
 https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Mgm51w6/sat7ara.webp" group-title="19. |AR|🇸🇦 THEMATICS-1 عربي",SAT7 ARABIC
@@ -3806,8 +3820,8 @@ https://d2lfa0y84k5bwn.cloudfront.net/out/v1/86dd4506a70c4d7fb35e2ab50296d9a3/in
 https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7W5nWYV/rotanacinema.png" group-title="20. |AR|🇸🇦 THEMATICS-2 عربي",ROTANA CINEMA KSA
 https://rotana.hibridcdn.net/rotana/cinema_net-7Y83PP5adWixDF93/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7W5nWYV/rotanacinema.png" group-title="20. |AR|🇸🇦 THEMATICS-2 عربي",ROTANA CINEMA MASR
-https://rotana.hibridcdn.net/rotana/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7W5nWYV/rotanacinema.png" referer="https://rotana.net/" group-title="20. |AR|🇸🇦 THEMATICS-2 عربي",ROTANA CINEMA MASR
+https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7W5nWYV/rotanacinema.png" group-title="20. |AR|🇸🇦 THEMATICS-2 عربي",ROTANA AFLAM PLUS
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rotana-aflam-plus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N2C6FMyv/Mplus.png" group-title="20. |AR|🇸🇦 THEMATICS-2 عربي",ROTANA M PLUS
@@ -3824,8 +3838,8 @@ https://edge66.magictvbox.com/liveApple/rotana_khalijiah/tracks-v1a1/mono.m3u8
 https://rotana.hibridcdn.net/rotana/khaleejiya_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/207NnrF1/pncdr.png" group-title="20. |AR|🇸🇦 THEMATICS-2 عربي",ROTANA PNC DRAMA
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pnc-drama/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/207NnrF1/pncdr.png" group-title="20. |AR|🇸🇦 THEMATICS-2 عربي",ROTANA DRAMA
-https://rotana.hibridcdn.net/rotana/drama_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/207NnrF1/pncdr.png" referer="https://rotana.net/" group-title="20. |AR|🇸🇦 THEMATICS-2 عربي",ROTANA DRAMA
+https://rotana.hibridcdn.net/rotananet/drama_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png" group-title="20. |AR|🇸🇦 THEMATICS-2 عربي",ROYA TV
 https://royatv-live.daioncdn.net/royatv/royatv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png" group-title="20. |AR|🇸🇦 THEMATICS-2 عربي",ROYA MUSIC
@@ -4778,6 +4792,8 @@ https://amg00663-skynews-skynewsau-samsungau-r7n40.amagi.tv/playlist/amg00663-sk
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/prZ8kjdR/Wion.png" group-title="27. |EN-UK-US|🇬🇧🇺🇸 WORLDWIDE-INTL ℹ️🌐",WION NEWS INDIA
 https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7J24bwVD/cnaid.png" group-title="27. |EN-UK-US|🇬🇧🇺🇸 WORLDWIDE-INTL ℹ️🌐",CHANNEL NEWS ASIA
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hKP8X8B/f24.png" group-title="27. |EN-UK-US|🇬🇧🇺🇸 WORLDWIDE-INTL ℹ️🌐",FRANCE 24 EN
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hKP8X8B/f24.png" group-title="27. |EN-UK-US|🇬🇧🇺🇸 WORLDWIDE-INTL ℹ️🌐",FRANCE 24 EN
@@ -4842,6 +4858,8 @@ https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s9gLmqv/cgtnch.png" group-title="27. |EN-UK-US|🇬🇧🇺🇸 WORLDWIDE-INTL ℹ️🌐",CGTN NEWS
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s9gLmqv/cgtnch.png" group-title="27. |EN-UK-US|🇬🇧🇺🇸 WORLDWIDE-INTL ℹ️🌐",CGTN NEWS
+https://english-livebkali.cgtn.com/live/encgtn.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rwbrckj/pressir.png" group-title="27. |EN-UK-US|🇬🇧🇺🇸 WORLDWIDE-INTL ℹ️🌐",PRESS TV [censure-ifany]
 https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rwbrckj/pressir.png" group-title="27. |EN-UK-US|🇬🇧🇺🇸 WORLDWIDE-INTL ℹ️🌐",PRESS TV [censure-ifany]
@@ -4954,5 +4972,5 @@ http://
 http://
 #EXTINF:-1 group-title="28. |📡|👨‍💻👉GITHUB.COM/IPSTREET312",[⚽🏅🏆] *Empty* 'New' Service ❶❷❸ ➊➋➌
 http://
-#EXTINF:-1 group-title="28. |📡|👨‍💻👉GITHUB.COM/IPSTREET312",TEST 01
+#EXTINF:-1 group-title="28. |📡|👨‍💻👉GITHUB.COM/IPSTREET312",TEST 02
 http://
