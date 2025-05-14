@@ -1162,7 +1162,7 @@ https://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TB5N8cN/trt2.png",TRT 2
 https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Fq0ZvYG/meltemtvt.png",MELTEM TV
-https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
+http://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sRNHKjS/tivi622.png",TİVİ 6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SnPFhXS/cnee12.png",CİNE 1
@@ -1296,9 +1296,9 @@ https://trkvz-live.daioncdn.net/minikago_cocuk/minikago_cocuk.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Zxd0j45/cartoonnetwork.png",CARTOON NETWORK TR
 http://51.20.137.71/stream/yt/cartoonnetwork.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SwwjnF5/gstv.png",GALATASARAY TV
-https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
+http://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/867fC4z/fbtv22a.png",FENERBAHÇE TV
-https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
+http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F0Tsz1v/htsportr.png",HT SPOR
 https://ciner-live.ercdn.net/htspor/htspor.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F0Tsz1v/htsportr.png",HT SPOR
@@ -4976,23 +4976,3 @@ http://
 http://
 #EXTINF:-1,TEST 02
 http://
-#EXTINF:-1 user-agent="VLC/3.0.18 LibVLC/3.0.18",FB C
-https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/chunklist_b8628000_slTUR.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0",ML C
-https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0",GS C
-https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b1828000_sltur.m3u8
-#EXTINF:-1 user-agent="VLC/3.0.18 LibVLC/3.0.18",ML P
-https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
-#EXTINF:-1 user-agent="Star Wars",GS P
-https://owifavo5.rocketcdn.com/gstv/gstv.smil/playlist.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; Android 14; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/24.0 Chrome/118.0.5993.90 Mobile Safari/537.36",FB P
-https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
-#EXTINF:-1 user-agent="VLC/3.0.18 LibVLC/3.0.18",FB PH UA
-http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
-#EXTINF:-1 user-agent="VLC/3.0.18 LibVLC/3.0.18",ML PH UA
-http://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
-#EXTINF:-1,FB PH
-http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
-#EXTINF:-1,ML PH
-http://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
