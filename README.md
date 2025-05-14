@@ -1,5 +1,10 @@
 # freeiptv, how to use the "ALL.m3u" file link procedure explained here : https://receptioniptv.blogspot.com/
 
+<font color="#741B7C">Tu aimes streamer ? Très bien ! Ici c'est à toi :)</font>
+<font color="#377D22">You like to stream ? Good! Here it's yours :) </font>
+
+<font color="#0023F5">Stream yapmayı seviyon? İşte bu! Burası senin :) (#377D22).</font>
+
 <img src="https://github.com/ipstreet312/freeiptv/blob/master/ressources/infos/barkers/groups1602.png?raw=true">
 
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/all.m3u
