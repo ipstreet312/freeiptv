@@ -4988,3 +4988,11 @@ https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/playlist.m3u8
 #EXTINF:-1 user-agent="Mozilla/5.0 (Linux; Android 14; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/24.0 Chrome/118.0.5993.90 Mobile Safari/537.36",FB P
 https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
+#EXTINF:-1 user-agent="VLC/3.0.18 LibVLC/3.0.18",FB PH UA
+http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
+#EXTINF:-1 user-agent="VLC/3.0.18 LibVLC/3.0.18",ML PH UA
+http://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
+#EXTINF:-1,FB PH
+http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
+#EXTINF:-1,ML PH
+http://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
