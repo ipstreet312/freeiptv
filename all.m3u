@@ -862,7 +862,7 @@ http://116.202.238.88/CNNTURK_TR/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png",CNN TÜRK
 https://b.fulltvizle.com/cnn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jZShqBM/Krt24v2.png",KRT
-https://trn03.tulix.tv/gt-krt/index.m3u8
+http://koprulu3.global.ssl.fastly.net/yt.m3u8/?id=v5srSbD2WBk.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9s9YKYT/gzt.png",GZT
 https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0MHPk8y/benguturk.png",BENGÜ TÜRK
@@ -1985,6 +1985,12 @@ https://6476e46b58f91.streamlock.net/music/livestream/playlist.m3u8
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png",ROJAVA TV
 https://iko-streamline-live1.akamaized.net/RojavaTV/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png",MED MUSIC
+https://iko-live.akamaized.net/MedMusicTV/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png",MEDYA HABER
+https://iko-streamline-live1.akamaized.net/MedyaHaber/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png",RONAHI TV
+https://iko-streamline-live1.akamaized.net/RonahiTV/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png",KURD CHANNEL
 https://kurd-channel.ikoflix.com/hls/stream_2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png",KURDISTAN 24
