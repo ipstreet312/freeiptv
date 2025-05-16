@@ -5,7 +5,7 @@
 ![Stream yapmayı seviyon](https://img.shields.io/badge/Stream%20yapmay%C4%B1%20seviyon%3F%20%C4%B0%C5%9Fte%20bu%21%20Buras%C4%B1%20senin%3A%29-green)
 ❤️
 
-<img src="https://github.com/ipstreet312/freeiptv/blob/master/ressources/infos/barkers/groups1602.png?raw=true">
+<img src="https://github.com/ipstreet312/freeiptv/blob/master/ressources/infos/barkers/groupstab.jpeg?raw=true">
 
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/all.m3u
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/allgr.m3u
