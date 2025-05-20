@@ -181,6 +181,8 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr4.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N9d4yXt/fr5bl.png" group-title="2. |FR|🇫🇷 GÉNÉRALISTE",FRANCE 5
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr5.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8rcTV8C/festcannes.jpg" group-title="2. |FR|🇫🇷 GÉNÉRALISTE",FESTIVAL DE CANNES TV
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/festival-de-cannes.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9rmSGqP/frsr.png" group-title="2. |FR|🇫🇷 GÉNÉRALISTE",FRANCE TV SÉRIES
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frserv2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kJjHW61/frdocs.png" group-title="2. |FR|🇫🇷 GÉNÉRALISTE",FRANCE TV DOCUMENTAIRES
@@ -858,8 +860,6 @@ https://bloomberght-live.daioncdn.net/bloomberght/bloomberght.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xS3zLQr/ekoturk.png" group-title="5. |TR|🇹🇷 HABER",EKO TÜRK
 http://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=7cItyPb6-p0.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png" group-title="5. |TR|🇹🇷 HABER",CNN TÜRK
-http://116.202.238.88/CNNTURK_TR/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png" group-title="5. |TR|🇹🇷 HABER",CNN TÜRK
 https://b.fulltvizle.com/cnn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jZShqBM/Krt24v2.png" group-title="5. |TR|🇹🇷 HABER",KRT
 http://koprulu3.global.ssl.fastly.net/yt.m3u8/?id=v5srSbD2WBk.m3u8
@@ -1032,7 +1032,7 @@ https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="6. |TR|🇹🇷 ULUSAL GENEL",ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="6. |TR|🇹🇷 ULUSAL GENEL",ATV
-https://trkvz.daioncdn.net/atv/atv_720p.m3u8?app=web
+https://izle.canlitvapp.com/aytv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1s3fHfm/k7tr1.png" group-title="6. |TR|🇹🇷 ULUSAL GENEL",KANAL 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1s3fHfm/k7tr1.png" group-title="6. |TR|🇹🇷 ULUSAL GENEL",KANAL 7
@@ -1124,7 +1124,7 @@ https://trkvz-beta.daioncdn.net/atv/atv.m3u8?app=d1ce2d40-5256-4550-b02e-e73c185
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="6. |TR|🇹🇷 ULUSAL GENEL",ATV (backup)
 https://yayin2.canlitv.fun/livetv/atv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="6. |TR|🇹🇷 ULUSAL GENEL",ATV (backup)
-https://c.fulltvizle.com/aytv/index.m3u8
+https://trkvz.daioncdn.net/atv/atv_720p.m3u8?app=web
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="6. |TR|🇹🇷 ULUSAL GENEL",ATV (backup)
 https://bozztv.com/gin-36bay4/gt-atv-tv3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="6. |TR|🇹🇷 ULUSAL GENEL",ATV (backup)
@@ -3102,10 +3102,14 @@ http://5.9.119.146:8883/nbn/index.m3u8
 https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YhMgggj/lbcb.jpg" referer="https://rotana.net/" group-title="17. |LB|🇱🇧 LIBAN-LÜBNAN-LEBANON-لبنان",LBC LBN
 https://rotana.hibridcdn.net/rotananet/lbc_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YhMgggj/lbcb.jpg" group-title="17. |LB|🇱🇧 LIBAN-LÜBNAN-LEBANON-لبنان",LBC INT
+https://samaflix.com:12103/channel2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Svnqq8G/otv.jpg" group-title="17. |LB|🇱🇧 LIBAN-LÜBNAN-LEBANON-لبنان",OTV LBN
 http://185.9.2.18/chid_312/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hM98B0V/jadeed.png" group-title="17. |LB|🇱🇧 LIBAN-LÜBNAN-LEBANON-لبنان",AL JADEED
 http://185.9.2.18/chid_391/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hM98B0V/jadeed.png" group-title="17. |LB|🇱🇧 LIBAN-LÜBNAN-LEBANON-لبنان",AL JADEED
+https://samaflix.com:12103/channel7/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1KcjbKf/almayadeen.png" group-title="17. |LB|🇱🇧 LIBAN-LÜBNAN-LEBANON-لبنان",AL MAYADEEN
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N2Y7kBrL/aliman.png" group-title="17. |LB|🇱🇧 LIBAN-LÜBNAN-LEBANON-لبنان",AL IMAN
@@ -3720,6 +3724,8 @@ https://svs.itworkscdn.net/noursatenglive/noursateng.smil/playlist.m3u8
 https://5aafcc5de91f1.streamlock.net/ctvchannel.tv/ctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/St7FsRJ/ctvcop.jpg" group-title="20. |AR|🇸🇦 THEMATICS-1 عربي",CTV COPTIC
 https://58cc65c534c67.streamlock.net/ctvchannel.tv/ctv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Z1TqPB8R/suboro.jpg" group-title="20. |AR|🇸🇦 THEMATICS-1 عربي",SUBORO TV
+https://suborotv.hibridcdn.net/suborotv/suborotv_abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mNnyV1K/alhurra.png" group-title="20. |AR|🇸🇦 THEMATICS-1 عربي",AL HURRA (backup)
 https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nzjbYfR/asharq.png" group-title="20. |AR|🇸🇦 THEMATICS-1 عربي",ASHARQ NEWS (backup)
@@ -3844,12 +3850,20 @@ https://rotana.hibridcdn.net/rotana/cinema_net-7Y83PP5adWixDF93/playlist.m3u8
 https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7W5nWYV/rotanacinema.png" group-title="21. |AR|🇸🇦 THEMATICS-2 عربي",ROTANA AFLAM PLUS
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rotana-aflam-plus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7W5nWYV/rotanacinema.png" group-title="21. |AR|🇸🇦 THEMATICS-2 عربي",ROTANA AFLAM PLUS
+https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N2C6FMyv/Mplus.png" group-title="21. |AR|🇸🇦 THEMATICS-2 عربي",ROTANA M PLUS
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/m-plus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N2C6FMyv/Mplus.png" group-title="21. |AR|🇸🇦 THEMATICS-2 عربي",ROTANA M PLUS
+https://cdn1.iptvcdn.tv/mcnc/ROTANA_MPLUS/playlist.m3u8?token=demo
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HNm4jw9/rotanaclip.png" referer="https://rotana.net/" group-title="21. |AR|🇸🇦 THEMATICS-2 عربي",ROTANA CLIP
 https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HNm4jw9/rotanaclip.png" group-title="21. |AR|🇸🇦 THEMATICS-2 عربي",ROTANA MUSIC
+https://cdn1.iptvcdn.tv/mcnc/ROTANA_MUSIC/playlist.m3u8?&token=demo
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6DcdjwT/rotanaclassic.png" referer="https://rotana.net/" group-title="21. |AR|🇸🇦 THEMATICS-2 عربي",ROTANA CLASSIC
 https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PN8G6F8/rotanakids.png" group-title="21. |AR|🇸🇦 THEMATICS-2 عربي",ROTANA KIDS
+https://cdn1.iptvcdn.tv/mcnc/ROTANA_KIDS/playlist.m3u8?&token=demo
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SwZKHJj/rcomedy.jpg" referer="https://rotana.net/" group-title="21. |AR|🇸🇦 THEMATICS-2 عربي",ROTANA COMEDY
 https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5sJ9vSJ/rotanakhalijia.png" group-title="21. |AR|🇸🇦 THEMATICS-2 عربي",ROTANA KHALIJA
@@ -4236,6 +4250,20 @@ http://rtcg2.videostreaming.rs:1935/rtcg/rtcg.2.stream/playlist.m3u8
 http://blank
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rf1Vmfs5/Nwsalb.png" group-title="25. |HR-BA-RS++|🇭🇷🇧🇦🇷🇸 BALKANIC",NEWS 24 ALB
 https://tv.balkanweb.com/news24/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NQbzLyV/artaalb.jpg" group-title="25. |HR-BA-RS++|🇭🇷🇧🇦🇷🇸 BALKANIC",ARTA TV
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/mps-vgx-u9p-qv1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/W4GcZTr1/koha.jpg" group-title="25. |HR-BA-RS++|🇭🇷🇧🇦🇷🇸 BALKANIC",KOHAVISION
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/lj9-pxm-o53-rp0/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Nd7f2QvW/21alb.jpg" group-title="25. |HR-BA-RS++|🇭🇷🇧🇦🇷🇸 BALKANIC",RTV 21 ALBANIA
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/2cz-npl-jfn-9he/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7N8KPCBZ/alb7.jpg" group-title="25. |HR-BA-RS++|🇭🇷🇧🇦🇷🇸 BALKANIC",TV7 ALBANIA
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vC4C1F1f/rtvalb.jpg" group-title="25. |HR-BA-RS++|🇭🇷🇧🇦🇷🇸 BALKANIC",ARBRERIA 1
+https://yayin30.haber100.com/live/rtvarberia/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yDRRMqP/prizeni.jpg" group-title="25. |HR-BA-RS++|🇭🇷🇧🇦🇷🇸 BALKANIC",TV PRIRZENI
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/5m0-cok-g5z-1xi/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D2GvNMZ/syrialb.jpg" group-title="25. |HR-BA-RS++|🇭🇷🇧🇦🇷🇸 BALKANIC",TV SYRI
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/xej-xnb-ba0-kup/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png" group-title="26. |GE-AM-AZ|🇬🇪🇦🇲🇦🇿 CAUCASIAN",GPB 1TV პირველი არხი
