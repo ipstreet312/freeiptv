@@ -2770,6 +2770,8 @@ https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8
 https://edge66.magictvbox.com/liveApple/nessma/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9tsD8WP/TV2Al.png",TV2 ALGÉRIE
 http://69.64.57.208/canalalgerie/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9tsD8WP/TV2Al.png",TV2 ALGÉRIE
+https://live20.bozztv.com/dvrfl05/gin-canalalgerie/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Gn19S8p/al24dz.png",AL24 NEWS
 https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yQmcHjz/echourouk.png",ECHOROUK TV DZ
@@ -4282,6 +4284,18 @@ https://yayin30.haber100.com/live/rtvarberia/playlist.m3u8
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/5m0-cok-g5z-1xi/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D2GvNMZ/syrialb.jpg",TV SYRI
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/xej-xnb-ba0-kup/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MDMbdzKG/albmusic.jpg",ALB MUSIC
+http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RkSFfsq7/albuk.jpg",ALB UK
+http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nqWcMQ55/tvanews.png",TVA NEWS
+https://live.tvanews.com/live/tvanews/play.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qFm4shqL/topestr.jpg",TOP ESTRADA
+http://live.topestrada.com/live/topestrada/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qL0jBF6Y/tvshiqponja.jpg",SHQIPONJA TV
+https://shiko.shqiponja-tv.com:3941/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S7vytcfQ/opoja.jpg",OPOJA TV
+http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png" group-title="26. |GE-AM-AZ|🇬🇪🇦🇲🇦🇿 CAUCASIAN",GPB 1TV პირველი არხი
