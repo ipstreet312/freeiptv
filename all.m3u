@@ -4168,11 +4168,11 @@ https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/link
 https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/wld/tvpol.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6cPg4sDK/tvpolonia.png",TVP POLONIA
 http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/10094/hls/pl.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mCR9kjjf/tvpinf.png",TVP INFO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HfF3xb5y/tvpinfopl.png",TVP INFO
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/tvpinfo.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mCR9kjjf/tvpinf.png",TVP INFO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HfF3xb5y/tvpinfopl.png",TVP INFO
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvpinfo.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mCR9kjjf/tvpinf.png",TVP INFO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HfF3xb5y/tvpinfopl.png",TVP INFO
 https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/wld/tvpin.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4wL8Hxgs/tvpkultu.png",TVP KULTURA
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvpkultura.m3u8
@@ -4184,8 +4184,12 @@ https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/link
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvphistoria2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/46QnrG9/tvp1.png",TVP 1
 https://cdndai.pl/tvp1hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/46QnrG9/tvp1.png",TVP 1
+https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvp1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/23wHr2St/tvp2.png",TVP 2
 https://cdndai.pl/tvp2hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/23wHr2St/tvp2.png",TVP 2
+https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvp2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CpvvBMmp/tvp3.png",TVP3 WARSZAWA
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvp3warszawa.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kx2RQ5V/polsatnews1.png",POLSAT NEWS
