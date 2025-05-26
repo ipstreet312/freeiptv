@@ -4182,12 +4182,12 @@ https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/link
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvphistoria.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vvDGM62d/tvhist2.png",TVP HISTORIA 2
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvphistoria2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/46QnrG9/tvp1.png",TVP 1
-https://cdndai.pl/tvp1hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/46QnrG9/tvp1.png" user-agent="VLC/3.0.20 LibVLC/3.0.20",TVP 1
+http://cdndai.pl/tvp1hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/46QnrG9/tvp1.png",TVP 1
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvp1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/23wHr2St/tvp2.png",TVP 2
-https://cdndai.pl/tvp2hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/23wHr2St/tvp2.png" user-agent="VLC/3.0.20 LibVLC/3.0.20",TVP 2
+http://cdndai.pl/tvp2hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/23wHr2St/tvp2.png",TVP 2
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvp2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CpvvBMmp/tvp3.png",TVP3 WARSZAWA
@@ -5092,5 +5092,5 @@ http://
 http://
 #EXTINF:-1,[⚽🏅🏆] *Empty* 'New' Service ❶❷❸ ➊➋➌
 http://
-#EXTINF:-1,TEST 02
+#EXTINF:-1,TEST 01
 http://
