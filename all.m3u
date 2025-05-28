@@ -858,11 +858,11 @@ https://tv5-live.ercdn.net/tv5/tv5.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HXKrJRC/blght22.png",BLOOMBERG HT
 https://bloomberght-live.daioncdn.net/bloomberght/bloomberght.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xS3zLQr/ekoturk.png",EKO TÜRK
-http://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=7cItyPb6-p0.m3u8
+http://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=7cItyPb6-p0.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png",CNN TÜRK
 https://b.fulltvizle.com/cnn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jZShqBM/Krt24v2.png",KRT
-http://koprulu3.global.ssl.fastly.net/yt.m3u8/?id=v5srSbD2WBk.m3u8
+http://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=v5srSbD2WBk.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9s9YKYT/gzt.png",GZT
 https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0MHPk8y/benguturk.png",BENGÜ TÜRK
@@ -2175,6 +2175,8 @@ http://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
 http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L9fj1Hj/greece.png",HELLENIC TV
 https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VYy73hyQ/extacytv.jpg",EXTACY TV
+https://fr.crystalweb.net:1936/extacytv/extacytv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L9fj1Hj/greece.png",GREEK TV LONDON
 https://vdo.streams.gr:3125/live/greektvlondonlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L9fj1Hj/greece.png",GRD CHANNEL
@@ -2757,9 +2759,9 @@ https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/link
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5M4CwmQ/watania1.png",WATANIA 1
 http://live.watania1.tn:1935/live/watanya1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5M4CwmQ/watania1.png",WATANIA 1
-https://github.com/MassinDV/Youtube-arabic-channels/raw/main/live/ch96.m3u8
+https://live20.bozztv.com/gin-36bay4/ga-elwatania1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TM8sRjr/watanya-2.png",WATANIA 2
-https://github.com/MassinDV/Youtube-arabic-channels/raw/main/live/ch35.m3u8
+https://live20.bozztv.com/gin-36bay4/ga-elwatania2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TM8sRjr/watanya-2.png",WATANIA 2
 http://live.watania2.tn:1935/live/watanya2.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8DxdBPf/Attessia9.png",ATTASIA 9
