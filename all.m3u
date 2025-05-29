@@ -1128,7 +1128,7 @@ https://yayin2.canlitv.fun/livetv/atv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV (backup)
 https://trkvz.daioncdn.net/atv/atv_720p.m3u8?app=web
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV (backup)
-https://bozztv.com/gin-36bay4/gt-atv-tv3/playlist.m3u8
+https://live20.bozztv.com/gin-36bay4/gt-atv-tv3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV (backup)
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV (backup)
@@ -2009,6 +2009,8 @@ https://6476e46b58f91.streamlock.net/music/livestream/chunklist.m3u8
 https://live.bradosti.net/live/GaliKurdistan/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png",KOMALA TV
 https://live.tvkomala.com/live/komala/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png",WELAT TV
+http://stream.welattv.net:1935/welat/tv/.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png",JÎN TV
 https://live.jintv.org/medialive/jintv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png",CÎHAN TV
@@ -2756,6 +2758,8 @@ https://edge14.vedge.infomaniak.com/livecast/chadatv/manifest.m3u8
 https://test-streamer.eagrpservices.com/video/live/720p/chada.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rfwFbLk/telemaroc.gif",TELE MAROC
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/telemaroc.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rfwFbLk/telemaroc.gif",TELE MAROC
+https://live20.bozztv.com/gin-36bay3/ga-telemaroc/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5M4CwmQ/watania1.png",WATANIA 1
 http://live.watania1.tn:1935/live/watanya1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5M4CwmQ/watania1.png",WATANIA 1
@@ -2766,8 +2770,18 @@ https://live20.bozztv.com/gin-36bay4/ga-elwatania2/index.m3u8
 http://live.watania2.tn:1935/live/watanya2.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8DxdBPf/Attessia9.png",ATTASIA 9
 https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8DxdBPf/Attessia9.png",ATTASIA 9
+https://live20.bozztv.com/gin-36bay3/ga-attessiatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/stZxQHF/nessma.png",NESSMA
 https://edge66.magictvbox.com/liveApple/nessma/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/stZxQHF/nessma.png",NESSMA
+https://live20.bozztv.com/gin-36bay4/ga-nessmatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/svxJXfRv/tunisna.png",TUNISNA TV
+https://live20.bozztv.com/gin-36bay3/ga-tunisna/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Cs2t9hGC/carthage.jpg",CARTHAGE TN
+https://live20.bozztv.com/gin-36bay3/ga-carthageplus/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5bQvDyQ/hannibal.jpg",HANNIBAL TN
+https://live20.bozztv.com/gin-36bay3/ga-hannibaltv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9tsD8WP/TV2Al.png",TV2 ALGÉRIE
 http://69.64.57.208/canalalgerie/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9tsD8WP/TV2Al.png",TV2 ALGÉRIE
@@ -2775,7 +2789,11 @@ https://live20.bozztv.com/dvrfl05/gin-canalalgerie/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Gn19S8p/al24dz.png",AL24 NEWS
 https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yQmcHjz/echourouk.png",ECHOROUK TV DZ
+https://live20.bozztv.com/gin-36bay3/ga-echorouktv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yQmcHjz/echourouk.png",ECHOROUK TV DZ
 https://hls-distrib-rlb1.dzsecurity.net/live/EchoroukTV/playlist.m3u8?e=&token=
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1vH6q4L/echounws.png",ECHOROUK NEWS DZ
+https://live20.bozztv.com/gin-36bay3/ga-echorouknews/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1vH6q4L/echounws.png",ECHOROUK NEWS DZ
 https://hls-distrib-rlb1.dzsecurity.net/live/EchoroukNews/playlist.m3u8?e=&token=
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7Q4Zv2v/elhayat.png",EL HAYAT DZ
@@ -3290,6 +3308,16 @@ https://shls-live-enc.edgenextcdn.net/out/v1/97427be47b79457b9ca245e22a8db23a/in
 https://starmenajo.com/hls/almahriah/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PFCf0SG/jaylia.jpg",AL JAYLIA
 https://media2.livaat.com/AL-Jaleyah/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N2H1qy00/kahera.jpg",KAHERA EG
+https://live20.bozztv.com/gin-36bay3/ga-alkahera/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rG6KzwsJ/hayah.jpg",AL HAYAH TV
+https://live20.bozztv.com/gin-36bay4/ga-alhayah/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xqPsDy1j/hayahseries.png",AL HAYAH SERIES
+https://live20.bozztv.com/gin-36bay4/ga-alhayahseries/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QFjyLpxc/mehwar.jpg",EL MEHWAR TV
+https://live20.bozztv.com/gin-36bay4/ga-elmehwar/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/21jT7ywt/nahar.jpg",AL NAHAR TV
+https://live20.bozztv.com/gin-36bay4/ga-alnahar/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/740Znb4/ittihad.png",ETIHAD
 https://live.alittihad.tv:444/ittihad/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KcJQnz4Y/thaqafeyyah.jpg",THAQAFEYYAH
@@ -3669,7 +3697,7 @@ https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k8Xbs2n/alshallal.jpg",AL SHALLAL
 https://amg01480-alshallalfze-alshallal-ono-q0hfg.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ch3FNj9/tenar.jpg",TEN WEYYAK
-https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
+https://live20.bozztv.com/gin-36bay3/ga-tentv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S3Wm3q9/iqraanew.png",IQRAA 1
 https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S3Wm3q9/iqraanew.png",IQRAA 2
@@ -3860,6 +3888,12 @@ https://d2lfa0y84k5bwn.cloudfront.net/out/v1/86dd4506a70c4d7fb35e2ab50296d9a3/in
 https://bcovlive-a.akamaihd.net/0c223ac0a9d34b30b100cb92ee83b70a/us-west-2/6057955906001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0jpsxm7/cbcsofra.png",CBC SOFRA
 https://bcovlive-a.akamaihd.net/753a1f2c951b4fb3914f30e1deb147d8/us-west-2/6057955906001/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/21JHLXpk/cbcdrama.jpg",CBC DRAMA
+https://live20.bozztv.com/gin-36bay4/ga-cbcdrama/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N2msLHmY/dmcdrama.png",DMC DRAMA
+https://live20.bozztv.com/gin-36bay4/ga-dmcdrama/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w9W05Dk/ondrama.png",ON DRAMA
+https://live20.bozztv.com/gin-36bay4/ga-ondrama/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kcwxz7NQ/dmceg.png",DMC EGY
 https://bcovlive-a.akamaihd.net/ba3169004d40484b9ff29e194964c9e8/eu-west-1/6057955906001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7W5nWYV/rotanacinema.png",ROTANA CINEMA KSA
