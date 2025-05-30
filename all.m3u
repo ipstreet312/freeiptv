@@ -606,7 +606,7 @@ https://new.cache-stream.workers.dev/stream/UCdFv_ZWQ3Xk_NfRiaK-ryGg/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zRLKgFS/alpehuez.png",ALPE D'HUEZ TV
 https://edge14.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/61mqv2h/biptv.png",BIP TV
-https://biptv.tv/live/biptvstream_orig/index.m3u8
+https://www.biptv.tv/live/biptvstream.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Dpsn6ZV/c32.png",CANAL 32
 https://edge17.vedge.infomaniak.com/livecast/ik:canal32_4/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Dpsn6ZV/c32.png",CANAL 32
@@ -2788,6 +2788,8 @@ http://69.64.57.208/canalalgerie/playlist.m3u8
 https://live20.bozztv.com/dvrfl05/gin-canalalgerie/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Gn19S8p/al24dz.png",AL24 NEWS
 https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pPwR2Tc/ennahar.png",ENNAHAR TV
+https://live20.bozztv.com/gin-36bay3/ga-ennahartv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yQmcHjz/echourouk.png",ECHOROUK TV DZ
 https://live20.bozztv.com/gin-36bay3/ga-echorouktv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yQmcHjz/echourouk.png",ECHOROUK TV DZ
@@ -3132,6 +3134,8 @@ https://rotana.hibridcdn.net/rotananet/lbc_net-7Y83PP5adWixDF93/playlist.m3u8
 https://samaflix.com:12103/channel2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Svnqq8G/otv.jpg",OTV LBN
 http://185.9.2.18/chid_312/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Svnqq8G/otv.jpg",OTV LBN
+https://live20.bozztv.com/gin-36bay4/ga-otvlebanon/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hM98B0V/jadeed.png",AL JADEED
 http://185.9.2.18/chid_391/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hM98B0V/jadeed.png",AL JADEED
@@ -3153,7 +3157,7 @@ https://655ca86f46b1f.streamlock.net/live/Nabaa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JrFjqrc/nabaa.png",NABAA TV
 http://31.14.40.237:1935/live/Nabaa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h872gKg/taha.png",TAHA TV
-https://media2.livaat.com/TAHA-TV/index.m3u8
+https://media1.livaat.com/static/TAHA_TV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h872gKg/taha.png",TAHA TV
 https://media2.livaat.com/TAHA-TV/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png",MTV LBN
@@ -3750,6 +3754,8 @@ https://rotana.hibridcdn.net/rotananet/risala_net-7Y83PP5adWixDF93/playlist.m3u8
 https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Mgm51w6/sat7ara.webp",SAT7 ARABIC
 https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/V0pWD9ZX/charity.png",CHARITY TV
+https://652930de05533.streamlock.net/live/ngrp:livestream_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Tgg3JpC/noursat.png",NOURSAT
 https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Tgg3JpC/noursat.png",NOURSAT AL SHARQ
