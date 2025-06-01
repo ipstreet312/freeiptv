@@ -7,6 +7,8 @@ https://hls-m015-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/lci1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XkLHrbC/frinfo2bl.png",FRANCE INFO:
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frin.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RGPQCmYD/tvlfr.png",TVL TV LIBERTÉS
+https://video.twimg.com/amplify_video/1929206358399705089/pl/Oe189-GjzXildVsI.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZBqk6mK/lemedia.jpg",LE MÉDIA TV
 https://raw.githubusercontent.com/BG47510/tube/refs/heads/main/lemedia.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZBqk6mK/lemedia.jpg",LE MÉDIA TV -1H
@@ -323,6 +325,10 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equi
 https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/lequipe/lequipelive5.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gTxbf2C/rmcts.jpg",RMC TALK SPORT
 https://d21wdmv2hqydbt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n239v7ne7hack/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8rcTV8C/festcannes.jpg",FRANCE.TV FESTIVAL DE CANNES (EVENT)
+https://evenementiel_mai
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kgMKnQVx/rolangarros.jpg",FRANCE.TV ROLAND-GARROS (EVENT)
+https://evenementiel_juin
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p0CLPqT/equidia.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" referer="https://www.equidia.fr/",ÉQUIDIA
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/extr/py/equidi.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p0CLPqT/equidia.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" referer="https://www.equidia.fr/",ÉQUIDIA
@@ -5156,3 +5162,13 @@ http://
 http://
 #EXTINF:-1 user-agent="okhttp/4.12.0" referer="https://twitter.com/",CH1
 https://tv.arectv31.sbs/live/cartoonnetwork.m3u8
+#EXTINF:-1,1
+https://player.odycdn.com/v6/streams/3389c98089e08ee5ac62d88ea35c9e70131e3eb3/fb00cc.mp4
+#EXTINF:-1,2
+https://player.odycdn.com/v6/streams/3389c98089e08ee5ac62d88ea35c9e70131e3eb3/fb00cc.mp4?m3u8
+#EXTINF:-1,3
+https://player.odycdn.com/v6/streams/3389c98089e08ee5ac62d88ea35c9e70131e3eb3/fb00cc.mp4?type=m3u8
+#EXTINF:-1,4
+https://video.twimg.com/amplify_video/1929206358399705089/pl/Oe189-GjzXildVsI.m3u8?variant_version=1&tag=14
+#EXTINF:-1,5
+https://video.twimg.com/amplify_video/1929206358399705089/pl/Oe189-GjzXildVsI.m3u8
