@@ -195,8 +195,6 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/rg/rg
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BPpZPBn/arte.png",ARTE -0,5H
 https://tvradiozap.eu/tools/mng-m3u8.php/640.2/30/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6
-https://live20.bozztv.com/dvrfl06/astv/astv-m6hdtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R3KG4L9/cherie25.png",CHÉRIE 25
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ftYS2bk/CANAL-logo.png",CANAL+ EN CLAIR
@@ -2805,7 +2803,7 @@ https://live20.bozztv.com/gin-36bay3/ga-attessiatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/stZxQHF/nessma.png",NESSMA
 https://edge66.magictvbox.com/liveApple/nessma/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/stZxQHF/nessma.png",NESSMA
-https://live20.bozztv.com/gin-36bay4/ga-nessmatv/index.m3u8
+https://fl1002.bozztv.com/ga-nessmatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/svxJXfRv/tunisna.png",TUNISNA TV
 https://live20.bozztv.com/gin-36bay3/ga-tunisna/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Cs2t9hGC/carthage.jpg",CARTHAGE TN
@@ -3941,11 +3939,11 @@ https://bcovlive-a.akamaihd.net/0c223ac0a9d34b30b100cb92ee83b70a/us-west-2/60579
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0jpsxm7/cbcsofra.png",CBC SOFRA
 https://bcovlive-a.akamaihd.net/753a1f2c951b4fb3914f30e1deb147d8/us-west-2/6057955906001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/21JHLXpk/cbcdrama.jpg",CBC DRAMA
-https://live20.bozztv.com/gin-36bay4/ga-cbcdrama/index.m3u8
+https://fl1002.bozztv.com/ga-cbcdrama/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N2msLHmY/dmcdrama.png",DMC DRAMA
-https://live20.bozztv.com/gin-36bay4/ga-dmcdrama/index.m3u8
+https://fl1002.bozztv.com/ga-dmcdrama/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/w9W05Dk/ondrama.png",ON DRAMA
-https://live20.bozztv.com/gin-36bay4/ga-ondrama/index.m3u8
+https://fl1002.bozztv.com/ga-ondrama/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kcwxz7NQ/dmceg.png",DMC EGY
 https://bcovlive-a.akamaihd.net/ba3169004d40484b9ff29e194964c9e8/eu-west-1/6057955906001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7W5nWYV/rotanacinema.png",ROTANA CINEMA KSA
@@ -4788,8 +4786,6 @@ https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 https://d3tlzddkbbpp5n.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9uzjfw11uj9nn/LiveNOW_from_FOX.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hdBrzcc/fox.png",FOX NEWS
 https://livetv-fa.tubi.video/fox-live-now/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hdBrzcc/fox.png",FOX NEWS
-https://ott.udptv.org/stream/udptvus/foxnews/stream.m3u8?uid=2570179469&u=discord.gg/civ3&p=eeaf011ae6d8cdbf0200cc0234f54fdc95d7b5b158d22258efd49d7e36275c7a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hdBrzcc/fox.png",FOX NEWS
 https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CKTjvj8/nbc.jpg",NBC NEWS
