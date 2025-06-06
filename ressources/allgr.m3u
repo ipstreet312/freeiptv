@@ -55,6 +55,8 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&e
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/bsmart.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Nn5x9Hq/bloom.jpg" group-title="1. |FR|🇫🇷 INFORMATION",BLOOMBERG FR
 https://bloomberg-bloombergtv-1-fr.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Nn5x9Hq/bloom.jpg" group-title="1. |FR|🇫🇷 INFORMATION",BLOOMBERG PLUS FR
+https://cd0ccbe625b34fcb91d4c0060dab13d7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_Bloomberg-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cCXgWWw/tvfinance.jpg" group-title="1. |FR|🇫🇷 INFORMATION",TV FINANCE
 https://strhlslb01.streamakaci.tv/str_tvfinance_tvfinance/str_tvfinance_multi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rwbrckj/pressir.png" group-title="1. |FR|🇫🇷 INFORMATION",PRESS IR FRENCH [temp barker]
@@ -193,8 +195,6 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/rg/rg
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BPpZPBn/arte.png",ARTE -0 group-title="2. |FR|🇫🇷 GÉNÉRALISTE",5H
 https://tvradiozap.eu/tools/mng-m3u8.php/640.2/30/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png" group-title="2. |FR|🇫🇷 GÉNÉRALISTE",M6
-https://live20.bozztv.com/dvrfl06/astv/astv-m6hdtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R3KG4L9/cherie25.png" group-title="2. |FR|🇫🇷 GÉNÉRALISTE",CHÉRIE 25
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ftYS2bk/CANAL-logo.png" group-title="2. |FR|🇫🇷 GÉNÉRALISTE",CANAL+ EN CLAIR
@@ -317,6 +317,10 @@ https://d2l55nvfkhk4sg.cloudfront.net/3/media.m3u8
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/ekip.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="3. |FR|🇫🇷 SOCIÉTÉ",L'ÉQUIPE TV
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/la-chaine-l-equipe-en-direct-dm.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="3. |FR|🇫🇷 SOCIÉTÉ",L'ÉQUIPE TV
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/l-equipe.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="3. |FR|🇫🇷 SOCIÉTÉ",L'ÉQUIPE TV
+https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gac2i63dmu8b7/LEquipe_FR.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXRbJz4/eqps.png" group-title="3. |FR|🇫🇷 SOCIÉTÉ",L'ÉQUIPE LIVE 3 EVENTS
 https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/lequipe/lequipelive3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXRbJz4/eqps.png" group-title="3. |FR|🇫🇷 SOCIÉTÉ",L'ÉQUIPE LIVE 4 EVENTS
@@ -327,6 +331,8 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equi
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/backup/l-equipe-live-foot-dm.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXRbJz4/eqps.png" group-title="3. |FR|🇫🇷 SOCIÉTÉ",L'ÉQUIPE LIVE FOOT
 https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/lequipe/lequipelive5.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Xdqd4cT/afterfootrmc.jpg" group-title="3. |FR|🇫🇷 SOCIÉTÉ",AFTERFOOT RMC-BFM
+https://d278gam2ft6q08.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0ic4hqa502el6/AfterfootTV_FR.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gTxbf2C/rmcts.jpg" group-title="3. |FR|🇫🇷 SOCIÉTÉ",RMC TALK SPORT
 https://d21wdmv2hqydbt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n239v7ne7hack/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8rcTV8C/festcannes.jpg" group-title="3. |FR|🇫🇷 SOCIÉTÉ",FRANCE TV FESTIVAL DE CANNES (EVENT)
@@ -2785,9 +2791,9 @@ https://live20.bozztv.com/gin-36bay3/ga-telemaroc/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5M4CwmQ/watania1.png" group-title="15. |MA-DZ-TN|🇲🇦🇩🇿🇹🇳 MAGHREB المغرب" referer="https://snrt.player.easybroadcast.io/",WATANIA 1
 http://live.watania1.tn:1935/live/watanya1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5M4CwmQ/watania1.png" group-title="15. |MA-DZ-TN|🇲🇦🇩🇿🇹🇳 MAGHREB المغرب" referer="https://snrt.player.easybroadcast.io/",WATANIA 1
-https://live20.bozztv.com/gin-36bay4/ga-elwatania1/index.m3u8
+https://fl1002.bozztv.com/ga-elwatania1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TM8sRjr/watanya-2.png" group-title="15. |MA-DZ-TN|🇲🇦🇩🇿🇹🇳 MAGHREB المغرب" referer="https://snrt.player.easybroadcast.io/",WATANIA 2
-https://live20.bozztv.com/gin-36bay4/ga-elwatania2/index.m3u8
+https://fl1002.bozztv.com/ga-elwatania2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TM8sRjr/watanya-2.png" group-title="15. |MA-DZ-TN|🇲🇦🇩🇿🇹🇳 MAGHREB المغرب" referer="https://snrt.player.easybroadcast.io/",WATANIA 2
 http://live.watania2.tn:1935/live/watanya2.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8DxdBPf/Attessia9.png" group-title="15. |MA-DZ-TN|🇲🇦🇩🇿🇹🇳 MAGHREB المغرب" referer="https://snrt.player.easybroadcast.io/",ATTASIA 9
@@ -2797,7 +2803,7 @@ https://live20.bozztv.com/gin-36bay3/ga-attessiatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/stZxQHF/nessma.png" group-title="15. |MA-DZ-TN|🇲🇦🇩🇿🇹🇳 MAGHREB المغرب" referer="https://snrt.player.easybroadcast.io/",NESSMA
 https://edge66.magictvbox.com/liveApple/nessma/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/stZxQHF/nessma.png" group-title="15. |MA-DZ-TN|🇲🇦🇩🇿🇹🇳 MAGHREB المغرب" referer="https://snrt.player.easybroadcast.io/",NESSMA
-https://live20.bozztv.com/gin-36bay4/ga-nessmatv/index.m3u8
+https://fl1002.bozztv.com/ga-nessmatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/svxJXfRv/tunisna.png" group-title="15. |MA-DZ-TN|🇲🇦🇩🇿🇹🇳 MAGHREB المغرب" referer="https://snrt.player.easybroadcast.io/",TUNISNA TV
 https://live20.bozztv.com/gin-36bay3/ga-tunisna/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Cs2t9hGC/carthage.jpg" group-title="15. |MA-DZ-TN|🇲🇦🇩🇿🇹🇳 MAGHREB المغرب" referer="https://snrt.player.easybroadcast.io/",CARTHAGE TN
@@ -3933,11 +3939,11 @@ https://bcovlive-a.akamaihd.net/0c223ac0a9d34b30b100cb92ee83b70a/us-west-2/60579
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0jpsxm7/cbcsofra.png" group-title="21. |AR|🇸🇦 THEMATICS-2 عربي",CBC SOFRA
 https://bcovlive-a.akamaihd.net/753a1f2c951b4fb3914f30e1deb147d8/us-west-2/6057955906001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/21JHLXpk/cbcdrama.jpg" group-title="21. |AR|🇸🇦 THEMATICS-2 عربي",CBC DRAMA
-https://live20.bozztv.com/gin-36bay4/ga-cbcdrama/index.m3u8
+https://fl1002.bozztv.com/ga-cbcdrama/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N2msLHmY/dmcdrama.png" group-title="21. |AR|🇸🇦 THEMATICS-2 عربي",DMC DRAMA
-https://live20.bozztv.com/gin-36bay4/ga-dmcdrama/index.m3u8
+https://fl1002.bozztv.com/ga-dmcdrama/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/w9W05Dk/ondrama.png" group-title="21. |AR|🇸🇦 THEMATICS-2 عربي",ON DRAMA
-https://live20.bozztv.com/gin-36bay4/ga-ondrama/index.m3u8
+https://fl1002.bozztv.com/ga-ondrama/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kcwxz7NQ/dmceg.png" group-title="21. |AR|🇸🇦 THEMATICS-2 عربي",DMC EGY
 https://bcovlive-a.akamaihd.net/ba3169004d40484b9ff29e194964c9e8/eu-west-1/6057955906001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7W5nWYV/rotanacinema.png" group-title="21. |AR|🇸🇦 THEMATICS-2 عربي",ROTANA CINEMA KSA
@@ -4780,8 +4786,6 @@ https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 https://d3tlzddkbbpp5n.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9uzjfw11uj9nn/LiveNOW_from_FOX.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hdBrzcc/fox.png" group-title="28. |EN-UK-US|🇬🇧🇺🇸 WORLDWIDE-INTL ℹ️🌐",FOX NEWS
 https://livetv-fa.tubi.video/fox-live-now/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hdBrzcc/fox.png" group-title="28. |EN-UK-US|🇬🇧🇺🇸 WORLDWIDE-INTL ℹ️🌐",FOX NEWS
-https://ott.udptv.org/stream/udptvus/foxnews/stream.m3u8?uid=2570179469&u=discord.gg/civ3&p=eeaf011ae6d8cdbf0200cc0234f54fdc95d7b5b158d22258efd49d7e36275c7a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hdBrzcc/fox.png" group-title="28. |EN-UK-US|🇬🇧🇺🇸 WORLDWIDE-INTL ℹ️🌐",FOX NEWS
 https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CKTjvj8/nbc.jpg" group-title="28. |EN-UK-US|🇬🇧🇺🇸 WORLDWIDE-INTL ℹ️🌐",NBC NEWS
