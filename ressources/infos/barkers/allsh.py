@@ -17,7 +17,6 @@ def simplify_m3u_text(input_text):
     for i in range(len(lines)):
         line = lines[i].strip()
         if line.startswith('#EXTINF'):
-            # Extract channel name after the last comma
             if ',' in line:
                 name = line.split(',')[-1]
                 simplified_lines.append(f'#EXTINF:-1,{name}')
@@ -33,10 +32,12 @@ input_text = fetch_content_from_url(url)
 if input_text:
     output_text = simplify_m3u_text(input_text)
     
-    # Ensure directory exists
     output_file_path = "ressources/allsh.m3u"
     os.makedirs(os.path.dirname(output_file_path), exist_ok=True)
 
+    # Only the M3U content is written to the file
     with open(output_file_path, "w", encoding="utf-8") as output_file:
         output_file.write(output_text)
-        print(f"Simplified M3U saved to: {output_file_path}")
+
+    # This line only prints to terminal — remove it if you don't want to see it at all
+    # print(f"Simplified M3U saved to: {output_file_path}")
