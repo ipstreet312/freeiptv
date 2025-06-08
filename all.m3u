@@ -199,6 +199,8 @@ https://tvradiozap.eu/tools/mng-m3u8.php/640.2/30/master.m3u8
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tptHDpDv/t18.png",T18
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tptHDpDv/t18.png",T18
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/t18/t18.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ftYS2bk/CANAL-logo.png",CANAL+ EN CLAIR
 https://hls-m005.p-cdnlive-edge020311-dual.scy.canalplus-cdn.net/__token__id%3D1a569a48e47690c700c0f71662c87679~hmac%3D6d2114baa9bb694f530073a9f707530612577a89d4d0a36aaa72374fa9e12049/live/disk/canalplusclair-hd/hls-v3-hd-clair/canalplusclair-hd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fdYg3Lz/rmcstory.png",RMC STORY
