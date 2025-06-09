@@ -1,6 +1,6 @@
 import streamlink
 
-streams = streamlink.streams('vod.tvp.pl/live,1/tvp-info,399699')
+streams = streamlink.streams('https://vod.tvp.pl/live,1/tvp-info,399699')
 erstrm = streams["best"].multivariant.uri
 
 print("#EXTM3U")
