@@ -95,6 +95,8 @@ https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/m1/media.m3u8?bpkio_servic
 https://tvradiozap.eu/936
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZBqk6mK/lemedia.jpg",LE MÉDIA TV (backup ko)
 https://livestream.zazerconer.workers.dev/channel/UCT67YOMntJxfRnO_9bXDpvw.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rkv3Nvq/lcpan.png",LCP-AN (backup)
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/lcpps.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/drk4BWw/tv5inf.png",TV5MONDE INFO (backup)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7433
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",EURONEWS FR (backup)
@@ -189,8 +191,6 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frserv2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kJjHW61/frdocs.png",FRANCE TV DOCUMENTAIRES
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frdocv2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kgMKnQVx/rolangarros.jpg",FRANCE TV ROLAND GARROS
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/rg/rgcdirecttv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BPpZPBn/arte.png",ARTE
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BPpZPBn/arte.png",ARTE -0,5H
@@ -3668,6 +3668,8 @@ https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nc8F1dj/Al-Hadath.png",AL ARABIYA HADATH
 https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nc8F1dj/Al-Hadath.png",AL ARABIYA HADATH
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nc8F1dj/Al-Hadath.png",AL ARABIYA HADATH
 https://hadath-prod-dub-ak.akamaized.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R4vMgQV/alarabiyabus.jpg",AL ARABIYA BUSINESS
