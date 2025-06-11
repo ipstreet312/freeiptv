@@ -21,6 +21,8 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rkv3Nvq/lcpan.png",LCP-AN
 https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/dmotion/py/lcpan/lcp1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0pH2kRYr/lcpps.png",LCP/PS
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/lcpps.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2jG942b/publicsn.png",PUBLIC-SÉNAT
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2MhqYgg/bfm2.png",BFM 2
@@ -39,7 +41,7 @@ https://d358c6mfrono1y.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da
 https://bcovlive-a.akamaihd.net/41814196d97e433fb401c5e632d985e9/eu-central-1/5377161796001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZgqnqnJ/cgtnfr.png",CGTN FRANÇAIS
 http://news.cgtn.com/resource/live/french/cgtn-f.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nR2HsVr/ln24.png",LN24 BE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nR2HsVr/ln24.png",LN24 LES NEWS BE
 https://live-ln24.digiteka.com/1911668011/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MZLCTmN/monacoinfo.png",MONACO INFO
 https://webtv.monacoinfo.com/live/prod/index.m3u8
@@ -95,8 +97,6 @@ https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/m1/media.m3u8?bpkio_servic
 https://tvradiozap.eu/936
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZBqk6mK/lemedia.jpg",LE MÉDIA TV (backup ko)
 https://livestream.zazerconer.workers.dev/channel/UCT67YOMntJxfRnO_9bXDpvw.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rkv3Nvq/lcpan.png",LCP-AN (backup)
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/lcpps.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/drk4BWw/tv5inf.png",TV5MONDE INFO (backup)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7433
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",EURONEWS FR (backup)
