@@ -2165,6 +2165,8 @@ https://ellastvmax.gotdns.com/freetv/madworldtv/index.m3u8
 http://ellastv.gotdns.com:88/freetv/madworldtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TPGzY4C/omega.png",OMEGA
 https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/480p4sv/alpha.png",ALPHA TV CYPRUS
+https://l4.cloudskep.com/alphacyp/acy/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3sHp7pS/riksat.png",RIK SAT CYPRUS
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3sHp7pS/riksat.png",RIK 1
@@ -3001,7 +3003,7 @@ https://d198ztbnlup2iq.cloudfront.net/out/v1/2d9050c90fb94df8b78d1d98306a1a65/in
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png",NOW 14 עכשיו
 https://ch14-channel14-content.akamaized.net/hls/live/2104807/CH14_CHANNEL14/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png",NOW 14 עכשיו
-https://ch14-channel14-content.akamaized.net/hls/live/2104807-b/CH14_CHANNEL14/master.m3u8
+https://ch14channel14content-ioriver-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j68q1Bp/i24.png",i24 NEWS HE עברית
 https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tLYB26T/h2322.png",HINUCHIT 23 חינוכית
@@ -3136,6 +3138,8 @@ https://cdnapisec.kaltura.com/p/2717431/sp/2717431/playManifest/entryId/1_vd30ud
 https://cdnapisec.kaltura.com/p/2717431/sp/2717431/playManifest/entryId/1_vw6qllis/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MnSQCcr/R1322.jpg",RESHET 13 רשת (backlink)
 https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_l38msgjy/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png",NOW 14 עכשיו (backup)
+https://ch14-channel14-content.akamaized.net/hls/live/2104807-b/CH14_CHANNEL14/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zP5vjLD/knesset.png",HAKNESSET 99 כנסת (backlink)
 https://contactgbs.mmdlive.lldns.net/contactgbs/a40693c59c714fecbcba2cee6e5ab957/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zP5vjLD/knesset.png",HAKNESSET 99 כנסת (backlink)
@@ -3290,6 +3294,8 @@ https://cdn-globecast.akamaized.net/live/eds/sharjah_tv/hls_roku/index.m3u8
 https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1bpYYZ2/shrspt.png",SHARJAH TV SPORTS
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YJxjtKS/maraya.jpg",MARAYA SHARJAH
+https://shls-live-enc.edgenextcdn.net/out/v1/a4a39d8e92e34b0780ca602270a59512/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x8ftqHr/qattv.png",QATAR TV
 https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x8ftqHr/qattv.png",QATAR TV
