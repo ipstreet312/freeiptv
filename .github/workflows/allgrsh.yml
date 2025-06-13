@@ -1,4 +1,4 @@
-name: allgr
+name: allgrsh
 
 on:
   schedule:
@@ -15,7 +15,7 @@ jobs:
       - name: config
         run: |
           git config --global user.email "<>"
-          git config --global user.name "allgr bot"
+          git config --global user.name "allgrsh bot"
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
@@ -26,7 +26,9 @@ jobs:
           python -m pip install --upgrade pip
           pip install beautifulsoup4 requests
       - name: Execute Python script
-        run: python3 ressources/infos/barkers/allgr.py > ressources/allgr.m3u
+        run: |
+          python3 ressources/infos/barkers/allgr.py > ressources/allgr.m3u
+          python3 ressources/infos/barkers/allsh.py > ressources/allsh.m3u
 
       - name: git add
         run: |
@@ -36,5 +38,5 @@ jobs:
       - name: commit & push
         run: |
           git pull origin master
-          git commit -m "allgr updated"
+          git commit -m "allgrsh updated"
           git push origin master
