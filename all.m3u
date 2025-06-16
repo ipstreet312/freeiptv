@@ -4330,6 +4330,14 @@ https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/link
 http://cdndai.pl/tvp1hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/46QnrG9/tvp1.png",TVP 1
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvp1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/46QnrG9/tvp1.png",TVP 1
+https://live002.cda.pl/enc115/tvp1hdraw/tvp1hdraw.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/46QnrG9/tvp1.png",TVP 1
+https://liveovh009.cda.pl/enc129/tvp1hdraw/tvp1hdraw.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/23wHr2St/tvp2.png",TVP 2
+https://live002.cda.pl/enc115/tvp2hdraw/tvp2hdraw.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/23wHr2St/tvp2.png",TVP 2
+https://liveovh009.cda.pl/enc129/tvp2hdraw/tvp2hdraw.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/23wHr2St/tvp2.png" user-agent="VLC/3.0.20 LibVLC/3.0.20",TVP 2
 http://cdndai.pl/tvp2hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/23wHr2St/tvp2.png",TVP 2
