@@ -124,6 +124,8 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion
 #EXTINF:-1,FRANCE INFO: [find-host]
 https://PuthereYourserverHostaddress/frijsoncurl.php?m3u8
 #EXTINF:-1,FRANCE 24 FR (backup)
+https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/wld/f24fr.m3u8
+#EXTINF:-1,FRANCE 24 FR (backup)
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_2300.m3u8
 #EXTINF:-1,FRANCE 24 FR (backup)
 https://ythls-v3.onrender.com/video/l8PMl7tUDIE.m3u8
@@ -868,7 +870,7 @@ https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playli
 #EXTINF:-1,EKOL TV
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
 #EXTINF:-1,ULUSAL KANAL
-http://116.202.238.88/ULUSALTV_TR/index.m3u8
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Ulusal_Kanal.m3u8
 #EXTINF:-1,NTV
 http://dygvideo.dygdigital.com/live/hls/ntv4puhu?m3u8
 #EXTINF:-1,TV 5
@@ -879,10 +881,12 @@ https://bloomberght-live.daioncdn.net/bloomberght/bloomberght.m3u8
 http://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=7cItyPb6-p0.m3u8
 #EXTINF:-1,CNN TÜRK
 https://b.fulltvizle.com/cnn/playlist.m3u8
+#EXTINF:-1,CNN TÜRK
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Cnn_Turk.m3u8
 #EXTINF:-1,KRT
 http://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=v5srSbD2WBk.m3u8
 #EXTINF:-1,KRT
-http://sultanweb.site/YouTUBE.php?ID=UCVKWwHoLwUMMa80cu_1uapA
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Krt_Tv.m3u8
 #EXTINF:-1,GZT
 https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
 #EXTINF:-1,BENGÜ TÜRK
@@ -915,6 +919,8 @@ https://yayin30.haber100.com/live/finansturk/playlist.m3u8
 https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8
 #EXTINF:-1,CNBC-E
 https://uzunmuhalefet.serv00.net/canlitv2.php?id=13406&.m3u8
+#EXTINF:-1,CNBC-E
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/CNBC_E.m3u8
 #EXTINF:-1,TBMM TV
 https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 #EXTINF:-1,DHA (feed 1)
@@ -927,6 +933,8 @@ http://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.s
 https://ensonhaber-live.ercdn.net/trthaber/trthaber.m3u8
 #EXTINF:-1,TRT HABER (backup)
 https://tv.ensonhaber.com/trthaber/trthaber.m3u8
+#EXTINF:-1,SÖZCÜ TV (backup)
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Sozcu_Tv.m3u8
 #EXTINF:-1,SÖZCÜ TV (backup)
 https://b.fulltvizle.com/sozcu/playlist.m3u8
 #EXTINF:-1,SÖZCÜ TV (backup)
@@ -1044,9 +1052,9 @@ https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1,SHOW
 https://bloomberght-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1,NOW
-https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=TPESWvSOmHu2y7LW1NXvPg&e=1749842076
+https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=-7fEI_h2RZNF0Fo--PT3Yw&e=1750198841
 #EXTINF:-1,NOW
-https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=TPESWvSOmHu2y7LW1NXvPg&e=1749842076
+https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=-7fEI_h2RZNF0Fo--PT3Yw&e=1750198841
 #EXTINF:-1,TV8
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
 #EXTINF:-1,TV8
@@ -1313,6 +1321,8 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_48
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_480p.m3u8
 #EXTINF:-1,CARTOON NETWORK TR
 https://tv.arectv31.sbs/live/cartoonnetwork.m3u8
+#EXTINF:-1,CARTOON NETWORK TR
+https://tv.arectv34.sbs/live/cartoonnetwork.m3u8
 #EXTINF:-1,GALATASARAY TV
 http://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 #EXTINF:-1,FENERBAHÇE TV
@@ -1324,9 +1334,9 @@ https://ciner-live.daioncdn.net/ht-spor/ht-spor.m3u8
 #EXTINF:-1,A SPOR
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
 #EXTINF:-1,A SPOR
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/A_Spor.m3u8
 #EXTINF:-1,BIS HABER
-https://yotubesakuapi.global.ssl.fastly.net/playlist/71.m3u8
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8
 #EXTINF:-1,SPORTS TV
 https://sportstv.blutv.com/blutv_sportstv2/live.m3u8
 #EXTINF:-1,SPORTS TV
@@ -2109,6 +2119,8 @@ http://dlm34ll53zqql.cloudfront.net/out/v1/d4177931deff4c7ba994b8126d153d9f/makt
 https://live.netmaxtv.com:1936/live/live/playlist.m3u8
 #EXTINF:-1,OPEN TV
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
+#EXTINF:-1,OPEN TV
+https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8
 #EXTINF:-1,ATTICA
 http://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
 #EXTINF:-1,SIGMA TV
@@ -2511,6 +2523,8 @@ https://rmtv-canela.amagi.tv/playlist.m3u8
 #EXTINF:-1,EL TORO TV
 https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
 #EXTINF:-1,SUR 1 ANDALUCÍA
+https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8
+#EXTINF:-1,SUR 1 ANDALUCÍA
 https://cdnlive.codev8.net/rtvalive/smil:DtRLVjt1.smil/playlist.m3u8
 #EXTINF:-1,SUR 1 ANDALUCÍA
 https://d3kph49ozqk4tr.cloudfront.net/out/v1/b9781dec66d64d5f975b398c31f371db/index.m3u8
@@ -2626,6 +2640,10 @@ https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12108
 #EXTINF:-1,101TV SEVILLA
 https://www.streaming101tv.es:19360/sevilla/sevilla.m3u8
+#EXTINF:-1,101TV SEVILLA
+https://liveingesta318.cdnmedia.tv/101weblive/smil:sevilla.smil/playlist.m3u8
+#EXTINF:-1,101TV MÁLAGA
+https://liveingesta318.cdnmedia.tv/101weblive/smil:malaga.smil/playlist.m3u8
 #EXTINF:-1,TELESUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1,FRANCE 24 ES
@@ -2750,6 +2768,8 @@ https://cdn.live.easybroadcast.io/ts_corp/73_aloula_w1dqfwm/playlist_dvr.m3u8
 https://xddrts.alwaysdata.net/aloula.php?m3u8
 #EXTINF:-1,2M MONDE الثانية
 https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
+#EXTINF:-1,2M MONDE الثانية
+https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
 #EXTINF:-1,ARRYADIA الرياضية
 https://cdn.live.easybroadcast.io/ts_corp/73_arryadia_k2tgcj0/playlist_dvr.m3u8
 #EXTINF:-1,ARRYADIA TNT الرياضية
@@ -3498,6 +3518,10 @@ https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5azq/master.m3u8
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6buzay/master.m3u8
 #EXTINF:-1,KAS QATAR SHOOF
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6Shoof1ab/master.m3u8
+#EXTINF:-1,AL KASS 2
+https://streamer1.qna.org.qa/148133202_live/148133202_63.sdp/playlist.m3u8
+#EXTINF:-1,AL KASS 3
+https://streamer2.qna.org.qa/148161470_live/148161470_296.sdp/playlist.m3u8
 #EXTINF:-1,SAUDI SBC SA
 https://sbc-prod-dub-ak.akamaized.net/out/v1/2eb1ad0f29984a339bc0fce4ce94dcbb/index.m3u8
 #EXTINF:-1,SAUDI SBC SA
@@ -3824,6 +3848,14 @@ https://shls-asharq-prod-dub.shahid.net/out/v1/3b6b4902cf8747a28619411239584002/
 https://bcovlive-a.akamaihd.net/ed81ac1118414d4fa893d3a83ccec9be/eu-central-1/6203311941001/playlist.m3u8
 #EXTINF:-1,AL JAZEERA (backup)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/al-jazeera/playlist.m3u8
+#EXTINF:-1,AL JAZEERA (backups)
+https://live-hls-web-aja-fa.thehlive.com/AJA/index.m3u8
+#EXTINF:-1,AL JAZEERA MUBASHER (backups)
+https://live-hls-web-ajm-fa.thehlive.com/AJM/index.m3u8
+#EXTINF:-1,AL JAZEERA MUBASHER 2 (backups)
+https://live-hls-web-ajm2-fa.thehlive.com/AJM2/index.m3u8
+#EXTINF:-1,AL JAZEERA MUBASHER 24 (backups)
+https://live-hls-web-ajm24-fa.getaj.net/AJM24/index.m3u8
 #EXTINF:-1,AL ARABIYA (backup)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/al-arabiya/playlist.m3u8
 #EXTINF:-1,AL ARABIYA (backup)
@@ -4274,6 +4306,14 @@ https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/link
 http://cdndai.pl/tvp1hd/index.m3u8
 #EXTINF:-1,TVP 1
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvp1.m3u8
+#EXTINF:-1,TVP 1
+https://live002.cda.pl/enc115/tvp1hdraw/tvp1hdraw.m3u8
+#EXTINF:-1,TVP 1
+https://liveovh009.cda.pl/enc129/tvp1hdraw/tvp1hdraw.m3u8
+#EXTINF:-1,TVP 2
+https://live002.cda.pl/enc115/tvp2hdraw/tvp2hdraw.m3u8
+#EXTINF:-1,TVP 2
+https://liveovh009.cda.pl/enc129/tvp2hdraw/tvp2hdraw.m3u8
 #EXTINF:-1,TVP 2
 http://cdndai.pl/tvp2hd/index.m3u8
 #EXTINF:-1,TVP 2
@@ -4326,6 +4366,8 @@ https://webtvstream.bhtelecom.ba/hls13/bhrtportal.m3u8
 https://live.tv-m.net/hls/stream.m3u8
 #EXTINF:-1,AL JAZEERA BALKANS
 https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
+#EXTINF:-1,AL JAZEERA BALKANS
+https://live-hls-web-ajb-fa.thehlive.com/AJB/index.m3u8
 #EXTINF:-1,N1 BOS
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1bos&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8
 #EXTINF:-1,--- |RS:🇷🇸 SERBIA| ---
@@ -4612,6 +4654,8 @@ https://ncdn.telewebion.com/mahabad/live/playlist.m3u8
 https://ncdn.telewebion.com/sina/live/playlist.m3u8
 #EXTINF:-1,KHAVARAN
 https://ncdn.telewebion.com/khavaran/live/playlist.m3u8
+#EXTINF:-1,IRAN TV
+https://irantv.icdndhcp.com/hls/stream.m3u8
 #EXTINF:-1,IRIB IRINN
 https://s1.ettehadlive.com/live/42/chunklist.m3u8
 #EXTINF:-1,IRIB IFILM FAR
@@ -5058,6 +5102,8 @@ https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
 #EXTINF:-1,AL JAZEERA NEWS
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/al-jazeera-english/playlist.m3u8
+#EXTINF:-1,AL JAZEERA NEWS
+https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8
 #EXTINF:-1,CGTN NEWS
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1,CGTN NEWS
@@ -5070,6 +5116,10 @@ https://english-livebkali.cgtn.com/live/encgtn.m3u8
 https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
 #EXTINF:-1,PRESS TV [censure-ifany]
 https://live.presstv.ir/hls/presstv.m3u8
+#EXTINF:-1,PRESS TV [censure-ifany]
+https://rumble.com/live-hls/6s62fv/playlist.m3u8
+#EXTINF:-1,PRESS TV [censure-ifany]
+https://cloud.odysee.live/content/26bcbcc342a5b143578f27dbfaf000201f06e417/master.m3u8
 #EXTINF:-1,RT NEWS [censure-blocked]
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1,RT NEWS [censure-blocked]
