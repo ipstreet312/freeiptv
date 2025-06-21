@@ -5330,3 +5330,25 @@ http://
 http://
 #EXTINF:-1,TEST 01
 http://
+#EXTINF:-1,BAK1
+https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8
+#EXTINF:-1,bakz
+https://d1u68oyra9spme.cloudfront.net/master.m3u8
+#EXTINF:-1,41 PL
+http://89.187.191.41/TRT-1-HD-TR/playlist.m3u8
+#EXTINF:-1,88 IN
+http://116.202.238.88/TRT1_TR/index.m3u8
+#EXTINF:-1 referer="https://turkcanli.tv",HELGA RFR
+https://helga.iptv2022.com/trt_1/index.m3u8
+#EXTINF:-1 referer="https://turkcanli.tv",HELGA RFR
+https://helga.iptv2022.com/sh/trt_1/index.m3u8
+#EXTINF:-1,FULL B
+https://b.fulltvizle.com/trt1/playlist.m3u8
+#EXTINF:-1,TUL OK
+https://trn03.tulix.tv/gt-trt1tveu/playlist.m3u8 
+#EXTINF:-1,KO
+https://dvrfl05.tulix.tv/gin-trt1eu/index.m3u8
+#EXTINF:-1,KO SVE
+https://tgn.bozztv.com/dvrfl05/gin-trt1tveu/playlist.m3u8
+#EXTINF:-1,KO IP
+http://162.212.179.32/gin-dvrfl05/gin-trt1eu/playlist.m3u8
