@@ -196,6 +196,8 @@ https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTINF:-1,5H
 https://tvradiozap.eu/tools/mng-m3u8.php/640.2/30/master.m3u8
 #EXTINF:-1,M6
+https://cachehsi1a.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
+#EXTINF:-1,M6
 https://cachehsi1a.netplus.ch/live/eds/m6hd/browser-dash/m6hd.mpd
 #EXTINF:-1,CHÉRIE 25
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
@@ -785,6 +787,10 @@ https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-
 https://section
 #EXTINF:-1,BEL RTL
 https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
+#EXTINF:-1,RTL TVI
+https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
+#EXTINF:-1,RADIO CONTACT LIVE TV
+https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.m3u8
 #EXTINF:-1,LA TÉLÉ
 https://latele2.vedge.infomaniak.com/livecast/latele2/manifest.m3u8
 #EXTINF:-1,LA TÉLÉ
@@ -882,7 +888,9 @@ https://ip252.ozelip.com:1936/protv5/protv5/playlist.m3u8
 #EXTINF:-1,BLOOMBERG HT
 https://bloomberght-live.daioncdn.net/bloomberght/bloomberght.m3u8
 #EXTINF:-1,EKO TÜRK
-http://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=7cItyPb6-p0.m3u8
+https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=Son5meUMZuU.m3u8
+#EXTINF:-1,EKO TÜRK
+https://koprulu4.global.ssl.fastly.net/ythls/?kanal_id=UCAGVKxpAKwXMWdmcHbrvcwQ.m3u8
 #EXTINF:-1,CNN TÜRK
 https://b.fulltvizle.com/cnn/playlist.m3u8
 #EXTINF:-1,CNN TÜRK
@@ -1056,9 +1064,9 @@ https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1,SHOW
 https://bloomberght-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1,NOW
-https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=3cZnmTKhyvltR6lbfHKGxQ&e=1750803670
+https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=EWd1pHjSlpN1jhx6VNF0TA&e=1751063034
 #EXTINF:-1,NOW
-https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=3cZnmTKhyvltR6lbfHKGxQ&e=1750803670
+https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=EWd1pHjSlpN1jhx6VNF0TA&e=1751063034
 #EXTINF:-1,TV8
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
 #EXTINF:-1,TV8
@@ -1242,7 +1250,7 @@ https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web
 #EXTINF:-1,TV8 BUÇUK
 https://bcovlive-a.akamaihd.net/8fe5dabcdbcd4af0ace7b991a12a6a4c/eu-central-1/6415845530001/playlist.m3u8
 #EXTINF:-1,BİZİM EV TV
-https://ythls-v3.onrender.com/channel/UCIHMK8qtjB_GNuXmeex6i8g.m3u8
+https://koprulu4.global.ssl.fastly.net/ythls/?kanal_id=UCIHMK8qtjB_GNuXmeex6i8g.m3u8
 #EXTINF:-1,SHOW MAX
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shmax.m3u8
 #EXTINF:-1,SHOW MAX
@@ -2096,7 +2104,11 @@ http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 #EXTINF:-1,ANT 1
 http://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8
 #EXTINF:-1,ANT 1
+https://spark3.smart-tv-data.com/ant1HD/ant1HD/playlist.m3u8
+#EXTINF:-1,ANT 1
 https://pcdn.antennaplus.gr/live/media0/antenna-gr/HLS/index.m3u8
+#EXTINF:-1,ANT 1
+https://cdn5.smart-tv-data.com/ant1/ant1live/mpeg.2ts
 #EXTINF:-1,ANT 1
 https://cdn1.smart-tv-data.com/live/ant1/playlist.m3u8
 #EXTINF:-1,ANT 1
@@ -2113,6 +2125,8 @@ https://livestar.siliconweb.com/media/star1/star1.m3u8
 https://livestar.siliconweb.com/media/star4/star4.m3u8
 #EXTINF:-1,STAR
 http://telmaco-cdn.akamaized.net/starcgr/default/index.m3u8
+#EXTINF:-1,MEGA
+https://spark3.smart-tv-data.com/megaHD/megaHD/playlist.m3u8
 #EXTINF:-1,MEGA
 http://c98db5952cb54b358365984178fb898a.msvdn.net/live/S14373792/aGr5KG7RcZ9a/playlist.m3u8
 #EXTINF:-1,MEGA
@@ -4224,6 +4238,8 @@ https://live02-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
 #EXTINF:-1,RTL 102.5 SEC
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist.m3u8
+#EXTINF:-1,RADIO 24 ORE LIVE TV
+https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/persidera/master.m3u8
 #EXTINF:-1,SUPER!
 https://vimnitaly.akamaized.net/hls/live/2094034/super/master.m3u8
 #EXTINF:-1,EXTRA TV
@@ -4388,6 +4404,8 @@ https://webtvstream.bhtelecom.ba/hrt3.m3u8
 https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
 #EXTINF:-1,RTL HR
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL/default/index.mpd
+#EXTINF:-1,RTL2 HR
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL2/default/index.mpd
 #EXTINF:-1,HRT 1 (backup)
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd
 #EXTINF:-1,CMC TV
@@ -4514,6 +4532,8 @@ https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/link
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/ge/tv25.m3u8
 #EXTINF:-1,MAESTRO
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/ge/maestro.m3u8
+#EXTINF:-1,PIRVELI TV
+https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/ge/pirvelitv.m3u8
 #EXTINF:-1,H1 ARM Հանրային հեռուստաը
 https://amtv.tulixcdn.com/amtv2/am2abr/index.m3u8
 #EXTINF:-1,H1 NEWS
@@ -4932,6 +4952,8 @@ https://amg01079-nbcuuk-amg01079c2-lg-gb-2030.playouts.now.amagi.tv/playlist/amg
 https://amg01079-nbcuuk-amg01079c1-lg-fr-2032.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-lgfr/playlist.m3u8
 #EXTINF:-1,CNBC NEWS
 http://fl3.moveonjoy.com/CNBC/index.m3u8
+#EXTINF:-1,CNBC NEWS
+https://ft.fbcdntv247.cfd/memfs/4268c138-3258-42b8-8192-f9a3873e7794_output_0.m3u8
 #EXTINF:-1,MSNBC
 https://fl1.moveonjoy.com/MSNBC/tracks-v1a1/mono.m3u8
 #EXTINF:-1,CHEDDAR NEWS
