@@ -5402,3 +5402,21 @@ https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/track_4_1250/playlist.m3u8?&live=
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/track_4_1250/playlist.m3u8?&live=true&app=com.dreamturk
 #EXTINF:-1,O
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/track_4_1250/playlist.m3u8?&live=true&app=com.dreamturk&st=dCOqeo1GLJFcc2QY8jgdgA&e=1751662303
+#EXTINF:-1 user-agent="Star Wars",1
+http://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+#EXTINF:-1 user-agent="VLC/3.0.20 LibVLC/3.0.20",2
+http://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+#EXTINF:-1,A
+http://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/track_4_1250/playlist.m3u8
+#EXTINF:-1 user-agent="Star Wars",B
+http://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/track_4_1250/playlist.m3u8
+#EXTINF:-1 user-agent="VLC/3.0.20 LibVLC/3.0.20",C
+http://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/track_4_1250/playlist.m3u8
+#EXTINF:-1,X
+http://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/track_4_1250/playlist.m3u8?&live=true&app=com.dreamturk
+#EXTINF:-1 user-agent="Star Wars",Y
+http://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/track_4_1250/playlist.m3u8?&live=true&app=com.dreamturk
+#EXTINF:-1 user-agent="VLC/3.0.20 LibVLC/3.0.20",Z
+http://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/track_4_1250/playlist.m3u8?&live=true&app=com.dreamturk
+#EXTINF:-1,O
+http://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/track_4_1250/playlist.m3u8?&live=true&app=com.dreamturk&st=dCOqeo1GLJFcc2QY8jgdgA&e=1751662303
