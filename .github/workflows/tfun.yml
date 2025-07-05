@@ -14,6 +14,11 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      - name: config
+        run: |
+          git config --global user.email "<>"
+          git config --global user.name "tfun bot"
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -22,7 +27,7 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Generate playlist and write to file
+      - name: Generate tfun update
         run: |
           python3 <<EOF
           import re
@@ -63,5 +68,5 @@ jobs:
       - name: commit & push
         run: |
           git pull origin master
-          git commit -m "lci1 updated"
+          git commit -m "tfun updated"
           git push origin master
