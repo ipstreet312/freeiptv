@@ -2,7 +2,7 @@ name: tfun
 
 on:
   schedule:
-    - cron: '56 */2 * * *'
+    - cron: '02 */2 * * *'
   
   workflow_dispatch:
 
@@ -67,6 +67,6 @@ jobs:
           
       - name: commit & push
         run: |
-          git pull origin master
+          git pull origin master || true
           git commit -m "tfun updated"
           git push origin master
