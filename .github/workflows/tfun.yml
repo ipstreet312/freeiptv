@@ -2,7 +2,7 @@ name: tfun
 
 on:
   schedule:
-    - cron: '11 */3 * * *'
+    - cron: '33 */2 * * *'
   
   workflow_dispatch:
 
