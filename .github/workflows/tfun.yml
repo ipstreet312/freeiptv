@@ -1,4 +1,4 @@
-name: Generate TF1 M3U8
+name: tfun
 
 on:
   schedule:
@@ -54,3 +54,14 @@ jobs:
 
       - name: Show generated file
         run: cat ressources/btv/py/tfun.m3u8
+
+      - name: git add
+        run: |
+          git add -A
+          ls -la 
+          
+      - name: commit & push
+        run: |
+          git pull origin master
+          git commit -m "lci1 updated"
+          git push origin master
