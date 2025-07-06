@@ -1,0 +1,45 @@
+name: tfun15
+
+on:
+  schedule:
+    - cron: '16 0,8,16 * * *'
+  push:
+    branches:
+      - main
+      
+  workflow_dispatch:
+  
+jobs:
+  inject_replace:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout freeiptv
+        uses: actions/checkout@v2
+        
+      - name: Fetch Content
+        id: fetch_content
+        env:
+          PRIVATE_REPO_TOKEN: ${{ secrets.PRIVATE_REPO_TOKEN }}
+        run: |
+          final_url=$(curl -H "Authorization: token $PRIVATE_REPO_TOKEN" -H "Accept: application/vnd.github.v3.raw" "https://raw.githubusercontent.com/ipstreet312/myrep/main/ressources/tfun5.m3u8")
+          echo "tfun=${final_url}" >> $GITHUB_ENV
+
+      - name: Replace Text
+        run: |
+          tfun=${tfun}
+          sed -i "/TF1-SD/{n;s|.*|"$tfun"|}" all.m3u
+          
+      - name: git add
+        run: |
+          git add -A
+          ls -la 
+          
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.name "tfun15 Action"
+          git config user.email "<>"
+          git pull
+          git add all.m3u
+          git commit -m "tfun15 updated"
+          git push
