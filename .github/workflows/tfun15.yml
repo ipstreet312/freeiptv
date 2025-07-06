@@ -24,14 +24,15 @@ jobs:
         run: |
           final_url=$(curl -s -H "Authorization: token $PRIVATE_REPO_TOKEN" \
             -H "Accept: application/vnd.github.v3.raw" \
-            "https://raw.githubusercontent.com/ipstreet312/myrep/main/ressources/tfun5.m3u8" | head -n 1)
+            "https://raw.githubusercontent.com/ipstreet312/myrep/main/ressources/tfun5.m3u8" | head -n 1 | tr -d '\r')
           echo "tfun=${final_url}" >> $GITHUB_ENV
 
       - name: Replace Text
         run: |
-          tfun=${tfun}
-          sed -i "/TF1-SD/{n;s|.*|"$tfun"|}" all.m3u
-          
+          sed -i "/TF1-SD/{n;s|.*|$tfun|}" all.m3u
+        env:
+          tfun: ${{ env.tfun }}
+
       - name: git add
         run: |
           git add -A
