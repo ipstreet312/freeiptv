@@ -66,6 +66,7 @@ jobs:
           ls -la 
           
       - name: commit & push
+        continue-on-error: true
         run: |
           git pull origin master || true
           git commit -m "tfun updated"
