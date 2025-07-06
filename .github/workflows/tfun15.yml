@@ -22,16 +22,16 @@ jobs:
         env:
           PRIVATE_REPO_TOKEN: ${{ secrets.PRIVATE_REPO_TOKEN }}
         run: |
-          final_url=$(curl -s -H "Authorization: token $PRIVATE_REPO_TOKEN" \
+          curl -s -H "Authorization: token $PRIVATE_REPO_TOKEN" \
             -H "Accept: application/vnd.github.v3.raw" \
-            "https://raw.githubusercontent.com/ipstreet312/myrep/main/ressources/tfun5.m3u8" | head -n 1 | tr -d '\r')
-          echo "tfun=${final_url}" >> $GITHUB_ENV
+            "https://raw.githubusercontent.com/ipstreet312/myrep/main/ressources/tfun5.m3u8" \
+            -o link_url.txt
 
-      - name: Replace Text
+      - name: Inject URL into all.m3u
         run: |
-          sed -i "/TF1-SD/{n;s|.*|$tfun|}" all.m3u
-        env:
-          tfun: ${{ env.tfun }}
+          tf1=$(cat link_url.txt)
+          live_link=$(printf '%s\n' "$tf1" | sed 's/[&/\]/\\&/g')
+          sed -i "/TF1-SD/{n;s|.*|$live_link|}" all.m3u
 
       - name: git add
         run: |
