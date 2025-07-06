@@ -22,9 +22,9 @@ jobs:
         env:
           PRIVATE_REPO_TOKEN: ${{ secrets.PRIVATE_REPO_TOKEN }}
         run: |
-          final_url="$(curl -s -H "Authorization: token $PRIVATE_REPO_TOKEN" \
+          final_url=$(curl -s -H "Authorization: token $PRIVATE_REPO_TOKEN" \
             -H "Accept: application/vnd.github.v3.raw" \
-            "https://raw.githubusercontent.com/ipstreet312/myrep/main/ressources/tfun5.m3u8")"
+            "https://raw.githubusercontent.com/ipstreet312/myrep/main/ressources/tfun5.m3u8" | head -n 1)
           echo "tfun=${final_url}" >> $GITHUB_ENV
 
       - name: Replace Text
