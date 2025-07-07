@@ -25,12 +25,12 @@ jobs:
 
       - name: Replace the line in m3u
         run: |
-          awk -v new_line="$TF1_LINE" '
+          awk -v new="$TF1_LINE" '
           {
-          print
-          if ($0 ~ /^TF1_/) {
-          getline
-          print new_line
+          print $0
+          if ($0 ~ /^TF1_$/) {
+          getline   # Skip the current next line
+          print new # Insert new line
           next
           }
           }
