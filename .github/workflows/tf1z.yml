@@ -26,15 +26,15 @@ jobs:
       - name: Replace the line in m3u
         run: |
           awk -v new="$TF1_LINE" '
-          {
-          print $0
-          if ($0 ~ /^TF1_$/) {
-          getline   # Skip the current next line
-          print new # Insert new line
-          next
-          }
-          }
-          ' all.m3u > temp && mv temp all.m3u
+                {
+                  print $0
+                  if ($0 ~ /TF1_/) {
+                    getline  # skip the next line (current stream URL)
+                    print new
+                    next
+                  }
+                }
+              ' all.m3u > temp && mv temp all.m3u
 
       - name: Commit and push changes
         run: |
