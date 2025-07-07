@@ -1,0 +1,43 @@
+name: tfm1
+
+on:
+  schedule:
+    - cron: '09 */3 * * *'
+  push:
+    branches:
+      - main
+      
+  workflow_dispatch:
+  
+jobs:
+  inject_replace:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout freeiptv
+        uses: actions/checkout@v2
+        
+      - name: Fetch Content
+        id: fetch_content
+        env:
+          PRIVATE_REPO_TOKEN: ${{ secrets.PRIVATE_REPO_TOKEN }}
+        run: |
+          tf1=$(curl -s -H "Authorization: token $PRIVATE_REPO_TOKEN" \
+            -H "Accept: application/vnd.github.v3.raw" \
+            "https://raw.githubusercontent.com/ipstreet312/myrep/main/ressources/tf1m.m3u8")    
+          safe_tf1=$(printf '%s\n' "$tf1" | sed 's/[&/\]/\\&/g')
+          sed -i "/TF1-BD_LQ/{n;s|.*|$safe_tf1|}" all.m3u
+
+      - name: git add
+        run: |
+          git add -A
+          ls -la 
+          
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.name "tfm1 Action"
+          git config user.email "<>"
+          git pull
+          git add all.m3u
+          git commit -m "tfm1 updated"
+          git push
