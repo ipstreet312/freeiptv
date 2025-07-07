@@ -1,0 +1,46 @@
+name: tf1z
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '1 */2 * * *'
+
+jobs:
+  update-tf1-stream:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout your repository
+        uses: actions/checkout@v3
+
+      - name: Fetch content
+        run: |
+          curl -sL https://raw.githubusercontent.com/paradise-91/paratv/main/playlists/paratv/main/filter/raw.m3u -o source_raw.m3u
+
+      - name: Extract content line
+        id: extract_line
+        run: |
+          line=$(awk '/#EXTINF:-1,TF1 \[720p-tf1.fr\]/ {getline; print}' source_raw.m3u)
+          echo "TF1_LINE=$line" >> $GITHUB_ENV
+
+      - name: Replace the line in m3u
+        run: |
+          tmp_file=$(mktemp)
+          found=0
+          while IFS= read -r line; do
+            echo "$line" >> "$tmp_file"
+            if [[ "$line" == TF1_* ]] && [[ $found -eq 0 ]]; then
+              read -r next_line
+              echo "$TF1_LINE" >> "$tmp_file"
+              found=1
+            fi
+          done < all.m3u
+          mv "$tmp_file" all.m3u
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add all.m3u
+          git commit -m "tfz update" || echo "No changes to commit"
+          git push origin master
