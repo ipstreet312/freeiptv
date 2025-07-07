@@ -25,17 +25,16 @@ jobs:
 
       - name: Replace the line in m3u
         run: |
-          tmp_file=$(mktemp)
-          found=0
-          while IFS= read -r line; do
-            echo "$line" >> "$tmp_file"
-            if [[ "$line" == TF1_* ]] && [[ $found -eq 0 ]]; then
-              read -r next_line
-              echo "$TF1_LINE" >> "$tmp_file"
-              found=1
-            fi
-          done < all.m3u
-          mv "$tmp_file" all.m3u
+          awk -v new_line="$TF1_LINE" '
+          {
+          print
+          if ($0 ~ /^TF1_/) {
+          getline
+          print new_line
+          next
+          }
+          }
+          ' all.m3u > temp && mv temp all.m3u
 
       - name: Commit and push changes
         run: |
