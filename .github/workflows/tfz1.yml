@@ -1,0 +1,47 @@
+name: tfz1
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "2 */2 * * *"
+
+jobs:
+  tfz1-update:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: "3.11"
+
+    - name: Install Python dependencies
+      run: pip install requests
+
+    - name: Run tfz1.py
+      id: extract
+      run: |
+        url=$(python3 ressources/btv/py/tfz1.py | sed 's/index_[0-9]\+\.m3u8/index.m3u8/')
+        echo "FINAL_URL=$url" >> $GITHUB_ENV
+
+    - name: Replace in m3u
+      run: |
+        tf1_line=$(grep -n 'TF1_' all.m3u | cut -d: -f1)
+        if [ -n "$tf1_line" ]; then
+          new_line_num=$((tf1_line + 1))
+          sed -i "${new_line_num}s|.*|$FINAL_URL|" all.m3u
+        else
+          echo "[-] TF1_ not found in all.m3u"
+        fi
+
+    - name: Commit and push updated all.m3u
+      run: |
+        git config user.name "tfz1 boot"
+        git config user.email "<>"
+        git add all.m3u
+        git commit -m "tfz1 update"
+        git push origin master
+      continue-on-error: true
