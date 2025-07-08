@@ -33,7 +33,7 @@ jobs:
     - name: Run py and extract URL
       id: extract
       run: |
-        url=$(python3 ressources/tfz1.py | sed 's/index_[0-9]\+\.m3u8/index.m3u8/')
+        url=$(python3 tfz1.py | sed 's/index_[0-9]\+\.m3u8/index.m3u8/')
         echo "FINAL_URL=$url" >> $GITHUB_ENV
 
     - name: Clean up tfz1.py
