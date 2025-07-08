@@ -21,11 +21,23 @@ jobs:
     - name: Install Python dependencies
       run: pip install requests
 
-    - name: Run tfz1.py
+    - name: Download from repo
+      env:
+        PRIVATE_REPO_TOKEN: ${{ secrets.PRIVATE_REPO_TOKEN }}
+      run: |
+        curl -s -H "Authorization: token $PRIVATE_REPO_TOKEN" \
+          -H "Accept: application/vnd.github.v3.raw" \
+          https://api.github.com/repos/ipstreet312/myrep/contents/ressources/tfz1.py \
+          -o tfz1.py
+
+    - name: Run py and extract URL
       id: extract
       run: |
-        url=$(python3 ressources/btv/py/tfz1.py | sed 's/index_[0-9]\+\.m3u8/index.m3u8/')
+        url=$(python3 ressources/tfz1.py | sed 's/index_[0-9]\+\.m3u8/index.m3u8/')
         echo "FINAL_URL=$url" >> $GITHUB_ENV
+
+    - name: Clean up tfz1.py
+      run: rm -f tfz1.py
 
     - name: Replace in m3u
       run: |
