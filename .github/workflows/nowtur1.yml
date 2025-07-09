@@ -2,7 +2,7 @@ name: nowtur1 action
 
 on:
   schedule:
-    - cron: '03 */3 * * *'
+    - cron: '07 */3 * * *'
   
   workflow_dispatch:
 
