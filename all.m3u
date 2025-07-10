@@ -830,9 +830,13 @@ https://tvlocales-live.freecaster.com/95d2f480-3c9f-48ba-ba4e-af64b58431ef/95d2f
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4YZfGGL/rtcliege.png",RTC TÉLÉ LIÈGE
 https://tvlocales-live.freecaster.com/95d2f6eb-6f01-4d1d-8543-d14966de7b04/95d2f6eb-6f01-4d1d-8543-d14966de7b04.isml/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZphSkW0n/qu4trebe.jpg",QUATRE LIÈGE
+https://tvlocales-live.freecaster.com/rtc/95d2f6ec-22f7-4027-b23d-d5372116b2ad/95d2f6ec-22f7-4027-b23d-d5372116b2ad.isml/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZphSkW0n/qu4trebe.jpg",QUATRE LIÈGE
 https://tvlocales-live.freecaster.com/95d2f6eb-6f01-4d1d-8543-d14966de7b04/95d2f6eb-6f01-4d1d-8543-d14966de7b04.isml/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5TyhqWc/telemb.jpg",TÉLÉ MB
 https://tvlocales-live.freecaster.com/95d2f6c9-e85f-4388-8e9c-596260a4206f/95d2f6c9-e85f-4388-8e9c-596260a4206f.isml/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5TyhqWc/telemb.jpg",TÉLÉ MB
+https://tvlocales-live.freecaster.com/telemb/95d2f6ca-817a-48c0-aba5-6323a621c2d6/95d2f6ca-817a-48c0-aba5-6323a621c2d6.isml/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y0jz90j/bouke.jpg",BOUKÈ
 https://tvlocales-live.freecaster.com/95d2f70d-9229-478b-9aed-bc4fa220316d/95d2f70d-9229-478b-9aed-bc4fa220316d.isml/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2F48hsL/actv.png",ANTENNE CENTRE
@@ -841,8 +845,10 @@ https://tvlocales-live.freecaster.com/95d2f733-1bc2-4bd5-9b96-c53ed3fc450f/95d2f
 https://tvlocales-live.freecaster.com/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5.isml/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8gczbQk/sambre.png",SAMBRE CHARLEROI
 https://tvlocales-live.freecaster.com/95d2f67c-de80-486b-9e60-9c72cb2782e2/95d2f67c-de80-486b-9e60-9c72cb2782e2.isml/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NSZgQQG/Brabant.png",BRABANT WALLON
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NSZgQQG/Brabant.png",BRABANT WALLON TVCOM
 https://tvlocales-live.freecaster.com/95d2f656-50f1-432b-84a6-ce11c6cdb482/95d2f656-50f1-432b-84a6-ce11c6cdb482.isml/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NSZgQQG/Brabant.png",BRABANT WALLON TVCOM
+https://tvlocales-live.freecaster.com/tvcom/95d2f656-ba85-4e13-affc-f1936be1a86d/95d2f656-ba85-4e13-affc-f1936be1a86d.isml/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MCtzw8h/tvlux.png",TV LUX
 https://tvlocales-live.freecaster.com/95d2f631-8941-4efd-b223-0ebd56a033c4/95d2f631-8941-4efd-b223-0ebd56a033c4.isml/master.m3u8
 #EXTINF:-1 group-title="4. |FR|🇫🇷 RÉGIONS & LOCALES",--- |CH:🇨🇭 BASSIN SUISSE ROMANDE| ---
@@ -1169,6 +1175,8 @@ https://bozztv.com/inim03/live1/turkfoxtv/playlist.m3u8
 https://mnorigin-ank-1.mncdn.com/test/live_720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png",NOW (backup)
 https://c.fulltvizle.com/fox/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV (backup)
+http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV (backup)
 https://tgn.bozztv.com/trn03/gt-atv-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV (backup)
