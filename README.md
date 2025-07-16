@@ -11,8 +11,8 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/allgr.m
 
 # Ipstreet312 par ChatGPT :
 IPstreet312 est le pseudonyme – très certainement d’un développeur ou contributeur sur GitHub – derrière le populaire dépôt open source “freeiptv”. Voici ce qu’on peut en dire :
-- Sur GitHub, ipstreet312/freeiptv est un projet public hébergeant des playlists .m3u qui permettent d'accéder par centralisation et agrégation à des chaînes IPTV gratuites, notamment françaises, turques, balkaniques, arabes, etc. (github.com)
-- Cette playlist “all.m3u” regroupe de nombreuses chaînes (BFM, CNEWS, France 24, Euronews, TV5MONDE, etc.) et reçoit régulièrement des mises à jour. (scribd.com)
+- Sur GitHub, ipstreet312/freeiptv est un projet public hébergeant des playlists .m3u qui permettent d'accéder à des chaînes IPTV gratuites, notamment françaises, turques, balkaniques, arabes, etc. (github.com)
+- Cette playlist “all.m3u” regroupe par centralisation et agrégation de nombreuses chaînes (BFM, CNEWS, France 24, Euronews, TV5MONDE, etc.) et reçoit régulièrement des mises à jour. (scribd.com)
 - Le dépôt a remporté plus de 249 étoiles et 56 forks, ce qui montre une certaine popularité au sein de la communauté IPTV. (github.com)
 
 En résumé, ipstreet312 est une personne (ou un alias) qui gère et publie des listes de chaînes IPTV gratuites sur GitHub, particulièrement via le dépôt “freeiptv”.
