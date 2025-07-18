@@ -178,9 +178,8 @@ https://live-lci-hls.cdn-0.diff.tf1.fr/out/v1/917aad4fa72f42f7ba7f486226f54bc4/l
 #EXTINF:-1,TV5MONDE FBSM
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
 #EXTINF:-1,TF1_
-https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI4OS44My4xOS4yNyIsImNtY2QiOiIiLCJleHAiOjE3NTI2MTc5MjgsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzUyNjAzNTI4LCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.D8v-649yaTnYQGK4TW94VwY9zQH6fEUZTdm0M9i1WDw/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
 #EXTINF:-1,TF1-
-https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIzMS4zNi4yMDAuMjM3IiwiY21jZCI6IiIsImV4cCI6MTc1MjYxNjgwMywiZ2lkIjoiMGM5NTVkOWJjZjZmNDU2MDk5NmY3NDczMmIyNzNjZDciLCJpYXQiOjE3NTI2MDI0MDMsImlzcyI6ImRlbGl2ZXJ5IiwibWF4YiI6MCwic3RlbSI6Ii9vdXQvdjEvMmE1ZWYyYTRjZTRhNDEyMDllMGE4ODEwNzRkMTU5MzIvdGYxLWNtYWYiLCJzdWIiOiIwYzk1NWQ5YmNmNmY0NTYwOTk2Zjc0NzMyYjI3M2NkNyJ9.PeZDCX1_eWwP4Rkro9h7-3eX-EAUtYhQXURLczWo55A/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
+https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIzMS4zNi4yMDAuMjM3IiwiY21jZCI6IiIsImV4cCI6MTc1Mjg2MTYwMiwiZ2lkIjoiMGM5NTVkOWJjZjZmNDU2MDk5NmY3NDczMmIyNzNjZDciLCJpYXQiOjE3NTI4NDcyMDIsImlzcyI6ImRlbGl2ZXJ5IiwibWF4YiI6MCwic3RlbSI6Ii9vdXQvdjEvMmE1ZWYyYTRjZTRhNDEyMDllMGE4ODEwNzRkMTU5MzIvdGYxLWNtYWYiLCJzdWIiOiIwYzk1NWQ5YmNmNmY0NTYwOTk2Zjc0NzMyYjI3M2NkNyJ9.BhANNRICZBpDJGPk7D1IdH3Vr1631jxYWbIJb70_MGo/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
 #EXTINF:-1,FRANCE 2
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr2.m3u8
 #EXTINF:-1,FRANCE 3
@@ -456,8 +455,14 @@ https://ddt6vdovkiskj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://d1yl6bf4hrzbr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5km3zs4zs9sp0/allo.m3u8
 #EXTINF:-1,ALLO CINÉ
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10840
-#EXTINF:-1,RAKUTEN TOP FILMS TV
+#EXTINF:-1,RAKUTEN TOP FILMS
 https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8
+#EXTINF:-1,RAKUTEN ACTION FILMS
+https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8
+#EXTINF:-1,RAKUTEN COMEDY FILMS
+https://cc9f70371e7144e7acae4de8b5832d7a.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6183/master.m3u8
+#EXTINF:-1,RAKUTEN DRAMA FILMS
+https://f396f4db84a54f7bb496b2541477b626.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6095/master.m3u8
 #EXTINF:-1,BREF CINÉ
 https://c3776ebb1c7742cb9c0191b41b8b2432.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-fr_Brefcinema/playlist.m3u8
 #EXTINF:-1,CINÉ PRIME
@@ -665,7 +670,7 @@ https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
 #EXTINF:-1,TV7 BORDEAUX
 https://lives.digiteka.com/stream/17c6dea8-fb3f-46fe-b170-2ac88cd5667b/index.m3u8
 #EXTINF:-1,TV7 COLMAR
-http://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
+https://tv7.live-kd.com/live/tv7/livestream/playlist.m3u8
 #EXTINF:-1,TV 3V
 https://tv3v.live-kd.com/live/tv3v/livestream/playlist.m3u8
 #EXTINF:-1,VIA MATÉLÉ
@@ -1091,9 +1096,9 @@ https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1,SHOW
 https://bloomberght-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1,NOW
-https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=Z7867Fhv35AptK-xz-X9Wg&e=1752618882
+https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=b1-_s0mojlsTnX9e5pNtEw&e=1752878032
 #EXTINF:-1,NOW
-https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=Z7867Fhv35AptK-xz-X9Wg&e=1752618882
+https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=b1-_s0mojlsTnX9e5pNtEw&e=1752878032
 #EXTINF:-1,TV8
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
 #EXTINF:-1,TV8
@@ -2096,6 +2101,8 @@ https://kurdsat-news.akamaized.net/hls/kurdsat-news.m3u8
 https://6476e46b58f91.streamlock.net/music/livestream/chunklist.m3u8
 #EXTINF:-1,GELÎ KURDISTAN TV
 https://live.bradosti.net/live/GaliKurdistan/index.m3u8
+#EXTINF:-1,STERK TV
+https://muzkurd.com/sterktv/sterk/playlist.m3u8
 #EXTINF:-1,KOMALA TV
 https://live.tvkomala.com/live/komala/chunks.m3u8
 #EXTINF:-1,WELAT TV
@@ -2475,18 +2482,24 @@ https://ztnr.rtve.es/ztnr/1688877.m3u8
 https://dh6vo1bovy43s.cloudfront.net/La_1_ES.m3u8
 #EXTINF:-1,TVE LA 1
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
+#EXTINF:-1,TVE LA 1
+https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
 #EXTINF:-1,TVE LA 2
 https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
 #EXTINF:-1,TVE LA 2
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTINF:-1,TVE LA 2
 https://di2qeq48iv8ps.cloudfront.net/La_2_ES.m3u8
+#EXTINF:-1,TVE LA 2
+https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8
 #EXTINF:-1,TVE 24 H
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1,TVE 24 H
 https://d3pfmk89wc0vm9.cloudfront.net/24H_ES.m3u8
 #EXTINF:-1,TVE 24 H
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
+#EXTINF:-1,TVE 24 H
+https://d32rw80ytx9uxs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vlldndmow4yre/24HES.m3u8
 #EXTINF:-1,STAR TVE
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 #EXTINF:-1,STAR TVE
@@ -2495,10 +2508,14 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_720.m3u8
 https://d2a02gfcid1k4a.cloudfront.net/Teledeporte_ES.m3u8
 #EXTINF:-1,TVE TDP
 https://ztnr.rtve.es/ztnr/1712295.m3u8
+#EXTINF:-1,TVE TDP
+https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
 #EXTINF:-1,TVE CLAN
 https://d3nnqrdb77sy13.cloudfront.net/Clan_ES.m3u8
 #EXTINF:-1,TVE CLAN
 https://ztnr.rtve.es/ztnr/5466990.m3u8
+#EXTINF:-1,TVE CLAN
+https://dum8zv1rbdjj2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x6uutpgph4tpt/ClanES.m3u8
 #EXTINF:-1,ANTENA 3
 http://185.189.225.150:85/Antena3HD/index.m3u8
 #EXTINF:-1,ANTENA 3
@@ -2611,6 +2628,8 @@ https://d3kph49ozqk4tr.cloudfront.net/out/v1/b9781dec66d64d5f975b398c31f371db/in
 https://d35x6iaiw8f75z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbwsl0jk1bvoo/canal_sur_andalucia_es.m3u8
 #EXTINF:-1,SUR 1 ANDALUCÍA
 https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8
+#EXTINF:-1,SUR 1 ANDALUCÍA
+https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8
 #EXTINF:-1,SUR 2 ANDALUCÍA
 https://cdnlive.codev8.net/rtvalive/channel22.smil/playlist.m3u8
 #EXTINF:-1,SUR NOTICIAS ANDALUCÍA
@@ -2923,6 +2942,8 @@ http://69.64.57.208/canalalgerie/playlist.m3u8
 http://162.212.179.33/dvrfl05/gin-canalalgerie/index.m3u8
 #EXTINF:-1,AL24 NEWS
 https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
+#EXTINF:-1,EL HEDDAF TV
+https://live.eighty-eight.tv:7770/elheddaf1/index.m3u8
 #EXTINF:-1,ENNAHAR TV
 https://live20.bozztv.com/gin-36bay3/ga-ennahartv/index.m3u8
 #EXTINF:-1,ECHOROUK TV DZ
@@ -3547,6 +3568,8 @@ https://alshoobtv.rp.tactivemedia.com/alshoobtv/live/playlist.m3u8
 https://mn-nl.mncdn.com/qaf/live/playlist.m3u8
 #EXTINF:-1,SSAD TV
 https://www.enterweb.tv:25463/live/ssadtv/live-tv/1.m3u8
+#EXTINF:-1,ISHTAR ASSYRIAN GLOBAL
+https://58cc65c534c67.streamlock.net/agnsat.com/agn2/playlist.m3u8
 #EXTINF:-1,ISHTAR TV
 http://ishtar.cdncast.xyz:1935/live/iShtarHD/chunklist.m3u8
 #EXTINF:-1,AL SABAH KW
@@ -3783,6 +3806,8 @@ https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203
 https://asharq-prod-dub-ak.akamaized.net/out/v1/3b6b4902cf8747a28619411239584002/index.m3u8
 #EXTINF:-1,ASHARQ NEWS
 https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist.m3u8
+#EXTINF:-1,ASHARQ NEWS
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-asharq/10ae30c64e21402c8116a7fb1e5aa789/index.m3u8
 #EXTINF:-1,ROYA NEWS
 https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/extr/py/royanews.m3u8
 #EXTINF:-1,INEWS IQ
@@ -3834,11 +3859,15 @@ https://panoramafm-prod-dub-ak.akamaized.net/out/v1/66262e420d824475aaae794dc2d6
 #EXTINF:-1,EL SHARQ
 https://mn-nl.mncdn.com/elsharq_live/live/chunklist.m3u8
 #EXTINF:-1,WANASAH
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8
+#EXTINF:-1,WANASAH
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
 #EXTINF:-1,MAJID
 https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
 #EXTINF:-1,MAJID
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
+#EXTINF:-1,KOOGI TV
+https://5b622f07944df.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
 #EXTINF:-1,SPACE TOON
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:-1,SPACE TOON
@@ -4069,8 +4098,12 @@ https://shls-live-enc.edgenextcdn.net/out/v1/8ae5c35ffc5247a58e71a5c86dd31ad6/in
 https://shls-live-enc.edgenextcdn.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/index.m3u8
 #EXTINF:-1,MBC FM LIVE TV
 https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
+#EXTINF:-1,MBC FM LIVE TV
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-fm/3f36f7db6086acf058dc51681c87f8ad/index.m3u8
 #EXTINF:-1,MBC LOUD FM TV
 https://d2lfa0y84k5bwn.cloudfront.net/out/v1/86dd4506a70c4d7fb35e2ab50296d9a3/index.m3u8
+#EXTINF:-1,MBC TALENTS
+https://shls-live-enc.edgenextcdn.net/out/v1/07a6ab2d57b2453a91bbdd2d46b5865a/index.m3u8
 #EXTINF:-1,CBC LIVE EGY
 https://bcovlive-a.akamaihd.net/0c223ac0a9d34b30b100cb92ee83b70a/us-west-2/6057955906001/playlist.m3u8
 #EXTINF:-1,CBC SOFRA
@@ -4701,6 +4734,18 @@ https://ncdn.telewebion.com/twsport/live/playlist.m3u8
 https://ncdn.telewebion.com/twsport2/live/playlist.m3u8
 #EXTINF:-1,IRIB TWSPORT 3
 https://ncdn.telewebion.com/twsport3/live/playlist.m3u8
+#EXTINF:-1,IRNN 2
+https://cdn.telewebion.com/irinn2/live/playlist.m3u8
+#EXTINF:-1,JAM
+https://cdn.telewebion.com/jam/live/playlist.m3u8
+#EXTINF:-1,NAMA
+https://cdn.telewebion.com/nama/live/playlist.m3u8
+#EXTINF:-1,IRANEMAN
+https://cdn.telewebion.com/iraneman/live/playlist.m3u8
+#EXTINF:-1,IRNA
+https://tv.irna.ir/live/stream/index.m3u8
+#EXTINF:-1,SNN2
+https://live2.snn.ir/hls/snn2_hd720/index.m3u8
 #EXTINF:-1,JJTV 1
 https://ncdn.telewebion.com/jjtv1/live/playlist.m3u8
 #EXTINF:-1,JJTV 3
@@ -5167,6 +5212,8 @@ https://streams.sofast.tv/euronewsen/live/eds/euronews-en/25017/euronews-en.m3u8
 https://jmp2.uk/sam-GB2600019ON.m3u8
 #EXTINF:-1,AFRICANEWS EN
 https://rakuten-africanews-1-ie.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-1,AFRICANEWS EN
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/africanews/africanews-en.m3u8
 #EXTINF:-1,AFRICANEWS EN
 https://37c774660687468c821a51190046facf.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-gb_AfricaNews/playlist.m3u8
 #EXTINF:-1,EUROPE BY SAT
