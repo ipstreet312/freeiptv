@@ -4553,11 +4553,11 @@ https://v.trm.md/static/streaming-playlists/hls/937e4e0e-7174-4fb2-a299-480e68b4
 #EXTINF:-1 group-title="25. |HR-BA-RS++|🇭🇷🇧🇦🇷🇸 BALKANIC",--- |HR:🇭🇷 CROATIA| ---
 http://blank
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nnkDGpc/hrthr.png",HRT 1
-https://webtvstream.bhtelecom.ba/hrt1.m3u8
+http://webtvstream.bhtelecom.ba/hrt1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nnkDGpc/hrthr.png",HRT 2
-https://webtvstream.bhtelecom.ba/hrt2.m3u8
+http://webtvstream.bhtelecom.ba/hrt2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nnkDGpc/hrthr.png",HRT 3
-https://webtvstream.bhtelecom.ba/hrt3.m3u8
+http://webtvstream.bhtelecom.ba/hrt3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zNxvwRc/rtlhr.png",RTL HR
 https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zNxvwRc/rtlhr.png",RTL HR
@@ -4575,9 +4575,9 @@ https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1h
 #EXTINF:-1 group-title="25. |HR-BA-RS++|🇭🇷🇧🇦🇷🇸 BALKANIC",--- |BA:🇧🇦 BOSNIA| ---
 http://blank
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HLzRKs7k/bhrt.png",BH RT
-https://webtvstream.bhtelecom.ba/hls13/bhrtportal.m3u8
+http://webtvstream.bhtelecom.ba/hls13/bhrtportal.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HLzRKs7k/bhrt.png",BH RT
-https://webtvstream.bhtelecom.ba/hls13/bhrtportal_hd_1200.m3u8
+http://webtvstream.bhtelecom.ba/hls13/bhrtportal_hd_1200.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YFPPw1Wf/tvmba.png",TELEVIZIJA M
 https://live.tv-m.net/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4nyQwgwX/Aljbalk.png",AL JAZEERA BALKANS
@@ -4589,11 +4589,11 @@ https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1b
 #EXTINF:-1 group-title="25. |HR-BA-RS++|🇭🇷🇧🇦🇷🇸 BALKANIC",--- |RS:🇷🇸 SERBIA| ---
 http://blank
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xHMT7Jz/rtsrs.png",RTS 1
-https://webtvstream.bhtelecom.ba/rts1.m3u8
+http://webtvstream.bhtelecom.ba/rts1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xHMT7Jz/rtsrs.png",RTS 2
-https://webtvstream.bhtelecom.ba/rts2.m3u8
+http://webtvstream.bhtelecom.ba/rts2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xHMT7Jz/rtsrs.png",RTS SVET
-https://webtvstream.bhtelecom.ba/rts_svet.m3u8
+http://webtvstream.bhtelecom.ba/rts_svet.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZJB71LL/pinktvrs.png",PINK TV
 https://edge8.pink.rs/pinktv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZJB71LL/pinktvrs.png",PINK RED
@@ -5506,13 +5506,3 @@ http://
 http://
 #EXTINF:-1,TEST 01 🎉🥳🎊
 http://
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xHMT7Jz/rtsrs.png",RTS 2
-http://webtvstream.bhtelecom.ba/rts2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xHMT7Jz/rtsrs.png",RTS 2
-http://webtvstream.bhtelecom.ba/hls9/rts2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xHMT7Jz/rtsrs.png user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTS 2
-https://webtvstream.bhtelecom.ba/rts2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xHMT7Jz/rtsrs.png user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTS 2
-http://webtvstream.bhtelecom.ba/rts2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xHMT7Jz/rtsrs.png user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTS 2
-http://webtvstream.bhtelecom.ba/hls9/rts2.m3u8
