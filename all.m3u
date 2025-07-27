@@ -5514,19 +5514,3 @@ http://
 http://
 #EXTINF:-1,TEST 01 🎉🥳🎊
 http://
-#EXTINF:0 user-agent="IE", referer="https://www.rtp.pt/play/direto/rtp1", drm="ClearKey", drmkey="f80351a117ba3f17a26e0e8cd4dc00c4:a2226def4bc8f249de2daf36b7c12b1e",RTP1
-https://streaming-live.rtp.pt/liverepeater/rtpClean1HD.smil/manifest.mpd
-#EXTINF:0 user-agent="IE", referer="https://www.rtp.pt/play/direto/rtp1", drm="clearkey", drmkey="f80351a117ba3f17a26e0e8cd4dc00c4:a2226def4bc8f249de2daf36b7c12b1e",RTP1
-https://streaming-live.rtp.pt/liverepeater/rtpClean1HD.smil/manifest.mpd
-#EXTINF:0 user-agent="IE" referer="https://www.rtp.pt/play/direto/rtp1" drm="ClearKey" drmkey="f80351a117ba3f17a26e0e8cd4dc00c4:a2226def4bc8f249de2daf36b7c12b1e",RTP1
-https://streaming-live.rtp.pt/liverepeater/rtpClean1HD.smil/manifest.mpd
-#EXTINF:0 user-agent="IE", referer="https://www.rtp.pt/play/direto/rtp1", drm="ClearKey", drmkey="f80351a117ba3f17a26e0e8cd4dc00c4:a2226def4bc8f249de2daf36b7c12b1e",RTP1
-http://streaming-live-app.rtp.pt/liverepeater/rtpClean1HD.smil/playlist.m3u8
-#EXTINF:0 user-agent="IE", referer="https://www.rtp.pt/play/direto/rtp1", drm="clearkey", drmkey="f80351a117ba3f17a26e0e8cd4dc00c4:a2226def4bc8f249de2daf36b7c12b1e",RTP1
-http://streaming-live-app.rtp.pt/liverepeater/rtpClean1HD.smil/playlist.m3u8
-#EXTINF:0 user-agent="IE", referer="https://www.rtp.pt/play/direto/rtp1", drm="clearkey", drmkey="f80351a117ba3f17a26e0e8cd4dc00c4:a2226def4bc8f249de2daf36b7c12b1e",RTP1
-https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
-#EXTINF:0 user-agent="IE" referer="https://www.rtp.pt/play/direto/rtp2" drm="ClearKey" drmkey="761e7af421a4386e82eaa861a49b3d73:f1eb56955a79e555b1f8b96aec3afa25",RTP2
-http://streaming-live-app.rtp.pt/liverepeater/rtpClean2HD.smil/manifest.mpd
-#EXTINF:0 user-agent="IE" referer="https://www.rtp.pt/play/direto/rtp3" drm="ClearKey" drmkey="761e7af421a4386e82eaa861a49b3d73:f1eb56955a79e555b1f8b96aec3afa25",RTP3
-http://streaming-live.rtp.pt/liverepeater/rtpnHD.smil/manifest.mpd
