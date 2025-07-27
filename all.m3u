@@ -3572,6 +3572,8 @@ https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8
 https://stream.castr.com/65045e4aba85cfe0025e4a60/live_c6c4040053cd11ee95b47153d2861736/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/f2XWR2M/alrabiaa.jpg",AL RABIAA
 https://206222.global.ssl.fastly.net/65045e4aba85cfe0025e4a60/live_c6c4040053cd11ee95b47153d2861736/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QjDPJSQ0/Al-Mashhad.jpg",AL MASHAD
+https://bcovlive-a.akamaihd.net/rbcb04b715757430f92099ecc84ca472f/ap-south-1/6313884884001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mcd2S4f/samaatv.png",SAMA TV
 https://app.sama-tv.net/hls/samatv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FYdQXH1/aldafrah.png",AL DAFRAH
@@ -4200,6 +4202,8 @@ https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m
 https://bcovlive-a.akamaihd.net/0debf5648e584e5fb795c3611c5c0252/eu-central-1/6057955906001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PN8G6F8/rotanakids.png",ROTANA KIDS
 https://cdn1.iptvcdn.tv/mcnc/ROTANA_KIDS/playlist.m3u8?&token=demo
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SwZKHJj/rcomedy.jpg",ROTANA COMEDY
+http://mains.services/live/bshorty/Zv5le07a0J/790ba89d-843f-4e4e-b4a4-27973cb1f51b.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SwZKHJj/rcomedy.jpg" referer="https://rotana.net/",ROTANA COMEDY
 https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5sJ9vSJ/rotanakhalijia.png",ROTANA KHALIJA
@@ -4208,6 +4212,8 @@ https://edge66.magictvbox.com/liveApple/rotana_khalijiah/tracks-v1a1/mono.m3u8
 https://rotana.hibridcdn.net/rotana/khaleejiya_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/207NnrF1/pncdr.png",ROTANA PNC DRAMA
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pnc-drama/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/207NnrF1/pncdr.png",ROTANA DRAMA
+http://edge66.magictvbox.com/liveApple/rotana_massriya_plus/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/207NnrF1/pncdr.png" referer="https://rotana.net/",ROTANA DRAMA
 https://rotana.hibridcdn.net/rotananet/drama_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png",ROYA TV
@@ -4914,6 +4920,8 @@ https://s1.ettehadlive.com/live/42/chunklist.m3u8
 https://live.presstv.ir/hls/ifilmfa_4_482/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tqkV2sn/irflag.png",MBC PERSIA
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tqkV2sn/irflag.png",MBC PERSIA
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tqkV2sn/irflag.png",MBC PERSIA
 https://mbcpersia-prod-dub-ak.akamaized.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tqkV2sn/irflag.png",HASTI TV
