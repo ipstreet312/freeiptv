@@ -5526,57 +5526,7 @@ http://streaming-live-app.rtp.pt/liverepeater/rtpClean1HD.smil/playlist.m3u8
 http://streaming-live-app.rtp.pt/liverepeater/rtpClean1HD.smil/playlist.m3u8
 #EXTINF:0 user-agent="IE", referer="https://www.rtp.pt/play/direto/rtp1", drm="clearkey", drmkey="f80351a117ba3f17a26e0e8cd4dc00c4:a2226def4bc8f249de2daf36b7c12b1e",RTP1
 https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
-#EXTINF:0 user-agent="IE" referer="https://www.rtp.pt/play/direto/rtp2",RTP2
-https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
 #EXTINF:0 user-agent="IE" referer="https://www.rtp.pt/play/direto/rtp2" drm="ClearKey" drmkey="761e7af421a4386e82eaa861a49b3d73:f1eb56955a79e555b1f8b96aec3afa25",RTP2
 http://streaming-live-app.rtp.pt/liverepeater/rtpClean2HD.smil/manifest.mpd
 #EXTINF:0 user-agent="IE" referer="https://www.rtp.pt/play/direto/rtp3" drm="ClearKey" drmkey="761e7af421a4386e82eaa861a49b3d73:f1eb56955a79e555b1f8b96aec3afa25",RTP3
 http://streaming-live.rtp.pt/liverepeater/rtpnHD.smil/manifest.mpd
-#EXTINF:0 user-agent="IE" referer="https://www.rtp.pt/play/direto/rtp3",RTP3
-https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
-#EXTINF:0 user-agent="IE" referer="https://www.rtp.pt/play/direto/rtp3" drm="ClearKey" drmkey="761e7af421a4386e82eaa861a49b3d73:f1eb56955a79e555b1f8b96aec3afa25",RTP3
-https://streaming-live.rtp.pt/liverepeater/rtpnHD.smil/playlist.m3u8
-#EXTINF:0 user-agent="IE" referer="https://www.rtp.pt/play/direto",RTPi
-https://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
-#EXTINF:0 user-agent="Wink/1.31.1" referer="https://www.rtp.pt/play/direto/rtp3",RTPi
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
-#EXTINF:0 drm="clearkey", drmkey="6E1087EF-30F7-3661-BEB5-FA8BD7A48852",M6
-https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/6bb64f06f28a4bfb8779bc1a386f7f0b/dash_short_cenc10_m6_hd_index.mpd
-#EXTINF:0 drm="ClearKey", drmkey="6E1087EF-30F7-3661-BEB5-FA8BD7A48852",M6
-https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/6bb64f06f28a4bfb8779bc1a386f7f0b/dash_short_cenc10_m6_hd_index.mpd
-#EXTINF:0 drm="Playready", drmkey="6E1087EF-30F7-3661-BEB5-FA8BD7A48852",M6
-https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/6bb64f06f28a4bfb8779bc1a386f7f0b/dash_short_cenc10_m6_hd_index.mpd
-#EXTINF:0 drm="PlayReady", drmkey="6E1087EF-30F7-3661-BEB5-FA8BD7A48852",M6
-https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/6bb64f06f28a4bfb8779bc1a386f7f0b/dash_short_cenc10_m6_hd_index.mpd
-#EXTINF:0 drm="Widevine", drmkey="6E1087EF-30F7-3661-BEB5-FA8BD7A48852",M6
-https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/6bb64f06f28a4bfb8779bc1a386f7f0b/dash_short_cenc10_m6_hd_index.mpd
-#EXTINF:0 drm="clearkey", drmkey="9a2ff6a9347a4dc58940c685bf75399e",M6A
-https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/6bb64f06f28a4bfb8779bc1a386f7f0b/dash_short_cenc10_m6_hd_index.mpd
-#EXTINF:0 drm="ClearKey", drmkey="9a2ff6a9347a4dc58940c685bf75399e",M6
-https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/6bb64f06f28a4bfb8779bc1a386f7f0b/dash_short_cenc10_m6_hd_index.mpd
-#EXTINF:0 drm="Playready", drmkey="9a2ff6a9347a4dc58940c685bf75399e",M6
-https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/6bb64f06f28a4bfb8779bc1a386f7f0b/dash_short_cenc10_m6_hd_index.mpd
-#EXTINF:0 drm="PlayReady", drmkey="9a2ff6a9347a4dc58940c685bf75399e",M6
-https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/6bb64f06f28a4bfb8779bc1a386f7f0b/dash_short_cenc10_m6_hd_index.mpd
-#EXTINF:0 drm="Widevine", drmkey="9a2ff6a9347a4dc58940c685bf75399e",M6
-https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/6bb64f06f28a4bfb8779bc1a386f7f0b/dash_short_cenc10_m6_hd_index.mpd
-#EXTINF:0 drm="clearkey", drmkey="9a2ff6a9347a4dc58940c685bf75399e",M6B
-https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/72072059b9d541feac3c9328728d8304/cmaf/hlsfmp4_short_fp00_m6_hd_index.m3u8
-#EXTINF:0 drm="ClearKey", drmkey="9a2ff6a9347a4dc58940c685bf75399e",M6
-https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/72072059b9d541feac3c9328728d8304/cmaf/hlsfmp4_short_fp00_m6_hd_index.m3u8
-#EXTINF:0 drm="Playready", drmkey="9a2ff6a9347a4dc58940c685bf75399e",M6
-https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/72072059b9d541feac3c9328728d8304/cmaf/hlsfmp4_short_fp00_m6_hd_index.m3u8
-#EXTINF:0 drm="PlayReady", drmkey="9a2ff6a9347a4dc58940c685bf75399e",M6
-https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/72072059b9d541feac3c9328728d8304/cmaf/hlsfmp4_short_fp00_m6_hd_index.m3u8
-#EXTINF:0 drm="Widevine", drmkey="9a2ff6a9347a4dc58940c685bf75399e",M6
-https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/72072059b9d541feac3c9328728d8304/cmaf/hlsfmp4_short_fp00_m6_hd_index.m3u8
-#EXTINF:0 drm="clearkey", drmkey="9a2ff6a9347a4dc58940c685bf75399e",M6C
-https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/25e13477c7c54bbe8f93e828f2234fca/cmaf/hlsfmp4_short_fp00_m6_sd_index.m3u8
-#EXTINF:0 drm="ClearKey", drmkey="9a2ff6a9347a4dc58940c685bf75399e",M6
-https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/25e13477c7c54bbe8f93e828f2234fca/cmaf/hlsfmp4_short_fp00_m6_sd_index.m3u8
-#EXTINF:0 drm="Playready", drmkey="9a2ff6a9347a4dc58940c685bf75399e",M6
-https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/25e13477c7c54bbe8f93e828f2234fca/cmaf/hlsfmp4_short_fp00_m6_sd_index.m3u8
-#EXTINF:0 drm="PlayReady", drmkey="9a2ff6a9347a4dc58940c685bf75399e",M6
-https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/25e13477c7c54bbe8f93e828f2234fca/cmaf/hlsfmp4_short_fp00_m6_sd_index.m3u8
-#EXTINF:0 drm="Widevine", drmkey="9a2ff6a9347a4dc58940c685bf75399e",M6
-https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/25e13477c7c54bbe8f93e828f2234fca/cmaf/hlsfmp4_short_fp00_m6_sd_index.m3u8
