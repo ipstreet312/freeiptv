@@ -218,7 +218,7 @@ https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Sm9PtLR/cstar.png",CSTAR
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cstar-dm.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hKVyKj4/tmc.png",TMC
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/JE4w1uPzd04/2JXIhlK4ce5mEHtZ.m3u8
+https://www.andykimpe.ovh/tmc.php/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1t2g7bBq/novo19.png",NOVO 19
 https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/novo19.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/420Bjqt/tv5europe.png",TV5MONDE EUROPE [geo-area]
@@ -5520,3 +5520,23 @@ http://
 http://
 #EXTINF:-1,TEST 01 🎉🥳🎊
 http://
+#EXTINF:0 drm="ClearKey", drmkey="e397d5ccb7e73344b51579ca24dc84fc:9c7ebe3311cc7a0ef56d006c507df0b5",W9
+https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/fe03c8da4a9c477da026d2b79a70195b/dash_short_cenc10_w9_hd_index.mpd
+#EXTINF:0 drm="ClearKey", drmkey="e397d5ccb7e73344b51579ca24dc84fc",W9
+https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/fe03c8da4a9c477da026d2b79a70195b/dash_short_cenc10_w9_hd_index.mpd
+#EXTINF:0 drm="Clearkey", drmkey="e397d5ccb7e73344b51579ca24dc84fc",W9
+https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/fe03c8da4a9c477da026d2b79a70195b/dash_short_cenc10_w9_hd_index.mpd
+#EXTINF:0 drm="Clearkey", drmkey="e397d5ccb7e73344b51579ca24dc84fc:9c7ebe3311cc7a0ef56d006c507df0b5",W9
+https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/fe03c8da4a9c477da026d2b79a70195b/dash_short_cenc10_w9_hd_index.mpd
+#EXTINF:0 drm="Widevine", drmkey="e397d5ccb7e73344b51579ca24dc84fc:9c7ebe3311cc7a0ef56d006c507df0b5",W9
+https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/fe03c8da4a9c477da026d2b79a70195b/dash_short_cenc10_w9_hd_index.mpd
+#EXTINF:0 drm="Widevine", drmkey="e397d5ccb7e73344b51579ca24dc84fc",W9
+https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/fe03c8da4a9c477da026d2b79a70195b/dash_short_cenc10_w9_hd_index.mpd
+#EXTINF:0 drm="Widevine", drmkey="6e1087ef30f73661beb5fa8bd7a48852:3b4d9f5335c155564a258ac37da69171",M6
+https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/6bb64f06f28a4bfb8779bc1a386f7f0b/dash_short_cenc10_m6_hd_index.mpd
+#EXTINF:0 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0", drm="ClearKey", drmkey="6e1087ef30f73661beb5fa8bd7a48852:3b4d9f5335c155564a258ac37da69171",M6
+https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/6bb64f06f28a4bfb8779bc1a386f7f0b/dash_short_cenc10_m6_hd_index.mpd
+#EXTINF:0 drm="Clearkey", drmkey="6e1087ef30f73661beb5fa8bd7a48852:3b4d9f5335c155564a258ac37da69171",M6
+https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/6bb64f06f28a4bfb8779bc1a386f7f0b/dash_short_cenc10_m6_hd_index.mpd
+#EXTINF:0 drm="ClearKey", drmkey="6e1087ef30f73661beb5fa8bd7a48852:3b4d9f5335c155564a258ac37da69171",M6
+https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/6bb64f06f28a4bfb8779bc1a386f7f0b/dash_short_cenc10_m6_hd_index.mpd
