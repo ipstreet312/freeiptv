@@ -291,6 +291,8 @@ https://live.tntdirect.tv/9CM2pADCxF/w5BA32MP6P/6.ts
 https://live.tntdirect.tv/9CM2pADCxF/w5BA32MP6P/6.ts?extension=m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6 (test)
 http://gratuittv.free.fr/Files/m6/live/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/LNRd253/w9.png", user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0", referer="https://app.molotov.tv/", drm="ClearKey", drmkey="63279e48341740c28dca2de88de3ce68:9ef735f7e7a955e07d16e0efee001fb3",W9
+https://live-up.akamaized.net/public/w9/w9.isml/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LNRd253/w9.png",W9 (test)
 https://live20.bozztv.com/dvrfl06/astv/astv-w9tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LNRd253/w9.png",W9 (invest)
@@ -5520,23 +5522,3 @@ http://
 http://
 #EXTINF:-1,TEST 01 🎉🥳🎊
 http://
-#EXTINF:0 drm="ClearKey", drmkey="e397d5ccb7e73344b51579ca24dc84fc:9c7ebe3311cc7a0ef56d006c507df0b5",W9
-https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/fe03c8da4a9c477da026d2b79a70195b/dash_short_cenc10_w9_hd_index.mpd
-#EXTINF:0 drm="ClearKey", drmkey="e397d5ccb7e73344b51579ca24dc84fc",W9
-https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/fe03c8da4a9c477da026d2b79a70195b/dash_short_cenc10_w9_hd_index.mpd
-#EXTINF:0 drm="Clearkey", drmkey="e397d5ccb7e73344b51579ca24dc84fc",W9
-https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/fe03c8da4a9c477da026d2b79a70195b/dash_short_cenc10_w9_hd_index.mpd
-#EXTINF:0 drm="Clearkey", drmkey="e397d5ccb7e73344b51579ca24dc84fc:9c7ebe3311cc7a0ef56d006c507df0b5",W9
-https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/fe03c8da4a9c477da026d2b79a70195b/dash_short_cenc10_w9_hd_index.mpd
-#EXTINF:0 drm="Widevine", drmkey="e397d5ccb7e73344b51579ca24dc84fc:9c7ebe3311cc7a0ef56d006c507df0b5",W9
-https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/fe03c8da4a9c477da026d2b79a70195b/dash_short_cenc10_w9_hd_index.mpd
-#EXTINF:0 drm="Widevine", drmkey="e397d5ccb7e73344b51579ca24dc84fc",W9
-https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/fe03c8da4a9c477da026d2b79a70195b/dash_short_cenc10_w9_hd_index.mpd
-#EXTINF:0 drm="Widevine", drmkey="6e1087ef30f73661beb5fa8bd7a48852:3b4d9f5335c155564a258ac37da69171",M6
-https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/6bb64f06f28a4bfb8779bc1a386f7f0b/dash_short_cenc10_m6_hd_index.mpd
-#EXTINF:0 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0", drm="ClearKey", drmkey="6e1087ef30f73661beb5fa8bd7a48852:3b4d9f5335c155564a258ac37da69171",M6
-https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/6bb64f06f28a4bfb8779bc1a386f7f0b/dash_short_cenc10_m6_hd_index.mpd
-#EXTINF:0 drm="Clearkey", drmkey="6e1087ef30f73661beb5fa8bd7a48852:3b4d9f5335c155564a258ac37da69171",M6
-https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/6bb64f06f28a4bfb8779bc1a386f7f0b/dash_short_cenc10_m6_hd_index.mpd
-#EXTINF:0 drm="ClearKey", drmkey="6e1087ef30f73661beb5fa8bd7a48852:3b4d9f5335c155564a258ac37da69171",M6
-https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/6bb64f06f28a4bfb8779bc1a386f7f0b/dash_short_cenc10_m6_hd_index.mpd
