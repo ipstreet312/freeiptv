@@ -44,7 +44,7 @@ https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nR2HsVr/ln24.png",LN24 LES NEWS BE
 https://live-ln24.digiteka.com/1911668011/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MZLCTmN/monacoinfo.png",MONACO INFO
-http://webtv.monacoinfo.com/live/prod/index.m3u8
+https://webtv.monacoinfo.com/live/prod/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sd7qf1w7/icirdiqb.png",RDI CANADA
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pdnMrZn/a24.png",AFRICA 24 FR
@@ -4652,6 +4652,8 @@ https://tv.balkanweb.com/news24/livestream/playlist.m3u8
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/mps-vgx-u9p-qv1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/W4GcZTr1/koha.jpg",KOHAVISION
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/lj9-pxm-o53-rp0/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/20Gpwbyt/viziyonalb.jpg",VIZION PLUS AL
+https://tringliveviz.akamaized.net/delta/105/out/u/qwaszxerdfcvrtryuy.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Nd7f2QvW/21alb.jpg",RTV 21 ALBANIA
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/2cz-npl-jfn-9he/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7N8KPCBZ/alb7.jpg",TV7 ALBANIA
@@ -5522,5 +5524,3 @@ http://
 http://
 #EXTINF:-1,TEST 01 🎉🥳🎊
 http://
-#EXTINF:-1 user-agent="VLC/3.0.20 LibVLC/3.0.20",M1 
-https://webtv.monacoinfo.com/live/prod_360/index.m3u8
