@@ -5574,3 +5574,37 @@ http://
 http://
 #EXTINF:-1,TEST 01 🎉🥳🎊
 http://
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png" user-agent="IE",RTP INTERNACIONAL
+https://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HnqCkQj/rtp3.jpg" user-agent="IE",RTP 3 NOTÍCIAS
+https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vZ9S4rV/rtpmem.jpg" user-agent="IE",RTP MEMÓRIA
+https://streaming-live.rtp.pt/liverepeater/rtpmem.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9GMzcw7/rtpaco.jpg" user-agent="IE",RTP AÇORES
+https://streaming-live.rtp.pt/liverepeater/rtpacoresHD.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bvwwcB9/rtpmad.jpg" user-agent="IE",RTP MADEIRA
+https://streaming-live.rtp.pt/liverepeater/rtpmadeira.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BsdgH54/rtpafr.webp" user-agent="IE",RTP ÁFRICA
+https://streaming-live.rtp.pt/liverepeater/rtpafrica.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YZFCjp/rtp1.jpg" user-agent="IE",RTP 1
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tbFT1V2/rtp2.jpg" user-agent="IE",RTP 2
+https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BsdgH54/rtpafr.webp" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)" referer="https://www.rtp.pt/play/direto",RTP AFRICA (noott)
+https://streaming-live.rtp.pt/liverepeater/rtpafrica.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9GMzcw7/rtpaco.jpg" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)" referer="https://www.rtp.pt/play/direto",RTP ACORES (noott)
+https://streaming-live.rtp.pt/liverepeater/rtpacores.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bvwwcB9/rtpmad.jpg" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)" referer="https://www.rtp.pt/play/direto",RTP MADEIRA (noott)
+https://streaming-live.rtp.pt/liverepeater/rtpmadeira.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vZ9S4rV/rtpmem.jpg" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)" referer="https://www.rtp.pt/play/direto",RTP MEMORIA (noott)
+https://streaming-live.rtp.pt/liverepeater/rtpmem.smil/playlist.m3u8
+#EXTINF:0 drm="PlayReady", drmkey="e8ae44fa-a1e7-3658-bfe7-25dec8204259",W9 PR
+https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_cenc00/dash-short-hd.mpd
+#EXTINF:0 drm="PlayReady", drmkey="e8ae44fa-a1e7-3658-bfe7-25dec8204259:9a04f079-9840-4286-ab92-e65be0885f95",W9 PR-id
+https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_cenc00/dash-short-hd.mpd
+#EXTINF:0 drm="Widevine", drmkey="e8ae44fa-a1e7-3658-bfe7-25dec8204259",W9 Wv
+https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_cenc00/dash-short-hd.mpd
+#EXTINF:0 drm="Widevine", drmkey="e8ae44fa-a1e7-3658-bfe7-25dec8204259:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed",W9 Wv-id
+https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_cenc00/dash-short-hd.mpd
+#EXTINF:0 drm="ClearKey", drmkey="e8ae44fa-a1e7-3658-bfe7-25dec8204259",W9 CK
+https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_cenc00/dash-short-hd.mpd
