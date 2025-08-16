@@ -3922,6 +3922,8 @@ https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/53
 https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPkb8TQ/trtar.png",TRT ARABIYA
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZzGJwxY1/shams.jpg",SHAMS TV
+https://stream.shams.tv/hls/0/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XDC5cBX/alalam.png",AL ALAM IR [censure-ifany] 
 https://live2.alalam.ir/alalam.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D7w9h7Q/rt.png",RT ARABIC [censure-blocked]
