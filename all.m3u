@@ -2388,18 +2388,20 @@ http://hbbtv.ert.gr/stream.php/v/vid_kidstv-hbbtv_mpeg.2ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3sHp7pS/riksat.png",RIK SAT CYPRUS (backup)
 https://ertflix.akamaized.net/ertlive/rik/default/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pyXp0bk/tvi.png" group-title="13. |PT|🇵🇹 PORTUGAL",TVI
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png" group-title="13. |PT|🇵🇹 PORTUGAL",RTP INTERNACIONAL
+http://78.128.125.60:9981/play/a00k/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png" user-agent="IE" referer="https://www.rtp.pt/play/direto",RTP INTERNACIONAL
+https://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pyXp0bk/tvi.png",TVI
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6r1xHn6/sic.png",SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png",RTP INTERNACIONAL
-http://78.128.125.60:9981/play/a00k/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png",CNN PORTUGAL
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1QHfvZJ/sicnoc.png",SIC NOTÍCIAS
 https://cdnapisec.kaltura.com/p/4526593/sp/4526593/playManifest/entryId/1_j8ztwihx/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HnqCkQj/rtp3.jpg" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0",RTP 3 NOTÍCIAS
-https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/tvipt/py/rtp_3.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HnqCkQj/rtp3.jpg" user-agent="IE" referer="https://www.rtp.pt/play/direto",RTP 3 NOTÍCIAS
+https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",EURONEWS PT
 https://euronews-live-por-pt.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6572/bitok/e/26035/euronews-pt.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pyXp0bk/tvi.png",TVI INT
@@ -2416,6 +2418,18 @@ https://production-fast-sic.content.okast.tv/fa2e8c4385712f9ae705b449477523ec/ch
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M2g53rQ/sichdad.png",SIC HD ALTA DEFINIÇÃO
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YZFCjp/rtp1.jpg" user-agent="IE" referer="https://www.rtp.pt/play/direto",RTP 1
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tbFT1V2/rtp2.jpg" user-agent="IE" referer="https://www.rtp.pt/play/direto",RTP 2
+https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vZ9S4rV/rtpmem.jpg" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)",RTP MEMÓRIA
+https://streaming-live.rtp.pt/liverepeater/rtpmem.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bvwwcB9/rtpmad.jpg" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)",RTP MADEIRA
+https://streaming-live.rtp.pt/liverepeater/rtpmadeira.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9GMzcw7/rtpaco.jpg" user-agent="IE" referer="https://www.rtp.pt/play/direto",RTP AÇORES
+https://streaming-live.rtp.pt/liverepeater/rtpacoresHD.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BsdgH54/rtpafr.webp" user-agent="IE" referer="https://www.rtp.pt/play/direto",RTP ÁFRICA
+https://streaming-live.rtp.pt/liverepeater/rtpafrica.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WVzhVbc/portoc.png",PORTO CANAL
 https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png",RTP TV PORTUGUESA
@@ -2442,6 +2456,20 @@ https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-brazuca/encrypted.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fk0Vttj/tracebraz.png",TRACE BRAZUCA
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ccfvktkgxl5qg/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HnqCkQj/rtp3.jpg" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0",RTP 3 NOTÍCIAS
+https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/tvipt/py/rtp_3.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)",RTP INTERNACIONAL
+https://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HnqCkQj/rtp3.jpg" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)",RTP 3 NOTÍCIAS
+https://streaming-live.rtp.pt/liverepeater/smil:rtpn.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9GMzcw7/rtpaco.jpg" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)",RTP AÇORES
+https://streaming-live.rtp.pt/liverepeater/rtpacores.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BsdgH54/rtpafr.webp" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)",RTP ÁFRICA
+https://streaming-live.rtp.pt/liverepeater/rtpafrica.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bvwwcB9/rtpmad.jpg" user-agent="IE" referer="https://www.rtp.pt/play/direto",RTP MADEIRA
+https://streaming-live.rtp.pt/liverepeater/rtpmadeira.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vZ9S4rV/rtpmem.jpg" user-agent="IE" referer="https://www.rtp.pt/play/direto",RTP MEMÓRIA
+https://streaming-live.rtp.pt/liverepeater/rtpmem.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3YZFCjp/rtp1.jpg",RTP 1 (backup sd)
 https://streaming-live.rtp.pt/liverepeater/rtp1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tbFT1V2/rtp2.jpg",RTP 2 (backup sd)
@@ -5574,89 +5602,3 @@ http://
 http://
 #EXTINF:-1,TEST 01 🎉🥳🎊
 http://
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png" user-agent="IE",RTP INTERNACIONAL
-https://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HnqCkQj/rtp3.jpg" user-agent="IE",RTP 3 NOTÍCIAS
-https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vZ9S4rV/rtpmem.jpg" user-agent="IE",RTP MEMÓRIA
-https://streaming-live.rtp.pt/liverepeater/rtpmem.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9GMzcw7/rtpaco.jpg" user-agent="IE",RTP AÇORES
-https://streaming-live.rtp.pt/liverepeater/rtpacoresHD.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bvwwcB9/rtpmad.jpg" user-agent="IE",RTP MADEIRA
-https://streaming-live.rtp.pt/liverepeater/rtpmadeira.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BsdgH54/rtpafr.webp" user-agent="IE",RTP ÁFRICA
-https://streaming-live.rtp.pt/liverepeater/rtpafrica.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3YZFCjp/rtp1.jpg" user-agent="IE",RTP 1
-https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tbFT1V2/rtp2.jpg" user-agent="IE",RTP 2
-https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BsdgH54/rtpafr.webp" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)" referer="https://www.rtp.pt/play/direto",RTP AFRICA (noott)
-https://streaming-live.rtp.pt/liverepeater/rtpafrica.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9GMzcw7/rtpaco.jpg" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)" referer="https://www.rtp.pt/play/direto",RTP ACORES (noott)
-https://streaming-live.rtp.pt/liverepeater/rtpacores.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bvwwcB9/rtpmad.jpg" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)" referer="https://www.rtp.pt/play/direto",RTP MADEIRA (noott)
-https://streaming-live.rtp.pt/liverepeater/rtpmadeira.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vZ9S4rV/rtpmem.jpg" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)" referer="https://www.rtp.pt/play/direto",RTP MEMORIA (noott)
-https://streaming-live.rtp.pt/liverepeater/rtpmem.smil/playlist.m3u8
-#EXTINF:0 drm="PlayReady", drmkey="e8ae44fa-a1e7-3658-bfe7-25dec8204259",W9 PR
-https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_cenc00/dash-short-hd.mpd
-#EXTINF:0 drm="PlayReady", drmkey="e8ae44fa-a1e7-3658-bfe7-25dec8204259:9a04f079-9840-4286-ab92-e65be0885f95",W9 PR-id
-https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_cenc00/dash-short-hd.mpd
-#EXTINF:0 drm="Widevine", drmkey="e8ae44fa-a1e7-3658-bfe7-25dec8204259",W9 Wv
-https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_cenc00/dash-short-hd.mpd
-#EXTINF:0 drm="Widevine", drmkey="e8ae44fa-a1e7-3658-bfe7-25dec8204259:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed",W9 Wv-id
-https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_cenc00/dash-short-hd.mpd
-#EXTINF:0 drm="ClearKey", drmkey="e8ae44fa-a1e7-3658-bfe7-25dec8204259",W9 CK
-https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_cenc00/dash-short-hd.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9GMzcw7/rtpaco.jpg" user-agent="IE",RTP AÇORES IE SD
-https://streaming-live.rtp.pt/liverepeater/rtpacores.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9GMzcw7/rtpaco.jpg" user-agent="IE" referer="https://www.rtp.pt/play/direto",RTP AÇORES IE REF
-https://streaming-live.rtp.pt/liverepeater/rtpacores.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9GMzcw7/rtpaco.jpg" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)",RTP AÇORES MOZ
-https://streaming-live.rtp.pt/liverepeater/rtpacores.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9GMzcw7/rtpaco.jpg" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)" referer="https://www.rtp.pt/play/direto",RTP AÇORES MOZ REF
-https://streaming-live.rtp.pt/liverepeater/rtpacores.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)",RTP INTERNACIONAL MOZ
-https://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)" referer="https://www.rtp.pt/play/direto",RTP INTERNACIONAL MOZ REF
-https://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png" user-agent="IE" referer="https://www.rtp.pt/play/direto",RTP INTERNACIONAL IE REF
-https://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9GMzcw7/rtpaco.jpg" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)" referer="https://www.rtp.pt/play/direto",RTP ACORES HD
-https://streaming-live.rtp.pt/liverepeater/rtpacoresHD.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bvwwcB9/rtpmad.jpg" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)" referer="https://www.rtp.pt/play/direto",RTP MADEIRA (noott) HTTP
-http://streaming-live.rtp.pt/liverepeater/rtpmadeira.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)",RTP INTERNACIONAL MOZ HTTP
-http://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)" referer="https://www.rtp.pt/play/direto",RTP INTERNACIONAL MOZ REF HTTP
-http://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png" user-agent="IE" referer="https://www.rtp.pt/play/direto",RTP INTERNACIONAL IE REF HTTP
-http://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png" user-agent="IE" referer="https://www.rtp.pt/play/direto",RTP INTERNACIONAL
-https://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)",RTP INTERNACIONAL
-https://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HnqCkQj/rtp3.jpg" user-agent="IE" referer="https://www.rtp.pt/play/direto",RTP 3 NOTÍCIAS
-https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HnqCkQj/rtp3.jpg" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)",RTP 3 NOTÍCIAS
-https://streaming-live.rtp.pt/liverepeater/smil:rtpn.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3YZFCjp/rtp1.jpg" user-agent="IE" referer="https://www.rtp.pt/play/direto",RTP 1
-https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tbFT1V2/rtp2.jpg" user-agent="IE" referer="https://www.rtp.pt/play/direto",RTP 2
-https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vZ9S4rV/rtpmem.jpg" user-agent="IE" referer="https://www.rtp.pt/play/direto",RTP MEMÓRIA
-https://streaming-live.rtp.pt/liverepeater/rtpmem.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vZ9S4rV/rtpmem.jpg" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)",RTP MEMÓRIA
-https://streaming-live.rtp.pt/liverepeater/rtpmem.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9GMzcw7/rtpaco.jpg" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)",RTP AÇORES
-https://streaming-live.rtp.pt/liverepeater/rtpacores.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9GMzcw7/rtpaco.jpg" user-agent="IE" referer="https://www.rtp.pt/play/direto",RTP AÇORES
-https://streaming-live.rtp.pt/liverepeater/rtpacoresHD.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bvwwcB9/rtpmad.jpg" user-agent="IE" referer="https://www.rtp.pt/play/direto",RTP MADEIRA
-https://streaming-live.rtp.pt/liverepeater/rtpmadeira.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bvwwcB9/rtpmad.jpg" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)",RTP MADEIRA
-https://streaming-live.rtp.pt/liverepeater/rtpmadeira.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BsdgH54/rtpafr.webp" user-agent="IE" referer="https://www.rtp.pt/play/direto",RTP ÁFRICA
-https://streaming-live.rtp.pt/liverepeater/rtpafrica.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BsdgH54/rtpafr.webp" user-agent="IE" referer="https://www.rtp.pt/play/direto",RTP ÁFRICA
-https://streaming-live.rtp.pt/liverepeater/rtpafrica.smil/playlist.m3u8
