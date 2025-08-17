@@ -355,10 +355,8 @@ https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/lequip
 https://d278gam2ft6q08.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0ic4hqa502el6/AfterfootTV_FR.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gTxbf2C/rmcts.jpg",RMC TALK SPORT
 https://d21wdmv2hqydbt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n239v7ne7hack/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8rcTV8C/festcannes.jpg",FRANCE TV FESTIVAL DE CANNES (EVENT)
-https://evenementiel_mai
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kgMKnQVx/rolangarros.jpg",FRANCE TV ROLAND-GARROS (EVENT)
-https://evenementiel_juin
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/roland-garros.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p0CLPqT/equidia.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" referer="https://www.equidia.fr/",ÉQUIDIA
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/extr/py/equidi.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p0CLPqT/equidia.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" referer="https://www.equidia.fr/",ÉQUIDIA
@@ -429,6 +427,8 @@ https://live-cdn-technco-euw1.bfmb.bct.nextradiotv.com/m1/media.m3u8?bpkio_servi
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-logo="https://i.ibb.co/443jKxq/techco.png",TECH&CO
 https://d2py8vfwz3u72y.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8rcTV8C/festcannes.jpg",FRANCE TV FESTIVAL DE CANNES (EVENT)
+https://evenementiel_mai
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tcYgz6h/mensup.png",MEN'S UP TV
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/dmdirect/mensup.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tcYgz6h/mensup.png",MEN'S UP TV
@@ -3028,10 +3028,16 @@ https://live20.bozztv.com/gin-36bay3/ga-tunisna/index.m3u8
 https://live20.bozztv.com/gin-36bay3/ga-carthageplus/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C5bQvDyQ/hannibal.jpg",HANNIBAL TN
 https://live20.bozztv.com/gin-36bay3/ga-hannibaltv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xY39PSC/TV1-ENTV.png",TV1 ENTV
+http://149.62.177.98:8000/play/a00i/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9tsD8WP/TV2Al.png",TV2 ALGERIE
+http://149.62.177.98:8000/play/a01s/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9tsD8WP/TV2Al.png",TV2 ALGÉRIE
 http://69.64.57.208/canalalgerie/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9tsD8WP/TV2Al.png",TV2 ALGÉRIE
 http://162.212.179.33/dvrfl05/gin-canalalgerie/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qR3CZP8/tv3al.png",TV3 ALGERIE
+http://149.62.177.98:8000/play/a01z/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Gn19S8p/al24dz.png",AL24 NEWS
 https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y5rY7zJ/heddaf.png",EL HEDDAF TV
@@ -3584,6 +3590,8 @@ https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
 https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M9MzqDm/bedaya.png",BEDAYA TV
 https://shls-live-enc.edgenextcdn.net/out/v1/97427be47b79457b9ca245e22a8db23a/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sdcTsN33/alsahat.png",AL SAHAT
+https://assahat.b-cdn.net/Assahat/assahatobs/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VCfg2xY/almahriah.png",YEMEN MAHRIAH
 https://starmenajo.com/hls/almahriah/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PFCf0SG/jaylia.jpg",AL JAYLIA
@@ -4014,6 +4022,8 @@ https://cdn5.iqsat.net/iqb/f0c1abab1c44d5f01879991c979a6821.sdp/playlist.m3u8
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GnfgKbs/alquran.png",QURAN
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GnfgKbs/alquran.png",QURAN
+https://www.elahmad.com/tv/m3u8/online_live_14_tv.m3u8?id=qoran_tv&t=11111111
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cygNtwH/bahrain-quaran.png",BAHRAIN QURAN
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2qdGPCh/Sharjahtvquran.png",SHARJAH QURAN
