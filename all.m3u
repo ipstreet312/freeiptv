@@ -5594,25 +5594,3 @@ http://
 http://
 #EXTINF:-1,TEST 01 🎉🥳🎊
 http://
-#EXTINF:0 drm="ClearKey",empty
-https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-gulli/cmaf_cenc00/dash-short-hd.mpd
-#EXTINF:0 drm="ClearKey", drmkey="",declare zero
-https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-gulli/cmaf_cenc00/dash-short-hd.mpd
-#EXTINF:0 drm="ClearKey", drmkey="05614a18-d934-36c5-9383-bcfa64a26265",kid hex
-https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-gulli/cmaf_cenc00/dash-short-hd.mpd
-#EXTINF:0 drm="ClearKey", drmkey="05614a18d93436c59383bcfa64a26265",kid short
-https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-gulli/cmaf_cenc00/dash-short-hd.mpd
-#EXTINF:0 drm="ClearKey", drmkey="nrQFDeRLSAKTLifXUIPiZg",kid base
-https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-gulli/cmaf_cenc00/dash-short-hd.mpd
-#EXTINF:0 drm="ClearKey", drmkey="12a3d0dbd46e3b7c962ca9a3596df2ce:73e68b9f78144b51696f4ce0f745ec06",both
-https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-gulli/cmaf_cenc00/dash-short-hd.mpd
-#EXTINF:0 drm="ClearKey", drmkey="EqPQ29RuO3yWLKmjWW3yzg:c-aLn3gUS1Fpb0zg90XsBg",both base
-https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-gulli/cmaf_cenc00/dash-short-hd.mpd
-#EXTINF:0 drm="ClearKey", drmkey="EqPQ29RuO3yWLKmjWW3yzg,c-aLn3gUS1Fpb0zg90XsBg",base virgule
-https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-gulli/cmaf_cenc00/dash-short-hd.mpd
-#EXTINF:0 drm="ClearKey", drmkey="EqPQ29RuO3yWLKmjWW3yzg;c-aLn3gUS1Fpb0zg90XsBg",base pvirgule
-https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-gulli/cmaf_cenc00/dash-short-hd.mpd
-#EXTINF:0 drm="ClearKey", drmkey="EqPQ29RuO3yWLKmjWW3yzg",base one
-https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-gulli/cmaf_cenc00/dash-short-hd.mpd
-#EXTINF:0 drm="ClearKey", drmkey="c-aLn3gUS1Fpb0zg90XsBg",base two
-https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-gulli/cmaf_cenc00/dash-short-hd.mpd
