@@ -942,7 +942,7 @@ https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=Son5meUMZuU.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xS3zLQr/ekoturk.png",EKO TÜRK
 https://koprulu4.global.ssl.fastly.net/ythls/?kanal_id=UCAGVKxpAKwXMWdmcHbrvcwQ.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png",CNN TÜRK
-https://b.fulltvizle.com/cnn/playlist.m3u8
+http://176.65.146.123:6002/play/a00z/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png",CNN TÜRK
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Cnn_Turk.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jZShqBM/Krt24v2.png",KRT
@@ -2363,6 +2363,10 @@ http://hbbtv.ert.gr/stream.php/v/vid_ertworld_mpeg.2ts
 https://ertflix.akamaized.net/ertlive/ertnews/default/index.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qNZ259D/ertnews.png",ERT NEWS (backup)
 http://hbbtvapp.ert.gr/stream.php/v/vid_ertnews_mpeg.2ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bL4sJLW/ert2.png",ERT 2 (backup)
+https://ertflix-greece.siliconweb.com/mpegts/618618_2341557/master_mpegts.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BjHZT7x/ert3.png",ERT 3 (backup)
+https://github.com/jimgate07/grtv/blob/master/Metadoseis/ert3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PGvP32M/ertsports1.png",ERT SPORTS 1 (backup)
 https://ertflix.akamaized.net/ertlive/ertsports1/clrdef24724a/index.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PGvP32M/ertsports1.png",ERT SPORTS 1 (backup)
