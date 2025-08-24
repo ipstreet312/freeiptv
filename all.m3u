@@ -913,6 +913,8 @@ https://tv-trthaber.medya.trt.com.tr/master.m3u8
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Sozcu_Tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ TV
 https://cdn.tecostream.xyz/Sozcu_Tv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Fq0ZvYG/meltemtvt.png",MELTEM
+https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ln92Dj2/Ekoltv.png",EKOL TV
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png",TV 100
@@ -921,8 +923,6 @@ https://tv100-live.daioncdn.net/tv100/tv100.m3u8
 https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
 #EXTINF:-1 tvg-logo=" https://i.ibb.co/wrMn5rgQ/mktv.png",MK TV
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Fq0ZvYG/meltemtvt.png",MELTEM
-https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BtYMK4q/halk21a.png",HALK TV
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4Mhmggc/tele1.png",TELE 1
@@ -2827,7 +2827,7 @@ https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/56TvMjR/etbs.jpg",EITB DEPORTE
 https://multimedia.eitb.eus/live-content/oka3hd-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ySq76W3/rtva.png",ANDORRA DIFUSIÓ
-https://livesg1.rtva.hiway.media/424b27f3-a9c7-4b01-9f79-59997561a62c/manifest.m3u8
+https://livesg1.rtva.hiway.media/aa2d69af-76a0-4077-a57e-0445c4061f86/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0rxVFbs/tvcanaria.png",TV CANARIA
 https://ythls.armelin.one/channel/UCTQrUTmzCWIfG6h4EVCdOCQ.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0rxVFbs/tvcanaria.png",TV CANARIA
@@ -3480,6 +3480,8 @@ https://baynounah.cdn.mangomolo.com/btv/smil:btv.stream.smil/chunklist.m3u8
 https://halalondon-live.ercdn.net/halalondon/halalondon.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mCBL5fNk/lybiawat.jpg",LIBYA WATANYA
 https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y5YD5KH/Libya-ahrar.png" referer="https://player.castr.com/",LiBYA AHRAR
+https://stream.castr.com/64490fcefe045f1b63012886/live_8c1539b0eb6c11eda9f0c7bd90506d4f/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qJ7qVTF/Al-Mamlaka.png",AL MAMLKA
 https://bcovlive-a.akamaihd.net/4109c7ba30fd4a44ad9afe917c67a8c8/eu-central-1/6415809151001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5LvvstB/elshasha.png",SYDAT EL SHASHA
