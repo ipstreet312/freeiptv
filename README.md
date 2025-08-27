@@ -4,7 +4,8 @@
 ![x](https://img.shields.io/badge/You%20like%20to%20stream%3F%20Good%21%20Here%20it%27s%20yours%3A%29-blue)
 ![n](https://img.shields.io/badge/Stream%20yapmay%C4%B1%20seviyon%3F%20Harika%21%20Buras%C4%B1%20senin%3A%29-green)❤️
 
-Le "all.m3u", votre "fourre-tout" qui se veut intellectuel techniquement et culturellement. 🤗🥰🥳
+Tu es "en manques" de chıaînes tv ? 😁 Alors voici :
+le "all.m3u", votre "fourre-tout" qui se veut intellectuel techniquement et culturellement. 🤗🥰🥳
 
 <img src="https://github.com/ipstreet312/freeiptv/blob/master/ressources/infos/barkers/group0707.jpeg?raw=true">
 
