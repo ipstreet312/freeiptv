@@ -6,7 +6,7 @@ on:
     - cron: "36 */1 * * *"
 
 jobs:
-  tfz1-update:
+  tfz3-update:
     runs-on: ubuntu-latest
 
     steps:
