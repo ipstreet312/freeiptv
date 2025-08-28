@@ -1,0 +1,59 @@
+name: tfz3
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "36 */1 * * *"
+
+jobs:
+  tfz1-update:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: "3.11"
+
+    - name: Install Python dependencies
+      run: pip install requests
+
+    - name: Download from repo
+      env:
+        PRIVATE_REPO_TOKEN: ${{ secrets.PRIVATE_REPO_TOKEN }}
+      run: |
+        curl -s -H "Authorization: token $PRIVATE_REPO_TOKEN" \
+          -H "Accept: application/vnd.github.v3.raw" \
+          https://api.github.com/repos/ipstreet312/myrep/contents/ressources/tfz3.py \
+          -o tfz3.py
+
+    - name: Run py and extract URL
+      id: extract
+      run: |
+        url=$(python3 tfz3.py)
+        echo "FINAL_URL=$url" >> $GITHUB_ENV
+
+    - name: Clean up tfz3.py
+      run: rm -f tfz3.py
+
+    - name: Replace in m3u
+      run: |
+        tf1_line=$(grep -n 'TF1-' all.m3u | cut -d: -f1)
+        if [ -n "$tf1_line" ]; then
+          new_line_num=$((tf1_line + 1))
+          sed -i "${new_line_num}s|.*|$FINAL_URL|" all.m3u
+        else
+          echo "[-] TF1- not found in all.m3u"
+        fi
+
+    - name: Commit and push updated all.m3u
+      run: |
+        git config user.name "tfz3 boot"
+        git config user.email "<>"
+        git add all.m3u
+        git commit -m "tfz3 update"
+        git push origin master
+      continue-on-error: true
