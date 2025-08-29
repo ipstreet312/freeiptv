@@ -176,9 +176,9 @@ https://live-lci-hls.cdn-0.diff.tf1.fr/out/v1/917aad4fa72f42f7ba7f486226f54bc4/l
 #EXTINF:-1,TV5MONDE FBSM
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
 #EXTINF:-1,TF1_
-https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NTYyNDY2OTIsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzU2MjMyMjkyLCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.iUeOwLtBNv0FvSdvCS7tKgAcENj5DQ0yrBLnBRXeqtg/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
+https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NTY0NTkwOTYsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzU2NDQ0Njk2LCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.sTtdRXlGm19suqnsJHp2Ny4pfVdzcLJ9n4ZmuJW_FIQ/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
 #EXTINF:-1,TF1-
-https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIzMS4zNi4yMDAuMjM3IiwiY21jZCI6IiIsImV4cCI6MTc1NjI0NTYwMiwiZ2lkIjoiMGM5NTVkOWJjZjZmNDU2MDk5NmY3NDczMmIyNzNjZDciLCJpYXQiOjE3NTYyMzEyMDIsImlzcyI6ImRlbGl2ZXJ5IiwibWF4YiI6MCwic3RlbSI6Ii9vdXQvdjEvMmE1ZWYyYTRjZTRhNDEyMDllMGE4ODEwNzRkMTU5MzIvdGYxLWNtYWYiLCJzdWIiOiIwYzk1NWQ5YmNmNmY0NTYwOTk2Zjc0NzMyYjI3M2NkNyJ9.tgrtMr89hAiJBsvpTxRfdCYyb5LxYPQVg3_mNxYDvl0/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
+https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI5MS4xMzQuMjQ4LjE5MiIsImNtY2QiOiIiLCJleHAiOjE3NTY0NjQ2MzEsImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc1NjQ1MDIzMSwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.KRKXGiHoDJhqS6Cjgtc_5z-BdOIrctPEJrFmDDNY-9M/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
 #EXTINF:-1,FRANCE 2
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr2.m3u8
 #EXTINF:-1,FRANCE 3
@@ -1014,6 +1014,8 @@ https://haberturk.blutv.com/blutv_haberturk_live/live.m3u8
 https://tv.ensonhaber.com/haberturk/haberturk.m3u8
 #EXTINF:-1,HABER TÜRK (backup)
 https://ensonhaber-live.ercdn.net/haberturk/haberturk.m3u8
+#EXTINF:-1,HABER TÜRK (backup)
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8
 #EXTINF:-1,HABER GLOBAL (backup)
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 #EXTINF:-1,TV 100 (backup)
@@ -1087,7 +1089,7 @@ https://bloomberght2.blutv.com/blutv_bloomberght2/live.m3u8
 #EXTINF:-1,BLOOMBERG HT (backup)
 https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8
 #EXTINF:-1,CNBC-E (backup)
-http://stream.tvcdn.net/ekonomi/cnbc-e.m3u8
+https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 #EXTINF:-1,TGRT HABER (backup)
 https://canli.tgrthaber.com/tgrt.m3u8
 #EXTINF:-1,TGRT HABER (backup)
@@ -1109,9 +1111,9 @@ https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1,SHOW
 https://bloomberght-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1,NOW
-https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=vNN6kQF__KmQMseSFN837g&e=1756247348
+https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=N6QpU_1tRGGNfMBevtMaFQ&e=1756463628
 #EXTINF:-1,NOW
-https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=vNN6kQF__KmQMseSFN837g&e=1756247348
+https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=N6QpU_1tRGGNfMBevtMaFQ&e=1756463628
 #EXTINF:-1,TV8
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
 #EXTINF:-1,TV8
@@ -3260,11 +3262,11 @@ https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
 #EXTINF:-1,KAN 11 כאן (backup)
 https://kan11b.media.kan.org.il/hls/live/2096972/2096972/master.m3u8
 #EXTINF:-1,KESHET 12 קשת (backup)
-https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12/profile/3/profileManifest.m3u8?_uid=a004f873-f654-4ab8-a86c-4aa2bbfc909d&rK=a1
+https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12/profile/3/profileManifest.m3u8?_uid=0&rK=b6
 #EXTINF:-1,KESHET 12 קשת (backup)
-https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/profile/4/profileManifest.m3u8?_uid=a004f873-f654-4ab8-a86c-4aa2bbfc909d&rK=a1
+https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/profile/4/profileManifest.m3u8?_uid=0&rK=b6
 #EXTINF:-1,KESHET 12 קשת (backup)
-https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/profile/5/profileManifest.m3u8?_uid=f0ea0c4b-0bfe-491a-a7d6-7cfd23125300&rK=a
+https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/profile/5/profileManifest.m3u8?_uid=0&rK=b6
 #EXTINF:-1,RESHET 13 רשת (backup)
 https://reshet.g-mana.live/media/cdefce3a-14ec-46cc-a147-1275c4a8b9ed/mainManifest.m3u8
 #EXTINF:-1,RESHET 13 רשת (backup)
@@ -3587,6 +3589,8 @@ https://live.alawla.tv/hls/stream.m3u8
 https://starmenajo.com/hls/almahriah/index.m3u8
 #EXTINF:-1,AL JAYLIA
 https://media2.livaat.com/AL-Jaleyah/index.m3u8
+#EXTINF:-1,AHAD TV
+http://63b03f7689049.streamlock.net:1935/live/7/playlist.m3u8
 #EXTINF:-1,KAHERA EG
 https://live20.bozztv.com/gin-36bay3/ga-alkahera/index.m3u8
 #EXTINF:-1,AL HAYAH TV
@@ -4443,6 +4447,8 @@ https://live02-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
 #EXTINF:-1,RTL 102.5 SEC
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist.m3u8
+#EXTINF:-1,RTL 102.5 PLS
+https://streamcdng14-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S82929343/cAcsSu4Wecc5/playlist.m3u8
 #EXTINF:-1,RADIO 24 ORE LIVE TV
 https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/persidera/master.m3u8
 #EXTINF:-1,SUPER!
