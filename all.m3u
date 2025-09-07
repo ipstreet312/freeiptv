@@ -1167,6 +1167,8 @@ https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=da2109ea-5dfe-4107-89ab-23
 https://trn03.tulix.tv/gt-kanald/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png",KANAL D (backup)
 http://trn09.tulix.tv/gt-kanald/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png",KANAL D (backup)
+http://trn03.tulix.tv/gt-kanald-tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png",STAR (backup)
 https://dogus.daioncdn.net/startv/startv.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png",STAR (backup)
@@ -1527,6 +1529,8 @@ https://tv-trtcocuk.live.trt.com.tr/master.m3u8
 https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xSjB51j/aspor.png",A SPOR (backup)
 https://x.canlitvapp.com/aspor/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xSjB51j/aspor.png",A SPOR (backup)
+http://116.202.238.88/ASPOR_TR/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xSjB51j/aspor.png",A SPOR (backup)
 https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xSjB51j/aspor.png",A SPOR (backup)
@@ -2119,6 +2123,8 @@ https://iko-live.akamaized.net/MedMusicTV/master.m3u8
 https://iko-streamline-live1.akamaized.net/MedyaHaber/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png",RONAHI TV
 https://iko-streamline-live1.akamaized.net/RonahiTV/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png",RONAHI TV
+https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png",KURD CHANNEL
 https://kurd-channel.ikoflix.com/hls/stream_2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png",KURDISTAN 24
@@ -3698,6 +3704,8 @@ https://htvint.mada.ps/orient/index.m3u8
 https://rp.tactivemedia.com/falastinitv/live/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RNHM3Xx/falastini.png",PALESTINIAN TV
 https://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RNHM3Xx/falastini.png",PALESTINIAN SAT
+https://cdn-globecast.akamaized.net/live/eds/palestinian_satellite_channel/hls_roku/palestinian_satellite_channel.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0yytb9K/yementoday.png",YEMEN TODAY
 https://video.yementdy.tv/hls/yementoday.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/230j3Kr/yemenshabab.png",YEMEN SHABAB
@@ -3838,6 +3846,8 @@ https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8
 https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tMLDMdy/kwttv.png",KUWAIT TV NEWS
 https://kwtktvata.cdn.mangomolo.com/ktva/smil:ktva.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tMLDMdy/kwttv.png",KUWAIT TV NEWS
+https://cdn-globecast.akamaized.net/live/eds/ktv_al_akhbar/hls_roku/ktv_al_akhbar.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tMLDMdy/kwttv.png",KUWAIT TV ARAB
 https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tMLDMdy/kwttv.png",KUWAIT TV ETHRAA
@@ -4220,6 +4230,8 @@ https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/in
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xzdqq9y/mbcdrama.png",MBC DRAMA PLUS
 https://mbcplusdrama-prod-dub-enc.edgenextcdn.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xzdqq9y/mbcdrama.png",MBC DRAMA PLUS
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BnhWg65/mbcmasr.png",MBC MASR 1
 https://shls-masr-prod-dub.shahid.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BnhWg65/mbcmasr.png",MBC MASR 1
@@ -5340,6 +5352,8 @@ https://xumo-drct-skynews-nc91a.fast.nbcuni.com/live/master.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/55b285cd2665de274553d66flivestitch/master.m3u8?deviceDNT=%7BTARGETOPT%7D&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dpMQyVx/gbn.png",GB NEWS
 https://amg01076-lightningintern-gbnews-samsunguk-0lu52.amagi.tv/playlist/amg01076-lightningintern-gbnews-samsunguk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dpMQyVx/gbn.png",GB NEWS
+https://live-gbnews-ssai-test.simplestreamcdn.com/v1/master/82267e84b9e5053b3fd0ade12cb1a146df74169a/gbnews-live-TEST/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dpMQyVx/gbn.png",GB NEWS
 https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dpMQyVx/gbn.png",GB NEWS
