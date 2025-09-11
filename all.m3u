@@ -3642,8 +3642,6 @@ https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/link
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/hadhramaut.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DtWPcjN/alw.png",ALAWLA TV
 https://live.alawla.tv/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VCfg2xY/almahriah.png",YEMEN MAHRIAH
-https://starmenajo.com/hls/almahriah/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PFCf0SG/jaylia.jpg",AL JAYLIA
 https://media2.livaat.com/AL-Jaleyah/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vxHjssjg/ahad.png",AHAD TV
@@ -3720,6 +3718,10 @@ https://cdn-globecast.akamaized.net/live/eds/palestinian_satellite_channel/hls_r
 https://video.yementdy.tv/hls/yementoday.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/230j3Kr/yemenshabab.png",YEMEN SHABAB
 https://starmenajo.com/hls/yemenshabab/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VCfg2xY/almahriah.png",YEMEN MAHRIAH
+https://starmenajo.com/hls/almahriah/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yn8wgD5W/ymntv.png",YEMEN TV
+https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/yementv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wK6B1QV/utv.png",UTV IRAQI
 https://mn-nl.mncdn.com/utviraqi2/64c80359/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8jK0ZR5/alrasheed.png",AL RASHEED
