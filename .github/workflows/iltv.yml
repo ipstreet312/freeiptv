@@ -1,0 +1,29 @@
+name: iltv
+
+on:
+  workflow_dispatch: # Run manually from GitHub Actions tab
+    inputs:
+      broadcast_url:
+        description: 'X/Twitter broadcast URL'
+        required: true
+        default: 'https://x.com/i/broadcasts/1ynJOMbVYawKR'
+
+jobs:
+  fetch-m3u8:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run iltv.py
+        run: |
+          python ressources/keshetil/py/iltv.py "${{ github.event.inputs.broadcast_url }}"
