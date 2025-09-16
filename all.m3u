@@ -227,6 +227,8 @@ https://5eb46ec-rbm-hilv-fsly.cdn.redbee.live/L6/8e2b4270/9fc956ca.isml/.mpd
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/t18/t18.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tptHDpDv/t18.png",T18 (backup)
 https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/dailymotion/t18.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1t2g7bBq/novo19.png" drm="ClearKey", drmkey="d49c8fa0c3a546e2ad4185d5e38611cd:a08f9cd4a5c3e24ada4185d78e184734",NOVO 19 (initback)
+https://5eb46ec-rbm-hilv-fsly.cdn.redbee.live/L6/8e2b4270/9fc956ca.isml/.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1t2g7bBq/novo19.png" drm="ClearKey", drmkey="2d1e3bd3f9b349139ddf6aa8b6dc6741:d33b1e2db3f913499dfdaaa2db1d9d0a",NOVO 19 (backup)
 https://5eb46ec-rbm-hilv-fsly.cdn.redbee.live/L6/80741fbc/cec896de.isml/.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/420Bjqt/tv5europe.png",TV5MONDE EUROPE [geo-area]
