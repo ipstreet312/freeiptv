@@ -386,7 +386,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racing
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p0CLPqT/equidia.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)" referer="https://www.equidia.fr/",ÉQUIDIA RÉGION 1
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/region01.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Xt5YPJY/jdgolf.png",JOURNAL DU GOLF
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/jdg-tv/jdg-tv.m3u8
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/jdg-tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yPsXSFf/esprsorc.png",L'ÉSPRIT SORCIER TV
 https://edge17.vedge.infomaniak.com/livecast/ik:bazikafrica/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yPsXSFf/esprsorc.png" referer="https://player.castr.com/",L'ÉSPRIT SORCIER TV
@@ -536,7 +536,7 @@ https://jmp2.uk/sam-FRAJ38000089S.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/02pwsTj/cinenanar.png",CINÉ NANAR
 https://d2o63bkh2qz410.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CineNanar-FR-prod/64953490-a5a5-4f44-a4fb-7bf3638dd24c/2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QbDCvVf/cinewestern.png",CINÉ WESTERN
-https://d1rmn2456fdhrx.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-cj5v6orcb1e6m/e6540a94-93a6-4b38-bb2d-eafe9fa047e2/2.m3u8
+https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/883phd1/ktook.png",KTO
 https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xJyNqdg/dieutv.png",DIEU TV
