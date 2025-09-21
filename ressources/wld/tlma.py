@@ -26,18 +26,39 @@ video_url_hls = metadata.get("videoUrlHls")
 if not video_url_hls:
     raise ValueError("videoUrlHls not found in metadata")
 
-# Step 5: Determine base URL
-base_url = video_url_hls.rsplit("/", 1)[0] + "/"
-
-# Step 6: Fetch and print the full M3U8 content with absolute paths
+# Step 5: Download the master playlist
 m3u8_response = requests.get(video_url_hls)
 m3u8_response.raise_for_status()
-
 lines = m3u8_response.text.strip().splitlines()
 
-for line in lines:
-    if line.startswith("#") or line.strip() == "":
-        print(line)
-    else:
-        full_url = urljoin(base_url, line)
-        print(full_url)
+# Compute base URL for relative paths (like URI in audio)
+base_url = video_url_hls.rsplit("/", 1)[0] + "/"
+
+audio_line = None
+video_line = None
+video_url = None
+
+# Step 6: Extract audio + 1280x720 stream
+for i, line in enumerate(lines):
+    if line.startswith("#EXT-X-MEDIA") and "TYPE=AUDIO" in line:
+        # Replace URI="..." with full absolute URL
+        match = re.search(r'URI="([^"]+)"', line)
+        if match:
+            abs_uri = urljoin(base_url, match.group(1))
+            audio_line = re.sub(r'URI="[^"]+"', f'URI="{abs_uri}"', line)
+
+    if line.startswith("#EXT-X-STREAM-INF") and "RESOLUTION=1280x720" in line:
+        video_line = line
+        if i + 1 < len(lines):
+            video_url = lines[i + 1]
+
+# Step 7: Print minimal playlist in required format
+print("#EXTM3U")
+print("#EXT-X-VERSION:6")
+print("#EXT-X-INDEPENDENT-SEGMENTS")
+
+if audio_line:
+    print(audio_line)
+if video_line and video_url:
+    print(video_line)
+    print(video_url)
