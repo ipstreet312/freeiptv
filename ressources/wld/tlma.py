@@ -26,31 +26,32 @@ video_url_hls = metadata.get("videoUrlHls")
 if not video_url_hls:
     raise ValueError("videoUrlHls not found in metadata")
 
-# Step 5: Download the master playlist
+# Step 5: Download the master playlist and compute base URL
 m3u8_response = requests.get(video_url_hls)
 m3u8_response.raise_for_status()
 lines = m3u8_response.text.strip().splitlines()
 
-# Compute base URL for relative paths (like URI in audio)
+# base for resolving relative URIs/paths
 base_url = video_url_hls.rsplit("/", 1)[0] + "/"
 
 audio_line = None
 video_line = None
 video_url = None
 
-# Step 6: Extract audio + 1280x720 stream
+# Step 6: Extract audio + 1280x720 stream and make URLs absolute
 for i, line in enumerate(lines):
     if line.startswith("#EXT-X-MEDIA") and "TYPE=AUDIO" in line:
-        # Replace URI="..." with full absolute URL
-        match = re.search(r'URI="([^"]+)"', line)
-        if match:
-            abs_uri = urljoin(base_url, match.group(1))
+        m = re.search(r'URI="([^"]+)"', line)
+        if m:
+            raw_uri = m.group(1).strip()
+            abs_uri = raw_uri if re.match(r'https?://', raw_uri) else urljoin(base_url, raw_uri)
             audio_line = re.sub(r'URI="[^"]+"', f'URI="{abs_uri}"', line)
 
     if line.startswith("#EXT-X-STREAM-INF") and "RESOLUTION=1280x720" in line:
         video_line = line
         if i + 1 < len(lines):
-            video_url = lines[i + 1]
+            raw_video = lines[i + 1].strip()
+            video_url = raw_video if re.match(r'https?://', raw_video) else urljoin(base_url, raw_video)
 
 # Step 7: Print minimal playlist in required format
 print("#EXTM3U")
@@ -59,6 +60,11 @@ print("#EXT-X-INDEPENDENT-SEGMENTS")
 
 if audio_line:
     print(audio_line)
+else:
+    print("# (no audio line found)")
+
 if video_line and video_url:
     print(video_line)
     print(video_url)
+else:
+    print("# (1280x720 stream not found)")
