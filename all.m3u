@@ -3036,10 +3036,18 @@ https://streaming1.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8
 https://edge14.vedge.infomaniak.com/livecast/chadatv/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pdd2VqB/chada.jpg",CHADA TV شدى
 https://test-streamer.eagrpservices.com/video/live/720p/chada.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rfwFbLk/telemaroc.gif",TELE MAROC
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rfwFbLk/telemaroc.gif" user-agent="VLC/3.0.20 LibVLC/3.0.20",TELE MAROC
+https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiI2NWQ5MDE2ZTU3Y2I2ZDJmMDIyZjJmNzAxYmZiYWU1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzU4NTA3MTY3LCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.brKCp5ZcTY5mx8E2uUjLo_p_9Ydl-av3Sy8qBS4-GIXYQ3mmXYIOVMh-DJdkAo2lROnHn2vW6TsgfeiQS8ZaeF3Pw8Q4HU-gNTplv8fALUwozaKhVtAOOtsp_hfmhLCdJ5xT4-329ny_7NLW1hpg1qEKqEhfQZBDKCt_J0KuTTtnp9ofHj1ilNylJgbBzgn9HrmQTy3rgJKBWDcoI8Z-phBTQtq6TG5RXflt1hODT5yjaR0FUV7ZRBh3R77sjqpIfYmrPEydTh4YbqtwOW_06TO3p2q-DSJdUYXGl28pAJDSlS5qcjurKG5OG_MgT0ZC43JO3z2ApUxbyguPKimJig/manifest/stream_tcf4ad3957a50ff1c93be4ae29d8c7235_r1204091759.m3u8?llhlsHBs=0.5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rfwFbLk/telemaroc.gif" user-agent="VLC/3.0.20 LibVLC/3.0.20",TELE MAROC
+http://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiI2NWQ5MDE2ZTU3Y2I2ZDJmMDIyZjJmNzAxYmZiYWU1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzU4NTA3MTY3LCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.brKCp5ZcTY5mx8E2uUjLo_p_9Ydl-av3Sy8qBS4-GIXYQ3mmXYIOVMh-DJdkAo2lROnHn2vW6TsgfeiQS8ZaeF3Pw8Q4HU-gNTplv8fALUwozaKhVtAOOtsp_hfmhLCdJ5xT4-329ny_7NLW1hpg1qEKqEhfQZBDKCt_J0KuTTtnp9ofHj1ilNylJgbBzgn9HrmQTy3rgJKBWDcoI8Z-phBTQtq6TG5RXflt1hODT5yjaR0FUV7ZRBh3R77sjqpIfYmrPEydTh4YbqtwOW_06TO3p2q-DSJdUYXGl28pAJDSlS5qcjurKG5OG_MgT0ZC43JO3z2ApUxbyguPKimJig/manifest/stream_tcf4ad3957a50ff1c93be4ae29d8c7235_r1204091759.m3u8?llhlsHBs=0.5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rfwFbLk/telemaroc.gif" user-agent="VLC/3.0.20 LibVLC/3.0.20",TELE MAROC
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/telemaroc.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rfwFbLk/telemaroc.gif",TELE MAROC
-https://live20.bozztv.com/gin-36bay3/ga-telemaroc/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rfwFbLk/telemaroc.gif" user-agent="VLC/3.0.20 LibVLC/3.0.20",TELE MAROC
+http://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/telemaroc.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rfwFbLk/telemaroc.gif" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)",TELE MAROC
+http://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/telemaroc.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rfwFbLk/telemaroc.gif" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)",TELE MAROC
+https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/telemaroc.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5M4CwmQ/watania1.png",WATANIA 1
 http://live.watania1.tn:1935/live/watanya1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5M4CwmQ/watania1.png",WATANIA 1
