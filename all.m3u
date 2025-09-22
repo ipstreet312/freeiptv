@@ -3534,6 +3534,8 @@ https://starmenajo.com/hls/almasar/index.m3u8
 https://63b03f7689049.streamlock.net/live/1tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HtKQ15z/alw1.png",ALAWLA TV
 https://63b03f7689049.streamlock.net/live/_definst_/1tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DtWPcjN/alw.png",ALAWLA TV
+https://live.alawla.tv/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Lh6wp1q4/assirat.png",ASSIRAT
 https://softverse.b-cdn.net/Assirat/assiratobs/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nnQnFjg/sharjahtv.png",SHARJAH TV
@@ -3654,8 +3656,6 @@ https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/link
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/adentv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mCVgF7j7/hadra.png",HADRHRAMAUT
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/hadhramaut.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DtWPcjN/alw.png",ALAWLA TV
-https://live.alawla.tv/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PFCf0SG/jaylia.jpg",AL JAYLIA
 https://media2.livaat.com/AL-Jaleyah/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vxHjssjg/ahad.png",AHAD TV
@@ -3728,6 +3728,16 @@ https://rp.tactivemedia.com/falastinitv/live/chunks.m3u8
 https://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RNHM3Xx/falastini.png",PALESTINIAN SAT
 https://cdn-globecast.akamaized.net/live/eds/palestinian_satellite_channel/hls_roku/palestinian_satellite_channel.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nkfS0P4/palsat.jpg",WATTAN PS
+https://htvmada.mada.ps:4443/wattan/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nkfS0P4/palsat.jpg",RAYA PS
+https://htvmada.mada.ps:4443/raya/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nkfS0P4/palsat.jpg",RAYA 2 PS
+https://vstream3.hadara.ps:8443/RayaHD_web/web1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nkfS0P4/palsat.jpg",RAYA 3 PS
+https://vstream3.hadara.ps:8443/RayaHD2_web/web/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nkfS0P4/palsat.jpg",WATAR PS
+https://htvint.mada.ps/orient/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0yytb9K/yementoday.png",YEMEN TODAY
 https://video.yementdy.tv/hls/yementoday.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/230j3Kr/yemenshabab.png",YEMEN SHABAB
@@ -3808,6 +3818,8 @@ https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/index.m3u8
 https://dmithrvllta.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3h4XCtZ/kasqatar.png",KAS QATAR 1
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1muytrdc/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3h4XCtZ/kasqatar.png",KAS QATAR 1
+https://liveakgrns.alkassdigital.net/hls/live/2097037/Alkass1buoicft/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3h4XCtZ/kasqatar.png",KAS QATAR 2
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2hefazq/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3h4XCtZ/kasqatar.png",KAS QATAR 3
