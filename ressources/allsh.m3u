@@ -178,9 +178,9 @@ https://live-lci-hls.cdn-0.diff.tf1.fr/out/v1/917aad4fa72f42f7ba7f486226f54bc4/l
 #EXTINF:-1,TV5MONDE FBSM
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
 #EXTINF:-1,TF1_
-https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NTgzMTMxMzQsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzU4Mjk4NzM0LCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.MMdrQozeQLpRi-lNLD_aeN2HOMepHyWEsmCVNY4OQ9s/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
+https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NTg2NjU4OTMsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzU4NjUxNDkzLCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.wWv1jhSW6yLnqFjL-NLuQvaOrWcePiw_LOiv3z-9m7A/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
 #EXTINF:-1,TF1-
-https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI5MS4xMzQuMjQ4LjE5MiIsImNtY2QiOiIiLCJleHAiOjE3NTgzMjIwNzYsImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc1ODMwNzY3NiwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.cRPQ44Nmu0cvi0ggGiSz8Fj3SyD2U_Z_XOjgxzqRum4/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
+https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI5MS4xMzQuMjQ4LjE5MiIsImNtY2QiOiIiLCJleHAiOjE3NTg2Njc3NzYsImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc1ODY1MzM3NiwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.TmR6jtQc8xNnpYr0TTXOyUogs9AGD28hU88N2lC3p8E/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
 #EXTINF:-1,FRANCE 2
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr2.m3u8
 #EXTINF:-1,FRANCE 3
@@ -335,9 +335,13 @@ https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1,SPORT EN FRANCE
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/dailymotion/sportenfrance.m3u8
 #EXTINF:-1,L'ÉQUIPE LIVE 1
-https://d3awaj0f2u3w26.cloudfront.net/3/media.m3u8
+https://d3fikx9gxqicmt.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3rguah8p42dlq/d903c3c9-a66d-4ed1-a922-d87a40815790/2.m3u8
+#EXTINF:-1,L'ÉQUIPE LIVE 1 (backup)
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive1.m3u8
 #EXTINF:-1,L'ÉQUIPE LIVE 2
-https://d2l55nvfkhk4sg.cloudfront.net/3/media.m3u8
+https://d2sfyr4abdyf7s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-d5yhiqv8rl7x3/Lequipe2_FR.m3u8
+#EXTINF:-1,L'ÉQUIPE LIVE 2 (backup)
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive2.m3u8
 #EXTINF:-1,L'ÉQUIPE TV
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/ekip.m3u8
 #EXTINF:-1,L'ÉQUIPE TV
@@ -346,10 +350,6 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/la-cha
 https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/lequipe/lequipe.m3u8
 #EXTINF:-1,L'ÉQUIPE TV
 https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gac2i63dmu8b7/LEquipe_FR.m3u8
-#EXTINF:-1,L'ÉQUIPE LIVE 1 (backup)
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive1.m3u8
-#EXTINF:-1,L'ÉQUIPE LIVE 2 (backup)
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive2.m3u8
 #EXTINF:-1,L'ÉQUIPE LIVE 3 EVENTS
 https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/lequipe/lequipelive3.m3u8
 #EXTINF:-1,L'ÉQUIPE LIVE 4 EVENTS
@@ -933,7 +933,7 @@ https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
 #EXTINF:-1,TV 100
 https://tv100-live.daioncdn.net/tv100/tv100.m3u8
 #EXTINF:-1,HABER GLOBAL
-https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
+https://github.com/tecotv2025/tecotv/raw/main/playlist/Haber_Global_TV.m3u8
 #EXTINF:-1,MK TV
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
 #EXTINF:-1,HALK TV
@@ -1039,6 +1039,8 @@ https://ensonhaber-live.ercdn.net/haberturk/haberturk.m3u8
 #EXTINF:-1,HABER TÜRK (backup)
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8
 #EXTINF:-1,HABER GLOBAL (backup)
+https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
+#EXTINF:-1,HABER GLOBAL (backup)
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 #EXTINF:-1,TV 100 (backup)
 https://ensonhaber-live.ercdn.net/tv100/tv100.m3u8
@@ -1133,9 +1135,9 @@ https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1,SHOW
 https://bloomberght-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1,NOW
-https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=BC4l6S33FVS-QWcWJsxdVA&e=1758320944
+https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=ZKGN12Cc2On0ecT7pmuRgw&e=1758666602
 #EXTINF:-1,NOW
-https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=BC4l6S33FVS-QWcWJsxdVA&e=1758320944
+https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=ZKGN12Cc2On0ecT7pmuRgw&e=1758666602
 #EXTINF:-1,TV8
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
 #EXTINF:-1,TV8
@@ -1406,8 +1408,6 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_480p.m3u8
 https://tv.arectv31.sbs/live/cartoonnetwork.m3u8
 #EXTINF:-1,CARTOON NETWORK TR
 https://tv.arectv34.sbs/live/cartoonnetwork.m3u8
-#EXTINF:-1,EKOL SPORTS
-https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8
 #EXTINF:-1,HT SPOR
 https://ciner-live.ercdn.net/htspor/htspor.m3u8
 #EXTINF:-1,HT SPOR
@@ -1418,14 +1418,16 @@ https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bei
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
 #EXTINF:-1,A SPOR
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/A_Spor.m3u8
-#EXTINF:-1,GALATASARAY TV
-http://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 #EXTINF:-1,FENERBAHÇE TV
-http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
+https://fbtv.fenerbahce.org/fenerbahcetv.stream_720p/playlist.m3u8
+#EXTINF:-1,FENERBAHÇE TV
+https://fbtv.fenerbahce.org/fenerbahcetv.stream/playlist.m3u8
 #EXTINF:-1,SPORTS TV
 https://sportstv.blutv.com/blutv_sportstv2/live.m3u8
 #EXTINF:-1,SPORTS TV
 https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
+#EXTINF:-1,EKOL SPORTS
+https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8
 #EXTINF:-1,TRT SPOR [geo-blocked]
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT SPOR [geo-blocked]
@@ -3006,9 +3008,7 @@ https://edge14.vedge.infomaniak.com/livecast/chadatv/manifest.m3u8
 #EXTINF:-1,CHADA TV شدى
 https://test-streamer.eagrpservices.com/video/live/720p/chada.m3u8
 #EXTINF:-1,TELE MAROC
-https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/telemaroc.m3u8
-#EXTINF:-1,TELE MAROC
-https://live20.bozztv.com/gin-36bay3/ga-telemaroc/index.m3u8
+https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/wld/tlma.m3u8
 #EXTINF:-1,WATANIA 1
 http://live.watania1.tn:1935/live/watanya1.stream/playlist.m3u8
 #EXTINF:-1,WATANIA 1
@@ -3499,6 +3499,8 @@ https://starmenajo.com/hls/almasar/index.m3u8
 https://63b03f7689049.streamlock.net/live/1tv/playlist.m3u8
 #EXTINF:-1,ALAWLA TV
 https://63b03f7689049.streamlock.net/live/_definst_/1tv/playlist.m3u8
+#EXTINF:-1,ALAWLA TV
+https://live.alawla.tv/hls/stream.m3u8
 #EXTINF:-1,ASSIRAT
 https://softverse.b-cdn.net/Assirat/assiratobs/playlist.m3u8
 #EXTINF:-1,SHARJAH TV
@@ -3619,8 +3621,6 @@ https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/link
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/adentv.m3u8
 #EXTINF:-1,HADRHRAMAUT
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/hadhramaut.m3u8
-#EXTINF:-1,ALAWLA TV
-https://live.alawla.tv/hls/stream.m3u8
 #EXTINF:-1,AL JAYLIA
 https://media2.livaat.com/AL-Jaleyah/index.m3u8
 #EXTINF:-1,AHAD TV
@@ -3693,6 +3693,16 @@ https://rp.tactivemedia.com/falastinitv/live/chunks.m3u8
 https://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8
 #EXTINF:-1,PALESTINIAN SAT
 https://cdn-globecast.akamaized.net/live/eds/palestinian_satellite_channel/hls_roku/palestinian_satellite_channel.m3u8
+#EXTINF:-1,WATTAN PS
+https://htvmada.mada.ps:4443/wattan/index.m3u8
+#EXTINF:-1,RAYA PS
+https://htvmada.mada.ps:4443/raya/index.m3u8
+#EXTINF:-1,RAYA 2 PS
+https://vstream3.hadara.ps:8443/RayaHD_web/web1/playlist.m3u8
+#EXTINF:-1,RAYA 3 PS
+https://vstream3.hadara.ps:8443/RayaHD2_web/web/playlist.m3u8
+#EXTINF:-1,WATAR PS
+https://htvint.mada.ps/orient/index.m3u8
 #EXTINF:-1,YEMEN TODAY
 https://video.yementdy.tv/hls/yementoday.m3u8
 #EXTINF:-1,YEMEN SHABAB
@@ -3771,6 +3781,8 @@ https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/index.m3u8
 https://dmithrvllta.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/index.m3u8
 #EXTINF:-1,KAS QATAR 1
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1muytrdc/master.m3u8
+#EXTINF:-1,KAS QATAR 1
+https://liveakgrns.alkassdigital.net/hls/live/2097037/Alkass1buoicft/master.m3u8
 #EXTINF:-1,KAS QATAR 2
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2hefazq/master.m3u8
 #EXTINF:-1,KAS QATAR 3
