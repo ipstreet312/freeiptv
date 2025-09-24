@@ -3080,6 +3080,14 @@ http://149.62.177.98:8000/play/a01z/index.m3u8
 https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y5rY7zJ/heddaf.png",EL HEDDAF TV
 https://live.eighty-eight.tv:7770/elheddaf1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pPwR2Tc/ennahar.png",ENNAHAR TV (geoblocked)
+https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/dz/ennahartv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7Q4Zv2v/elhayat.png",EL HAYAT DZ (geoblocked)
+https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/dz/elhayattv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1vH6q4L/echounws.png",ECHOROUK NEWS DZ (geoblocked)
+https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/dz/echorouknews.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yQmcHjz/echourouk.png",ECHOROUK TV DZ (geoblocked)
+https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/dz/echorouktv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pPwR2Tc/ennahar.png",ENNAHAR TV
 https://live20.bozztv.com/gin-36bay3/ga-ennahartv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yQmcHjz/echourouk.png",ECHOROUK TV DZ
@@ -4846,6 +4854,8 @@ http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
 https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png",GPB 2TV
 https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png",GPB HD
+https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/ge/gpbhd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png",IMEDI
 https://tv.cdn.xsg.ge/imedihd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png",RUSTAVI 2
