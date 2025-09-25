@@ -8,7 +8,7 @@ Tu es "en manques" de chıaînes tv ? 😁 Alors en voici en voilà en "bouquets
 
 le "all.m3u", votre "fourre-tout" qui se veut intellectuel techniquement et culturellement. 🤗🥰🥳
 
-<img src="https://github.com/ipstreet312/freeiptv/blob/master/ressources/infos/barkers/group0707.jpeg?raw=true">
+<img src="https://i.ibb.co/QjjZ6Fss/groups2509.jpg">
 
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/all.m3u
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/allgr.m3u
