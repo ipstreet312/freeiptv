@@ -4,7 +4,8 @@
 ![x](https://img.shields.io/badge/You%20like%20to%20stream%3F%20Good%21%20Here%20it%27s%20yours%3A%29-blue)
 ![n](https://img.shields.io/badge/Stream%20yapmay%C4%B1%20seviyon%3F%20Harika%21%20Buras%C4%B1%20senin%3A%29-green)❤️
 
-Tu es "en manques" de chıaînes tv, d'infauxrmation et autres ? 😁 Alors en voici en voilà en "Bouquets pack" ^^ 💐:
+Tu es "en manques" de chıaînes tv, d'infauxrmation et autres ? 😁 
+Alors en voici en voilà en "Bouquets pack" ^^ 💐:
 
 le "all.m3u", votre "fourre-tout" qui se veut intellectuel techniquement et culturellement. 🤗🥰🥳
 
