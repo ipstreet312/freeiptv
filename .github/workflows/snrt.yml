@@ -2,7 +2,7 @@ name: snrt
 
 on:
   schedule:
-    - cron: '*/6 * * * *'
+    - cron: '*/5 * * * *'
   workflow_dispatch:
 
 jobs:
