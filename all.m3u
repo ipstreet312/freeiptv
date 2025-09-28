@@ -1079,6 +1079,10 @@ http://dogus.daioncdn.net/ntv/ntv.m3u8?ce=3&&app=7c4bb802-0c41-409e-8cd2-7999849
 http://dygvideo.dygdigital.com/live/hls/puhuntvdai?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png",NTV (backup)
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/ntv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png",NTV (backup)
+https://raw.githack.com/ipstreet312/freeiptv/master/ressources/tur/ntv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png",NTV (backup)
+https://cdn.jsdelivr.net/gh/ipstreet312/freeiptv@master/ressources/tur/ntv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F5FcvbZ/flash4ok.png",FLASH HABER (backup)
 https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F5FcvbZ/flash4ok.png",FLASH HABER (backup)
@@ -2991,10 +2995,6 @@ https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid
 https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dp5Z2dh/2m.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" referer="https://2m.ma",2M MONDE الثانية
 https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png",AL AOULA LAÂYOUNE الأولى
-https://cdn.jsdelivr.net/gh/ipstreet312/freeiptv@master/ressources/mar/laayoune.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png",AL AOULA LAÂYOUNE الأولى
-https://cdn.jsdelivr.net/gh/fraudiay79/strm@main/platforms/links/ma/laayoune.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rfwFbLk/telemaroc.gif",TELE MAROC
 https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/wld/tlma.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pdd2VqB/chada.jpg",CHADA TV شدى
@@ -3005,36 +3005,22 @@ https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
 https://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rQJcGTc/medi1tv.png",MEDI 1 FR العربية
 https://streaming1.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png",AL AOULA LAÂYOUNE الأولى
+https://oppomu.serv00.net/laayoune.php?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png",AL AOULA INT الأولى
-https://cdn.jsdelivr.net/gh/ipstreet312/freeiptv@master/ressources/mar/aloula.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png",AL AOULA INT الأولى
-https://cdn.jsdelivr.net/gh/fraudiay79/strm@main/platforms/links/ma/aloula.m3u8
+https://xddrts.alwaysdata.net/aloula.php?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wk8BWg4/arryadia.png",ARRYADIA الرياضية
-https://cdn.jsdelivr.net/gh/ipstreet312/freeiptv@master/ressources/mar/arryadia.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Wk8BWg4/arryadia.png",ARRYADIA الرياضية
-https://cdn.jsdelivr.net/gh/fraudiay79/strm@main/platforms/links/ma/arryadia.m3u8
+https://oppomu.serv00.net/arry.php?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wk8BWg4/arryadia.png",ARRYADIA TNT الرياضية
-https://cdn.jsdelivr.net/gh/ipstreet312/freeiptv@master/ressources/mar/arryadiatnt.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Wk8BWg4/arryadia.png",ARRYADIA TNT الرياضية
-hhttps://cdn.jsdelivr.net/gh/fraudiay79/strm@main/platforms/links/ma/arryadiatnt.m3u8
+https://cdnet.alwaysdata.net/arrytnt.php?m3u8 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k8gk0Hb/arrabiaa.png",ATHAQAFIA الثقافية
-https://cdn.jsdelivr.net/gh/ipstreet312/freeiptv@master/ressources/mar/athaqafia.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k8gk0Hb/arrabiaa.png",ATHAQAFIA الثقافية
-https://cdn.jsdelivr.net/gh/fraudiay79/strm@main/platforms/links/ma/athaqafia.m3u8
+https://oppomu.serv00.net/arrabia.php?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5kp5CmP/almaghribia.png",AL MAGHRIBIA المغربية الإخبارية
-https://raw.githack.com/ipstreet312/freeiptv/master/ressources/mar/almaghribia.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5kp5CmP/almaghribia.png",AL MAGHRIBIA المغربية الإخبارية
-https://cdn.jsdelivr.net/gh/ipstreet312/freeiptv@master/ressources/mar/almaghribia.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5kp5CmP/almaghribia.png",AL MAGHRIBIA المغربية الإخبارية
-https://cdn.jsdelivr.net/gh/fraudiay79/strm@main/platforms/links/ma/almaghribia.m3u8
+https://viamotionhsi.netplus.ch/live/eds/almaghribia/browser-HLS8/almaghribia.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gxn4XrB/assadissa.png",ASSADISSA القرآن الكريم
-https://raw.githack.com/ipstreet312/freeiptv/master/ressources/mar/assadissa.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gxn4XrB/assadissa.png",ASSADISSA القرآن الكريم
-https://cdn.jsdelivr.net/gh/fraudiay79/strm@main/platforms/links/ma/assadissa.m3u8
+https://xddrts.alwaysdata.net/assadi.php?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rmRc08Z/tamazight.png",TAMAZIGHT الأمازيغية
-https://raw.githack.com/ipstreet312/freeiptv/master/ressources/mar/tamazight.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rmRc08Z/tamazight.png",TAMAZIGHT الأمازيغية
-https://cdn.jsdelivr.net/gh/fraudiay79/strm@main/platforms/links/ma/tamazight.m3u8
+https://cdnet.alwaysdata.net/tamaz.php?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5M4CwmQ/watania1.png",WATANIA 1
 http://live.watania1.tn:1935/live/watanya1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5M4CwmQ/watania1.png",WATANIA 1
