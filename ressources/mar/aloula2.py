@@ -67,4 +67,5 @@ def main():
     else:
         print(rewritten_playlist)
 
-if __n
+if __name__ == "__main__":
+    main()
