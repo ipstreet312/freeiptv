@@ -12,11 +12,6 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: config
-        run: |
-          git config --global user.email "<>"
-          git config --global user.name "snrt bot"
-
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
@@ -29,9 +24,16 @@ jobs:
         run: |
           git add -A
           ls -la 
-          
-      - name: commit & push
+
+      - name: Commit & Push changes
         run: |
-          git pull origin master
-          git commit -m "snrt updated"
-          git push origin master
+          git config --global user.email "<>"
+          git config --global user.name "snrt bot"
+          
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "snrt updated"
+            git push origin master
+          fi
