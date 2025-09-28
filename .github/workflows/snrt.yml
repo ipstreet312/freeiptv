@@ -1,41 +1,37 @@
-name: snrt ma
+name: snrt
 
 on:
   schedule:
-    - cron: '*/5 * * * *' # Runs in every 5 minutes
+    - cron: '*/5 * * * *'
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    steps: 
-      - uses: actions/checkout@v4
-      
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: config
+        run: |
+          git config --global user.email "<>"
+          git config --global user.name "snrt bot"
+
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v2
         with:
-            python-version: '3.x'
+          python-version: '3.x'
 
-      - name: Install dependencies
+      - name: updating snrt
+        run: sh ressources/mar/snrt.sh
+
+      - name: git add
         run: |
-          python -m pip install --upgrade pip
-          
-          pwd
-          cd ./ressources/mar/
-
-          pip3 install -r requirements.txt
-          pip3 install beautifulsoup4
-      
-      - name: execute py script 
-        run:  |
-            pwd
-            cd ./ressources/mar/snrt.sh
-            bash snrt.sh
-
-      - name: commit and push files
-        run: |
-          git config --local user.email ""
-          git config --local user.name "snrt bot"
           git add -A
+          ls -la 
+          
+      - name: commit & push
+        run: |
+          git pull origin master
           git commit -m "snrt updated"
-          git push
+          git push origin master
