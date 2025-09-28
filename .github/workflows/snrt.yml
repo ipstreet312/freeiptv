@@ -23,7 +23,7 @@ jobs:
           python-version: '3.x'
 
       - name: updating snrt
-        run: sh ressources/mar/snrt.sh
+        run: bash ressources/mar/snrt.sh
 
       - name: git add
         run: |
