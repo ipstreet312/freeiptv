@@ -178,9 +178,9 @@ https://live-lci-hls.cdn-0.diff.tf1.fr/out/v1/917aad4fa72f42f7ba7f486226f54bc4/l
 #EXTINF:-1,TV5MONDE FBSM
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
 #EXTINF:-1,TF1_
-https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NTg5NzU1NDMsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzU4OTYxMTQzLCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.dcpa0ycf5uuhgL0NEiMNlhIcZFOE4HjaZ2w5WaJiAxw/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
+https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NTkyNjcxMjksImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzU5MjUyNzI5LCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.-mKgPqCajQi2MyHfIjzc7vJ8ZEnYIX95xR2ZXDVQOxc/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
 #EXTINF:-1,TF1-
-https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI5MS4xMzQuMjQ4LjE5MiIsImNtY2QiOiIiLCJleHAiOjE3NTg5ODAzNzksImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc1ODk2NTk3OSwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.ORbPSN0HOnn4ZcIPZsAuMm52jyW1HokS__B8unXvly8/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
+https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI5MS4xMzQuMjQ4LjE5MiIsImNtY2QiOiIiLCJleHAiOjE3NTkyNzI1MDMsImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc1OTI1ODEwMywiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.O-n-MTb03e8qZ3-lGiseNG4w7i9249RwfQbuI1DbGd4/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
 #EXTINF:-1,FRANCE 2
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr2.m3u8
 #EXTINF:-1,FRANCE 3
@@ -1066,6 +1066,10 @@ http://dogus.daioncdn.net/ntv/ntv.m3u8?ce=3&&app=7c4bb802-0c41-409e-8cd2-7999849
 http://dygvideo.dygdigital.com/live/hls/puhuntvdai?m3u8
 #EXTINF:-1,NTV (backup)
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/ntv.m3u8
+#EXTINF:-1,NTV (backup)
+https://raw.githack.com/ipstreet312/freeiptv/master/ressources/tur/ntv.m3u8
+#EXTINF:-1,NTV (backup)
+https://cdn.jsdelivr.net/gh/ipstreet312/freeiptv@master/ressources/tur/ntv.m3u8
 #EXTINF:-1,FLASH HABER (backup)
 https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/playlist.m3u8
 #EXTINF:-1,FLASH HABER (backup)
@@ -1131,9 +1135,9 @@ https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1,SHOW
 https://bloomberght-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1,NOW
-https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=Lcztv4KMh3hZv2qr6zG73w&e=1758979124
+https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=vWVQNlfsSS90YzuOlyoOaA&e=1759271458
 #EXTINF:-1,NOW
-https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=Lcztv4KMh3hZv2qr6zG73w&e=1758979124
+https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=vWVQNlfsSS90YzuOlyoOaA&e=1759271458
 #EXTINF:-1,TV8
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
 #EXTINF:-1,TV8
@@ -1556,14 +1560,8 @@ https://new.cache-stream.workers.dev/stream/UCK3mI2lsk3LSo8PBUc8JTSw/live.m3u8
 https://livestream.zazerconer.workers.dev/channel/UCK3mI2lsk3LSo8PBUc8JTSw.m3u8
 #EXTINF:-1,SPOTIFY TURKEY • TRLIST 👤🎧🎤📻💯
 https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/sptr.ts
-#EXTINF:-1,SPOTIFY TURKEY • 2025 🎶🎵🎼🎹🪗
+#EXTINF:-1,SPOTIFY TURKEY • 2025 🎶🎵🎼🎹🪗🎸🎷🎺🎻🪕
 https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/sptr25.ts
-#EXTINF:-1,SPOTIFY TURKEY • 2024 🎸🎷🎺🎻🪕
-https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/spb24.ts
-#EXTINF:-1,⇨SPECIAL EMOTIONAL EVER TR💫💭✔️
-https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/emtr.ts
-#EXTINF:-1,⇨SPECIAL ENERGETIC EVER TR⚡🔋✔️
-https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/enetr.ts
 #EXTINF:-1,TRT MÜZİK
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,KRAL - KRAL POP
@@ -2046,8 +2044,6 @@ http://cdn-kanalavrupa.yayin.com.tr/kanalavrupa/index.m3u8
 https://live.euromediacenter.com/gurmetv/index.m3u8
 #EXTINF:-1,EZGİ TV
 https://live.euromediacenter.com/ezgitv/index.m3u8
-#EXTINF:-1,*ESKİ TÜRKİYE* - NOSTALJİ TV KANALLAR...
-https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/eskitrnost.ts
 #EXTINF:-1,--- |KKTC: KUZEY KIBRIS| ---
 http://blank
 #EXTINF:-1,BRT 1
@@ -2962,52 +2958,40 @@ https://rtvelivestream.rtve.es/rtvesec/clan/clan_main.m3u8
 https://5940924978228.streamlock.net/Directo1/Directo1/playlist.m3u8
 #EXTINF:-1,TELE MADRID (offlink)
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
-#EXTINF:-1,AL AOULA LAÂYOUNE الأولى
-https://cdn.live.easybroadcast.io/abr_corp/73_laayoune_pgagr52/corp/73_laayoune_pgagr52_480p/chunks_dvr.m3u8
-#EXTINF:-1,AL AOULA LAÂYOUNE الأولى
-https://cdn.live.easybroadcast.io/ts_corp/73_laayoune_pgagr52/playlist_dvr.m3u8
-#EXTINF:-1,AL AOULA INT الأولى
-https://cdn.live.easybroadcast.io/ts_corp/73_aloula_w1dqfwm/playlist_dvr.m3u8
-#EXTINF:-1,AL AOULA INT الأولى
-https://xddrts.alwaysdata.net/aloula.php?m3u8
-#EXTINF:-1,2M MONDE الثانية
-https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
+#EXTINF:-1,--- |MA: MAROC| ---
+https://blank
 #EXTINF:-1,2M MONDE الثانية
 https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
-#EXTINF:-1,ARRYADIA الرياضية
-https://cdn.live.easybroadcast.io/ts_corp/73_arryadia_k2tgcj0/playlist_dvr.m3u8
-#EXTINF:-1,ARRYADIA TNT الرياضية
-https://cdn.live.easybroadcast.io/ts_corp/73_arryadia-tnt_zcmwjdc/playlist_dvr.m3u8
-#EXTINF:-1,ATHAQAFIA الثقافية
-https://cdn.live.easybroadcast.io/ts_corp/73_arrabia_hthcj4p/playlist_dvr.m3u8
-#EXTINF:-1,ATHAQAFIA الثقافية
-https://oppomu.serv00.net/arrabia.php?m3u8
-#EXTINF:-1,AL MAGHRIBIA المغربية الإخبارية
-https://cdn.live.easybroadcast.io/abr_corp/73_almaghribia_83tz85q/corp/73_almaghribia_83tz85q_480p/chunks_dvr.m3u8
-#EXTINF:-1,AL MAGHRIBIA المغربية الإخبارية
-https://cdn.live.easybroadcast.io/ts_corp/73_almaghribia_83tz85q/playlist_dvr.m3u8
-#EXTINF:-1,ASSADISSA القرآن الكريم
-https://cdn.live.easybroadcast.io/abr_corp/73_assadissa_7b7u5n1/corp/73_assadissa_7b7u5n1_480p/chunks_dvr.m3u8
-#EXTINF:-1,ASSADISSA القرآن الكريم
-https://cdn.live.easybroadcast.io/ts_corp/73_assadissa_7b7u5n1/playlist_dvr.m3u8
-#EXTINF:-1,AFLAM أفلام
-https://fl1002.bozztv.com/ga-aflamtv7/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,TAMAZIGHT الأمازيغية
-https://cdn.live.easybroadcast.io/ts_corp/73_tamazight_tccybxt/playlist_dvr.m3u8
-#EXTINF:-1,TAMAZIGHT الأمازيغية
-https://cdnet.alwaysdata.net/tamaz.php?m3u8
+#EXTINF:-1,2M MONDE الثانية
+https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
+#EXTINF:-1,TELE MAROC
+https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/wld/tlma.m3u8
+#EXTINF:-1,CHADA TV شدى
+https://edge14.vedge.infomaniak.com/livecast/chadatv/manifest.m3u8
 #EXTINF:-1,MEDI 1 MG العربية
 https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
 #EXTINF:-1,MEDI 1 AR العربية
 https://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8
 #EXTINF:-1,MEDI 1 FR العربية
 https://streaming1.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8
-#EXTINF:-1,CHADA TV شدى
-https://edge14.vedge.infomaniak.com/livecast/chadatv/manifest.m3u8
-#EXTINF:-1,CHADA TV شدى
-https://test-streamer.eagrpservices.com/video/live/720p/chada.m3u8
-#EXTINF:-1,TELE MAROC
-https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/wld/tlma.m3u8
+#EXTINF:-1,AL AOULA LAÂYOUNE الأولى
+https://oppomu.serv00.net/laayoune.php?m3u8
+#EXTINF:-1,AL AOULA INT الأولى
+https://xddrts.alwaysdata.net/aloula.php?m3u8
+#EXTINF:-1,ARRYADIA الرياضية
+https://oppomu.serv00.net/arry.php?m3u8
+#EXTINF:-1,ARRYADIA TNT الرياضية
+https://cdnet.alwaysdata.net/arrytnt.php?m3u8
+#EXTINF:-1,ATHAQAFIA الثقافية
+https://oppomu.serv00.net/arrabia.php?m3u8
+#EXTINF:-1,AL MAGHRIBIA المغربية الإخبارية
+https://viamotionhsi.netplus.ch/live/eds/almaghribia/browser-HLS8/almaghribia.m3u8
+#EXTINF:-1,ASSADISSA القرآن الكريم
+https://xddrts.alwaysdata.net/assadi.php?m3u8
+#EXTINF:-1,TAMAZIGHT الأمازيغية
+https://cdnet.alwaysdata.net/tamaz.php?m3u8
+#EXTINF:-1,--- |TN: TUNISIE| ---
+https://blank
 #EXTINF:-1,WATANIA 1
 http://live.watania1.tn:1935/live/watanya1.stream/playlist.m3u8
 #EXTINF:-1,WATANIA 1
@@ -3036,6 +3020,8 @@ https://live20.bozztv.com/gin-36bay3/ga-tunisna/index.m3u8
 https://live20.bozztv.com/gin-36bay3/ga-carthageplus/index.m3u8
 #EXTINF:-1,HANNIBAL TN
 https://live20.bozztv.com/gin-36bay3/ga-hannibaltv/index.m3u8
+#EXTINF:-1,--- |DZ: ALGÉRIE| ---
+https://blank
 #EXTINF:-1,TV1 ENTV
 http://149.62.177.98:8000/play/a00i/index.m3u8
 #EXTINF:-1,TV2 ALGERIE
@@ -3058,6 +3044,8 @@ https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/link
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/dz/echorouknews.m3u8
 #EXTINF:-1,ECHOROUK TV DZ (geoblocked)
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/dz/echorouktv.m3u8
+#EXTINF:-1,--- |AUTRES & BACKUPS| ---
+https://blank
 #EXTINF:-1,ENNAHAR TV
 https://live20.bozztv.com/gin-36bay3/ga-ennahartv/index.m3u8
 #EXTINF:-1,ECHOROUK TV DZ
@@ -3138,6 +3126,36 @@ https://cdn-globecast.akamaized.net/live/eds/assadissa/hls_snrt/index.m3u8
 https://cdn-globecast.akamaized.net/live/eds/tamazight_tv8_snrt/hls_snrt/index.m3u8
 #EXTINF:-1,--- |⬇DOWN/OFFLINES⬇| ---
 https://blank
+#EXTINF:-1,AL AOULA LAÂYOUNE الأولى
+https://cdn.live.easybroadcast.io/abr_corp/73_laayoune_pgagr52/corp/73_laayoune_pgagr52_480p/chunks_dvr.m3u8
+#EXTINF:-1,AL AOULA LAÂYOUNE الأولى
+https://cdn.live.easybroadcast.io/ts_corp/73_laayoune_pgagr52/playlist_dvr.m3u8
+#EXTINF:-1,AL AOULA INT الأولى
+https://cdn.live.easybroadcast.io/ts_corp/73_aloula_w1dqfwm/playlist_dvr.m3u8
+#EXTINF:-1,AL AOULA INT الأولى
+https://xddrts.alwaysdata.net/aloula.php?m3u8
+#EXTINF:-1,ARRYADIA الرياضية
+https://cdn.live.easybroadcast.io/ts_corp/73_arryadia_k2tgcj0/playlist_dvr.m3u8
+#EXTINF:-1,ARRYADIA TNT الرياضية
+https://cdn.live.easybroadcast.io/ts_corp/73_arryadia-tnt_zcmwjdc/playlist_dvr.m3u8
+#EXTINF:-1,ATHAQAFIA الثقافية
+https://cdn.live.easybroadcast.io/ts_corp/73_arrabia_hthcj4p/playlist_dvr.m3u8
+#EXTINF:-1,ATHAQAFIA الثقافية
+https://oppomu.serv00.net/arrabia.php?m3u8
+#EXTINF:-1,AL MAGHRIBIA المغربية الإخبارية
+https://cdn.live.easybroadcast.io/abr_corp/73_almaghribia_83tz85q/corp/73_almaghribia_83tz85q_480p/chunks_dvr.m3u8
+#EXTINF:-1,AL MAGHRIBIA المغربية الإخبارية
+https://cdn.live.easybroadcast.io/ts_corp/73_almaghribia_83tz85q/playlist_dvr.m3u8
+#EXTINF:-1,ASSADISSA القرآن الكريم
+https://cdn.live.easybroadcast.io/abr_corp/73_assadissa_7b7u5n1/corp/73_assadissa_7b7u5n1_480p/chunks_dvr.m3u8
+#EXTINF:-1,ASSADISSA القرآن الكريم
+https://cdn.live.easybroadcast.io/ts_corp/73_assadissa_7b7u5n1/playlist_dvr.m3u8
+#EXTINF:-1,AFLAM أفلام
+https://fl1002.bozztv.com/ga-aflamtv7/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,TAMAZIGHT الأمازيغية
+https://cdn.live.easybroadcast.io/ts_corp/73_tamazight_tccybxt/playlist_dvr.m3u8
+#EXTINF:-1,TAMAZIGHT الأمازيغية
+https://cdnet.alwaysdata.net/tamaz.php?m3u8
 #EXTINF:-1,NESSMA
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dzflix/nessma.m3u8
 #EXTINF:-1,HELWA
@@ -5665,5 +5683,5 @@ http://
 http://
 #EXTINF:-1,[⚽🏅🏆] *Empty* 'New' Service ❶❷❸ ➊➋➌
 http://
-#EXTINF:-1,TEST 01 🎉🥳🎊
+#EXTINF:-1,TEST 02 🎉🥳🎊
 http://
