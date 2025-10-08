@@ -3079,6 +3079,10 @@ http://149.62.177.98:8000/play/a01z/index.m3u8
 https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y5rY7zJ/heddaf.png",EL HEDDAF TV
 https://live.eighty-eight.tv:7770/elheddaf1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HzvjJq6/samira.png",SAMIRA
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120683/samiratv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BfwWGdQ/djan1.png",EL DJAZAIR N1
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120682/eldjazairn1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pPwR2Tc/ennahar.png",ENNAHAR TV (geoblocked)
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/dz/ennahartv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7Q4Zv2v/elhayat.png",EL HAYAT DZ (geoblocked)
@@ -5614,9 +5618,9 @@ https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tQC0d8X/kbsw.jpg",KBS WORLD
 http://mytv.dothome.co.kr/ch/catv/7.php/.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JCjsXZm/nhk.png",NHK WORLD
-https://nhkwlive-ojp.nhkworld.jp/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JCjsXZm/nhk.png",NHK WORLD
-https://cdn.nhkworld.jp/www11/nhkworld-tv/domestic/2003459/live.m3u8
+https://livehub-voidnet.onrender.com/cluster/streamcore/jp/NHK_StreamOrchestrator.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JCjsXZm/nhk.png",NHK WORLD
 https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JCjsXZm/nhk.png",NHK WORLD
