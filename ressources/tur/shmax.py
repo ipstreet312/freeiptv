@@ -1,47 +1,51 @@
 import requests
 import re
-import json
 
+# Base URL for building full segment URLs
 base_url = "https://ciner-live.ercdn.net/showmax/"
-url = "http://www.showmax.com.tr/canliyayin"
-response = requests.get(url)
+
+# Page containing the player setup
+url = "https://www.showmax.com.tr/canliyayin"
+
+# Optional headers to avoid blocking
+headers = {
+    "User-Agent": "Mozilla/5.0",
+    "Referer": "https://www.showmax.com.tr/"
+}
+
+response = requests.get(url, headers=headers)
 
 if response.status_code == 200:
     site_content = response.text
-    match = re.search(r'ht_stream_m3u8":"(.*?)"', site_content)
-    
+
+    # Look for direct m3u8 URL inside data-hope-video attribute
+    match = re.search(r'"src":"(https:[^"]+\.m3u8[^"]*)"', site_content)
+
     if match:
-        json_data = match.group(1)
-        json_data_valid = json_data.replace("\\/", "/")  # Replace escaped slashes
-        
-        try:
-            ht_data = json.loads('{"ht_stream_m3u8":"' + json_data_valid + '"}')
-            ht_stream_m3u8 = ht_data.get('ht_stream_m3u8')
-            
-            if ht_stream_m3u8:
-                #print(f"Found Live URL: {ht_stream_m3u8}")
-                content_response = requests.get(ht_stream_m3u8)
-                
-                if content_response.status_code == 200:
-                    content = content_response.text
-                    lines = content.split("\n")
-                    modified_content = ""
-                    
-                    for line in lines:
-                        if line.startswith("showmax"):
-                            full_url = base_url + line
-                            modified_content += full_url + "\n"
-                        else:
-                            modified_content += line + "\n"
-                    
-                    print(modified_content)
+        m3u8_url = match.group(1).replace("\\/", "/")
+        print(f"[+] Found Live URL: {m3u8_url}")
+
+        # Fetch the m3u8 playlist content
+        playlist_response = requests.get(m3u8_url, headers=headers)
+
+        if playlist_response.status_code == 200:
+            content = playlist_response.text
+            lines = content.split("\n")
+            modified_content = ""
+
+            for line in lines:
+                # Replace relative TS paths like "showmax/..."
+                if line.startswith("showmax"):
+                    full_url = base_url + line
+                    modified_content += full_url + "\n"
                 else:
-                    print("Error fetching content from the Live URL.")
-            else:
-                print("Live URL not found in the content.")
-        except json.JSONDecodeError as e:
-            print(f"JSON decoding error: {e}")
+                    modified_content += line + "\n"
+
+            print("\n===== MODIFIED PLAYLIST =====\n")
+            print(modified_content)
+        else:
+            print("[x] Error fetching content from the Live URL.")
     else:
-        print("Live URL pattern not found in the content.")
+        print("[x] Could not detect .m3u8 link in HTML (pattern mismatch).")
 else:
-    print("Error: Status code is not 200.")
+    print(f"[x] Error fetching page, HTTP {response.status_code}")
