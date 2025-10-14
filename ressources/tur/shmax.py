@@ -23,7 +23,7 @@ if response.status_code == 200:
 
     if match:
         m3u8_url = match.group(1).replace("\\/", "/")
-        print(f"[+] Found Live URL: {m3u8_url}")
+        #print(f"[+] Found Live URL: {m3u8_url}")
 
         # Fetch the m3u8 playlist content
         playlist_response = requests.get(m3u8_url, headers=headers)
@@ -41,7 +41,7 @@ if response.status_code == 200:
                 else:
                     modified_content += line + "\n"
 
-            print("\n===== MODIFIED PLAYLIST =====\n")
+            #print("\n===== MODIFIED PLAYLIST =====\n")
             print(modified_content)
         else:
             print("[x] Error fetching content from the Live URL.")
