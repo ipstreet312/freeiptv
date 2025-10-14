@@ -1451,8 +1451,10 @@ https://tv.arectv34.sbs/live/cartoonnetwork.m3u8
 https://ciner-live.ercdn.net/htspor/htspor.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F0Tsz1v/htsportr.png",HT SPOR
 https://ciner-live.daioncdn.net/ht-spor/ht-spor.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VpVz9gmK/sifirtv.jpg",SIFIR TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pv3Jx9rv/sifir.png",SIFIR TV
 https://ahr7chck.rocketcdn.com/sifirtv.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pv3Jx9rv/sifir.png",SIFIR TV
+http://ahr7chck.rocketcdn.com/sifirtv.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BfM21nC/beinhaber.png",BIS HABER
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xSjB51j/aspor.png",A SPOR
