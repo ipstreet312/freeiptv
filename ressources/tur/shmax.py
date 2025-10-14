@@ -5,12 +5,12 @@ import re
 base_url = "https://ciner-live.ercdn.net/showmax/"
 
 # Page containing the player setup
-url = "https://www.showmax.com.tr/canliyayin"
+url = "http://www.showmax.com.tr/canliyayin"
 
 # Optional headers to avoid blocking
 headers = {
     "User-Agent": "Mozilla/5.0",
-    "Referer": "https://www.showmax.com.tr/"
+    "Referer": "http://www.showmax.com.tr/"
 }
 
 response = requests.get(url, headers=headers)
