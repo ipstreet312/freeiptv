@@ -1146,7 +1146,7 @@ https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png",TRT 1
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png",KANAL D
-https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=da2109ea-5dfe-4107-89ab-23593336ed61
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png",KANAL D
 http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png",STAR
@@ -1193,8 +1193,6 @@ https://helga.iptv2022.com/sh/trt_1/index.m3u8
 https://trn03.tulix.tv/gt-trt1-tveu/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)",TRT 1 (backup)
 http://trn03.tulix.tv/gt-trt1-tveu/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png",KANAL D (backup)
-https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=da2109ea-5dfe-4107-89ab-23593336ed61
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png",KANAL D (backup)
 https://trn03.tulix.tv/gt-kanald/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png",KANAL D (backup)
@@ -1318,13 +1316,13 @@ https://live.artidijitalmedya.com/artidijital_bikanal/bikanal/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8dQdNrv/akilli22.png",AKILLI TV
 https://yayin.santraltr.com/hls/akillitv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QQQR6VK/dmax.png",DMAX
-https://dogus-live.daioncdn.net/dmax/dmax.m3u8
+http://dygvideo.dygdigital.com/live/hls/dmaxdai?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QQQR6VK/dmax.png",DMAX
-https://dmax.blutv.com/blutv_dmax2/live.m3u8
+https://dogus-live.daioncdn.net/dmax/dmax.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Z1vHy41/tlc.png",TLC TR
+http://dygvideo.dygdigital.com/live/hls/tlctvdai?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Z1vHy41/tlc.png",TLC TR
 https://dogus-live.daioncdn.net/tlc/tlc.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Z1vHy41/tlc.png",TLC TR
-https://tlc.blutv.com/blutv_tlc_live/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVnG3Zr/360tv.png",360
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVnG3Zr/360tv.png",360
@@ -1417,8 +1415,6 @@ http://dygvideo.dygdigital.com/live/hls/dmaxdai?m3u8
 http://canli.haber365.com.tr/tr/dmax/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Z1vHy41/tlc.png",TLC TR [downline]
 http://canli.haber365.com.tr/tr/tlc/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Z1vHy41/tlc.png",TLC TR (backup)
-http://dygvideo.dygdigital.com/live/hls/tlctvdai?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Z1vHy41/tlc.png",TLC TR (backup)
 https://dogus.daioncdn.net/tlc/tlc.m3u8?app=1aca0aa1-06e3-41ff-a8e5-38d7df475469
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVnG3Zr/360tv.png",360 [tkn-blocked]
