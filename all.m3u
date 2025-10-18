@@ -4307,7 +4307,7 @@ https://shls-masr2-ak.akamaized.net/out/v1/dc4aa87372374325a66be458f29eab0f/inde
 https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png" group-title="23. |AR|🇸🇦 THEMATICS-2 عربي",MBC 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png" group-title="23. |AR|🇸🇦 THEMATICS-2 عربي" user-agent="VLC/3.0.20 LibVLC/3.0.20",MBC 1
 https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png",MBC 1
 https://d2ow8h651gs7dx.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
@@ -4331,6 +4331,10 @@ https://mbc3-usa-enc.edgenextcdn.net/out/v1/8bbfec9446d84c9ea0dfa34edede6db9/ind
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bvbsV1Z/mbc3.png",MBC 3 USA
 https://mbc-3-usa-ak.akamaized.net/out/v1/8bbfec9446d84c9ea0dfa34edede6db9/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bvbsV1Z/mbc3.png" user-agent="VLC/3.0.20 LibVLC/3.0.20",MBC 3 USA
+http://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5smk763/mbc4.png" user-agent="VLC/3.0.20 LibVLC/3.0.20",MBC 4
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5smk763/mbc4.png",MBC 4
 https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5smk763/mbc4.png",MBC 4
