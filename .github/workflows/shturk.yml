@@ -2,7 +2,7 @@ name: shturk
 
 on:
   schedule:
-    - cron: '16 */02 * * *'
+    - cron: '27 */02 * * *'
   workflow_dispatch:
 
 jobs:
@@ -31,9 +31,6 @@ jobs:
 
       - name: Execute Python script
         run: python3 ressources/tur/shturk.py > ressources/tur/shturk.m3u8
-        
-      - name: Execute Python script max
-        run: python3 ressources/tur/shmax.py > ressources/tur/shmax.m3u8
 
       - name: git add
         run: |
