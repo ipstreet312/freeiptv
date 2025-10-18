@@ -5827,27 +5827,13 @@ http://
 http://
 #EXTINF:-1,TEST 02 🎉🥳🎊
 http://
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) VLC/3.0.18",MBC 1
-https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
-#EXTINF:-1 user-agent="VLC/3.0.18 LibVLC/3.0.18",MBC 3
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
-#EXTINF:-1 user-agent="VLC/3.0.0 libvlc",MBC 4
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) VLC/3.0.18",MBC 5
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) VLC/3.0.18",MBC 1
-http://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
-#EXTINF:-1 user-agent="VLC/3.0.18 LibVLC/3.0.18",MBC 3
-http://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
-#EXTINF:-1 user-agent="VLC/3.0.0 libvlc",MBC 4
-http://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) VLC/3.0.18",MBC 5
-http://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) VLC/3.0.18" referer="https://mbc.com/",MBC 1
-https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+#EXTINF:-1 user-agent="VLC/3.0.18 LibVLC/3.0.18" referer="https://mbc.com/",MBC 1
+https://cdnet.alwaysdata.net/proxymbc.php?url=https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+#EXTINF:-1 user-agent="VLC/3.0.18 LibVLC/3.0.18" referer="https://mbc.com/",MBC 1
+https://oppomu.serv00.net/proxymbc.php?url=https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 #EXTINF:-1 user-agent="VLC/3.0.18 LibVLC/3.0.18" referer="https://mbc.com/",MBC 3
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
-#EXTINF:-1 user-agent="VLC/3.0.0 libvlc" referer="https://mbc.com/",MBC 4
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) VLC/3.0.18" referer="https://mbc.com/",MBC 5
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
+https://oppomu.serv00.net/proxymbc.php?url=https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
+#EXTINF:-1 user-agent="VLC/3.0.18 LibVLC/3.0.18" referer="https://mbc.com/",MBC 4
+https://cdnet.alwaysdata.net/proxymbc.php?url=https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
+#EXTINF:-1 user-agent="VLC/3.0.18 LibVLC/3.0.18" referer="https://mbc.com/",MBC 5
+https://oppomu.serv00.net/proxymbc.php?url=https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
