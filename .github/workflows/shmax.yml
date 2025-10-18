@@ -2,7 +2,7 @@ name: shmax
 
 on:
   schedule:
-    - cron: '16 */02 * * *'
+    - cron: '16 */04 * * *'
   workflow_dispatch:
 
 jobs:
