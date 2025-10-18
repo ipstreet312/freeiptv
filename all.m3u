@@ -5825,3 +5825,25 @@ http://
 http://
 #EXTINF:-1,TEST 02 🎉🥳🎊
 http://
+#EXTINF:-1 user-agent="VLC/3.0.21 LibVLC/3.0.21",MBC 1
+https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+#EXTINF:-1 user-agent="VLC/3.0.21 LibVLC/3.0.21",MBC 1 in6 ua
+http://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_6.m3u8
+#EXTINF:-1 user-agent="VLC/3.0.21 LibVLC/3.0.21",MBC 1 in6 ua hts
+https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_6.m3u8
+#EXTINF:-1 user-agent="VLC/3.0.21 LibVLC/3.0.21",MBC 3 USA
+http://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
+#EXTINF:-1 user-agent="VLC/3.0.21 LibVLC/3.0.21",MBC 3 USA hts
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
+#EXTINF:-1 user-agent="VLC/3.0.21 LibVLC/3.0.21",MBC 3 USA
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/manifest/video/720p1750kbps/video.m3u8
+#EXTINF:-1 user-agent="VLC/3.0.21 LibVLC/3.0.21",MBC 3 USA ht
+http://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/manifest/video/720p1750kbps/video.m3u8
+#EXTINF:-1 user-agent="VLC/3.0.21",MBC 3 USA
+http://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/manifest/video/720p1750kbps/video.m3u8
+#EXTINF:-1 user-agent="VLC/3.0.21",MBC 4
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
+#EXTINF:-1 user-agent="VLC/3.0.21",MBC 4
+http://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
+#EXTINF:-1,MBC 5
+http://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
