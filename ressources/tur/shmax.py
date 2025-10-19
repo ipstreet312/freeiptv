@@ -5,7 +5,7 @@ import re
 base_url = "https://ciner-live.ercdn.net/showmax/"
 
 # Page containing the player setup
-url = "http://www.showmax.com.tr/canliyayini"
+url = "http://www.showmax.com.tr/canliyayin"
 
 # Optional headers to avoid blocking
 headers = {
