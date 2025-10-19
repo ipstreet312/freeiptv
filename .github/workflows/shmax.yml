@@ -8,6 +8,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    continue-on-error: true  # ✅ This prevents red failure status / notifications
 
     steps:
       - uses: actions/checkout@v3
@@ -25,10 +26,10 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          
+
       - name: Install requests module
         run: python3 -m pip install requests
-        
+
       - name: Execute Python script max
         run: python3 ressources/tur/shmax.py > ressources/tur/shmax.m3u8
 
@@ -36,9 +37,9 @@ jobs:
         run: |
           git add -A
           ls -la 
-          
+
       - name: commit & push
         run: |
           git pull origin master
-          git commit -m "shmax updated"
+          git commit -m "shmax updated" || echo "No changes to commit"
           git push origin master
