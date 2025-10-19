@@ -5827,3 +5827,17 @@ http://
 http://
 #EXTINF:-1,TEST 02 🎉🥳🎊
 http://
+#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) VLC/3.0.18" referer="https://mbc.net/",MBC 5a
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
+#EXTINF:-1 user-agent="VLC/3.0.18 LibVLC/3.0.18" referer="https://mbc.net/",MBC 1b
+https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+#EXTINF:-1,MBC 5c
+https://oppomu.serv00.net/proxy.php?url=https%3A%2F%2Fmbc1-enc.edgenextcdn.net%2Fout%2Fv1%2F0965e4d7deae49179172426cbfb3bc5e%2Findex.m3u8
+#EXTINF:-1,MBC 5d
+https://oppomu.serv00.net/proxy.php?url=https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
+#EXTINF:-1,MBC 5e
+https://cdnet.alwaysdata.net/proxy.php?url=https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
+#EXTINF:-1 user-agent="VLC/3.0.18 LibVLC/3.0.18" referer="https://mbc.net/",MBC 5f
+https://oppomu.serv00.net/proxy.php?url=https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
+#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)" referer="https://mbc.net/",MBC 5g
+https://cdnet.alwaysdata.net/proxy.php?url=https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
