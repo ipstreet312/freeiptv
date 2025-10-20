@@ -1634,7 +1634,7 @@ https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6401NQw/kraltv.png",KRAL - KRAL POP
 http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6401NQw/kraltv.png",KRAL - KRAL POP
-https://dogus-live.daioncdn.net/kralpoptv/kralpoptv.m3u8
+https://dogus.daioncdn.net/kralpoptv/kralpoptv.m3u8?app=kralpoptv_web
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4SsJS4R/dreamturk.png",DREAM TÜRK
 http://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B6N9KsN/powerturk22.png",POWER TÜRK
