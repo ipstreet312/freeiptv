@@ -1218,6 +1218,8 @@ https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png",STAR (backup)
 https://trn03.tulix.tv/gt-star-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png",STAR (backup)
+http://116.202.238.88/STARTV_TR/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png",STAR (backup)
 http://95.174.71.114/TR-STAR/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png",STAR (backup)
 https://dogus.daioncdn.net/startv/startv.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9
@@ -2262,7 +2264,7 @@ http://hbbtvapp.ert.gr/stream.php/v/vid_kidstv-hbbtv_mpeg.2ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c8NJjxh/ertmusic.jpg",ERT MUSIC
 https://ertflix.akamaized.net/ertlive/music/default/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c8NJjxh/ertmusic.jpg",ERT MUSIC
-http://hbbtvapp.ert.gr/stream.php/v/vid_ertplay5_mpeg.2ts
+https://ertflix.ascdn.broadpeak.io/ertlive/music/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/480p4sv/alpha.png",ALPHA TV
 https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/480p4sv/alpha.png",ALPHA TV
