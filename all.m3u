@@ -7,6 +7,8 @@ https://hls-m015-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/lci1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XkLHrbC/frinfo2bl.png",FRANCE INFO:
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frin.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D7w9h7Q/rt.png",RT FRANÇAIS
+https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RGPQCmYD/tvlfr.png",TVL TV LIBERTÉS
 https://video.twimg.com/amplify_video/1929231504401469440/pl/WksBCUIWBSVQZCYc.m3u8?variant_version=1&tag=14
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZBqk6mK/lemedia.jpg",LE MÉDIA TV
@@ -377,6 +379,10 @@ https://fast-rakuten.okast.tv/channels/34d82f76-b51f-4bf5-9b35-769fb5904e79/96f9
 https://edge17.vedge.infomaniak.com/livecast/ik:bazikafrica/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yPsXSFf/esprsorc.png" referer="https://player.castr.com/",L'ÉSPRIT SORCIER TV
 https://stream.castr.com/63b43410861d94a9eee067fb/live_947330308dd911edb85c8181cb9b11a8/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4BZYXRH/epicurieux.png",ÉPICURIEUX
+https://epicurieux-channel-dash.vodfactorychannels.com/out/v1/a22ee1f11bbb4de88e66b049268406bd/index.mpd?bpkio_serviceid=ba9a56ce0a9bfa263cf8dddcda650d42
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4BZYXRH/epicurieux.png",ÉPICURIEUX
+https://d1dzvywp5tcxbn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ryq1as86j3gxc/epic.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HnSphLp/sqool.jpg",SQOOL TV
 http://tvradiozap.eu/tools/yt-m3u8.php/@sqooltv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/443jKxq/techco.png",TECH&CO
@@ -423,6 +429,8 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/index.m3u8
 https://amg01821-amg01821c24-samsung-fr-5157.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-voyagesandsaveurs-samsungfr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JRX9cpG/voyagesplus.jpg",VOYAGES+
 https://streams2.sofast.tv/ptnr-limex/title-VOYAGES-FRE_LIMEX/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c30aa0d0-fb77-4f9b-8acf-b156ab5b969b/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JRX9cpG/voyagesplus.jpg",VOYAGES+
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ff8d1526-e572-4bb5-8c93-560eb80115bf/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vH6Q8Qx/plutocuisine.jpg",PLUTO CUISINE
 https://jmp2.uk/sam-FRBA3300044VR.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d6JJHZR/rmcwow.jpg",RMC WOW
