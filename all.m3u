@@ -2263,6 +2263,8 @@ http://cihan.dwasat.com/upload/images/cihanhd.m3u8
 https://ertflix-ertworld.siliconweb.com/mpegts/618618_3479286/master_mpegts.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qNZ259D/ertnews.png",ERT NEWS
 https://ertflix.siliconweb.com/mpegts/618618_2341569/master_mpegts.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qNZ259D/ertnews.png",ERT NEWS
+https://ertflix.siliconweb.com/mpegts/618618_3479301/media_mpegts_0.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YDX83ph/ert1.png",ERT 1
 https://ertflix.akamaized.net/ertlive/ert1/clrdef24723b/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YDX83ph/ert1.png",ERT 1
@@ -2355,6 +2357,8 @@ https://lcdn.antennaplus.gr/r444865966c0847fca53b9b0c133af7a9/eu-central-1/64158
 http://dlm34ll53zqql.cloudfront.net/out/v1/d4177931deff4c7ba994b8126d153d9f/maktv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B6hwDfS/netmax.jpg",NETMAX TV
 https://es1.crystalweb.net:1936/netmaxtv/netmaxtv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r2kTBGgM/bestgr.png",BEST TV
+https://besttv.siliconweb.com/bestTV/live_abr/bestTV/stream_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8bgKVyb/openbyd.png",OPEN TV
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8bgKVyb/openbyd.png",OPEN TV
