@@ -180,9 +180,9 @@ https://live-lci-hls.cdn-0.diff.tf1.fr/out/v1/917aad4fa72f42f7ba7f486226f54bc4/l
 #EXTINF:-1,TV5MONDE FBSM
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
 #EXTINF:-1,TF1_
-https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NjE2ODk4OTQsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzYxNjc1NDk0LCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.Viz1R2xAPfBSb1RKYxi1rq6U6r0PVl3dkRwB5MmU7ws/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
+https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NjE5MzgyOTMsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzYxOTIzODkzLCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.umLxy5yNdB9IILz9OZwMDy06XeeMsnFGJkCaTp4tptM/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
 #EXTINF:-1,TF1-
-https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI1LjEzNS40OC44MiIsImNtY2QiOiIiLCJleHAiOjE3NjE2ODc4ODQsImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc2MTY3MzQ4NCwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.fbebjeNNLYBwQ2-3gkXr5ON8ORTddfUh96OBj_aZZhE/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
+https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI1LjEzNS40OC44MiIsImNtY2QiOiIiLCJleHAiOjE3NjE5NTEwNzEsImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc2MTkzNjY3MSwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.CTibSVWar-2UX38x9dK5L_sd0L0IIZK_Kscy1HlXrmw/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
 #EXTINF:-1,FRANCE 2
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr2.m3u8
 #EXTINF:-1,FRANCE 3
@@ -973,11 +973,9 @@ https://ciner.daioncdn.net/haberturktv/haberturktv.m3u8?app=c98ab0b0-50cc-495b-b
 #EXTINF:-1,BLOOMBERG HT
 https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8?app=web&ce=3
 #EXTINF:-1,EKO TÜRK
-https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=Son5meUMZuU.m3u8
-#EXTINF:-1,EKO TÜRK
-https://koprulu4.global.ssl.fastly.net/ythls/?kanal_id=UCAGVKxpAKwXMWdmcHbrvcwQ.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/haber/ekoturk.m3u8
 #EXTINF:-1,CNN TÜRK
-https://anym3u8player.com/youtube.php/id/68f4acd0082ad.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/haber/cnnturk.m3u8
 #EXTINF:-1,CNN TÜRK
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Cnn_Turk.m3u8
 #EXTINF:-1,KRT
@@ -999,7 +997,7 @@ https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 #EXTINF:-1,AKİT TV
 http://akittv-live.ercdn.net/akittv/akittv.m3u8
 #EXTINF:-1,A HABER
-https://trkvz-live.ercdn.net/ahaberhd/ahaberhd.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/dizi/ahaber.m3u8
 #EXTINF:-1,A HABER
 https://anym3u8player.com/youtube.php/id/68f4c967d2678.m3u8
 #EXTINF:-1,YENİ ÇAĞ TV
@@ -1028,6 +1026,8 @@ http://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.s
 https://ensonhaber-live.ercdn.net/trthaber/trthaber.m3u8
 #EXTINF:-1,TRT HABER (backup)
 https://tv.ensonhaber.com/trthaber/trthaber.m3u8
+#EXTINF:-1,SÖZCÜ TV (backup)
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/haber/sozcu-tv.m3u8
 #EXTINF:-1,SÖZCÜ TV (backup)
 https://goldvod.org/tv/uyanik?id=18&extension=.m3u8
 #EXTINF:-1,SÖZCÜ TV (backup)
@@ -1063,7 +1063,11 @@ https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8
 #EXTINF:-1,HABER GLOBAL (backup)
 https://github.com/tecotv2025/tecotv/raw/main/playlist/Haber_Global_TV.m3u8
 #EXTINF:-1,HABER GLOBAL (backup)
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/haber/haberglobal.m3u8
+#EXTINF:-1,HABER GLOBAL (backup)
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
+#EXTINF:-1,TV 100 (backup)
+https://tlkaycmdoq.turknet.ercdn.net/ckvbdssyig/tv100/tv100.m3u8
 #EXTINF:-1,TV 100 (backup)
 https://ensonhaber-live.ercdn.net/tv100/tv100.m3u8
 #EXTINF:-1,TV 100 (backup)
@@ -1078,6 +1082,8 @@ https://trn03.tulix.tv/gt-cnnturk-tv/index.m3u8
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
 #EXTINF:-1,CNN TÜRK (backup)
 https://yayin2.canlitv.fun/livetv/cnnturk.stream/playlist.m3u8
+#EXTINF:-1,ULUSAL KANAL (backup)
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/haber/ulusal-kanal.m3u8
 #EXTINF:-1,ULUSAL KANAL (backup)
 https://canlitvulusal.xyz/live/ulusalkanal/index.m3u8
 #EXTINF:-1,ULUSAL KANAL (backup)
@@ -1114,12 +1120,14 @@ https://ensonhaber-live.ercdn.net/benguturk/benguturk.m3u8
 https://ulketv.blutv.com/blutv_ulketv2/live.m3u8
 #EXTINF:-1,A HABER (backup)
 https://c.fulltvizle.com/ahaber/index.m3u8
-#EXTINF:-1,A HABER
+#EXTINF:-1,A HABER (backup)
 https://canlitvulusal.xyz/live/ahaber/index.m3u8
+#EXTINF:-1,A HABER (backup)
+https://trkvz-live.ercdn.net/ahaberhd/ahaberhd.m3u8
 #EXTINF:-1,KRT (backup)
 https://trn03.tulix.tv/gt-krttv/playlist.m3u8
 #EXTINF:-1,KRT (backup)
-https://krt.blutv.com/blutv_krt_live/live.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/haber/krttv.m3u8
 #EXTINF:-1,HALK TV (backup)
 https://halktvdvr.blutv.com/blutv_halktv2_dvr/live.m3u8
 #EXTINF:-1,HALK TV (backup)
@@ -1165,9 +1173,9 @@ https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-3
 #EXTINF:-1,SHOW
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
 #EXTINF:-1,NOW
-https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=zN1JuYiO9DXuN74CnBdWng&e=1761690866
+https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=qosSzYMHUuqVPXpz947ecQ&e=1761949990
 #EXTINF:-1,NOW
-https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=zN1JuYiO9DXuN74CnBdWng&e=1761690866
+https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=qosSzYMHUuqVPXpz947ecQ&e=1761949990
 #EXTINF:-1,TV8
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
 #EXTINF:-1,TV8
@@ -1462,10 +1470,14 @@ https://ahr7chck.rocketcdn.com/sifirtv.stream/chunklist.m3u8
 http://ahr7chck.rocketcdn.com/sifirtv.stream/chunklist.m3u8
 #EXTINF:-1,BIS HABER
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8
+#EXTINF:-1,BIS HABER
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/spor/bein-sports-haber.m3u8
 #EXTINF:-1,A SPOR
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
 #EXTINF:-1,A SPOR
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/A_Spor.m3u8
+#EXTINF:-1,MAÇKOLİK TV
+https://mackolik-live.ercdn.net/mackolik/mackolik_720p.m3u8
 #EXTINF:-1,FENERBAHÇE TV
 https://fbtv.fenerbahce.org/fenerbahcetv.stream_720p/playlist.m3u8
 #EXTINF:-1,FENERBAHÇE TV
@@ -1564,6 +1576,8 @@ https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
 https://ythls.armelin.one/channel/UCK3mI2lsk3LSo8PBUc8JTSw.m3u8
 #EXTINF:-1,HT SPOR (backup)
 https://deathlesstg.serv00.net/Youtube-Live/index.php?id=Eg7c3jB39Hc&m3u8
+#EXTINF:-1,HT SPOR (backup)
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/ht-spor/ht-spor.m3u8
 #EXTINF:-1,BIS HABER (backup)
 https://raw.githubusercontent.com/rideordie16/YouTube/main/spor/beinsportshaber.m3u8
 #EXTINF:-1,BIS HABER (backup)
@@ -1588,6 +1602,8 @@ https://bozztv.com/inim03/live1/trtspor3/playlist.m3u8
 https://tv-trtcocuk.live.trt.com.tr/master.m3u8
 #EXTINF:-1,SPORTS TV (backup)
 https://live.sportstv.com.tr/hls/low/sportstv.m3u8
+#EXTINF:-1,A SPOR (backup)
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/spor/aspor.m3u8
 #EXTINF:-1,A SPOR (backup)
 https://x.canlitvapp.com/aspor/index.m3u8
 #EXTINF:-1,A SPOR (backup)
@@ -2220,6 +2236,8 @@ http://cihan.dwasat.com/upload/images/cihanhd.m3u8
 https://ertflix-ertworld.siliconweb.com/mpegts/618618_3479286/master_mpegts.m3u8
 #EXTINF:-1,ERT NEWS
 https://ertflix.siliconweb.com/mpegts/618618_2341569/master_mpegts.m3u8
+#EXTINF:-1,ERT NEWS
+https://ertflix.siliconweb.com/mpegts/618618_3479301/media_mpegts_0.m3u8
 #EXTINF:-1,ERT 1
 https://ertflix.akamaized.net/ertlive/ert1/clrdef24723b/playlist.m3u8
 #EXTINF:-1,ERT 1
@@ -2312,6 +2330,8 @@ https://lcdn.antennaplus.gr/r444865966c0847fca53b9b0c133af7a9/eu-central-1/64158
 http://dlm34ll53zqql.cloudfront.net/out/v1/d4177931deff4c7ba994b8126d153d9f/maktv.m3u8
 #EXTINF:-1,NETMAX TV
 https://es1.crystalweb.net:1936/netmaxtv/netmaxtv/chunklist.m3u8
+#EXTINF:-1,BEST TV
+https://besttv.siliconweb.com/bestTV/live_abr/bestTV/stream_720p/chunks.m3u8
 #EXTINF:-1,OPEN TV
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
 #EXTINF:-1,OPEN TV
@@ -5807,11 +5827,3 @@ http://
 http://
 #EXTINF:-1,TEST 02 🎉🥳🎊
 http://
-#EXTINF:-1,1
-https://jmp2.uk/stvp-FR3000139Z
-#EXTINF:-1,2
-https://jmp2.uk/stvp-FR300009JQ
-#EXTINF:-1,23
-https://jmp2.uk/stvp-FR300009JQ?m3u8
-#EXTINF:-1,3
-https://d3hwf0o3rgili3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ayxj0cgwkdi61/out/v1/58a411f9efb641f68f338bbebd8c911d/HLS_CMAF_DRM/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=FR300009JQ
