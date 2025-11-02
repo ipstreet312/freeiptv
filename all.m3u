@@ -4853,6 +4853,12 @@ https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/link
 http://cdn-s-lb2.pluscdn.pl/lv/1517830/349/hls/f03a76f3/masterlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",EURONEWS PL
 https://euronews-live-pol-pl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6769/bitok/e/26235/euronews-pl.m3u8
+#EXTINF:-1 group-title="26. |EU|🇪🇺 EUROPEAN COCKTAILTOUR🍸",--- |LT:🇱🇹 LITHUANIA| ---
+http://blank
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9QBNgt8/lrt.png",LRT LITUANICA
+https://stream-syncwords.lrt.lt/out/v1/channel-group-lrt-portal-prod-01/channel-lrt-portal-prod-01/endpoint-lrt-portal-prod-01/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5WzpFycZ/lrtlitu.png",LRT TV
+https://stream-live.lrt.lt/lituanica/master.m3u8
 #EXTINF:-1 group-title="26. |EU|🇪🇺 EUROPEAN COCKTAILTOUR🍸",--- |RO:🇷🇴 ROMANIA| ---
 http://blank
 #EXTINF:-1 tvg-logo="https://i.ibb.co/w46x9LM/tvri.png",TVR INT
@@ -5257,11 +5263,11 @@ https://ncdn.telewebion.com/khavaran/live/playlist.m3u8
 https://irantv.icdndhcp.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tqkV2sn/irflag.png",IRAN TV INTL
 https://iranintl.icdndhcp.com/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hVkbvpQ/irinn.png",BBC PERSIAN
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tqkV2sn/irflag.png",BBC PERSIAN
 https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hVkbvpQ/irinn.png",IRIB IRINN
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tqkV2sn/irflag.png",IRIB IRINN
 https://s1.ettehadlive.com/live/42/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kDhcymF/ifilm.png",IRIB IFILM FAR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tqkV2sn/irflag.png",IRIB IFILM FAR
 https://live.presstv.ir/hls/ifilmfa_4_482/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tqkV2sn/irflag.png",MBC PERSIA
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
