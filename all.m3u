@@ -399,6 +399,8 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/mieux
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/dmdirect/mensup.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tcYgz6h/mensup.png",MEN'S UP TV
 https://tvradiozap.eu/tools/dm-m3u8.php/x2kr3hs.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tcYgz6h/mensup.png",MEN'S UP TV
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/mensuptv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TLPBT2L/topsante.png",TOP SANTÉ
 https://d3tuo4zu8l334y.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x8ri0qojo9mfh/e5997ac8-9e9c-42cc-a2ef-633dc0a4f5a3/2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TLPBT2L/topsante.png",TOP SANTÉ
@@ -407,6 +409,8 @@ https://tvradiozap.eu/tools/dm-m3u8.php/720/x89yjnn.m3u8
 https://d387lnkgycbwl.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sdi2aweg8u1y4/761cde02-1df4-4a1a-ad50-7033ede188ef/2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d66k2fw/maisontrvx.png",MAISON & TRAVAUX
 https://d387lnkgycbwl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sdi2aweg8u1y4/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d66k2fw/maisontrvx.png",MAISON & TRAVAUX
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/maisonettravaux.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dwFBgZxp/rustica.jpg",RUSTICA - NATURE & AGRO
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10047
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HzXTSvk/naturetime.jpg",NATURE TIME
@@ -1763,6 +1767,8 @@ https://cdn-tvem.yayin.com.tr/TVEM/TVEM/playlist.m3u8
 https://diyanet.blutv.com/blutv_diyanet2/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k9phm3v/diyanettv.png",DİYANET TV
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k9phm3v/diyanettv.png",DİYANET TV
+http://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k8L3Mq1/semerkandtv.png",SEMERKAND
 https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k8L3Mq1/semerkandtv.png",SEMERKAND WAY
@@ -1777,6 +1783,34 @@ https://lbl.netmedya.net/hls/lalegultv.m3u8
 https://cdn-berattv.yayin.com.tr/berattv/berattv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bj1H8LCm/vavtv.png",VAV TV
 https://trkvz-live.ercdn.net/vavtv/vavtv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bj1H8LCm/vavtv.png",VAV TV
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/dini/vav-tv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bj1H8LCm/vavtv.png",VAV TV AILE
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/aile-tv/playlist/0.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bj1H8LCm/vavtv.png",VAV TV ISLAM
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/islamtv/playlist/0.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bj1H8LCm/vavtv.png",VAV TV ILMIHAL
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/ilm-tv/playlist/0.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bj1H8LCm/vavtv.png",VAV TV KURANI KERIM
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kurani-kerim-dersleri-tv/playlist/0.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bj1H8LCm/vavtv.png",VAV TV KULTUR SANAT
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bj1H8LCm/vavtv.png",VAV TV MUKABELE
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/mukabele-tv/playlist/0.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bj1H8LCm/vavtv.png",VAV TV BELGESEL
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/belgesel-tv/playlist/0.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bj1H8LCm/vavtv.png",VAV TV TARIH
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/Tarih-tv/playlist/0.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bj1H8LCm/vavtv.png",VAV TV SAGLIK
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/saglikli-gunler/playlist/1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bj1H8LCm/vavtv.png",VAV TV VAAZ
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/vaaz-tv/playlist/0.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bj1H8LCm/vavtv.png",VAV TV ASR-I SERIF
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/asr-i-serif-tv/playlist/0.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bj1H8LCm/vavtv.png",VAV TV ASR-I SAADET
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/asr-i-saadet-tv/playlist/0.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bj1H8LCm/vavtv.png",VAV TV ILAHILER
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/ilahiler-tv/playlist/0.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FX1SqtR/cantv.jpg",CAN TV
 http://canbroadcast.com:7000/canlican/tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FX1SqtR/cantv.jpg",CAN TV
@@ -2203,14 +2237,6 @@ https://iko-live.akamaized.net/ZarokTV/master.m3u8
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png",ZAGROS TV
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png",KURDMAX SHOW
-https://6476e46b58f91.streamlock.net/liveTrans/SHOW1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png",KURDMAX SHOW
-https://6476e46b58f91.streamlock.net/liveTrans/SHOW2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png",KURDMAX SORANÎ
-https://6476e46b58f91.streamlock.net/liveTrans/KurdmaxS0rani!/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png",KURDMAX MUSIC
-https://6476e46b58f91.streamlock.net/music/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png",RÛDAW TV
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png",ROJAVA TV
@@ -2241,10 +2267,28 @@ https://iko-live.akamaized.net/kurdhd/master.m3u8
 https://iko-streamline-live1.akamaized.net/KurdsatNews/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png",KURDSAT NEWS
 https://kurdsat-news.akamaized.net/hls/kurdsat-news.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png",KURDSAT NEWS
+https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png",KURDMAX MUSIC
 https://6476e46b58f91.streamlock.net/music/livestream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png",KURDMAX MUSIC
+https://6476e46b58f91.streamlock.net/music/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png",KURDMAX MUSIC
+https://6476e46b58f91.streamlock.net/music/MUSIC2402/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png",KURDMAX SHOW
+https://6476e46b58f91.streamlock.net/liveTrans/SHOW1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png",KURDMAX SHOW
+https://6476e46b58f91.streamlock.net/liveTrans/SHOW2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png",KURDMAX SHOW
+https://6476e46b58f91.streamlock.net/liveTrans/SHOWS123/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png",KURDMAX SORANÎ
+https://6476e46b58f91.streamlock.net/liveTrans/KurdmaxS0rani!/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png",KURDMAX SORANÎ
+https://6476e46b58f91.streamlock.net/liveTrans/KURDS2211/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png",GELÎ KURDISTAN TV
 https://live.bradosti.net/live/GaliKurdistan/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png",WAAR MEDIA
+https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png",STERK TV
 https://muzkurd.com/sterktv/sterk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png",KOMALA TV
