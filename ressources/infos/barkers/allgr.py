@@ -10,7 +10,8 @@ def fetch_content_from_url(url):
         return None
 
 url = "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/all.m3u"
-input_text = fetch_content_from_url(url)
+response = requests.get(url, headers={"Cache-Control": "no-cache"})
+input_text = response.text
 
 if input_text is not None:
     output_lines = []
