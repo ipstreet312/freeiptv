@@ -10,6 +10,8 @@ Alors en voici en voilà en "Bouquets pack" ^^ 💐:
 
 le "all.m3u", votre "fourre-tout" qui se veut intellectuel techniquement et culturellement. 🤗🥰🥳
 
+freeiptv, votre projet propulsé par la haine de l'ordre et du système merdiatique de ce monde.
+
 <img src="https://i.ibb.co/h1DYX4gg/group0211.jpg">
 
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/all.m3u
