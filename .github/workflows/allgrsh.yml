@@ -1,8 +1,9 @@
 name: allgrsh
 
 on:
-  schedule:
-    - cron: '0 19 * * 2,5'
+  push:
+    paths:
+      - 'all.m3u'
   workflow_dispatch:
 
 jobs:
