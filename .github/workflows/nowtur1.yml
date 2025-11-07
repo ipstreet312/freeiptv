@@ -44,6 +44,6 @@ jobs:
       - name: commit & push
         run: |
           git pull
-          git add all.m3u ressources/allgr.m3u
+          git add all.m3u ressources/allgr.m3u ressources/allsh.m3u
           git commit -m "nowtur1 updated"
           git push
