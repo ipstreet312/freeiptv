@@ -27,7 +27,8 @@ def simplify_m3u_text(input_text):
 
 # Main logic
 url = "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/all.m3u"
-input_text = fetch_content_from_url(url)
+response = requests.get(url, headers={"Cache-Control": "no-cache"})
+input_text = response.text
 
 if input_text:
     output_text = simplify_m3u_text(input_text)
