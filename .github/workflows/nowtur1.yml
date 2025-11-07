@@ -33,6 +33,8 @@ jobs:
           sed -i "\|ercdn.net/nowtv| c $erstrm" all.m3u
           sed -i "\|daioncdn.net/nowtv| c $dastrm" ressources/allgr.m3u
           sed -i "\|ercdn.net/nowtv| c $erstrm" ressources/allgr.m3u
+          sed -i "\|daioncdn.net/nowtv| c $dastrm" ressources/allsh.m3u
+          sed -i "\|ercdn.net/nowtv| c $erstrm" ressources/allsh.m3u
         
       - name: git add
         run: |
