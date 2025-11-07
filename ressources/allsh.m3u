@@ -17,6 +17,10 @@ https://euronews-live-fre-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b74
 https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
 #EXTINF:-1,TVL TV LIBERTÉS
 https://video.twimg.com/amplify_video/1929231504401469440/pl/WksBCUIWBSVQZCYc.m3u8?variant_version=1&tag=14
+#EXTINF:-1,SUD RADIO STUDIO
+https://raw.githubusercontent.com/SebTV-prod/streams/refs/heads/main/ressources/dm/py/hls/sudradio.m3u8
+#EXTINF:-1,FRANCE INTER DIRECT
+https://raw.githubusercontent.com/SebTV-prod/streams/refs/heads/main/ressources/dm/py/hls/franceinter.m3u8
 #EXTINF:-1,LE MÉDIA TV
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/lemedia.m3u8
 #EXTINF:-1,LE MÉDIA TV -1H
@@ -180,9 +184,9 @@ https://live-lci-hls.cdn-0.diff.tf1.fr/out/v1/917aad4fa72f42f7ba7f486226f54bc4/l
 #EXTINF:-1,TV5MONDE FBSM
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
 #EXTINF:-1,TF1_
-https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NjIyODM4OTMsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzYyMjY5NDkzLCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.wT5sgpAyGQ6-0QWqqMd-MuBwm9xqJ26gxvM0nj0vHfM/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
+https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NjI1NTM5MjksImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzYyNTM5NTI5LCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.R9Ms914m0x3IJNVKIlvc4iJPmY71nUVZvsu2xd5NRtw/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
 #EXTINF:-1,TF1-
-https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI1LjEzNS40OC44MiIsImNtY2QiOiIiLCJleHAiOjE3NjIyOTY2NTAsImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc2MjI4MjI1MCwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.J36WHGq1twGQgDtkMDA4FAaObC-DvC_tzNEA6M09DOw/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
+https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI1LjEzNS40OC44MiIsImNtY2QiOiIiLCJleHAiOjE3NjI1NTU2NjAsImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc2MjU0MTI2MCwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.ykJyBkPNLfribsUo9XGATSsGTAOQ-KHcQefNXSerifs/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
 #EXTINF:-1,FRANCE 2
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr2.m3u8
 #EXTINF:-1,FRANCE 3
@@ -312,6 +316,8 @@ http://gratuittv.free.fr/Files/w9/live/playlist.m3u8
 https://funradiovisionhd.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8
 #EXTINF:-1,FUN RADIO TV FR
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/funradiofr.m3u8
+#EXTINF:-1,LE MOUV'
+https://raw.githubusercontent.com/SebTV-prod/streams/refs/heads/main/ressources/dm/py/hls/mouv.m3u8
 #EXTINF:-1,GÉNÉRATIONS TV
 https://edge11.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
 #EXTINF:-1,MÉLODY
@@ -392,6 +398,8 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/mieux
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/dmdirect/mensup.m3u8
 #EXTINF:-1,MEN'S UP TV
 https://tvradiozap.eu/tools/dm-m3u8.php/x2kr3hs.m3u8
+#EXTINF:-1,MEN'S UP TV
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/mensuptv.m3u8
 #EXTINF:-1,TOP SANTÉ
 https://d3tuo4zu8l334y.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x8ri0qojo9mfh/e5997ac8-9e9c-42cc-a2ef-633dc0a4f5a3/2.m3u8
 #EXTINF:-1,TOP SANTÉ
@@ -400,6 +408,8 @@ https://tvradiozap.eu/tools/dm-m3u8.php/720/x89yjnn.m3u8
 https://d387lnkgycbwl.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sdi2aweg8u1y4/761cde02-1df4-4a1a-ad50-7033ede188ef/2.m3u8
 #EXTINF:-1,MAISON & TRAVAUX
 https://d387lnkgycbwl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sdi2aweg8u1y4/master.m3u8
+#EXTINF:-1,MAISON & TRAVAUX
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/maisonettravaux.m3u8
 #EXTINF:-1,RUSTICA - NATURE & AGRO
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10047
 #EXTINF:-1,NATURE TIME
@@ -441,7 +451,7 @@ https://cdn.katapy.io/cache/stream/katapytv/dieu/playlist.m3u8
 #EXTINF:-1,EV TV ÉVANGILE
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/extr/py/evtv.m3u8
 #EXTINF:-1,EMCI TV
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/dmdirect/emcieu.m3u8
+https://raw.githubusercontent.com/SebTV-prod/streams/refs/heads/main/ressources/dm/py/hls/emcieurope.m3u8
 #EXTINF:-1,MUSEUM
 https://live2.creacast.com/museum-france/smil:museum-france.smil/master.m3u8
 #EXTINF:-1,MUSEUM
@@ -513,7 +523,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/rolan
 #EXTINF:-1,ÉQUIDIA
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/extr/py/equidi.m3u8
 #EXTINF:-1,ÉQUIDIA
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-live.m3u8
+https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/equidia/equidia-live2.m3u8
 #EXTINF:-1,ÉQUIDIA RACING GALOP
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racinggalop.m3u8
 #EXTINF:-1,ÉQUIDIA RACING MAG
@@ -542,6 +552,8 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60817e1aa6997500072d0d6d/master.m3u8?deviceDNT=%7BTARGETOPT%7D&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung
 #EXTINF:-1,TENNIS CH FR
 https://amg01444-amg01444c7-samsung-fr-6370.playouts.now.amagi.tv/playlist/amg01444-tennischannelfast-tennischannelfrance-samsungfr/playlist.m3u8
+#EXTINF:-1,TENNIS CH FR
+https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/lequipe/tennis-channel.m3u8
 #EXTINF:-1,WILD SIDE TV
 https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1,UNIVERS CINÉ
@@ -1173,9 +1185,9 @@ https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-3
 #EXTINF:-1,SHOW
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
 #EXTINF:-1,NOW
-https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=OnVIkVU8P2qWzasm28bIqw&e=1762295543
+https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=vxMhN4-FSu_37vpauCd3hw&e=1762554747
 #EXTINF:-1,NOW
-https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=OnVIkVU8P2qWzasm28bIqw&e=1762295543
+https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=vxMhN4-FSu_37vpauCd3hw&e=1762554747
 #EXTINF:-1,TV8
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
 #EXTINF:-1,TV8
@@ -1740,6 +1752,8 @@ https://cdn-tvem.yayin.com.tr/TVEM/TVEM/playlist.m3u8
 https://diyanet.blutv.com/blutv_diyanet2/live.m3u8
 #EXTINF:-1,DİYANET TV
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+#EXTINF:-1,DİYANET TV
+http://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
 #EXTINF:-1,SEMERKAND
 https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
 #EXTINF:-1,SEMERKAND WAY
@@ -1754,6 +1768,34 @@ https://lbl.netmedya.net/hls/lalegultv.m3u8
 https://cdn-berattv.yayin.com.tr/berattv/berattv/playlist.m3u8
 #EXTINF:-1,VAV TV
 https://trkvz-live.ercdn.net/vavtv/vavtv.m3u8
+#EXTINF:-1,VAV TV
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/dini/vav-tv.m3u8
+#EXTINF:-1,VAV TV AILE
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/aile-tv/playlist/0.m3u8
+#EXTINF:-1,VAV TV ISLAM
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/islamtv/playlist/0.m3u8
+#EXTINF:-1,VAV TV ILMIHAL
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/ilm-tv/playlist/0.m3u8
+#EXTINF:-1,VAV TV KURANI KERIM
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kurani-kerim-dersleri-tv/playlist/0.m3u8
+#EXTINF:-1,VAV TV KULTUR SANAT
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8
+#EXTINF:-1,VAV TV MUKABELE
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/mukabele-tv/playlist/0.m3u8
+#EXTINF:-1,VAV TV BELGESEL
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/belgesel-tv/playlist/0.m3u8
+#EXTINF:-1,VAV TV TARIH
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/Tarih-tv/playlist/0.m3u8
+#EXTINF:-1,VAV TV SAGLIK
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/saglikli-gunler/playlist/1.m3u8
+#EXTINF:-1,VAV TV VAAZ
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/vaaz-tv/playlist/0.m3u8
+#EXTINF:-1,VAV TV ASR-I SERIF
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/asr-i-serif-tv/playlist/0.m3u8
+#EXTINF:-1,VAV TV ASR-I SAADET
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/asr-i-saadet-tv/playlist/0.m3u8
+#EXTINF:-1,VAV TV ILAHILER
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/ilahiler-tv/playlist/0.m3u8
 #EXTINF:-1,CAN TV
 http://canbroadcast.com:7000/canlican/tv.m3u8
 #EXTINF:-1,CAN TV
@@ -2178,14 +2220,6 @@ https://iko-live.akamaized.net/ZarokTV/master.m3u8
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,ZAGROS TV
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
-#EXTINF:-1,KURDMAX SHOW
-https://6476e46b58f91.streamlock.net/liveTrans/SHOW1/playlist.m3u8
-#EXTINF:-1,KURDMAX SHOW
-https://6476e46b58f91.streamlock.net/liveTrans/SHOW2/playlist.m3u8
-#EXTINF:-1,KURDMAX SORANÎ
-https://6476e46b58f91.streamlock.net/liveTrans/KurdmaxS0rani!/playlist.m3u8
-#EXTINF:-1,KURDMAX MUSIC
-https://6476e46b58f91.streamlock.net/music/livestream/playlist.m3u8
 #EXTINF:-1,RÛDAW TV
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
 #EXTINF:-1,ROJAVA TV
@@ -2216,10 +2250,28 @@ https://iko-live.akamaized.net/kurdhd/master.m3u8
 https://iko-streamline-live1.akamaized.net/KurdsatNews/master.m3u8
 #EXTINF:-1,KURDSAT NEWS
 https://kurdsat-news.akamaized.net/hls/kurdsat-news.m3u8
+#EXTINF:-1,KURDSAT NEWS
+https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
 #EXTINF:-1,KURDMAX MUSIC
 https://6476e46b58f91.streamlock.net/music/livestream/chunklist.m3u8
+#EXTINF:-1,KURDMAX MUSIC
+https://6476e46b58f91.streamlock.net/music/livestream/playlist.m3u8
+#EXTINF:-1,KURDMAX MUSIC
+https://6476e46b58f91.streamlock.net/music/MUSIC2402/playlist.m3u8
+#EXTINF:-1,KURDMAX SHOW
+https://6476e46b58f91.streamlock.net/liveTrans/SHOW1/playlist.m3u8
+#EXTINF:-1,KURDMAX SHOW
+https://6476e46b58f91.streamlock.net/liveTrans/SHOW2/playlist.m3u8
+#EXTINF:-1,KURDMAX SHOW
+https://6476e46b58f91.streamlock.net/liveTrans/SHOWS123/playlist.m3u8
+#EXTINF:-1,KURDMAX SORANÎ
+https://6476e46b58f91.streamlock.net/liveTrans/KurdmaxS0rani!/playlist.m3u8
+#EXTINF:-1,KURDMAX SORANÎ
+https://6476e46b58f91.streamlock.net/liveTrans/KURDS2211/playlist.m3u8
 #EXTINF:-1,GELÎ KURDISTAN TV
 https://live.bradosti.net/live/GaliKurdistan/index.m3u8
+#EXTINF:-1,WAAR MEDIA
+https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8
 #EXTINF:-1,STERK TV
 https://muzkurd.com/sterktv/sterk/playlist.m3u8
 #EXTINF:-1,KOMALA TV
