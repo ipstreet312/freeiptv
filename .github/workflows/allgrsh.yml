@@ -8,9 +8,11 @@ on:
   push:
     paths:
       - 'all.m3u'
-    branches-ignore:
-      - master     
   workflow_dispatch:
+
+jobs:
+  build:
+    if: github.event.head_commit.message != 'allgrsh updated'
 
 jobs:
   build:
