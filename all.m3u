@@ -995,8 +995,8 @@ https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Bt6frts/trthaber.png" group-title="7. |TR|🇹🇷 HABER",TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" user-agent="VLC/3.0.20 LibVLC/3.0.20",SÖZCÜ TV
-https://trn03.tulix.tv/gt-sozcu-tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ TV
+https://cdn.tecostream.xyz/Sozcu_Tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ TV
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Sozcu_Tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Fq0ZvYG/meltemtvt.png",MELTEM TV
@@ -5983,11 +5983,3 @@ http://
 http://
 #EXTINF:-1,TEST 01 🎉🥳🎊
 http://
-#EXTINF:-1 tvg-logo="https://i.ibb.co/spnvQmbV/popcorn.png",POPCORN
-http://stream.ads.ottera.tv/playlist.m3u8?network_id=5940
-#EXTINF:-1 tvg-logo="https://i.ibb.co/spnvQmbV/popcorn.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)",POPCORN
-http://stream.ads.ottera.tv/playlist.m3u8?network_id=5940
-#EXTINF:-1 tvg-logo="https://i.ibb.co/spnvQmbV/popcorn.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)",POPCORN
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5940
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)",SÖZCÜ TV
-https://trn03.tulix.tv/gt-sozcu-tv/playlist.m3u8
