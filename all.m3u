@@ -5983,3 +5983,11 @@ http://
 http://
 #EXTINF:-1,TEST 01 🎉🥳🎊
 http://
+#EXTINF:-1 tvg-logo="https://i.ibb.co/spnvQmbV/popcorn.png",POPCORN
+http://stream.ads.ottera.tv/playlist.m3u8?network_id=5940
+#EXTINF:-1 tvg-logo="https://i.ibb.co/spnvQmbV/popcorn.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)",POPCORN
+http://stream.ads.ottera.tv/playlist.m3u8?network_id=5940
+#EXTINF:-1 tvg-logo="https://i.ibb.co/spnvQmbV/popcorn.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)",POPCORN
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5940
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)",SÖZCÜ TV
+https://trn03.tulix.tv/gt-sozcu-tv/playlist.m3u8
