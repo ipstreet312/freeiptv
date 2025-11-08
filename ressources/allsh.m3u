@@ -346,6 +346,20 @@ https://amg00056-amg00056c9-rakuten-fr-3243.playouts.now.amagi.tv/ts-eu-w1-n2/pl
 https://amg00056-amg00056c14-rakuten-fr-3244.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevohiphopandrbfr-rakutenfr/playlist.m3u8?ads_amagi_channel=916
 #EXTINF:-1,VEVO 90 00
 https://d1f0sy6q94jy8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-emgxxi50294g2/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8
+#EXTINF:-1,EMOTION MUSIC
+https://amg01736-harmonysecomgro-harmonymelody-samsungfr-n25pe.amagi.tv/playlist/amg01736-harmonysecomgro-harmonymelody-samsungfr/playlist.m3u8
+#EXTINF:-1,QWEST JAZZ
+https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8
+#EXTINF:-1,CLASSICA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3038
+#EXTINF:-1,DJAZZ
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3037
+#EXTINF:-1,MOVIE MUSIC
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3034
+#EXTINF:-1,QELLO CONCERTS 1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3031
+#EXTINF:-1,QELLO CONCERTS 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3039
 #EXTINF:-1,GULLI
 https://lbcdn.6cloud.fr/resource/m6web/l/gulli_hls_sd_short_q2hyb21h.m3u8?groups[]=m6web-live-gulli_ext
 #EXTINF:-1,GULLI
@@ -390,6 +404,24 @@ https://live-cdn-technco-euw1.bfmb.bct.nextradiotv.com/m1/media.m3u8?bpkio_servi
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?start=LIVE&end=END
 #EXTINF:-1,TECH&CO
 https://d2py8vfwz3u72y.cloudfront.net/index.m3u8
+#EXTINF:-1,POPCORN
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5940
+#EXTINF:-1,FUTURA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5979
+#EXTINF:-1,FUTURA CONSO
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10244
+#EXTINF:-1,FUTURA MAISON
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10247
+#EXTINF:-1,FUTURA PLANETE
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10248
+#EXTINF:-1,FUTURA SANTE
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10245
+#EXTINF:-1,FUTURA SCIENCES
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10243
+#EXTINF:-1,FUTURA TECH
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10246
+#EXTINF:-1,SCIENCES ET VIE
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=14172
 #EXTINF:-1,FRANCE TV FESTIVAL DE CANNES (EVENT)
 https://evenementiel_mai
 #EXTINF:-1,MIEUX TV
@@ -416,6 +448,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=10047
 https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
 #EXTINF:-1,NATURE TIME
 https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1,DESTINATION NATURE
+https://d2cl8wi5f8zf1j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0ay35jkybhd8m/DestinationNature_FR.m3u8
+#EXTINF:-1,LOVE THE PLANET
+https://amg01821-lovetvchannels-lovetheplanetfrsamsung-samsungfr-hfam1.amagi.tv/playlist/amg01821-lovetvchannels-lovetheplanetfrsamsung-samsungfr/playlist.m3u8
 #EXTINF:-1,TRAVEL XP
 https://0b0a5371d15f48128cf69b029230eac6.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-fr_TravelXP/playlist.m3u8
 #EXTINF:-1,TV5MONDE+ VOYAGE
@@ -608,6 +644,8 @@ https://rakuten-films-francais-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1,TELE NOVELA TV
 https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,SCREAM IN
+https://amg00711-zylo-amg00711c6-plex-us-935.playouts.now.amagi.tv/zylo-Screamin-lg/playlist.m3u8
 #EXTINF:-1,--- |FR:🇫🇷 FRANCE MÉTROPOLITAINE| ---
 https://section
 #EXTINF:-1,BFM ALPES
@@ -945,7 +983,7 @@ https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 #EXTINF:-1,TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,SÖZCÜ TV
-https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/haber/sozcu-tv.m3u8
+https://trn03.tulix.tv/gt-sozcu-tv/playlist.m3u8
 #EXTINF:-1,SÖZCÜ TV
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Sozcu_Tv.m3u8
 #EXTINF:-1,MELTEM TV
@@ -1038,6 +1076,8 @@ http://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.s
 https://ensonhaber-live.ercdn.net/trthaber/trthaber.m3u8
 #EXTINF:-1,TRT HABER (backup)
 https://tv.ensonhaber.com/trthaber/trthaber.m3u8
+#EXTINF:-1,SÖZCÜ TV (backup)
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/haber/sozcu-tv.m3u8
 #EXTINF:-1,SÖZCÜ TV (backup)
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/tv-vin/sozcu-tv.m3u8
 #EXTINF:-1,SÖZCÜ TV (backup)
@@ -5879,5 +5919,5 @@ http://
 http://
 #EXTINF:-1,[⚽🏅🏆] *Empty* 'New' Service ❶❷❸ ➊➋➌
 http://
-#EXTINF:-1,TEST 01 🎉🥳🎊
+#EXTINF:-1,TEST 03 🎉🥳🎊
 http://
