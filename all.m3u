@@ -413,6 +413,10 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?start=LIVE&
 https://d2py8vfwz3u72y.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/spnvQmbV/popcorn.png",POPCORN
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5940
+#EXTINF:-1 tvg-logo="https://i.ibb.co/spnvQmbV/popcorn.png",POPCORN
+https://stream.ads.ottera.tv/cl/251108d47gn8r1ht77elj9aci0/1280x720_3071200_0_f.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/spnvQmbV/popcorn.png",POPCORN
+https://stream-us-east-1.getpublica.com/cl/251108d47gn8r1ht77elj9aci0/1280x720_3071200_0_f.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m5R33Y1n/Futura.jpg",FUTURA 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5979
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m5R33Y1n/Futura.jpg",FUTURA CONSO
@@ -5983,19 +5987,3 @@ http://
 http://
 #EXTINF:-1,TEST 01 🎉🥳🎊
 http://
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)",tera s ua all
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5940
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)",tera p
-http://stream.ads.ottera.tv/playlist.m3u8?network_id=5940
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)",tera 720 i
-https://stream.ads.ottera.tv/cl/251108d47gn8r1ht77elj9aci0/1280x720_3071200_0_f.m3u8?i=475_5940
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)",tera 720 z
-https://stream.ads.ottera.tv/cl/251108d47gn8r1ht77elj9aci0/1280x720_3071200_0_f.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)",tera 960 i
-https://stream.ads.ottera.tv/cl/251108d47gn8r1ht77elj9aci0/960x540_1927200_1_f.m3u8?i=475_5940
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)",publ 720
-https://stream-us-east-1.getpublica.com/cl/251108d47gn8r1ht77elj9aci0/1280x720_3071200_0_f.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)",publ 720 i
-https://stream-us-east-1.getpublica.com/cl/251108d47gn8r1ht77elj9aci0/1280x720_3071200_0_f.m3u8?i=475_5940
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)",publ ply
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=5940
