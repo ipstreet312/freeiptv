@@ -1,10 +1,6 @@
 name: allgrsh
 
 on:
-  workflow_run:
-    workflows: ["tfz1", "tfz3"]
-    types:
-      - completed
   push:
     paths:
       - 'all.m3u'
