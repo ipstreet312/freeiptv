@@ -8,6 +8,8 @@ on:
   push:
     paths:
       - 'all.m3u'
+    branches-ignore:
+      - master     
   workflow_dispatch:
 
 jobs:
