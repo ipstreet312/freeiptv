@@ -16,12 +16,12 @@ fi
 n12_content=$(cat "$input_file" | sed 's/direct/n12/g; s/2033791/2103938/g')
 n12b_content=$(cat "$input_file" | sed 's#direct/hls/live/2033791/k12#n12/hls/live/2041434/n12_b#g; s/_2200/_850/g')
 k12cc_content=$(cat "$input_file" | sed 's/k12/k12cc/g; s/2033791/2035325/g')
-ch24_content=$(cat "$input_file" | sed 's#direct/hls/live/2033791/k12#direct/hls/live/2035340/ch24live#g; s/index_2200/video_7201280_p_1.m3u8/g')
-erets_content=$(cat "$input_file" | sed 's#direct/hls/live/2033791/k12#free/hls/live/2111419/erets/#g; s/index_2200/video_7201280_p_1.m3u8/g')
-savri_content=$(cat "$input_file" | sed 's#direct/hls/live/2033791/k12#free/hls/live/2111419/savri/#g; s/index_2200/video_7201280_p_1.m3u8/g')
-hatuna_content=$(cat "$input_file" | sed 's#direct/hls/live/2033791/k12#free/hls/live/2111419/hatuna/#g; s/index_2200/video_7201280_p_1.m3u8/g')
-kohav_content=$(cat "$input_file" | sed 's#direct/hls/live/2033791/k12#free/hls/live/2111419/kohav/#g; s/index_2200/video_7201280_p_1.m3u8/g')
-ninja_content=$(cat "$input_file" | sed 's#direct/hls/live/2033791/k12#free/hls/live/2111419/ninja/#g; s/index_2200/video_7201280_p_1.m3u8/g')
+ch24_content=$(cat "$input_file" | sed 's#direct/hls/live/2033791/k12#direct/hls/live/2035340/ch24live#g; s/index_2200/video_7201280_p_1/g')
+erets_content=$(cat "$input_file" | sed 's#direct/hls/live/2033791/k12#free/hls/live/2111419/erets/#g; s/index_2200/video_7201280_p_1/g')
+savri_content=$(cat "$input_file" | sed 's#direct/hls/live/2033791/k12#free/hls/live/2111419/savri/#g; s/index_2200/video_7201280_p_1/g')
+hatuna_content=$(cat "$input_file" | sed 's#direct/hls/live/2033791/k12#free/hls/live/2111419/hatuna/#g; s/index_2200/video_7201280_p_1/g')
+kohav_content=$(cat "$input_file" | sed 's#direct/hls/live/2033791/k12#free/hls/live/2111419/kohav/#g; s/index_2200/video_7201280_p_1/g')
+ninja_content=$(cat "$input_file" | sed 's#direct/hls/live/2033791/k12#free/hls/live/2111419/ninja/#g; s/index_2200/video_7201280_p_1/g')
 
 echo "$n12_content" > "$output_dir/n12.m3u8"
 echo "$n12b_content" > "$output_dir/n12b.m3u8"
