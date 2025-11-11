@@ -184,9 +184,9 @@ https://live-lci-hls.cdn-0.diff.tf1.fr/out/v1/917aad4fa72f42f7ba7f486226f54bc4/l
 #EXTINF:-1,TV5MONDE FBSM
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
 #EXTINF:-1,TF1_
-https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NjI1OTcxMzUsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzYyNTgyNzM1LCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.C7-aEyXYCBbQ0wiR5R01cbenBaYae3hl4GNC2kn5BxE/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
+https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NjI4OTk1MDUsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzYyODg1MTA1LCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.1x_ZbhAkvcF18mwSbyxDN_lg6FFuzoeTDa6bFHWQJ0I/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
 #EXTINF:-1,TF1-
-https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI1LjEzNS40OC44MiIsImNtY2QiOiIiLCJleHAiOjE3NjI2MDE5ODgsImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc2MjU4NzU4OCwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.TSePyWrZpAAkhDGDUaDmDNybgMb7TvVELvsvd8SQels/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
+https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI1LjEzNS40OC44MiIsImNtY2QiOiIiLCJleHAiOjE3NjI5MDE0NjEsImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc2Mjg4NzA2MSwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.NeuAEWTTgG_rrw5F1z9L3WuCPQI1zr0toWLqHfZaVCY/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
 #EXTINF:-1,FRANCE 2
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr2.m3u8
 #EXTINF:-1,FRANCE 3
@@ -406,6 +406,10 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?start=LIVE&
 https://d2py8vfwz3u72y.cloudfront.net/index.m3u8
 #EXTINF:-1,POPCORN
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5940
+#EXTINF:-1,POPCORN
+https://stream.ads.ottera.tv/cl/251108d47gn8r1ht77elj9aci0/1280x720_3071200_0_f.m3u8
+#EXTINF:-1,POPCORN
+https://stream-us-east-1.getpublica.com/cl/251108d47gn8r1ht77elj9aci0/1280x720_3071200_0_f.m3u8
 #EXTINF:-1,FUTURA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5979
 #EXTINF:-1,FUTURA CONSO
@@ -983,9 +987,11 @@ https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 #EXTINF:-1,TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,SÖZCÜ TV
-https://trn03.tulix.tv/gt-sozcu-tv/playlist.m3u8
+https://cdn.tecostream.xyz/Sozcu_Tv.m3u8
 #EXTINF:-1,SÖZCÜ TV
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Sozcu_Tv.m3u8
+#EXTINF:-1,SÖZCÜ CANLI
+https://cdn-tr.tivimivi.com/streams/117/1280x720/index.m3u8
 #EXTINF:-1,MELTEM TV
 https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
 #EXTINF:-1,MELTEM TV
@@ -1247,6 +1253,8 @@ https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f
 #EXTINF:-1,TRT 1 (backup)
 https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT 1 (backup)
+https://tv-trt1-dash.medya.trt.com.tr/master.mpd
+#EXTINF:-1,TRT 1 (backup)
 https://trt.daioncdn.net/trt-1/master.m3u8?app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2
 #EXTINF:-1,TRT 1 (backup)
 https://trt.daioncdn.net/trt-1/master.m3u8?app=e435840d-2653-45a3-afef-082d4ea998f3
@@ -1254,6 +1262,8 @@ https://trt.daioncdn.net/trt-1/master.m3u8?app=e435840d-2653-45a3-afef-082d4ea99
 http://116.202.238.88/TRT1_TR/index.m3u8
 #EXTINF:-1,TRT 1 (backup)
 http://95.174.71.114:80/TR-TRT1/index.m3u8
+#EXTINF:-1,TRT 1 (backup)
+http://89.187.191.41/TRT-1-HD-TR/video.m3u8
 #EXTINF:-1,TRT 1 (backup)
 https://helga.iptv2022.com/sh/trt_1/index.m3u8
 #EXTINF:-1,TRT 1 (backup)
@@ -3155,21 +3165,21 @@ https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/playlist_dv
 #EXTINF:-1,MEDI 1 AF العربية
 https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist_dvr.m3u8
 #EXTINF:-1,AL AOULA LAÂYOUNE الأولى
-https://oppomu.serv00.net/maro7/malaayoune.php?m3u8
+https://oppomu.serv00.net/maro66/malaayoune.php?m3u8
 #EXTINF:-1,AL AOULA INT الأولى
-https://xddrts.alwaysdata.net/maro7/maaloula.php?m3u8
+https://xddrts.alwaysdata.net/maro66/maaloula.php?m3u8
 #EXTINF:-1,ARRYADIA الرياضية
-https://oppomu.serv00.net/maro7/maarry.php?m3u8
+https://oppomu.serv00.net/maro66/maarry.php?m3u8
 #EXTINF:-1,ARRYADIA TNT الرياضية
-https://cdnet.alwaysdata.net/maro7/maarrytnt.php?m3u8
+https://cdnet.alwaysdata.net/maro66/maarrytnt.php?m3u8
 #EXTINF:-1,ATHAQAFIA الثقافية
-https://oppomu.serv00.net/maro7/maarrabia.php?m3u8
+https://oppomu.serv00.net/maro66/maarrabia.php?m3u8
 #EXTINF:-1,AL MAGHRIBIA المغربية الإخبارية
 https://viamotionhsi.netplus.ch/live/eds/almaghribia/browser-HLS8/almaghribia.m3u8
 #EXTINF:-1,ASSADISSA القرآن الكريم
-https://xddrts.alwaysdata.net/maro7/maassadi.php?m3u8
+https://xddrts.alwaysdata.net/maro66/maassadi.php?m3u8
 #EXTINF:-1,TAMAZIGHT الأمازيغية
-https://cdnet.alwaysdata.net/maro7/matamaz.php?m3u8
+https://cdnet.alwaysdata.net/maro66/matamaz.php?m3u8
 #EXTINF:-1,--- |TN:🇹🇳 TUNISIE| ---
 https://blank
 #EXTINF:-1,WATANIA 1
@@ -3427,7 +3437,7 @@ https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/53
 #EXTINF:-1,HINUCHIT 23 חינוכית
 https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
 #EXTINF:-1,MAKO 24 ערוץ
-https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/video_10801920_p_1.m3u8
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/keshetil/py/ch24.m3u8
 #EXTINF:-1,CALCALA 10 ערוץ_הכלכלה
 https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8
 #EXTINF:-1,HAKNESSET 99 כנסת
@@ -3441,15 +3451,15 @@ https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/in
 #EXTINF:-1,RESHET 13 REALITY
 https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/index.m3u8
 #EXTINF:-1,KESHET 12 ERETZ COUNTRY
-https://mako-streaming.akamaized.net/free/hls/live/2111419/erets/video_5761024_p_0.m3u8
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/keshetil/py/erets.m3u8
 #EXTINF:-1,KESHET 12 SAVRI MARNAN
-https://mako-streaming.akamaized.net/free/hls/live/2111419/savri/video_5761024_p_0.m3u8
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/keshetil/py/savri.m3u8
 #EXTINF:-1,KESHET 12 HATUNA WEDDING
-https://mako-streaming.akamaized.net/free/hls/live/2111419/hatuna/video_5761024_p_0.m3u8
-#EXTINF:-1,KESHET 12 NINJA ISR
-https://mako-streaming.akamaized.net/free/hls/live/2111419/ninja/video_5761024_p_0.m3u8
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/keshetil/py/hatuna.m3u8
 #EXTINF:-1,KESHET 12 KOHAV STAR
-https://mako-streaming.akamaized.net/free/hls/live/2111419/kohav/video_5761024_p_0.m3u8
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/keshetil/py/kohav.m3u8
+#EXTINF:-1,KESHET 12 NINJA ISR
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/keshetil/py/ninja.m3u8
 #EXTINF:-1,WALLA !+ וואלה! חדשות
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01742-walla-wallanews-ono/playlist.m3u8
 #EXTINF:-1,SPORT5 STUDIO RADIO LIVE
@@ -4210,6 +4220,8 @@ https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic
 https://stream.skynewsarabia.com/hls/sna.m3u8
 #EXTINF:-1,SKY NEWS ARABIA
 https://stream.skynewsarabia.com/ott/ott.m3u8
+#EXTINF:-1,SKY NEWS ARABIA
+https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8
 #EXTINF:-1,CNBC ARABIA
 https://cnbc-live.akamaized.net/cnbc/master.m3u8
 #EXTINF:-1,DW ARABIC
@@ -5921,11 +5933,3 @@ http://
 http://
 #EXTINF:-1,TEST 01 🎉🥳🎊
 http://
-#EXTINF:-1,POPCORN
-http://stream.ads.ottera.tv/playlist.m3u8?network_id=5940
-#EXTINF:-1,POPCORN
-http://stream.ads.ottera.tv/playlist.m3u8?network_id=5940
-#EXTINF:-1,POPCORN
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5940
-#EXTINF:-1,SÖZCÜ TV
-https://trn03.tulix.tv/gt-sozcu-tv/playlist.m3u8
