@@ -2,7 +2,7 @@ name: fr2nv action
 
 on:
   schedule:
-    - cron: '33 */4 * * *'
+    - cron: '39 */4 * * *'
   
   workflow_dispatch:
 
