@@ -23,7 +23,7 @@ IPstreet312 est le pseudonyme – très certainement d’un développeur ou cont
 - Cette playlist “all.m3u” regroupe par centralisation et agrégation de nombreuses chaînes (BFM, CNEWS, France 24, Euronews, TV5MONDE, etc.) et reçoit régulièrement des mises à jour. (scribd.com)
 - Le dépôt a remporté plus de 249 étoiles et 56 forks, ce qui montre une certaine popularité au sein de la communauté IPTV. (github.com)
 
-En résumé, ipstreet312 est une personne (ou un alias) dotée d'une forte culture du stream :D qui gère et publie des listes de chaînes IPTV gratuites sur GitHub, particulièrement via le dépôt “freeiptv”.
+En résumé, ipstreet312 est une personne (ou un alias) dotée et héritant d'une forte culture du stream :D qui gère et publie des listes de chaînes IPTV gratuites sur GitHub, particulièrement via le dépôt “freeiptv”.
 
 Les sources incluses dans la playlist .m3u sont issues de chaînes librement accessibles sur internet non payantes comme : France 24, Euronews, TV5 Monde, chaînes locales, etc. Ces chaînes offrent parfois des flux .m3u8 officiels. Le flux est officiellement mis à disposition par le diffuseur ou via un partenaire (ex : chaîne d’information publique).
 
