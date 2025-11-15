@@ -1009,8 +1009,6 @@ https://tv-trthaber.medya.trt.com.tr/master.m3u8
 https://cdn.tecostream.xyz/Sozcu_Tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ TV
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Sozcu_Tv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ CANLI
-https://cdn-tr.tivimivi.com/streams/117/1280x720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Fq0ZvYG/meltemtvt.png",MELTEM TV
 https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Fq0ZvYG/meltemtvt.png",MELTEM TV
@@ -3942,7 +3940,7 @@ https://bcovlive-a.akamaihd.net/rbcb04b715757430f92099ecc84ca472f/ap-south-1/631
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mcd2S4f/samaatv.png",SAMA TV
 https://app.sama-tv.net/hls/samatv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FYdQXH1/aldafrah.png",AL DAFRAH
-https://rtmp-live-ingest-eu-west-3-universe-dacast-com.akamaized.net/transmuxv1/streams/dbb8ac05-a020-784c-3a95-6ed027941532.m3u8
+https://cdn-eu-west-prod-ingest-infra-dacast-com.akamaized.net/23cf2e00-28b0-b7b4-2569-ab7d19233fd7/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gJcnzXw/rajeen.png",RAJEEN
 https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4g4VNx7/quds-tv.png",QUDS TV
