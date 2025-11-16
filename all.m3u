@@ -4977,6 +4977,10 @@ http://blank
 https://tvr-tvri.cdn.zitec.com/live/tvri/main.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9GHhm6L/ant1ro.png",ANTENA 1 RO
 https://live1ag.antenaplay.ro/live_a1ro/live_a1ro.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9GHhm6L/ant1ro.png",ANTENA 1 RO
+https://hls.rundletv.eu.org/LIVE$Antena1/6.m3u8/Level/300720051?end=END&start=LIVE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rKx43k3b/ant1rostar.jpg",ANTENA 1 STAR
+https://hls.rundletv.eu.org/LIVE$AntenaStars/6.m3u8/Level/300720051?end=END&start=LIVE
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FJbq1ML/a3ro.jpg",ANTENA 3 VOX
 https://live3vox.antenaplay.ro/a3free/a3free.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8Mngyds/kd1ro.png",KANAL D RO
