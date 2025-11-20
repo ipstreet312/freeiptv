@@ -2,7 +2,7 @@ name: gnrcdm
 
 on:
   schedule:
-    - cron: '56 */6 * * *'
+    - cron: '56 */3 * * *'
   
   workflow_dispatch:
 
@@ -22,9 +22,9 @@ jobs:
         run: |
           pwd
           cd ./ressources/dmotion/py/gnrcpltfrm
-          python3 gnrcpltfrm.py "x8dtuir" > lemedia.m3u8
-          python3 gnrcpltfrm.py "x7zjeht" > cnbcar.m3u8
-          python3 gnrcpltfrm.py "x5gv5rr" > c8.m3u8
+          python3 gnrcpltfrm.py "xqjkfz" > europe1rdtv.m3u8
+          python3 gnrcpltfrm.py "x8jqxru" > sudradrdtv.m3u8
+          python3 gnrcpltfrm.py "x17qw0a" > frinterrdtv.m3u8
           echo "m3u grabbed"
         
       - name: git add
