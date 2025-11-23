@@ -5077,15 +5077,13 @@ https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9
 #EXTINF:-1 group-title="27. |HR-BA-RS++|🇭🇷🇧🇦🇷🇸 BALKANIC",--- |ME:🇲🇪 MONTENEGRO| ---
 http://blank
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5x1cbJqN/rtcg.png",TVCG 1
-http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
+https://rtcg-live-open-geo.morescreens.com/RTCG_1_001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5x1cbJqN/rtcg.png",TVCG 2
-http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
+https://rtcg-live-open-geo.morescreens.com/RTCG_1_002/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5x1cbJqN/rtcg.png",TVCG 3
-https://parlament.rtcg.me:1936/pr/smil:parlament.smil/playlist.m3u8
+https://rtcg-live-open-geo.morescreens.com/RTCG_1_003/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5x1cbJqN/rtcg.png",TVCG MNE
-http://cdn3.bcdn.rs:1935/cgsat/smil:cgsat.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5x1cbJqN/rtcg.png",TVCG MNE
-http://rtcg2.videostreaming.rs:1935/rtcg/rtcg.2.stream/playlist.m3u8
+https://rtcg-live-open.morescreens.com/RTCG_1_004/playlist.m3u8
 #EXTINF:-1 group-title="27. |HR-BA-RS++|🇭🇷🇧🇦🇷🇸 BALKANIC",--- |AL:🇦🇱 ALBANIA| ---
 http://blank
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rf1Vmfs5/Nwsalb.png",NEWS 24 ALB
