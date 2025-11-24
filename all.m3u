@@ -5008,6 +5008,10 @@ https://v.trm.md/static/streaming-playlists/hls/937e4e0e-7174-4fb2-a299-480e68b4
 https://moldovatv.ro/live-tv/live.m3u8
 
 
+#EXTINF:-1 group-title="27. |HR-BA-RS++|🇭🇷🇧🇦🇷🇸 BALKANIC" tvg-logo="https://i.ibb.co/kVXqj9fQ/Jeka.png",JEKA ❤️
+https://muzzikbalkan-live.morescreens.com/mts-4/576p/chunklist.m3u8?video_id=56&token=798194fd9766ad7ce6fec329e54e54a0939ab5e9&authority_instance_id=spectar-prd-muzzikbalkan
+#EXTINF:-1 tvg-logo="https://i.ibb.co/W4zhWby6/Zztv.png",ZZ ❤️
+https://muzzikbalkan-live.morescreens.com/mts-a4/576p/chunklist.m3u8?video_id=56&token=798194fd9766ad7ce6fec329e54e54a0939ab5e9&authority_instance_id=spectar-prd-muzzikbalkan
 #EXTINF:-1 group-title="27. |HR-BA-RS++|🇭🇷🇧🇦🇷🇸 BALKANIC",--- |HR:🇭🇷 CROATIA| ---
 http://blank
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nnkDGpc/hrthr.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HRT 1
@@ -5070,12 +5074,6 @@ https://d1ei8ofhgfmkac.cloudfront.net/app-19518-1306/ngrp:QoZfNjsg_all/playlist.
 https://6069699a9e3f3.streamlock.net/rtvkg/uzivo/chunklist_w1996912920.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6cKjj4xT/karolinacr.png",KAROLINA RD/TV
 https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9e-218069b864d1/0.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kVXqj9fQ/Jeka.png",JEKA ❤️
-https://muzzikbalkan-live.morescreens.com/mts-4/576p/chunklist.m3u8?video_id=56&token=798194fd9766ad7ce6fec329e54e54a0939ab5e9&authority_instance_id=spectar-prd-muzzikbalkan
-#EXTINF:-1 tvg-logo="https://i.ibb.co/W4zhWby6/Zztv.png",ZZ ❤️
-https://muzzikbalkan-live.morescreens.com/mts-a4/576p/chunklist.m3u8?video_id=56&token=798194fd9766ad7ce6fec329e54e54a0939ab5e9&authority_instance_id=spectar-prd-muzzikbalkan
-#EXTINF:-1 tvg-logo="https://i.ibb.co/twr0XtbC/muzzikmixx.png",MUZZIK MIX ❤️
-https://muzzikbalkan-live.morescreens.com/mts-a7/576p/chunklist.m3u8?video_id=56&token=798194fd9766ad7ce6fec329e54e54a0939ab5e9&authority_instance_id=spectar-prd-muzzikbalkan
 #EXTINF:-1 group-title="27. |HR-BA-RS++|🇭🇷🇧🇦🇷🇸 BALKANIC",--- |ME:🇲🇪 MONTENEGRO| ---
 http://blank
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5x1cbJqN/rtcg.png",TVCG MNE
