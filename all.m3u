@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png" group-title="1. |FR|🇫🇷 INFORMATION",BFM TV
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://i.ibb.co/93fjshzB/cnsprme.png",CNEWS PRIME (nouveau)
+https://hls-m015.p-cdnlive-edge020411-dual.scy.canalplus-cdn.net/__token__id%3D30d0283c7e891418deaddd2079712aaa~hmac%3Db2612e5607aecd3745717271a89b4c9f30d655071475de4667bf4819c57cd756/live/disk/cnewsprime-clair-hd/hls-v3-hd-clair/cnewsprime-clair-hd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png",CNEWS
 https://hls-m015-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v3-hd-clair/cnews-clair-hd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Zfcrrr1/lci.png",LCI
@@ -167,6 +169,8 @@ https://hls-m015.p-cdnlive-edge020311-dual.scy.canalplus-cdn.net/__token__id%3D1
 https://hls-m015.p-cdnlive-edge020411-dual.scy.canalplus-cdn.net/__token__id%3D30d0283c7e891418deaddd2079712aaa~hmac%3Db2612e5607aecd3745717271a89b4c9f30d655071475de4667bf4819c57cd756/live/disk/cnews-clair-hd/hls-v3-hd-clair/cnews-clair-hd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png",CNEWS (backup)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cnews-dm.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/93fjshzB/cnsprme.png",CNEWS PRIME (backup)
+https://hls-m015.p-cdnlive-edge020311-dual.scy.canalplus-cdn.net/__token__id%3D1a569a48e47690c700c0f71662c87679~hmac%3D6d2114baa9bb694f530073a9f707530612577a89d4d0a36aaa72374fa9e12049/live/disk/cnewsprime-clair-hd/hls-ios-fhd-clair/cnewsprime-clair-hd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZBqk6mK/lemedia.jpg",LE MÉDIA TV (backup)
 https://raw.githubusercontent.com/BG47510/tube/refs/heads/main/lemedia.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZBqk6mK/lemedia.jpg",LE MÉDIA TV (backup)
@@ -5066,6 +5070,12 @@ https://d1ei8ofhgfmkac.cloudfront.net/app-19518-1306/ngrp:QoZfNjsg_all/playlist.
 https://6069699a9e3f3.streamlock.net/rtvkg/uzivo/chunklist_w1996912920.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6cKjj4xT/karolinacr.png",KAROLINA RD/TV
 https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9e-218069b864d1/0.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kVXqj9fQ/Jeka.png",JEKA ❤️
+https://muzzikbalkan-live.morescreens.com/mts-4/576p/chunklist.m3u8?video_id=56&token=798194fd9766ad7ce6fec329e54e54a0939ab5e9&authority_instance_id=spectar-prd-muzzikbalkan
+#EXTINF:-1 tvg-logo="https://i.ibb.co/W4zhWby6/Zztv.png",ZZ ❤️
+https://muzzikbalkan-live.morescreens.com/mts-a4/576p/chunklist.m3u8?video_id=56&token=798194fd9766ad7ce6fec329e54e54a0939ab5e9&authority_instance_id=spectar-prd-muzzikbalkan
+#EXTINF:-1 tvg-logo="https://i.ibb.co/twr0XtbC/muzzikmixx.png",MUZZIK MIX ❤️
+https://muzzikbalkan-live.morescreens.com/mts-a7/576p/chunklist.m3u8?video_id=56&token=798194fd9766ad7ce6fec329e54e54a0939ab5e9&authority_instance_id=spectar-prd-muzzikbalkan
 #EXTINF:-1 group-title="27. |HR-BA-RS++|🇭🇷🇧🇦🇷🇸 BALKANIC",--- |ME:🇲🇪 MONTENEGRO| ---
 http://blank
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5x1cbJqN/rtcg.png",TVCG MNE
