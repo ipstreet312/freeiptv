@@ -1199,7 +1199,7 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c05
 https://flashtv.blutv.com/blutv_flashtv/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F5FcvbZ/flash4ok.png",FLASH HABER (backup)
 https://internettv.guventechnology.com:19360/flashhabertv/flashhabertv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Ln92Dj2/Ekoltv.png",EKOL TV (backup)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ln92Dj2/Ekoltv.png" referer="https://turkcanli.tv",EKOL TV (backup)
 https://helga.iptv2022.com/sh/ekol_tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4Mhmggc/tele1.png",TELE 1 (backup)
 https://tele1.blutv.com/blutv_tele1_live/live.m3u8
@@ -6006,5 +6006,5 @@ http://
 http://
 #EXTINF:-1,[⚽🏅🏆] *Empty* 'New' Service ❶❷❸ ➊➋➌
 http://
-#EXTINF:-1,TEST 01 🎉🥳🎊
+#EXTINF:-1,TEST 02 🎉🥳🎊
 http://
