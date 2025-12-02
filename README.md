@@ -12,6 +12,8 @@ le "all.m3u", votre "fourre-tout" qui se veut intellectuel techniquement et cult
 
 freeiptv, un projet propulsé par la haine de l'ordre du système merdiatique du monde.
 
+ipstreet312, votre distributeur de Bouquet de fleurs et de bonheur ❤️
+
 <img src="https://i.ibb.co/h1DYX4gg/group0211.jpg">
 
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/all.m3u
