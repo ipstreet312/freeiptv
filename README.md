@@ -2,7 +2,7 @@
 
 ![x](https://img.shields.io/badge/Tu%20aimes%20streamer%3F%20Parfait%21%20Ici%20c%27est%20%C3%A0%20toi%3A%29-8A2BE2)
 ![x](https://img.shields.io/badge/You%20like%20to%20stream%3F%20Good%21%20Here%20it%27s%20yours%3A%29-blue)
-![n](https://img.shields.io/badge/Stream%20yapmay%C4%B1%20seviyon%3F%20Harika%21%20Buras%C4%B1%20senin%3A%29-green)❤️
+![n](https://img.shields.io/badge/Stream%20yapmay%C4%B1%20seviyon%3F%20Harika%21%20Buras%C4%B1%20senin%3A%29-green)
 
 Tu es "en manques" de chıaînes tv, d'infauxrmation et autres ? 😍 😁 
 
