@@ -10,7 +10,7 @@ Alors en voici en voilà en "Bouquets pack" ^^ 💐:
 
 le "all.m3u", votre "fourre-tout" qui se veut intellectuel techniquement et culturellement. 🤗🥰🥳
 
-freeiptv, un projet propulsé par la haine de l'ordre du système merdiatique du monde.
+freeiptv, un projet propulsé par la haine de l'ordre du système merdiatique du monde. 🚀
 
 ipstreet312, votre distributeur de Bouquet de fleurs et de bonheur ❤️
 
