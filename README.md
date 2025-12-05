@@ -10,7 +10,7 @@ Alors en voici en voilà en "Bouquets pack" en contenu et en coutinue ^^ 💐:
 
 le "all.m3u", votre 'petit monde' ou "fourre-tout" qui se veut intellectuel techniquement et culturellement. 🤗🥰🥳
 
-freeiptv, c'est tout un monde d'histoires, un projet propulsé par la haine de l'ordre du système merdiatique du monde. 🚀
+freeiptv, un monde d'histoires, un projet propulsé par la haine de l'ordre du système merdiatique du monde. 🚀
 
 ipstreet312, votre distributeur de Bouquet de fleurs et d'apport de bonheur ❤️
 
