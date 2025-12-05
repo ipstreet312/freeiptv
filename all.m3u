@@ -2529,10 +2529,12 @@ http://mcdn.antennaplus.gr/live/media0/Drama/HLS/Drama.m3u8
 http://d2e65zbw2lm5c4.cloudfront.net/drama_aws/abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qk1SMGf/ant1.jpg",ANT 1 MUSIC
 http://mcdn.antennaplus.gr/live/media0/Just_Music/HLS/Just_Music.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/W5DZtvt/madtv.png",MAD WORLD
-https://ellastvmax.better-than.tv/freetv/madworldtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/W5DZtvt/madtv.png",MAD MUSIC
+https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/wld/mad.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/W5DZtvt/madtv.png",MAD WORLD
 https://ellastvmax.gotdns.com/freetv/madworldtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/W5DZtvt/madtv.png",MAD WORLD
+https://ellastvmax.better-than.tv/freetv/madworldtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/W5DZtvt/madtv.png",MAD WORLD
 http://ellastv.gotdns.com:88/freetv/madworldtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TPGzY4C/omega.png",OMEGA
