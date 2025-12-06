@@ -14,6 +14,10 @@ freeiptv, tout un monde d'histoires, un projet propulsé par la haine de l'ordre
 
 ipstreet312, votre distributeur de Bouquet de fleurs, votre rapporteur de Bonheur ❤️
 
+==> 🆕SHORT HOW TO ✨: => https://i.ibb.co/96X1yVC/ordofreeiptv.png
+
+==> 🆕ALBUM PHOTOS ✨: =>  https://ibb.co/album/Ps267Q 
+
 <img src="https://i.ibb.co/h1DYX4gg/group0211.jpg">
 
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/all.m3u
