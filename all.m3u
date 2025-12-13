@@ -645,6 +645,10 @@ https://jmp2.uk/sam-FRAJ3800002W5.m3u8
 https://jmp2.uk/sam-FRAJ38000089S.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/02pwsTj/cinenanar.png",CINÉ NANAR
 https://d2o63bkh2qz410.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CineNanar-FR-prod/64953490-a5a5-4f44-a4fb-7bf3638dd24c/2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/02pwsTj/cinenanar.png",CINÉ NANAR
+https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QbDCvVf/cinewestern.png",CINÉ WESTERN
+https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QbDCvVf/cinewestern.png",CINÉ WESTERN
 https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2SHJGsj/allocine.png",ALLO CINÉ
@@ -689,10 +693,16 @@ https://rakuten-films-francais-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/grBSqt4/novela.png",TELE NOVELA TV
 https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/grBSqt4/novela.png",FREQUENCE NOVELAS
+https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0VGrLr4c/zeeone.png",ZEE ONE FR 
 https://7689426c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1mcl9aZWVNYWdpY19ITFM/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0psZzs4S/scream.jpg",SCREAM IN
 https://amg00711-zylo-amg00711c6-plex-us-935.playouts.now.amagi.tv/zylo-Screamin-lg/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0psZzs4S/scream.jpg",SCREAM IN
+https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v63mDMBw/intocrime.png",INTO CRIME
+https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 group-title="6. |FR|🇫🇷 LOCALES - RÉGIONALES",--- |FR:🇫🇷 FRANCE MÉTROPOLITAINE| ---
@@ -1576,7 +1586,7 @@ https://ciner-live.ercdn.net/htspor/htspor.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F0Tsz1v/htsportr.png",HT SPOR
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web&ce=3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pv3Jx9rv/sifir.png",SIFIR TV
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Sifir_Tv.m3u8
+https://ahr7chck.rocketcdn.com/sifirtv.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pv3Jx9rv/sifir.png",SIFIR TV
 https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/spor/sifir-tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BfM21nC/beinhaber.png",BIS HABER
@@ -1682,7 +1692,7 @@ https://trkvz-live.daioncdn.net/minikago_cocuk/minikago_cocuk.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L8ftBdN/minikacocuk.png",MİNİKA ÇOCUK (backoff)
 https://trkvz.daioncdn.net/minikago_cocuk/minikago_cocuk.m3u8?app=web&ce=3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pv3Jx9rv/sifir.png",SIFIR TV (backup)
-https://ahr7chck.rocketcdn.com/sifirtv.stream/chunklist.m3u8
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Sifir_Tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F0Tsz1v/htsportr.png",HT SPOR (backup)
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F0Tsz1v/htsportr.png",HT SPOR (backup)
@@ -4879,9 +4889,9 @@ https://vimnitaly.akamaized.net/hls/live/2094034/super/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KCBurST.png",EXTRA TV
 https://rst2.saiuzwebnetwork.it:8081/extratvlive/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvdream.net/img/sportitalia.png",SPORT ITALIA
-https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/sportitalia-24-live.jpg",SPORT ITALIA LIVE
-https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8
+https://origin-001.streamup.eu/sportitalia/sihd_abr2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/sportitalia-24-live.jpg",SPORT ITALIA CALCIO
+https://origin-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rtv-smarino-sport.png",RTV S.MARINO
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist_b1692000_slita.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvdream.net/img/go-tv.png",GO-TV
