@@ -523,6 +523,8 @@ https://d3w0weunrynif9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d3bb0xy15a32jc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3gcgvdj5b4sla/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tpy1mKV/rmcalertes.jpg",RMC ALERTE SECOURS
 https://ddt6vdovkiskj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jompzy8pen6vl/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/23JK5ZzF/society.png",SOCIETY PLUS
+https://societypluslachaine-channel-dash.vodfactorychannels.com/v1/channel/SocietyPRODHLS/index.m3u8?bpkio_serviceid=ba9a56ce0a9bfa26d1cc84078c4800d7
 #EXTINF:-1 tvg-logo="https://i.ibb.co/883phd1/ktook.png",KTO
 https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xJyNqdg/dieutv.png",DIEU TV
@@ -4398,6 +4400,8 @@ https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QFvZPd9/spacetoon.png",SPACE TOON
 https://spacetoon-prod-dub-ak.akamaized.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QFvZPd9/spacetoon.png",SPACE TOON
+https://live-uae.spacetoongo.com/ST_Live_UAE/hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QFvZPd9/spacetoon.png" user-agent="VLC/3.0.18 LibVLC/3.0.18" referer="https://mbc.net/",SPACE TOON
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xtnH00zG/spooky.jpg" user-agent="VLC/3.0.18 LibVLC/3.0.18" referer="https://mbc.net/",SPOOKY NIGHTS
@@ -5711,6 +5715,8 @@ https://oneamericanews-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kX8ywwV/oan.png",OANN
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/oan-encore/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kX8ywwV/oan.png",OANN
+https://s-cdn.herringnetwork.com/live1/oane/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kX8ywwV/oan.png",OANN
 https://cdn.herringnetwork.com/80A4DFF/oane_oregon/OAN_Encore.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kX8ywwV/oan.png",OANN
 https://aka-live1049.delivery.roku.com/d252bb45-a8ff-4717-b590-7423af8811c6/t2-origin/out/v1/live.m3u8
@@ -5924,6 +5930,8 @@ https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 http://mytv.dothome.co.kr/ch/catv/7.php/.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JCjsXZm/nhk.png",NHK WORLD
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JCjsXZm/nhk.png",NHK WORLD
+https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JCjsXZm/nhk.png",NHK WORLD
 https://livehub-voidnet.onrender.com/cluster/streamcore/jp/NHK_StreamOrchestrator.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JCjsXZm/nhk.png",NHK WORLD
