@@ -3,7 +3,7 @@ import re
 import json
 
 base_url = "https://ciner-live.ercdn.net/showturk/"
-url = "https://www.showturk.com.tr/canli-yayin"
+url = "http://www.showturk.com.tr/canli-yayin"
 response = requests.get(url)
 
 if response.status_code == 200:
