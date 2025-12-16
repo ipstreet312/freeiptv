@@ -1,16 +1,25 @@
 import requests
 import re
 import json
-import urllib3
+import certifi
 
 base_url = "https://ciner-live.ercdn.net/showturk/"
+url = "https://www.showturk.com.tr/canli-yayin"
 
-urllib3.disable_warnings()
+# ✅ Headers to avoid bot blocking / broken TLS chains
+headers = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "Accept-Language": "tr-TR,tr;q=0.9,en-US;q=0.8",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Connection": "keep-alive",
+}
 
+# ✅ Explicit CA bundle (fixes SSL error)
 response = requests.get(
-    "https://www.showturk.com.tr/canli-yayin",
-    verify=False,
-    timeout=15
+    url,
+    headers=headers,
+    timeout=15,
+    verify=certifi.where()
 )
 
 if response.status_code == 200:
@@ -29,7 +38,13 @@ if response.status_code == 200:
             ht_stream_m3u8 = m3u8_list[0].get('src') if m3u8_list else None
 
             if ht_stream_m3u8:
-                content_response = requests.get(ht_stream_m3u8)
+                # ✅ Same headers + cert for the m3u8 request
+                content_response = requests.get(
+                    ht_stream_m3u8,
+                    headers=headers,
+                    timeout=15,
+                    verify=certifi.where()
+                )
 
                 if content_response.status_code == 200:
                     content = content_response.text
@@ -56,4 +71,4 @@ if response.status_code == 200:
         print("data-hope-video JSON not found in the content.")
 
 else:
-    print("Error: Status code is not 200.")
+    print(f"Error: Status code is {response.status_code}")
