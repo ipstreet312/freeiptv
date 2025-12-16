@@ -2,9 +2,18 @@ import requests
 import re
 import json
 
+import certifi
+
 base_url = "https://ciner-live.ercdn.net/showturk/"
-url = "http://www.showturk.com.tr/canli-yayin"
-response = requests.get(url)
+url = "https://www.showturk.com.tr/canli-yayin"
+
+response = requests.get(
+    url,
+    timeout=15,
+    verify=certifi.where()
+)
+
+print(response.text)
 
 if response.status_code == 200:
     site_content = response.text
