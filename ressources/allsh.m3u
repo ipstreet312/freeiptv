@@ -206,9 +206,9 @@ https://live-lci-hls.cdn-0.diff.tf1.fr/out/v1/917aad4fa72f42f7ba7f486226f54bc4/l
 #EXTINF:-1,TV5MONDE FBSM
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
 #EXTINF:-1,TF1_
-https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NjU5MjM0OTQsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzY1OTA5MDk0LCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.GTFQ3fVsB6xI7tt4jiDkxiNfV0KPPMtkWgMKp7vsmTs/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
+https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NjYxODI2OTUsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzY2MTY4Mjk1LCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.uK2sxkm6GmD25n3TCC-SOsDDn-TdekYvtcAOETqQ1qM/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
 #EXTINF:-1,TF1-
-https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI1LjEzNS40OC44MiIsImNtY2QiOiIiLCJleHAiOjE3NjU5MjU3NjMsImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc2NTkxMTM2MywiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.agdR01z5whPuzabFgoz8bXjkcJfbuRC4fDNQXQb9mLk/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
+https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI1LjEzNS40OC44MiIsImNtY2QiOiIiLCJleHAiOjE3NjYxODQ4MzEsImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc2NjE3MDQzMSwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.Lqw7b7bXVI7aYrxm5bcnevmu1INPLiim56wmGoVY8ks/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
 #EXTINF:-1,FRANCE 2
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr2.m3u8
 #EXTINF:-1,FRANCE 3
@@ -5887,6 +5887,8 @@ https://tv-trtworld.medya.trt.com.tr/master.m3u8
 https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/wld/tvpwd.m3u8
 #EXTINF:-1,TVP WORLD
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvpworld.m3u8
+#EXTINF:-1,AL ARABIYA ENG
+https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
 #EXTINF:-1,AL ARABIYA ENG
 https://shls-live-enc.edgenextcdn.net/out/v1/07a6ab2d57b2453a91bbdd2d46b5865a/index.m3u8
 #EXTINF:-1,AL JAZEERA NEWS
