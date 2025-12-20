@@ -1,4 +1,4 @@
-# freeiptv, how to use the "all.m3u" file link procedure explained here : https://receptioniptv.blogspot.com/
+# freeiptv, How to use the "all.m3u" file link ? Procedure explained here : https://receptioniptv.blogspot.com/
 
 ![x](https://img.shields.io/badge/Tu%20aimes%20streamer%3F%20Parfait%21%20Ici%20c%27est%20%C3%A0%20toi%3A%29-8A2BE2)
 ![x](https://img.shields.io/badge/You%20like%20to%20stream%3F%20Good%21%20Here%20it%27s%20yours%3A%29-blue)
