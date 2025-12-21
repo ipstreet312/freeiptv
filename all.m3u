@@ -3522,6 +3522,10 @@ https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/keshetil/py/ch24.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3hN9N8X/tv10coil.png",CALCALA 10 ערוץ_הכלכלה
 https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jzRyjBn/walla.png",WALLA !+ וואלה! חדשות
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01742-walla-wallanews-ono/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yc5Yf1q/sport5il.png",SPORT5 STUDIO RADIO LIVE
+https://rgelive.akamaized.net/hls/live/2043095/live3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zP5vjLD/knesset.png",HAKNESSET 99 כנסת
 https://kneset.gostreaming.tv/p2-kneset/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zP5vjLD/knesset.png",HAKNESSET 99 sub-cc כנסת
@@ -3542,32 +3546,22 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/kesheti
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/keshetil/py/kohav.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qF5Zvwgt/ninja.jpg" user-agent="SmartOs Tv",KESHET 12 NINJA ISR
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/keshetil/py/ninja.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jzRyjBn/walla.png",WALLA !+ וואלה! חדשות
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01742-walla-wallanews-ono/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yc5Yf1q/sport5il.png",SPORT5 STUDIO RADIO LIVE
-https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yc5Yf1q/sport5il.png",SPORT5 STUDIO RADIO LIVE
-https://rgelive.akamaized.net/hls/live/2043095/live3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kq4XM0Y/ynet.png",YNET NEWS ידיעות אחרונות
-https://ynet-live-01.ynet-pic1.yit.co.il/ynet/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1rSGfFw/N12n.png" user-agent="SmartOs Tv",NEWS 12 חדשות 
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/keshetil/py/n12.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j68q1Bp/i24.png",i24 NEWS FR
 https://bcovlive-a.akamaihd.net/41814196d97e433fb401c5e632d985e9/eu-central-1/5377161796001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j68q1Bp/i24.png",i24 NEWS EN
 https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j68q1Bp/i24.png",i24 NEWS AR
 https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/5377161796001/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MG43H4H/hala.png",PANET 30 HALA هلا
-https://stream.panet.com/edge/halaTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kq4XM0Y/ynet.png",YNET NEWS ידיעות אחרונות
+https://ynet-live-01.ynet-pic1.yit.co.il/ynet/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1rSGfFw/N12n.png" user-agent="SmartOs Tv",NEWS 12 חדשות 
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/keshetil/py/n12.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fqTYrGY/33.png",KAN 33 MAKAN مكان
 https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MG43H4H/hala.png",PANET 30 HALA هلا
+https://stream.panet.com/edge/halaTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PYtP8fm/arutz9ru.png",ISRAEL 9TV канал
-https://new.cache-stream.workers.dev/channel/UCixtbfonx_QIjS1DB96zcFg/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PYtP8fm/arutz9ru.png",ISRAEL 9TV канал
-https://ythls.armelin.one/channel/UCixtbfonx_QIjS1DB96zcFg.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/h1ftfTMn/iltvnws.jpg",ILTV ISRAEL NEWS
-https://x.com/i/broadcasts/1ynJOMbVYawKR/youtube/UCuxgEyMeaks7HS5gAw6Tt7w/no.m3u8
+https://contact.gostreaming.tv/Con-11/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6yjTszg/kan26.png",KAN 26 אפיק
 https://reshetbetvideo.media.kan.org.il/hls/live/2044082/2044082/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/93bQz4t/kabalah.png",KABBALAH 96
@@ -3582,12 +3576,16 @@ https://edge-fs-10.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
 http://wowza.media-line.co.il/Musayof-Live/livestream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tMm7vdM/shelanug.jpg",SHELANU GOD-IL
 https://1247634592.rsc.cdn77.org/1247634592/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h1ftfTMn/iltvnws.jpg",ILTV ISRAEL NEWS (unavailable)
+https://x.com/i/broadcasts/1ynJOMbVYawKR/youtube/UCuxgEyMeaks7HS5gAw6Tt7w/no.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2g7Sw4c/21.jpg",SHOPPING 21 [ended]
 https://shoppingil-rewriter.vidnt.com/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5MyMYqB/relevantil.png",RELEVANT רלוונט [ended]
 https://6180c994cb835402.mediapackage.eu-west-1.amazonaws.com/out/v1/f1339272dd24416ca60b00e69075d783/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3RwfT5M/bigbil.png" referer="https://13tv.co.il/home/bb-livestream/",BIG BROTHER IL [geo-blocked]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3RwfT5M/bigbil.png" referer="https://13tv.co.il/home/bb-livestream/",BIG BROTHER IL [ended]
 https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yc5Yf1q/sport5il.png",SPORT5 STUDIO RADIO LIVE (standby link)
+https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png",KAN 11 כאן (backup)
 https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png",KAN 11 כאן (backup)
