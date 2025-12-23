@@ -12,7 +12,7 @@ le "all.m3u", votre 'petit monde' ou "fourre-tout" qui se veut intellectuel tech
 
 freeiptv, tout un monde d'histoires, un projet propulsé par la haine de l'ordre du système merdiatique du monde. 🚀
 
-ipstreet312, votre distributeur de Bouquet de fleurs, votre rapporteur de Bonheur ❤️
+ipstreet312, votre distributeur de Bouquet de fleurs, votre diffuseur de Bonheur ❤️
 
 ==> 🆕SHORT HOW TO ✨: => https://i.ibb.co/CpRmJMnY/ordofreeiptv.png
 
