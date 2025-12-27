@@ -3017,6 +3017,16 @@ https://cdnlive.codev8.net/rtvalive/smil:channel24.smil/playlist.m3u8
 https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hHKKnt3/andaturismo.png",TURISMO ANDALUCÍA
 https://cloud.fastchannel.es/mic/manifiest/hls/aturismo/aturismo.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sptFJqNj/7anda.jpg",7TV ANDALUCÍA
+https://especial7tv.gestec-video.com/hls/regional.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sptFJqNj/7anda.jpg",7TV AlMERÍA
+https://streaming004.gestec-video.com/hls/7TVALMERIA.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sptFJqNj/7anda.jpg",7TV HUELVA
+https://streaming004.gestec-video.com/hls/regional.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sptFJqNj/7anda.jpg",7TV MÁLAGA
+https://streaming004.gestec-video.com/hls/7TVMALAGA.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sptFJqNj/7anda.jpg",7TV SEVILLA
+https://especial7tv.gestec-video.com/hls/7TVSEVILLA.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MkBCwH4/arag.png",ARAGÓN TV
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B4RNJb6/aragonot.jpg",ARAGÓN NOTICIAS
