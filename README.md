@@ -6,7 +6,7 @@
 
 Tu es "en manques" de chıaînes tv, d'İnfauxrmation et autres ? 😍 😁 
 
-Alors en voici en voilà en "Bouquets pack" en contenu et en coutinue ^^ 💐:
+Alors en voici en voilà en "Bouquets pack" en contenu et en continue ^^ 💐:
 
 le "all.m3u", votre 'petit monde' ou "fourre-tout" qui se veut intellectuel techniquement et culturellement. 🤗🥰🥳
 
