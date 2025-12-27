@@ -455,6 +455,10 @@ https://stream.ads.ottera.tv/cl/251108d47gn8r1ht77elj9aci0/1280x720_3071200_0_f.
 https://stream-us-east-1.getpublica.com/cl/251108d47gn8r1ht77elj9aci0/1280x720_3071200_0_f.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/spnvQmbV/popcorn.png",POPCORN
 https://dyc8bdiow0oz1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qique82ecf5q8/pcorn.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/spnvQmbV/popcorn.png",POPCORN
+http://dyc8bdiow0oz1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qique82ecf5q8/pcorn.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/spnvQmbV/popcorn.png",POPCORN
+http://dyc8bdiow0oz1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qique82ecf5q8/85ac8883-2de0-4285-8f27-9d97857c45ad/0.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m5R33Y1n/Futura.jpg",FUTURA 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5979
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m5R33Y1n/Futura.jpg",FUTURA CONSO
@@ -5538,8 +5542,6 @@ https://hls.pmc.live/hls/stream.m3u8
 https://svs.itworkscdn.net/assiratvlive/assirat/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tqkV2sn/irflag.png",GEM SERIES
 https://ca-rt.onetv.app/gemseriesplus/index-0.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tqkV2sn/irflag.png",PERSIANA ONEPLUS
-https://poneplushls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tqkV2sn/irflag.png",PERSIANA NOSTALGIA
 https://noshls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tqkV2sn/irflag.png",PERSIANA MUSIC
