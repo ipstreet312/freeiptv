@@ -1,4 +1,4 @@
-name: fr1 action
+name: fr1-frp31 action
 
 on:
   schedule:
@@ -16,10 +16,12 @@ jobs:
       - name: config
         run: |
           git config --global user.email "<>"
-          git config --global user.name "fr1 bot"
-      
-      - name: updating fr1
-        run: python3 ressources/ftv/py/fr1.py > ressources/ftv/py/fr1.m3u8
+          git config --global user.name "fr1-frp31 bot"
+     
+      - name: updating fr1-frp31
+        run: |
+            python3 ressources/ftv/py/fr1.py   > ressources/ftv/py/fr1.m3u8
+            python3 ressources/ftv/py/frp31.py > ressources/ftv/py/frp31.m3u8
         
       - name: git add
         run: |
@@ -28,5 +30,5 @@ jobs:
           
       - name: commit & push
         run: |
-          git commit -m "fr1 updated"
+          git commit -m "fr1-frp31 updated"
           git push
