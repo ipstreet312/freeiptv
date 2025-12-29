@@ -1470,7 +1470,7 @@ https://cdn-tytturk.yayin.com.tr/tytturk/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sRNHKjS/tivi622.png",TİVİ 6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jj3HD3KX/bikanal.png",Bİ 1! KANAL
-https://live.artidijitalmedya.com/artidijital_bikanal/bikanal/chunks.m3u8
+https://stream-hls.castr.net/68a8677ab2d7fc28a02e928d/live_a85875d0dc1c11f0852d474dddcbf0da/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SnPFhXS/cnee12.png",CİNE 1 TV
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVnG3Zr/360tv.png",360
@@ -1585,6 +1585,8 @@ https://s01.webcaster.cloud/wmtv/live_1080p.m3u8
 https://s01.vpis.io/wmtv/wmtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DKHDfbr/wmtv.png",WOMAN KADIN TV (backup)
 https://womantv.blutv.com/blutv_womantv/blutv_womantv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jj3HD3KX/bikanal.png",Bİ 1! KANAL (offlink)
+https://live.artidijitalmedya.com/artidijital_bikanal/bikanal/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YjkMYbF/trtcocuk21a.png" group-title="10. |TR|🇹🇷 ÇOCUK - SPOR",TRT ÇOCUK
@@ -1864,9 +1866,7 @@ https://tgrt-live.ercdn.net/tgrteu/tgrteu.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MCXCRcn/tgrteu1.png",TGRT EU
 https://canli.tgrteu.com/tgrteu.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1RnLJpf/agro.png",AGRO TV
-https://yayin30.haber100.com/live/agrotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1RnLJpf/agro.png",AGRO TV
-https://agrotv.blutv.com/blutv_agrotv/live.m3u8
+https://stream-hls.castr.net/6731d96a1f5e55c4190da53f/live_9e594110a26911ef9f033f53e767ab9f/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vHwMgx0/ciftci.png",ÇİFTÇİ TV
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tDB51ww/tarim.png",TARIM TV
@@ -2167,6 +2167,8 @@ https://edge1.socialsmart.tv/kocaelitv/bant1/chunks.m3u8
 https://cdn-ktvtv.yayin.com.tr/ktvtv/ktvtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",KONYA OLAY TV
 https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",KONYA TV42
+http://canliyayin.tv42.com.tr/memfs/288fb8d8-21f6-4be6-b48e-a5ed1606430c.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",KOZA TV ADANA
 https://ythls.armelin.one/channel/UC4Ohyy56H4EZAy0Pagsv3iA.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",KOZA TV ADANA
@@ -3596,10 +3598,12 @@ https://stream.panet.com/edge/halaTV/playlist.m3u8
 https://contact.gostreaming.tv/Con-11/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6yjTszg/kan26.png",KAN 26 אפיק
 https://reshetbetvideo.media.kan.org.il/hls/live/2044082/2044082/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/93bQz4t/kabalah.png",KABBALAH 96
+#EXTINF:-1 tvg-logo="https://i.ibb.co/93bQz4t/kabalah.png",KABBALAH 96 HEB
 http://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/93bQz4t/kabalah.png",KABBALAH 96
+#EXTINF:-1 tvg-logo="https://i.ibb.co/93bQz4t/kabalah.png",KABBALAH 96 HEB
 https://edge2.il.kab.tv/live/tv66-heb-high/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/93bQz4t/kabalah.png",KABBALAH 96 RUS
+https://edge2.il.kab.tv/live/tv66-rus-high/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bJVPhHD/hidabroot.png",HIDABROOT 97
 https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bJVPhHD/hidabroot.png",HIDABROOT 97
