@@ -211,8 +211,6 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressour
 https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NjcwODk4OTUsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzY3MDc1NDk1LCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.dXVt7egh3m6dOGA91jMkQT2HcZ-ilxo38IJS4Y--O7A/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1-
 https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI1LjEzNS40OC44MiIsImNtY2QiOiIiLCJleHAiOjE3NjcwOTUwOTksImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc2NzA4MDY5OSwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.Ru71IY0jlJuAEtwHsmtDvQVzmZFBaxA52T851PvlU7E/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",FRANCE 1ÈRE (SPÉCIALE RÉVEILLON)
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1polm.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png",FRANCE 2
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y8PjbJ4/fr3bl.png",FRANCE 3
@@ -419,6 +417,10 @@ https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8
 https://amg01596-gongnetworks-gong-samsungfr-2q4y3.amagi.tv/playlist/amg01596-gongnetworks-gong-samsungfr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JwkTY5Cr/100kidz.jpg",100 KIDZ
 https://amg02162-amg02162c4-samsung-fr-10083.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg02162-newenconnect-kidschannel-samsungfr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZRZndncG/juniorfr.png",JUNIORS
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8ecb336537e8000764a17flivestitch/master.m3u8?deviceDNT=%7BTARGETOPT%7D&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQNLsP3g/teenfr.png",TEENS
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8eb99ff17815000784a3b0livestitch/master.m3u8?deviceDNT=%7BTARGETOPT%7D&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m4qxfcH/supertoons.jpg",SUPERTOONS FR
 https://jmp2.uk/sam-FRBD5100002NL.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/92Q9cRS/plutokids.jpg",PLUTO KIDS
@@ -473,6 +475,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=10243
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10246
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m5R33Y1n/Futura.jpg",SCIENCES ET VIE
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=14172
+#EXTINF:-1 tvg-logo="https://i.ibb.co/V0Y0BwKt/culpub.png",CULTURE-PUB TV
+https://amg02232-botravail-amg02232c3-samsung-fr-432.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg02232-botravail-culturepub-samsungfr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8rcTV8C/festcannes.jpg",FRANCE TV FESTIVAL DE CANNES (EVENT)
 https://evenementiel_mai
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zHF5PHD4/Mieux.png",MIEUX TV
@@ -3815,11 +3819,9 @@ http://62.182.82.104/OTV/tracks-v1a1/mono.m3u8?token=test
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s107QNv/araby2.png" group-title="20. |AR|🇸🇦 MIDDLE EAST-1 عربي",AL ALARABY 2
-https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s107QNv/araby2.png",AL ALARABY 2
-https://alarabyta.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s107QNv/araby2.png",AL ALARABY 2
 https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s107QNv/araby2.png",AL ALARABY 2
+https://cdn1.iptvcdn.tv/mcnc/AL_ARABY_2_HD_ENCODED/playlist.m3u8?token=demo
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XVGL3qH/alaan.png",AL AAN TV
 https://shls-live-ak.akamaized.net/out/v1/dfbdea4c1bf149629764e58c6ff314c8/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HVLDcrR/abudhabi.png",ABU DHABI
@@ -3858,6 +3860,8 @@ https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
 https://royatv-live.daioncdn.net/royatv/royatv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3mfSV6R6/almasar.jpg",AL MASAR
 https://starmenajo.com/hls/almasar/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r27b0dFY/alkaherawalnas.jpg",AL KAHERA WAL NAS
+https://fl1-sweden.iptvcdn.tv/MCNC_ALARABY2/video.m3u8?token=QAhpwWdQkljOe2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DtWPcjN/alw.png",ALAWLA TV
 https://63b03f7689049.streamlock.net/live/1tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HtKQ15z/alw1.png",ALAWLA TV
@@ -4313,11 +4317,9 @@ https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hcCJkhq/Al-Arabiya.png",AL ARABIYA
 https://shls-live-ak.akamaized.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h27qpLJ/araby1.png",AL ALARABY
-https://alarabyta.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/h27qpLJ/araby1.png",AL ALARABY
-https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/h27qpLJ/araby1.png",AL ALARABY
 https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h27qpLJ/araby1.png",AL ALARABY
+https://cdn1.iptvcdn.tv/mcnc/AL_ARABY_HD_ENCODED/playlist.m3u8?token=demo
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nc8F1dj/Al-Hadath.png",AL ARABIYA HADATH
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nc8F1dj/Al-Hadath.png",AL ARABIYA HADATH
