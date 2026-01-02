@@ -5044,6 +5044,14 @@ https://drlivedrtvahls.akamaized.net/hls/live/2113613/drlivedrtva/master.m3u8
 http://blank
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r29pMj4B/Ylew.png",YLE TV WORLD
 https://yletvworld.akamaized.net/hls/live/622540/yletv1w/index.m3u8
+#EXTINF:-1 group-title="26. |EU|🇪🇺 EUROPEAN COCKTAILTOUR🍸",--- |AT:🇦🇹 AUSTRIA| ---
+http://blank
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B2XDMZCm/orfat.png",ORF 1
+https://dash2.antik.sk/live/test_orf_eins_tizen/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B2XDMZCm/orfat.png",ORF 2
+https://strm.hdtvizlecanli.com/live/orf2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B2XDMZCm/orfat.png",ORF 3
+https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
 #EXTINF:-1 group-title="26. |EU|🇪🇺 EUROPEAN COCKTAILTOUR🍸",--- |PL:🇵🇱 POLONIA| ---
 http://blank
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6cPg4sDK/tvpolonia.png",TVP POLONIA
