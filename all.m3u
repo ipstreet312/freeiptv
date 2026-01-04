@@ -3612,6 +3612,10 @@ http://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8
 https://edge2.il.kab.tv/live/tv66-heb-high/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/93bQz4t/kabalah.png",KABBALAH 96 RUS
 https://edge2.il.kab.tv/live/tv66-rus-high/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/93bQz4t/kabalah.png",KABBALAH 96 RUS-2
+http://edge3.uk.kab.tv/live/tvrus-rus-high/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/93bQz4t/kabalah.png",KABBALAH 96 ENG
+http://edge3.uk.kab.tv/live/eng-high/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bJVPhHD/hidabroot.png",HIDABROOT 97
 https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bJVPhHD/hidabroot.png",HIDABROOT 97
