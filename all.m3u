@@ -1456,7 +1456,7 @@ http://116.202.238.88/TV8_TR/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png",TV8 (backup)
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png",TV8 (backup)
-http://trn03.tulix.tv/gt-tv8-tv/index.m3u8
+https://trn03.tulix.tv/tv8-hdtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png",TV8 (backup)
 http://tgn.bozztv.com/trn03/gt-tv8-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png",TV8 (backup)
@@ -5180,6 +5180,8 @@ https://live.tv-m.net/hls/stream.m3u8
 http://23.88.66.93/HAYAT/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xtV6rFWH/obn.png",OBN BSN
 http://23.88.66.93/OBN/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0VrZL7Wg/rtrs.png",RTRS TV
+https://parh.rtrs.tv/tv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4nyQwgwX/Aljbalk.png",AL JAZEERA BALKANS (offline)
 https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4nyQwgwX/Aljbalk.png",AL JAZEERA BALKANS (offline)
@@ -5689,17 +5691,13 @@ https://d2anxhed2mfixb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png" user-agent="Star Wars",CNN FAST
 https://d3fzntptkfpmvg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6rc4k0y56fezj/CNNFAST_GB.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hdBrzcc/fox.png",FOX NEWS
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hdBrzcc/fox.png",FOX NEWS
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hdBrzcc/fox.png",FOX NEWS
 https://d3tlzddkbbpp5n.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9uzjfw11uj9nn/LiveNOW_from_FOX.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hdBrzcc/fox.png",FOX NEWS
-https://livetv-fa.tubi.video/fox-live-now/index.m3u8
+https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hdBrzcc/fox.png",FOX NEWS
-https://aka-live1049.delivery.roku.com/eaf7d889-16e0-4c14-a299-a2932df9f467/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hdBrzcc/fox.png",FOX NEWS
-https://ott.udptv.org/stream/udptvus/foxnews/master.m3u8?u=discord.gg/civ3&p=eeaf011ae6d8cdbf0200cc0234f54fdc95d7b5b158d22258efd49d7e36275c7a
+https://pb-k5p02dtnr2162.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-k5p02dtnr2162/LiveNOW_from_FOX.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hdBrzcc/fox.png",FOX NEWS
 https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CKTjvj8/nbc.jpg",NBC NEWS
@@ -6110,6 +6108,10 @@ https://bloomberg-bloomberg-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hdBrzcc/fox.png",FOX NEWS [diedlink]
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-fox-newsnow-samsung/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hdBrzcc/fox.png",FOX NEWS [diedlink]
+https://livetv-fa.tubi.video/fox-live-now/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hdBrzcc/fox.png",FOX NEWS [diedlink]
+https://aka-live1049.delivery.roku.com/eaf7d889-16e0-4c14-a299-a2932df9f467/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hdBrzcc/fox.png",FOX NEWS [diedlink]
 https://fox-foxnewsnow-samsungus-tsv2-hm6vl.amagi.tv/playlist/samsungus-fox-newsnow-samsung/playlist.m3u8
 
