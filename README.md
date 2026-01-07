@@ -4,11 +4,13 @@
 ![x](https://img.shields.io/badge/You%20like%20to%20stream%3F%20Good%21%20Here%20it%27s%20yours%3A%29-blue)
 ![n](https://img.shields.io/badge/Stream%20yapmay%C4%B1%20seviyon%3F%20Harika%21%20Buras%C4%B1%20senin%3A%29-green)
 
-Tu veux des chaînes gratuites, d'informations et autres ? 😍 😁 Alors voici en "Bouquets pack" en contenu et en continue ! 💐
+Tu veux des chaînes gratuites, d'informations et autres ? 😍 😁
+Alors voici en "Bouquets pack" en contenu et en continue ! 💐
 
 Le "all.m3u", votre 'petit monde' ou "fourre-tout" qui se veut intellectuel techniquement et culturellement. 🤗🥰🥳
 
 freeiptv, tout un monde d'Histoires, un projet propulsé par la haine de l'ordre du système merdiatique du Monde. 🚀
+
 ipstreet312, votre distributeur de Bouquet de fleurs, votre diffuseur de Bonheur ❤️
 
 freeiptv, libre légal gratuit au complet, facile agréable légère en usage, le meilleur m3u de disponible, utile, indispensable et incontournable dans chaque foyer 💯😎
