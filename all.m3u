@@ -2605,7 +2605,7 @@ https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
 https://neon.streams.gr:8081/telekriti/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L9fj1Hj/greece.png",START TV
 https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
-##EXTINF:-1 tvg-logo="https://i.ibb.co/L9fj1Hj/greece.png",PELLA TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L9fj1Hj/greece.png",PELLA TV
 https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L9fj1Hj/greece.png",KONTRA TV
 http://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
