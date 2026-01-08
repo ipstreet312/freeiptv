@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-STREAM-INF:BANDWIDTH=2622400,AVERAGE-BANDWIDTH=2525600,CODECS="avc1.4d4028,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=25.000
-https://mako-streaming.akamaized.net/free/hls/live/2111419/savri//hdntl=exp=1767904158~acl=%2f*~data=hdntl~hmac=397c66d53151311b1bd876d4132522151d14bd0367d20015b18169341c770f25/video_7201280_p_1.m3u8
+https://mako-streaming.akamaized.net/free/hls/live/2111419/savri//hdntl=exp=1767923990~acl=%2f*~data=hdntl~hmac=2d78a26a952fc2d183d82ea76c5c7cb69932b955874a9d4ee4024fc2e7d0737a/video_7201280_p_1.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=4681600,AVERAGE-BANDWIDTH=4505600,CODECS="avc1.64002a,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=50.000
-https://mako-streaming.akamaized.net/free/hls/live/2111419/savri//hdntl=exp=1767904159~acl=%2f*~data=hdntl~hmac=fd105c026ee5824365636064884fe0b9a4873ac1d8e325150f55623dace75d17/index_4000.m3u8
+https://mako-streaming.akamaized.net/free/hls/live/2111419/savri//hdntl=exp=1767923991~acl=%2f*~data=hdntl~hmac=3a9a64ea681467af3bdc700a46493b0e5c66633d53ad8b7a4e54eb0b2908d2f2/index_4000.m3u8
