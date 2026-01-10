@@ -1,7 +1,7 @@
 import requests
 import re
 
-url = 'https://www.nowtv.com.tr/canli-yayin'
+url = 'http://www.nowtv.com.tr/canli-yayin'
 
 response = requests.get(url, verify=False)
 
