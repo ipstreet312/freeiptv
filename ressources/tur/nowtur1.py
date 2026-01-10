@@ -1,9 +1,9 @@
 import requests
 import re
 
-url = 'http://www.nowtv.com.tr/canli-yayin'
+url = "https://www.nowtv.com.tr/canli-yayin"
 
-response = requests.get(url, verify=False)
+response = requests.get(url, timeout=15)
 
 if response.status_code == 200:
     match = re.search(r"daiUrl\s*:\s*'(https?://[^\']+)'", response.text)
