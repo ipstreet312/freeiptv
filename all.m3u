@@ -2957,6 +2957,8 @@ https://dgrfwaj8stp69.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8xh76zN/parl.jpg",CANAL DIPUTADOS
 https://congresodirecto.akamaized.net/hls/live/2038274/canal1/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JRcZNxdk/nownews.png",NOW NEWS ESPAÑOL
+https://stream-193277.castr.net/638b849cf500d54e8db17683/live_2f8d8b103b1611f09930bbe09ee3178f/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TthjhJ6/solmusica.png",SOL MÙSICA
 https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GsLm5g5/trece.png",TRECE INT
@@ -4347,7 +4349,7 @@ https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R4vMgQV/alarabiyabus.jpg",AL ARABIYA BUSINESS
 https://alarabiya-business-ak.akamaized.net/out/v1/126027fa2f8c4d19be4551b77ec08cbb/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hcCJkhq/Al-Arabiya.png",AL ARABIYA PROGRAMS
-https://d1j4r34gq3qw9y.cloudfront.net/out/v1/96804f3a14864641a21c25e8ca9afb74/index.m3u8
+https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dbFBq5k/Al-Jazeera-Mubasher.png",AL JAZEERA MUBASHER
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dbFBq5k/Al-Jazeera-Mubasher.png",AL JAZEERA MUBASHER
@@ -4404,6 +4406,8 @@ https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZzGJwxY1/shams.jpg",SHAMS TV
 https://stream.shams.tv/hls/0/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JRcZNxdk/nownews.png",NOW NEWS ARABIC
+https://nowarhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XDC5cBX/alalam.png",AL ALAM IR
 https://live2.alalam.ir/live/Alalam/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XDC5cBX/alalam.png",AL ALAM IR
@@ -5818,6 +5822,10 @@ https://aka-live1049.delivery.roku.com/0c24a9ef-e9c3-485c-bf68-3f1ae5ef3e85/t2-o
 https://d36tuf8zz9b2bm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hfw6opvomwxih/CBC_News_International.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q0FfqdV/Globalnews.png",GLOBAL NEWS
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JRcZNxdk/nownews.png",NOW NEWS GLOBAL
+https://nowhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JRcZNxdk/nownews.png",NOW NEWS USA
+https://nowushls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dPmZMqq/bbcn.png",BBC NEWS
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/pc_hd_abr_v2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dPmZMqq/bbcn.png",BBC NEWS
