@@ -1,0 +1,59 @@
+name: funfr
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "10 7,14,21 * * *"
+
+jobs:
+  funfr-update:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: "3.11"
+
+    - name: Install Python dependencies
+      run: pip install requests
+
+    - name: Download from repo
+      env:
+        PRIVATE_REPO_TOKEN: ${{ secrets.PRIVATE_REPO_TOKEN }}
+      run: |
+        curl -s -H "Authorization: token $PRIVATE_REPO_TOKEN" \
+          -H "Accept: application/vnd.github.v3.raw" \
+          https://api.github.com/repos/ipstreet312/myrep/contents/ressources/funfr.py \
+          -o funfr.py
+
+    - name: Run py and extract URL
+      id: extract
+      run: |
+        url=$(python3 funfr.py)
+        echo "FINAL_URL=$url" >> $GITHUB_ENV
+
+    - name: Clean up funfr.py
+      run: rm -f funfr.py
+
+    - name: Replace in m3u
+      run: |
+        funfr_line=$(grep -n 'FUN RADIO TV FR' all.m3u | cut -d: -f1)
+        if [ -n "$funfr_line" ]; then
+          new_line_num=$((funfr_line + 1))
+          sed -i "${new_line_num}s|.*|$FINAL_URL|" all.m3u
+        else
+          echo "[-] FUN RADIO TV FR not found in all.m3u"
+        fi
+
+    - name: Commit and push updated all.m3u
+      run: |
+        git config user.name "funfr boot"
+        git config user.email "<>"
+        git add all.m3u
+        git commit -m "funfr update"
+        git push origin master
+      continue-on-error: true
