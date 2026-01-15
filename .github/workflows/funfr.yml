@@ -44,7 +44,8 @@ jobs:
         funfr_line=$(grep -n 'FUN RADIO TV FR' all.m3u | cut -d: -f1)
         if [ -n "$funfr_line" ]; then
           new_line_num=$((funfr_line + 1))
-          escaped_url=$(printf '%s\n' "$FINAL_URL" | sed 's/[&\/\\]/\\&/g')
+          clean_url="${FINAL_URL%%&*}"
+          escaped_url=$(printf '%s\n' "$clean_url" | sed 's/[&\/\\]/\\&/g')
           sed -i "${new_line_num}s|.*|$escaped_url|" all.m3u
         fi
 
