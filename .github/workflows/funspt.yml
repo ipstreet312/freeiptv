@@ -35,8 +35,8 @@ jobs:
       run: |
         json=$(python3 funspt.py)
     
-        xxtuy6_url=$(echo "$json" | jq -r '.xxtuy6_url')
-        x8sayn8_url=$(echo "$json" | jq -r '.x8sayn8_url')
+        xxtuy6_url=$(echo "$json" | jq -r '.xxtuy6')
+        x8sayn8_url=$(echo "$json" | jq -r '.x8sayn8')
     
         echo "XXTUY6_URL=$xxtuy6_url" >> $GITHUB_ENV
         echo "X8SAYN8_URL=$x8sayn8_url" >> $GITHUB_ENV
