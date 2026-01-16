@@ -206,9 +206,9 @@ https://live-lci-hls.cdn-0.diff.tf1.fr/out/v1/917aad4fa72f42f7ba7f486226f54bc4/l
 #EXTINF:-1,TV5MONDE FBSM
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
 #EXTINF:-1,TF1_
-https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NjgzNDI2OTYsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzY4MzI4Mjk2LCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.agjkV7xdvQWH2wazQTE_g8eHDr6m7m5fzcbyoGIuaD0/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
+https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3Njg2MDE4OTYsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzY4NTg3NDk2LCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.K5ykmkAmeH1NMcF8xsfhmc9wQnIghtaAEi-W0Bey6TY/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
 #EXTINF:-1,TF1-
-https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI1LjEzNS40OC44MiIsImNtY2QiOiIiLCJleHAiOjE3NjgzNDQ5NzksImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc2ODMzMDU3OSwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.CbLa-InpP7bSMlWEl5hXmmFn08h3ZXWfyA2HtX7aFzc/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
+https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI1LjEzNS40OC44MiIsImNtY2QiOiIiLCJleHAiOjE3Njg2MDQyMTksImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc2ODU4OTgxOSwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.Gw_d0f_HHbykVQRk0KeqR7y4GSughGHnl0lno4V3ELU/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
 #EXTINF:-1,FRANCE 2
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr2.m3u8
 #EXTINF:-1,FRANCE 3
@@ -347,7 +347,7 @@ http://gratuittv.free.fr/Files/w9/live/playlist.m3u8
 #EXTINF:-1,FUN RADIO TV BE
 https://funradiovisionhd.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8
 #EXTINF:-1,FUN RADIO TV FR
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/funradiofr.m3u8
+https://cdndirector.dailymotion.com/cdn/live/video/xxtuy6.m3u8?sec=Ice6828wGmj-Jm1FgHkh2kyCRG6BW45QGRvWZmYRTij242C5LzluSMkc28mJ71zLHMuF2n8rPG3TUbi6S7wGxp3WFXtd9wl_18_zp7e-6Wc
 #EXTINF:-1,LE MOUV'
 https://raw.githubusercontent.com/SebTV-prod/streams/refs/heads/main/ressources/dm/py/hls/mouv.m3u8
 #EXTINF:-1,GÉNÉRATIONS TV
@@ -575,7 +575,7 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1,TRACE SPORTS
 https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1,SPORT EN FRANCE
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/dailymotion/sportenfrance.m3u8
+https://cdndirector.dailymotion.com/cdn/live/video/x8sayn8.m3u8?sec=5UxyWU4ctz1kvAxZDn7RrBRF7Ii4hcMMvJoCSVIdQnOJn-otAYvxgMorGtZpdLZ39NhzVznNRINBwTYFhLD6oXxNcL2O_BqxVcpKsIl1BwE
 #EXTINF:-1,L'ÉQUIPE LIVE 1
 https://d3fikx9gxqicmt.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3rguah8p42dlq/d903c3c9-a66d-4ed1-a922-d87a40815790/2.m3u8
 #EXTINF:-1,L'ÉQUIPE LIVE 1 (backup)
@@ -1059,7 +1059,7 @@ https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 #EXTINF:-1,TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,SÖZCÜ TV
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Sozcu_Tv.m3u8
+http://65.108.239.207:80/sozcutv/index.m3u8
 #EXTINF:-1,SÖZCÜ CANLI
 https://helga.iptv2022.com/szc_tv/index.m3u8
 #EXTINF:-1,MELTEM TV
@@ -1150,6 +1150,10 @@ http://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.s
 https://ensonhaber-live.ercdn.net/trthaber/trthaber.m3u8
 #EXTINF:-1,TRT HABER (backup)
 https://tv.ensonhaber.com/trthaber/trthaber.m3u8
+#EXTINF:-1,SÖZCÜ YT- (backup)
+http://5.178.103.239:82/yt1/s/sozcutv.m3u8
+#EXTINF:-1,SÖZCÜ TV (backup)
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Sozcu_Tv.m3u8
 #EXTINF:-1,SÖZCÜ TV (backup)
 https://cdn.tecostream.xyz/Sozcu_Tv.m3u8
 #EXTINF:-1,SÖZCÜ TV (backup)
@@ -1757,9 +1761,9 @@ https://new.cache-stream.workers.dev/stream/UCK3mI2lsk3LSo8PBUc8JTSw/live.m3u8
 #EXTINF:-1,HT SPOR (backup)
 https://livestream.zazerconer.workers.dev/channel/UCK3mI2lsk3LSo8PBUc8JTSw.m3u8
 #EXTINF:-1,SPOTIFY TURKEY • TRLIST 👤🎧🎤📻💯
-https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/sptr.ts
+https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/spftrcc.ts
 #EXTINF:-1,SPOTIFY TURKEY • 2026 🎶🎵🎼🎹🪗🎸🎷🎺🎻🪕
-https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/sptr26.ts
+https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/spf26cc.ts
 #EXTINF:-1,TRT MÜZİK
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,KRAL - KRAL POP
@@ -2926,6 +2930,8 @@ https://dgrfwaj8stp69.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
 #EXTINF:-1,CANAL DIPUTADOS
 https://congresodirecto.akamaized.net/hls/live/2038274/canal1/master.m3u8
+#EXTINF:-1,NOW NEWS ESPAÑOL
+https://stream-193277.castr.net/638b849cf500d54e8db17683/live_2f8d8b103b1611f09930bbe09ee3178f/index.m3u8
 #EXTINF:-1,SOL MÙSICA
 https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
 #EXTINF:-1,TRECE INT
@@ -4304,7 +4310,7 @@ https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
 #EXTINF:-1,AL ARABIYA BUSINESS
 https://alarabiya-business-ak.akamaized.net/out/v1/126027fa2f8c4d19be4551b77ec08cbb/index.m3u8
 #EXTINF:-1,AL ARABIYA PROGRAMS
-https://d1j4r34gq3qw9y.cloudfront.net/out/v1/96804f3a14864641a21c25e8ca9afb74/index.m3u8
+https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8
 #EXTINF:-1,AL JAZEERA MUBASHER
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 #EXTINF:-1,AL JAZEERA MUBASHER
@@ -4361,6 +4367,8 @@ https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,SHAMS TV
 https://stream.shams.tv/hls/0/stream.m3u8
+#EXTINF:-1,NOW NEWS ARABIC
+https://nowarhls.wns.live/hls/stream.m3u8
 #EXTINF:-1,AL ALAM IR
 https://live2.alalam.ir/live/Alalam/index.m3u8
 #EXTINF:-1,AL ALAM IR
@@ -5645,6 +5653,8 @@ https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1,FOX NEWS
 https://d3tlzddkbbpp5n.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9uzjfw11uj9nn/LiveNOW_from_FOX.m3u8
 #EXTINF:-1,FOX NEWS
+https://aegis-cloudfront-1.tubi.video/d9791887-fac6-4930-83b3-c2e8196424ef/index.m3u8
+#EXTINF:-1,FOX NEWS
 https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 #EXTINF:-1,FOX NEWS
 https://pb-k5p02dtnr2162.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-k5p02dtnr2162/LiveNOW_from_FOX.m3u8
@@ -5756,6 +5766,10 @@ https://aka-live1049.delivery.roku.com/0c24a9ef-e9c3-485c-bf68-3f1ae5ef3e85/t2-o
 https://d36tuf8zz9b2bm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hfw6opvomwxih/CBC_News_International.m3u8
 #EXTINF:-1,GLOBAL NEWS
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live.m3u8
+#EXTINF:-1,NOW NEWS GLOBAL
+https://nowhls.wns.live/hls/stream.m3u8
+#EXTINF:-1,NOW NEWS USA
+https://nowushls.wns.live/hls/stream.m3u8
 #EXTINF:-1,BBC NEWS
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/pc_hd_abr_v2.m3u8
 #EXTINF:-1,BBC NEWS
@@ -6065,7 +6079,7 @@ https://aka-live1049.delivery.roku.com/eaf7d889-16e0-4c14-a299-a2932df9f467/t2-o
 #EXTINF:-1,FOX NEWS [diedlink]
 https://fox-foxnewsnow-samsungus-tsv2-hm6vl.amagi.tv/playlist/samsungus-fox-newsnow-samsung/playlist.m3u8
 #EXTINF:-1,|ℹ️|MORE-INFO➡️: ☛RECEPTIONIPTV.BLOGSPOT.COM
-https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/linkupdatedinfo.ts
+https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/blogcc.ts
 #EXTINF:-1,--- |🎁⭐ ⬇↓ DELUXE PACKAGE👍 ↓⬇🤩❤️| --- 🎵💯
 http://
 #EXTINF:-1,DELUXE MUSIC English
