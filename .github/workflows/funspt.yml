@@ -6,7 +6,7 @@ on:
     - cron: "10 5,10,15,20,00 * * *"
 
 jobs:
-  funfr-update:
+  funspt-update:
     runs-on: ubuntu-latest
 
     steps:
