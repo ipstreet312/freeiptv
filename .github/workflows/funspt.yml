@@ -41,8 +41,8 @@ jobs:
         echo "XXTUY6_URL=$xxtuy6_url" >> $GITHUB_ENV
         echo "X8SAYN8_URL=$x8sayn8_url" >> $GITHUB_ENV
     
-        - name: Clean up funspt.py
-          run: rm -f funspt.py
+    - name: Clean up funspt.py
+      run: rm -f funspt.py
     
     - name: Replace in m3u
       run: |
