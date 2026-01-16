@@ -1,0 +1,68 @@
+name: funspt
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "10 5,10,15,20,00 * * *"
+
+jobs:
+  funfr-update:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: "3.11"
+
+    - name: Install Python dependencies
+      run: pip install requests
+
+    - name: Download from repo
+      env:
+        PRIVATE_REPO_TOKEN: ${{ secrets.PRIVATE_REPO_TOKEN }}
+      run: |
+        curl -s -H "Authorization: token $PRIVATE_REPO_TOKEN" \
+          -H "Accept: application/vnd.github.v3.raw" \
+          https://api.github.com/repos/ipstreet312/myrep/contents/ressources/funspt.py \
+          -o funspt.py
+
+    - name: Run py and extract URLs
+      id: extract
+      run: |
+        json=$(python3 funspt.py)
+    
+        xxtuy6_url=$(echo "$json" | jq -r '.xxtuy6_url')
+        x8sayn8_url=$(echo "$json" | jq -r '.x8sayn8_url')
+    
+        echo "XXTUY6_URL=$xxtuy6_url" >> $GITHUB_ENV
+        echo "X8SAYN8_URL=$x8sayn8_url" >> $GITHUB_ENV
+    
+        - name: Clean up funspt.py
+          run: rm -f funspt.py
+    
+    - name: Replace in m3u
+      run: |
+        # FUN RADIO TV FR → xxtuy6
+        funfr_line=$(grep -n 'FUN RADIO TV FR' all.m3u | cut -d: -f1)
+        if [ -n "$funfr_line" ]; then
+          sed -i "$((funfr_line + 1))s|.*|$XXTUY6_URL|" all.m3u
+        fi
+        
+        # SPORT EN FRANCE → x8sayn8
+        sportfr_line=$(grep -n 'SPORT EN FRANCE' all.m3u | cut -d: -f1)
+        if [ -n "$sportfr_line" ]; then
+          sed -i "$((sportfr_line + 1))s|.*|$X8SAYN8_URL|" all.m3u
+        fi
+
+    - name: Commit and push updated all.m3u
+      run: |
+        git config user.name "funspt boot"
+        git config user.email "<>"
+        git add all.m3u
+        git commit -m "funspt update"
+        git push origin master
+      continue-on-error: true
