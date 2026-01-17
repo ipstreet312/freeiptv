@@ -219,19 +219,19 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr4.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N9d4yXt/fr5bl.png",FRANCE 5
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr5.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",FRANCE LA 1ÈRE (PLAYOUT) 🌞
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",FRANCE LA 1ÈRE (PLAYOUT)
 https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/ftv/py/fr1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9rmSGqP/frsr.png",FRANCE TV SÉRIES
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frserv2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kJjHW61/frdocs.png",FRANCE TV DOCUMENTAIRES
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frdocv2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CKmJVCGT/launebe.png",LA UNE 😘
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CKmJVCGT/launebe.png",LA UNE
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/6d35e26e/1bffdaaf.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BPpZPBn/arte.png",ARTE
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BPpZPBn/arte.png",ARTE -0,5H
 https://tvradiozap.eu/tools/mng-m3u8.php/640.2/30/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6 CH/SWISS 😇
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6 CH/SWISS
 https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png" drm="ClearKey", drmkey="433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3",M6
 https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd
@@ -1071,7 +1071,7 @@ https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Bt6frts/trthaber.png" group-title="7. |TR|🇹🇷 HABER",TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)",SÖZCÜ TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)",SÖZCÜ TV (pc/mob init)
 http://trn03.tulix.tv/gt-sozcu-tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Fq0ZvYG/meltemtvt.png",MELTEM
 http://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
