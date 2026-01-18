@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png" group-title="1. |FR|🇫🇷 INFORMATION",BFM TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png" group-title="1. |FR|🇫🇷 INFORMATION ℹ️📰",BFM TV
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png",CNEWS
 https://hls-m015-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v3-hd-clair/cnews-clair-hd.m3u8
@@ -203,7 +203,7 @@ https://2767164d5ee04887b96812a9eea74d32.mediatailor.eu-west-1.amazonaws.com/v1/
 https://live-lci-hls.cdn-0.diff.tf1.fr/out/v1/917aad4fa72f42f7ba7f486226f54bc4/lci-cmaf/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pQ7kLNY/tv5fbs.png" group-title="2. |FR|🇫🇷 GÉNÉRALISTES",TV5MONDE FBSM
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pQ7kLNY/tv5fbs.png" group-title="2. |FR|🇫🇷 GÉNÉRALISTES 📺📀",TV5MONDE FBSM
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1_
 https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3Njg3MjA2OTYsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzY4NzA2Mjk2LCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.XKJWHy6vGyS00KEuvdr-BBN09j-kAH1G1m88ERChM7A/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
@@ -347,7 +347,7 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressour
 http://gratuittv.free.fr/Files/w9/live/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ByN83p3/funradtv.png" group-title="3. |FR|🇫🇷 MUSIQUE - JEUNESSE",FUN RADIO TV BE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ByN83p3/funradtv.png" group-title="3. |FR|🇫🇷 MUSIQUE - JEUNESSE 🎵🧒",FUN RADIO TV BE
 https://funradiovisionhd.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ByN83p3/funradtv.png",FUN RADIO TV FR
 https://cdndirector.dailymotion.com/cdn/live/video/xxtuy6.m3u8?sec=5pr8KSbiLTMS9vxlyuNJTItwSUbIpwSWGz2JrzXmVrLcjJaIRuKABa9BD3mEeFtn7bUWF11JBH_q2fabpPJH43pXIlUaZDKa0XHs0Gux0Ig
@@ -429,7 +429,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://amg01131-tracetv-amg01131c1-rakuten-us-1081.playouts.now.amagi.tv/playlist/amg01131-tracetvfast-traceurban-rakutenus/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/svWdczbW/ina.png" group-title="4. |FR|🇫🇷 CULTURE - DÉCOUVERTE",INA 70s
+#EXTINF:-1 tvg-logo="https://i.ibb.co/svWdczbW/ina.png" group-title="4. |FR|🇫🇷 CULTURE - DÉCOUVERTE 🗺️🎋",INA 70s
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/frina.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/svWdczbW/ina.png",INA 70s
 https://fast-rakuten.okast.tv/channels/34d82f76-b51f-4bf5-9b35-769fb5904e79/96f96405-90e7-489a-a1e6-8ede5d2b4933/media_.m3u8?bpkio_serviceid=fa2e8c4385712f9af3e719ec904b3543
@@ -577,7 +577,7 @@ https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5940
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sWxH6cv/tracesports.png" group-title="5. |FR|🇫🇷 SPORT - SÉRIES / FILMS",TRACE SPORTS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sWxH6cv/tracesports.png" group-title="5. |FR|🇫🇷 SPORT - SÉRIES / FILMS 🎞️🤾‍♀️",TRACE SPORTS
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sWxH6cv/tracesports.png",TRACE SPORTS
 https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
@@ -729,7 +729,7 @@ https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-s
 https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8
 
 
-#EXTINF:-1 group-title="6. |FR|🇫🇷 LOCALES - RÉGIONALES",--- |FR:🇫🇷 FRANCE MÉTROPOLITAINE| ---
+#EXTINF:-1 group-title="6. |FR|🇫🇷 LOCALES - RÉGIONALES 🏞️🏢",--- |FR:🇫🇷 FRANCE MÉTROPOLITAINE| ---
 https://section
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png",BFM ALPES
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_ALPESDUSUD/index.m3u8?start=LIVE&end=END
@@ -915,7 +915,7 @@ https://raw.githubusercontent.com/SebTV-prod/streams/refs/heads/main/ressources/
 https://indisponible
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1RVPRkx/bocal.png",TÉLÉ BOCAL
 https://indisponible
-#EXTINF:-1 group-title="6. |FR|🇫🇷 LOCALES - RÉGIONALES",--- |FR:🇫🇷 OUTRE-MER DOM/TOM| ---
+#EXTINF:-1 group-title="6. |FR|🇫🇷 LOCALES - RÉGIONALES 🏞️🏢",--- |FR:🇫🇷 OUTRE-MER DOM/TOM| ---
 https://section
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3pbTbdG/ubizom.jpg",UBIZNEWS OM5TV
 https://tvradiozap.eu/tools/dm-m3u8.php/x8dicii.m3u8
@@ -975,11 +975,11 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1wfm.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",LA 1ÈRE SAINT-PIERRE MIQUELON (news only)
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1spmm.m3u8
-#EXTINF:-1 group-title="6. |FR|🇫🇷 LOCALES - RÉGIONALES",--- |MC:🇲🇨 MONACO PRINCIPAUTÉ| ---
+#EXTINF:-1 group-title="6. |FR|🇫🇷 LOCALES - RÉGIONALES 🏞️🏢",--- |MC:🇲🇨 MONACO PRINCIPAUTÉ| ---
 https://section
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XjzvmqL/tvmonaco.jpg",TV MONACO
 https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
-#EXTINF:-1 group-title="6. |FR|🇫🇷 LOCALES - RÉGIONALES",--- |BE:🇧🇪 BELGIQUE WALLONIE| ---
+#EXTINF:-1 group-title="6. |FR|🇫🇷 LOCALES - RÉGIONALES 🏞️🏢",--- |BE:🇧🇪 BELGIQUE WALLONIE| ---
 https://section
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CKmJVCGT/launebe.png",LA UNE RTBF
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/6d35e26e/1bffdaaf.isml/.m3u8
@@ -1023,7 +1023,7 @@ https://tvlocales-live.freecaster.com/95d2f656-50f1-432b-84a6-ce11c6cdb482/95d2f
 https://tvlocales-live.freecaster.com/tvcom/95d2f656-ba85-4e13-affc-f1936be1a86d/95d2f656-ba85-4e13-affc-f1936be1a86d.isml/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MCtzw8h/tvlux.png",TV LUX
 https://tvlocales-live.freecaster.com/95d2f631-8941-4efd-b223-0ebd56a033c4/95d2f631-8941-4efd-b223-0ebd56a033c4.isml/master.m3u8
-#EXTINF:-1 group-title="6. |FR|🇫🇷 LOCALES - RÉGIONALES",--- |CH:🇨🇭 BASSIN SUISSE ROMANDE| ---
+#EXTINF:-1 group-title="6. |FR|🇫🇷 LOCALES - RÉGIONALES 🏞️🏢",--- |CH:🇨🇭 BASSIN SUISSE ROMANDE| ---
 https://section
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fqq90Z2/noovo.png",NOOVO
 https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/index/de22f34f/live/stream/h264/v1/2048000/manifest.m3u8
@@ -1051,7 +1051,7 @@ https://livevideo.vedge.infomaniak.com/livecast/ik:canalalpha/manifest.m3u8
 https://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FzJtxkx/mmediach.png",M LE MÉDIA
 https://raw.githubusercontent.com/BG47510/tube/refs/heads/main/mlemedia.m3u8
-#EXTINF:-1 group-title="6. |FR|🇫🇷 LOCALES - RÉGIONALES",--- |CA-QC:🇨🇦 ZONE CANADA\QUÉBEC| ---
+#EXTINF:-1 group-title="6. |FR|🇫🇷 LOCALES - RÉGIONALES 🏞️🏢",--- |CA-QC:🇨🇦 ZONE CANADA\QUÉBEC| ---
 https://section
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LzWqD0s/savoirmedia.png",SAVOIR.MÉDIA
 https://hls.savoir.media/live/stream.m3u8
@@ -1295,7 +1295,7 @@ https://canli.tgrthaber.com/tgrt.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png" group-title="8. |TR|🇹🇷 ULUSAL GENEL",TRT 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png" group-title="8. |TR|🇹🇷 ULUSAL GENEL ℹ️📰",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png",TRT 1
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
@@ -1474,8 +1474,7 @@ https://kanal7.blutv.com/blutv_kanal7_live/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0tc3PYz/beyaz22b.png",BEYAZ TV [diedlink]
 https://beyaztv.blutv.com/blutv_beyaztv_live/live.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png" group-title="9. |TR|🇹🇷 BELGESEL & YAŞAM",TRT BELGESEL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png" group-title="9. |TR|🇹🇷 BELGESEL & YAŞAM 🗺️🎋",TRT BELGESEL
 https://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TB5N8cN/trt2.png",TRT 2
 https://tv-trt2.medya.trt.com.tr/master.m3u8
@@ -1603,7 +1602,7 @@ https://womantv.blutv.com/blutv_womantv/blutv_womantv/index.m3u8
 https://live.artidijitalmedya.com/artidijital_bikanal/bikanal/chunks.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C33T9Vdk/trtgenc.png" group-title="10. |TR|🇹🇷 ÇOCUK - SPOR",TRT GENÇ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C33T9Vdk/trtgenc.png" group-title="10. |TR|🇹🇷 ÇOCUK - SPOR 🤾‍♀️🧒",TRT GENÇ
 https://tv-trtgenc.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YjkMYbF/trtcocuk21a.png",TRT ÇOCUK
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
@@ -1779,7 +1778,7 @@ https://new.cache-stream.workers.dev/stream/UCK3mI2lsk3LSo8PBUc8JTSw/live.m3u8
 https://livestream.zazerconer.workers.dev/channel/UCK3mI2lsk3LSo8PBUc8JTSw.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gdbyhx2/spotify.png" group-title="11. |TR|🇹🇷 MÜZİK",SPOTIFY TURKEY • TRLIST 👤🎧🎤📻💯
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gdbyhx2/spotify.png" group-title="11. |TR|🇹🇷 MÜZİK 🎵🎺",SPOTIFY TURKEY • TRLIST 👤🎧🎤📻💯
 https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/spftrcc.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gdbyhx2/spotify.png",SPOTIFY TURKEY • 2026 🎶🎵🎼🎹🪗🎸🎷🎺🎻🪕
 https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/spf26cc.ts
@@ -1845,7 +1844,7 @@ http://dygvideo.dygdigital.com/live/hls/puhukralpopdai?m3u8
 https://dogus.daioncdn.net/kralpoptv/kralpoptv.m3u8?app=f38a38b4-ce55-4040-8676-9826937d6128
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xzZk0Yq/trtavaz.png" group-title="12. |TR|🇹🇷 AVRUPA; DİNÎ; DİĞER",TRT AVAZ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xzZk0Yq/trtavaz.png" group-title="12. |TR|🇹🇷 AVRUPA; DİNÎ; DİĞER 🎞️🎡",TRT AVAZ
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/swtn1kV/trtturk.png",TRT TÜRK
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
@@ -1991,7 +1990,7 @@ http://nimplus3.bozztv.com/eurostar/eurostar/playlist.m3u8
 http://nimplus3.bozztv.com/tv8int/tv8int/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="13. |TR|🇹🇷 YEREL - BÖLGESEL",ANADOLU NET TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="13. |TR|🇹🇷 YEREL - BÖLGESEL 🏞️🏢",ANADOLU NET TV
 https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",AKDENİZ TV
 https://cdn-akdeniztv.yayin.com.tr/akdeniztv/akdeniztv/playlist.m3u8
@@ -2317,7 +2316,7 @@ http://cdn-kanalavrupa.yayin.com.tr/kanalavrupa/index.m3u8
 https://live.euromediacenter.com/gurmetv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",EZGİ TV
 https://live.euromediacenter.com/ezgitv/index.m3u8
-#EXTINF:-1 group-title="13. |TR|🇹🇷 YEREL - BÖLGESEL",--- |KKTC: KUZEY KIBRIS| ---
+#EXTINF:-1 group-title="13. |TR|🇹🇷 YEREL - BÖLGESEL 🏞️🏢",--- |KKTC: KUZEY KIBRIS| ---
 http://blank
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y8p46cM/Kktc.png",BRT 1
 https://sc-kuzeykibrissmarttv.ercdn.net/brt1hd/bant1/playlist.m3u8
@@ -2355,7 +2354,7 @@ https://sc-kuzeykibrissmarttv.ercdn.net/tv2020/bantp1/playlist.m3u8
 https://spor.kuzeykibris.tv/m3u8/tv_2020.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y8p46cM/Kktc.png",KK TV
 http://old.kuzeykibris.tv/m3u8/kktv.m3u8
-#EXTINF:-1 group-title="13. |TR|🇹🇷 YEREL - BÖLGESEL",--- |KURDÎ: SORANİ, KURMANCİ, GORANİ ZAZA| ---
+#EXTINF:-1 group-title="13. |TR|🇹🇷 YEREL - BÖLGESEL 🏞️🏢",--- |KURDÎ: SORANİ, KURMANCİ, GORANİ ZAZA| ---
 http://blank
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png",ZAROK KURMANÎ
 https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
