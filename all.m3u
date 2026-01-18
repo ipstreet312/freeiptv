@@ -223,6 +223,8 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressour
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frserv2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kJjHW61/frdocs.png",FRANCE TV DOCUMENTAIRES
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frdocv2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M5GZZWKm/ftvsp.jpg",FRANCE TV SPORT (NOUVEAU)
+https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/ftvsport.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CKmJVCGT/launebe.png",LA UNE 😘
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/6d35e26e/1bffdaaf.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BPpZPBn/arte.png",ARTE
@@ -473,7 +475,11 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=10246
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=14172
 #EXTINF:-1 tvg-logo="https://i.ibb.co/V0Y0BwKt/culpub.png",CULTURE-PUB TV
 https://amg02232-botravail-amg02232c3-samsung-fr-432.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg02232-botravail-culturepub-samsungfr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8rcTV8C/festcannes.jpg",FRANCE TV FESTIVAL DE CANNES (EVENT)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kJjHW61/frdocs.png",FRANCE TV DOCUMENTAIRES
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frdocv2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Dg6R4G5x/par31.jpg",FRANCE TV EVEN.-ÉPHÉ. (NOUVEL_AN)
+https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/ftv/py/frp31.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8rcTV8C/festcannes.jpg",FRANCE TV FESTIVAL DE CANNES (EVENT MAI)
 https://evenementiel_mai
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zHF5PHD4/Mieux.png",MIEUX TV
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/mieux.m3u8
@@ -581,6 +587,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5940
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sWxH6cv/tracesports.png",TRACE SPORTS
 https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M5GZZWKm/ftvsp.jpg",FRANCE TV SPORT
+https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/ftvsport.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p1stMyz/sportenfr.webp",SPORT EN FRANCE
 https://cdndirector.dailymotion.com/cdn/live/video/x8sayn8.m3u8?sec=WfHWlx8uztluCHxWJRWG4e7lDFYmL0ACyS3dOP8nm8Zo-Cl1VlvmEF_3AuDkelHQ93eq4_irBKfSF9oHOLmAarSnBmdR3564pjs6EkTHaj8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXRbJz4/eqps.png",L'ÉQUIPE LIVE 1
@@ -613,7 +621,7 @@ https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/lequip
 https://d278gam2ft6q08.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0ic4hqa502el6/AfterfootTV_FR.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gTxbf2C/rmcts.jpg",RMC TALK SPORT (service off)
 https://d21wdmv2hqydbt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n239v7ne7hack/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kgMKnQVx/rolangarros.jpg",FRANCE TV ROLAND-GARROS (EVENT)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kgMKnQVx/rolangarros.jpg",FRANCE TV ROLAND-GARROS (EVENT MAI/JUIN)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/roland-garros.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p0CLPqT/equidia.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" referer="https://www.equidia.fr/",ÉQUIDIA
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/extr/py/equidi.m3u8
@@ -651,6 +659,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60817e1aa6997500072d0d
 https://amg01444-amg01444c7-samsung-fr-6370.playouts.now.amagi.tv/playlist/amg01444-tennischannelfast-tennischannelfrance-samsungfr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hFZ5gkJZ/Tennisfr.jpg",TENNIS CH FR
 https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/lequipe/tennis-channel.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9rmSGqP/frsr.png",FRANCE TV SÉRIES
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frserv2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bj8dwzgz/100comedy.jpg",100 COMEDIES
 https://amg02393-amg02393c10-amgplt0011.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg02393-amg02393c10-amgplt0011/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VvMKr5V/wildside.jpg",WILD SIDE TV
@@ -957,6 +967,8 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1wf.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",LA 1ÈRE SAINT-PIERRE MIQUELON [geo-area]
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1spm.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",FRANCE LA 1ÈRE (PLAYOUT)
+https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/ftv/py/fr1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",LA 1ÈRE MARTINIQUE (news only)
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1marm.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",LA 1ÈRE GUADELOUPE (news only)
@@ -1065,6 +1077,112 @@ https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master.m3u8
 https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tHBB7zv/icimontreal.png",ICI MONTRÉAL
 https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
+#EXTINF:-1 group-title="6. |FR|🇫🇷 LOCALES - RÉGIONALES 🏞️🏢",--- |AFR:🌍 AFRIQUE FRANCOPHONE| ---
+https://section
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",TVC (BJ) [BÉNIN]
+https://live.tvcbenin.com/direct/729c37a1d3319ee21991227b1f84c687.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",ETV (BJ)
+https://etvgp.vedge.infomaniak.com/livecast/etvgp/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",BENIN TV JUNIOR (BJ)
+https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",RTB (BF) [BURKINA FASO]
+http://69.64.57.208/rtb/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",RTB2 (BF)
+https://edge20.vedge.infomaniak.com/livecast/ik:rtbguiriko-1/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",SAVANE TV (BF)
+https://savane24.tv:5443/LiveApp/streams/Y4fyif69Q0ll6MeH2190896734859843.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",CRTV (CM) [CAMEROUN]
+http://69.64.57.208/crtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",DREAM CHANNEL (CM)
+https://webtv.dreamtv.cm/memfs/8b4b79ca-4cad-43b8-960d-69e89f9f9018_output_0.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",CAM10 (CM)
+https://stream.it-innov.com/cam10tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",EQUINOXE TV (CM)
+http://69.64.57.208/equinoxtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",VISION 4 (CM)
+https://cdn-globecast.akamaized.net/live/eds/vision4/hls_video/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",MISHAPI (CD) [CONGO DEM.]
+https://tnt-television.com/MISHAPI-STREAM1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",RTNC (CD)
+https://tnt-television.com/rtnc_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",GEOPOLIS TV (CD)
+https://tnt-television.com/Geopolis_tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",CHERIFLA (ML) [MALI]
+http://69.64.57.208/cherifla/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",NEXT TV (ML)
+https://video1.getstreamhosting.com:1936/8312/8312/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",ORTM1 (ML)
+http://69.64.57.208/ortm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",ORTM2 (ML)
+http://69.64.57.208/tm2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",A12 (CI) [CÔTE D'IVOIRE]
+https://video1.getstreamhosting.com:1936/8250/8250/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",RTI 1 (CI)
+https://cdnapisec.kaltura.com/p/6234172/sp/623417200/playManifest/entryId/1_vqff78xz/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",RTI 2 (CI)
+https://cdnapisec.kaltura.com/p/6234172/playManifest/entryId/1_tk6zpgcs/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",RTI3 (CI)
+https://cdnapisec.kaltura.com/p/6234172/playManifest/entryId/1_hja36c90/protocol/https/format/applehttp/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",NTV (CI)
+https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",REEL TV (CI)
+https://neriyastreaming.ddns.net/memfs/a59bc008-a226-430c-a050-45fa0891d8c3.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",REFLET TV (CI)
+https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",NCI (CI)
+https://video1.getstreamhosting.com:1936/8338/8338/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",LIFE TV (CI)
+https://strhls.streamakaci.tv/str_lifetv_lifetv/str_lifetv_multi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",IVOIRE CHANNEL (CI)
+https://video1.getstreamhosting.com:1936/8282/8282/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",CEN TV (CI)
+https://strhlslb01.streamakaci.tv/cen/cen-multi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",TV LA CAPITALE (CI)
+https://stream.berosat.live:19360/tv-capitale-tream/tv-capitale-tream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",RTG 2 (GN)
+https://stream.castr.com/6358a30fa50e3ae11b6d0424/live_e05d20809c3611edadb72177341481c3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",ESPACE TV (GN) [GUINÉE]
+https://edge11.vedge.infomaniak.com/livecast/espacetv/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",KALAC (GN)
+https://edge13.vedge.infomaniak.com/livecast/ik:kalactv/chunklist_w280736538.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",TÉLÉ SAHEL (NE) [NIGÉRIA]
+http://69.64.57.208/telesahel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",LOUGA TV (SN) [SÉNÉGAL]
+https://stream.sen-gt.com/Mbacke/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",A2I MUSIC (SN)
+https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",SENEWEB TV (SN)
+https://vdo2.pro-fhi.net:3297/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",SENJEUNES(SN)
+https://stream.sen-gt.com/senjeunestv/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",SENTV (SN)
+http://69.64.57.208/sentv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",RTS 1 (SN)
+http://69.64.57.208/rts1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",RTS 2 (SN)
+http://69.64.57.208/rts2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",2STV (SN)
+http://69.64.57.208/2stv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",TFM (SN)
+https://tvradiozap.eu/tools/dm-m3u8.php/1/x7wcr45.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",A2I TV (SN)
+https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",AFRICA24 (SN)
+https://africa24.vedge.infomaniak.com/livecast/africa24/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",AFRICA24 SPORT (SN)
+https://africa24sport.vedge.infomaniak.com/livecast/africa24sport/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",AMANI TV(SN)
+https://goccn.cloud/hls/amanitv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",C2M TV (SN)
+https://stream.ecable.tv/canal2m/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",TÉLÉ TCHAD (TD) [TCHAD]
+https://strhlslb01.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",NW INFO (TG) [TOGO]
+https://hls.newworldtv.com/nw-info/video/live_3.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",NW MAGAZINE (TG)
+https://hls.newworldtv.com/nw-magazine/video/live_3.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",NW ÉCONOMIE(TG)
+https://hls.newworldtv.com/nw-economie/video/live_3.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Bt6frts/trthaber.png" group-title="7. |TR|🇹🇷 HABER ℹ️📰",TRT HABER
@@ -2369,7 +2487,7 @@ https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png",RÛDAW TV
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png",ROJAVA TV
-https://iko-streamline-live1.akamaized.net/RojavaTV/master.m3u8
+https://hlspackager.akamaized.net/live/DB/ROJAVA_HD/HLS/ROJAVA_HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png",ZOOMNEWS
 https://live.zoomnews.info/live/Zoom/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png",MED MUSIC
