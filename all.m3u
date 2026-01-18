@@ -1135,16 +1135,14 @@ https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Ulusal_Kanal.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fGnRLnLM/yenicag.png",YENİÇAĞ TV
 https://live.euromediacenter.com/yenicagtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k2vyJRC5/noktatv.jpg",NOKTA TV
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Nokta_Tv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CKSd9c5h/tele2.png",TELE 2 HABER
+https://video.twimg.com/amplify_video/1988933245791096832/pl/-LYtCesCNPKsSJDS.m3u8?variant_version=1&tag=14
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KwXzY6B/apara.png",A PARA
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BN9tk1q/tbmm22.png",TBMM TV
 https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1X8nWHc/ahaber.png",A HABER (yt back)
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/A_haber.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k2vyJRC5/noktatv.jpg",NOKTA TV (yt back)
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Nokta_Tv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CKSd9c5h/tele2.png",TELE 2 HABER (yt promo)
-https://video.twimg.com/amplify_video/1988933245791096832/pl/-LYtCesCNPKsSJDS.m3u8?variant_version=1&tag=14
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KwXzY6B/apara.png",A PARA (temp.)
-https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/K6BKFqY/dha.png",DHA (feed 1)
 https://603c568fccdf5.streamlock.net/live/dhaweb1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/K6BKFqY/dha.png",DHA (feed 2)
@@ -1261,8 +1259,8 @@ https://tele1.blutv.com/blutv_tele1_live/live.m3u8
 https://ensonhaber-live.ercdn.net/benguturk/benguturk.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZXts607/ulketv.png",ÜLKE (backup)
 https://ulketv.blutv.com/blutv_ulketv2/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1X8nWHc/ahaber.png",A HABER (backup)
-https://anym3u8player.com/youtube.php/id/68f4c967d2678.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1X8nWHc/ahaber.png",A HABER (yt back)
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/A_haber.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1X8nWHc/ahaber.png",A HABER (backup)
 https://trkvz-live.ercdn.net/ahaberhd/ahaberhd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1X8nWHc/ahaber.png",A HABER (backup)
