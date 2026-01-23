@@ -206,9 +206,9 @@ https://live-lci-hls.cdn-0.diff.tf1.fr/out/v1/917aad4fa72f42f7ba7f486226f54bc4/l
 #EXTINF:-1,TV5MONDE FBSM
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
 #EXTINF:-1,TF1_
-https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3Njg5NDM4OTgsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzY4OTI5NDk4LCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.x7JYnJFNK8dC5sp-2B58HDC8BVoMhnfjmJogYnfTUq4/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
+https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NjkyMDY2OTYsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzY5MTkyMjk2LCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.vKrIdTSB21krfcL8Id9E5Pfo1YxgceAzHBxAZDh87Os/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
 #EXTINF:-1,TF1-
-https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI1LjEzNS40OC44MiIsImNtY2QiOiIiLCJleHAiOjE3Njg5NTI4MjAsImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc2ODkzODQyMCwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.Pftf6O7MdZAK69MSIoMtTagej64sItbnxlh3jzh6Q9M/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
+https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI1LjEzNS40OC44MiIsImNtY2QiOiIiLCJleHAiOjE3NjkyMDkxNzgsImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc2OTE5NDc3OCwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.GDDLfDHwiSOZTf6KxTNoHenPz-04OO4ngYCfERZUyco/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
 #EXTINF:-1,FRANCE 2
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr2.m3u8
 #EXTINF:-1,FRANCE 3
@@ -349,7 +349,7 @@ http://gratuittv.free.fr/Files/w9/live/playlist.m3u8
 #EXTINF:-1,FUN RADIO TV BE
 https://funradiovisionhd.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8
 #EXTINF:-1,FUN RADIO TV FR
-https://cdndirector.dailymotion.com/cdn/live/video/xxtuy6.m3u8?sec=bjyUOqKqALsyxhysaH-m54YEHi4G1f_7Ll3WX-WO20hPN5eiqN2QDZ_8fAdD1rrGK0sA8R1wCbKxvDq_KRY9RRLPuBNCWI__G6bhv70nj8A
+https://cdndirector.dailymotion.com/cdn/live/video/xxtuy6.m3u8?sec=zyhYdMzEzX9v94FmhjGW_Op4Ffz8QtKC1sONxd65G2cIyUg0q7XwwUOdImcgxhQGLNOwwEpuNg0CfitpE8NcrrS17nfa5S7XHbn7KQ1nUzQ
 #EXTINF:-1,LE MOUV'
 https://raw.githubusercontent.com/SebTV-prod/streams/refs/heads/main/ressources/dm/py/hls/mouv.m3u8
 #EXTINF:-1,GÉNÉRATIONS TV
@@ -583,7 +583,7 @@ https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1,FRANCE TV SPORT
 https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/ftvsport.ts
 #EXTINF:-1,SPORT EN FRANCE
-https://cdndirector.dailymotion.com/cdn/live/video/x8sayn8.m3u8?sec=PMjb_siW9K4fRxINf4NwUPVLVKyCkd-MCKkuhnAXYXYKzBh7vrtjgtro-gTxXDC09BOU1v6TkAVEPbn8JI5D6JB-k31Ah2_Sxmn0UP7SHtI
+https://cdndirector.dailymotion.com/cdn/live/video/x8sayn8.m3u8?sec=AGfH9MQVJbXnhTFc4y-g8V3yFkTIPXyORNQ42-CVp-Xwl-voDFPiHprsvtll3HOMBT-DFsOz2uQaXmumQdv_LMjcokIQBO9h3lr_CoQ5NR0
 #EXTINF:-1,L'ÉQUIPE LIVE 1
 https://d3fikx9gxqicmt.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3rguah8p42dlq/d903c3c9-a66d-4ed1-a922-d87a40815790/2.m3u8
 #EXTINF:-1,L'ÉQUIPE LIVE 1 (backup)
@@ -3659,8 +3659,6 @@ https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/keshetil/py/ch24.m3u8
 #EXTINF:-1,CALCALA 10 ערוץ_הכלכלה
 https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8
-#EXTINF:-1,[OFFLINE] WALLA !+ וואלה! חדשות
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01742-walla-wallanews-ono/playlist.m3u8
 #EXTINF:-1,SPORT5 STUDIO RADIO (part-time)
 https://rgelive.akamaized.net/hls/live/2043095/live3/playlist.m3u8
 #EXTINF:-1,HAKNESSET 99 כנסת
@@ -3685,6 +3683,10 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/kesheti
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/keshetil/py/ninja.m3u8
 #EXTINF:-1,YNET NEWS ידיעות אחרונות
 https://ynet-live-01.ynet-pic1.yit.co.il/ynet/live.m3u8
+#EXTINF:-1,WALLA !+ (feed 1) וואלה! חדשות
+https://live.wcdn.co.il/news/prog_index.m3u8
+#EXTINF:-1,WALLA !+ (feed 2) וואלה! חדשות
+https://live.wcdn.co.il/yes/prog_index.m3u8
 #EXTINF:-1,NEWS 12 חדשות
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/keshetil/py/n12.m3u8
 #EXTINF:-1,i24 NEWS FR
@@ -3727,6 +3729,10 @@ https://shoppingil-rewriter.vidnt.com/index.m3u8
 https://6180c994cb835402.mediapackage.eu-west-1.amazonaws.com/out/v1/f1339272dd24416ca60b00e69075d783/index.m3u8
 #EXTINF:-1,BIG BROTHER IL [ended]
 https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index.m3u8
+#EXTINF:-1,WALLA !+ וואלה! חדשות [ended]
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01742-walla-wallanews-ono/playlist.m3u8
+#EXTINF:-1,WALLA !+ וואלה! חדשות [ended]
+https://amg01742-walla-wallanews-ono-btlna.amagi.tv/playlist/amg01742-walla-wallanews-ono/playlist.m3u8
 #EXTINF:-1,SPORT5 STUDIO RADIO LIVE (standby link)
 https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
 #EXTINF:-1,KAN 11 כאן (backup)
@@ -3777,12 +3783,6 @@ https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/video_7201
 https://r.il.cdn-redge.media/livedash/oil/calcala/live/channel10/live.livx/manifest.mpd?dummyfile
 #EXTINF:-1,CALCALA 10 ערוץ_הכלכלה (backup)
 https://r.il.cdn-redge.media/livedash/oil/calcala/live/channel10/live.livx
-#EXTINF:-1,WALLA !+ וואלה! חדשות (backup)
-https://amg01742-walla-wallanews-ono-btlna.amagi.tv/playlist/amg01742-walla-wallanews-ono/playlist.m3u8
-#EXTINF:-1,WALLA ! + (backup rescue)
-https://live.wcdn.co.il/news/prog_index.m3u8
-#EXTINF:-1,WALLA ! + (backup secure)
-https://live.wcdn.co.il/yes/prog_index.m3u8
 #EXTINF:-1,RELEVANT רלוונט (backup)
 https://6180c994cb835402.mediapackage.eu-west-1.amazonaws.com/out/v1/06e44cd7f7e0445fbd669f279c997fd4/index.mpd
 #EXTINF:-1,YNET NEWS (feed)
