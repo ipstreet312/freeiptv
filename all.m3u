@@ -6331,3 +6331,7 @@ http://
 http://
 #EXTINF:-1,TEST 01 🎉🥳🎊
 http://
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BCK1L31/DubaiTV.png" drm="ClearKey", drmkey="ef097295a13e36d6812cf807c6d7340a:249ca3be1c474ad88bc567054340f442" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" referer="https://www.awaan.ae/",DUBAI
+https://dmi-live-a.akamaized.net/Content/Channel/dubaizaman/DASH/master.mpd?hdntl=exp=1769341917~acl=%2f*~data=hdntl~hmac=dfa997549ed56e479364d26b339454978dbe7dd710ee5af0c004275e283214ff
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BCK1L31/DubaiTV.png" drm="Widevine", drmkey="ef097295a13e36d6812cf807c6d7340a:249ca3be1c474ad88bc567054340f442" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" referer="https://www.awaan.ae/",DUBAI
+https://dmi-live-a.akamaized.net/Content/Channel/dubaizaman/DASH/master.mpd?hdntl=exp=1769341917~acl=%2f*~data=hdntl~hmac=dfa997549ed56e479364d26b339454978dbe7dd710ee5af0c004275e283214ff
