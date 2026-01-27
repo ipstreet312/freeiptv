@@ -206,9 +206,9 @@ https://live-lci-hls.cdn-0.diff.tf1.fr/out/v1/917aad4fa72f42f7ba7f486226f54bc4/l
 #EXTINF:-1,TV5MONDE FBSM
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
 #EXTINF:-1,TF1_
-https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NjkyMDY2OTYsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzY5MTkyMjk2LCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.vKrIdTSB21krfcL8Id9E5Pfo1YxgceAzHBxAZDh87Os/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
+https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3Njk1NDg3MDAsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzY5NTM0MzAwLCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.3NmKsyS__nnZJ69oepZGcmKAyqWq7DxcjCEeztcctdM/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
 #EXTINF:-1,TF1-
-https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI1LjEzNS40OC44MiIsImNtY2QiOiIiLCJleHAiOjE3NjkyMDkxNzgsImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc2OTE5NDc3OCwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.GDDLfDHwiSOZTf6KxTNoHenPz-04OO4ngYCfERZUyco/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
+https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI1LjEzNS40OC44MiIsImNtY2QiOiIiLCJleHAiOjE3Njk1NTUwNjUsImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc2OTU0MDY2NSwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.PAf4agym-F18GV1GXQ6ut75tpQ6oj36jXQSH8ABAixQ/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
 #EXTINF:-1,FRANCE 2
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr2.m3u8
 #EXTINF:-1,FRANCE 3
@@ -349,7 +349,7 @@ http://gratuittv.free.fr/Files/w9/live/playlist.m3u8
 #EXTINF:-1,FUN RADIO TV BE
 https://funradiovisionhd.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8
 #EXTINF:-1,FUN RADIO TV FR
-https://cdndirector.dailymotion.com/cdn/live/video/xxtuy6.m3u8?sec=zyhYdMzEzX9v94FmhjGW_Op4Ffz8QtKC1sONxd65G2cIyUg0q7XwwUOdImcgxhQGLNOwwEpuNg0CfitpE8NcrrS17nfa5S7XHbn7KQ1nUzQ
+https://cdndirector.dailymotion.com/cdn/live/video/xxtuy6.m3u8?sec=z2i_5DX40Uw3Lhxs14qSD9Ebp3iUWFI5M1dsJqMQd6PthtSKkyjf9Eba1-Jn0v89_7YWNSi1BZNxjomukuNptpsU_P9xjZTmasUzriwt6E8
 #EXTINF:-1,LE MOUV'
 https://raw.githubusercontent.com/SebTV-prod/streams/refs/heads/main/ressources/dm/py/hls/mouv.m3u8
 #EXTINF:-1,GÉNÉRATIONS TV
@@ -561,6 +561,8 @@ https://amg01492-secomsasmediart-myzen-fr-rakuten-spvgz.amagi.tv/hls/amagi_hls_d
 #EXTINF:-1,FASHION TV
 https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
 #EXTINF:-1,FASHION TV
+https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
+#EXTINF:-1,FASHION TV
 https://amg01546-amg01546c1-rakuten-gb-9592.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01546-fashiontv-fashiontv-rakutengb/playlist.m3u8
 #EXTINF:-1,FASHION TV
 https://34963c1506c8467bb8132d8a9ae4fedc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_FashionTV/playlist.m3u8
@@ -583,7 +585,7 @@ https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1,FRANCE TV SPORT
 https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/ftvsport.ts
 #EXTINF:-1,SPORT EN FRANCE
-https://cdndirector.dailymotion.com/cdn/live/video/x8sayn8.m3u8?sec=AGfH9MQVJbXnhTFc4y-g8V3yFkTIPXyORNQ42-CVp-Xwl-voDFPiHprsvtll3HOMBT-DFsOz2uQaXmumQdv_LMjcokIQBO9h3lr_CoQ5NR0
+https://cdndirector.dailymotion.com/cdn/live/video/x8sayn8.m3u8?sec=ReuMYiT6Xg9G6oOYD94Xz34JwkzttQX4yXPPqY9uXxmS4IqqAoy0tJpjgEYUUH5u1onOskziMCXg8VNy1d532fCgv5cbbvEBfuH1xccDJ0A
 #EXTINF:-1,L'ÉQUIPE LIVE 1
 https://d3fikx9gxqicmt.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3rguah8p42dlq/d903c3c9-a66d-4ed1-a922-d87a40815790/2.m3u8
 #EXTINF:-1,L'ÉQUIPE LIVE 1 (backup)
@@ -698,16 +700,28 @@ https://amg02162-amg02162c3-samsung-fr-8106.playouts.now.amagi.tv/ts-eu-w1-n2/pl
 https://c3776ebb1c7742cb9c0191b41b8b2432.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-fr_Brefcinema/playlist.m3u8
 #EXTINF:-1,SONY ONE HITS ACTION
 https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8
+#EXTINF:-1,SONY ONE HITS ACTION
+https://d1tvu4639eiqii.cloudfront.net/playlist.m3u8
 #EXTINF:-1,SONY ONE HITS COMEDIE
 https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8
+#EXTINF:-1,SONY ONE HITS COMEDIE
+https://d3nvxupr08boay.cloudfront.net/playlist.m3u8
 #EXTINF:-1,SONY ONE THE BLACKLIST
 https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8
+#EXTINF:-1,SONY ONE THE BLACKLIST
+https://d1x87j1jmcypab.cloudfront.net/playlist.m3u8
 #EXTINF:-1,SONY ONE FAVORIS
 https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8
+#EXTINF:-1,SONY ONE FAVORIS
+https://d21fkiqbljd83t.cloudfront.net/playlist.m3u8
 #EXTINF:-1,SONY ONE SERIES COMEDIES
 https://4f2a3e1ff5274297b115cf0f7da1c2cd.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-819-FR-SONYONESRIESCOMDIE-LG_FR/playlist.m3u8
+#EXTINF:-1,SONY ONE SERIES COMEDIES
+https://d1d95b9dbrm3cl.cloudfront.net/playlist.m3u8
 #EXTINF:-1,SONY ONE SERIES THRILLER
 https://483a1e90c18641c9a6d27becd41ad892.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-821-FR-SONYONESRIESTHRILLER-LG_FR/playlist.m3u8
+#EXTINF:-1,SONY ONE SERIES THRILLER
+https://d1573iiyr4aa7c.cloudfront.net/playlist.m3u8
 #EXTINF:-1,FILMS FRANÇAIS
 https://rakuten-films-francais-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1,LG 1
@@ -1302,6 +1316,8 @@ https://ensonhaber-live.ercdn.net/haberturk/haberturk.m3u8
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8
 #EXTINF:-1,HABER GLOBAL (backup)
 https://github.com/tecotv2025/tecotv/raw/main/playlist/Haber_Global_TV.m3u8
+#EXTINF:-1,HABER GLOBAL (backup)
+https://dsmartgo-live.ercdn.net/dsmartgo/haberglobal/haberglobal.isml/playlist.m3u8
 #EXTINF:-1,HABER GLOBAL (backup)
 https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/haber/haberglobal.m3u8
 #EXTINF:-1,HABER GLOBAL (backup)
@@ -3234,7 +3250,7 @@ https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
 #EXTINF:-1,EITB DEPORTE
 https://multimedia.eitb.eus/live-content/oka3hd-hls/master.m3u8
 #EXTINF:-1,ANDORRA DIFUSIÓ
-https://livesg1.rtva.hiway.media/9ae50387-2b0f-4807-aec6-c8636fe200db/manifest.m3u8
+https://livesg1.rtva.hiway.media/65cea6ac-6944-4e45-b661-9dd47ea45c48/manifest.m3u8
 #EXTINF:-1,TV CANARIA
 https://ythls.armelin.one/channel/UCTQrUTmzCWIfG6h4EVCdOCQ.m3u8
 #EXTINF:-1,TV CANARIA
@@ -3384,21 +3400,21 @@ https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/playlist_dv
 #EXTINF:-1,MEDI 1 AF العربية
 https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist_dvr.m3u8
 #EXTINF:-1,AL AOULA LAÂYOUNE الأولى
-https://oppomu.serv00.net/maroo19/malaayoune.php?m3u8
+https://oppomu.serv00.net/maroo65/malaayoune.php?m3u8
 #EXTINF:-1,AL AOULA INT الأولى
-https://xddrts.alwaysdata.net/maroo19/maaloula.php?m3u8
+https://xddrts.alwaysdata.net/maroo65/maaloula.php?m3u8
 #EXTINF:-1,ARRYADIA الرياضية
-https://oppomu.serv00.net/maroo19/maarry.php?m3u8
+https://oppomu.serv00.net/maroo65/maarry.php?m3u8
 #EXTINF:-1,ARRYADIA TNT الرياضية
-https://cdnet.alwaysdata.net/maroo19/maarrytnt.php?m3u8
+https://cdnet.alwaysdata.net/maroo65/maarrytnt.php?m3u8
 #EXTINF:-1,ATHAQAFIA الثقافية
-https://oppomu.serv00.net/maroo19/maarrabia.php?m3u8
+https://oppomu.serv00.net/maroo65/maarrabia.php?m3u8
 #EXTINF:-1,AL MAGHRIBIA المغربية الإخبارية
 https://viamotionhsi.netplus.ch/live/eds/almaghribia/browser-HLS8/almaghribia.m3u8
 #EXTINF:-1,ASSADISSA القرآن الكريم
-https://xddrts.alwaysdata.net/maroo19/maassadi.php?m3u8
+https://xddrts.alwaysdata.net/maroo65/maassadi.php?m3u8
 #EXTINF:-1,TAMAZIGHT الأمازيغية
-https://cdnet.alwaysdata.net/maroo19/matamaz.php?m3u8
+https://cdnet.alwaysdata.net/maroo65/matamaz.php?m3u8
 #EXTINF:-1,--- |TN:🇹🇳 TUNISIE| ---
 https://blank
 #EXTINF:-1,WATANIA 1
@@ -4846,7 +4862,7 @@ https://edge66.magictvbox.com/liveApple/rotana_khalijiah/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ROTANA KHALIJA
 https://rotana.hibridcdn.net/rotana/khaleejiya_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1,ROTANA PNC DRAMA
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pnc-drama/master.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pnc-drama/master.m3u8?ads.dpname=distrotv
 #EXTINF:-1,ROTANA DRAMA
 https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/rotanadrama/playlist.m3u8
 #EXTINF:-1,ROTANA DRAMA
@@ -5190,6 +5206,8 @@ http://cdn-s-lb2.pluscdn.pl/lv/1517830/349/hls/f03a76f3/masterlist.m3u8
 http://cdn-s-lb2.pluscdn.pl/ch/1455827/112/dash/cd8582f7/live.mpd
 #EXTINF:-1,POLSAT NEWS 2
 http://cdn-s-lb2.pluscdn.pl/ch/1442864/5/dash/e7f4555f/live.mpd
+#EXTINF:-1,TV PULS
+https://liveovh010.cda.pl/enc003/tvpulsraw/tvpulsraw.mpd
 #EXTINF:-1,EURONEWS PL
 https://euronews-live-pol-pl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6769/bitok/e/26235/euronews-pl.m3u8
 #EXTINF:-1,--- |LT:🇱🇹 LITHUANIA| ---
@@ -5201,7 +5219,11 @@ https://stream-live.lrt.lt/lituanica/master.m3u8
 #EXTINF:-1,--- |RO:🇷🇴 ROMANIA| ---
 http://blank
 #EXTINF:-1,TVR INT
-https://tvr-tvri.cdn.zitec.com/live/tvri/main.m3u8
+https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/playlist.m3u8
+#EXTINF:-1,TVR INF
+https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/playlist.m3u8
+#EXTINF:-1,TVR CUL
+https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/playlist.m3u8
 #EXTINF:-1,ANTENA 1 RO
 https://live1ag.antenaplay.ro/live_a1ro/live_a1ro.m3u8
 #EXTINF:-1,ANTENA 1 RO
@@ -5832,6 +5854,8 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 https://amg01079-nbcuuk-amg01079c2-lg-gb-2030.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcuk-lggb/playlist.m3u8
 #EXTINF:-1,CNBC NEWS
 https://amg01079-nbcuuk-amg01079c1-lg-fr-2032.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-lgfr/playlist.m3u8
+#EXTINF:-1,CNBC NEWS
+https://amg01079-nbcuuk-amg01079c2-lg-gb-2030.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,CNBC NEWS
 https://fl1.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1,CNBC NEWS
