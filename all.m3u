@@ -221,12 +221,12 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr5.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",FRANCE LA 1ÈRE (PLAYOUT) 🌞
 https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/ftv/py/fr1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9rmSGqP/frsr.png",FRANCE TV SÉRIES
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frserv2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kJjHW61/frdocs.png",FRANCE TV DOCUMENTAIRES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R4DDfnCg/frsport.png",FRANCE TV SPORT
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/frspt.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZRsVfSmv/frdocs.png",FRANCE TV DOCS
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frdocv2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/M5GZZWKm/ftvsp.jpg",FRANCE TV SPORT (NOUVEAU)
-https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/ftvsport.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pgpbZhk/frseries.png",FRANCE TV SÉRIES
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frserv2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CKmJVCGT/launebe.png",LA UNE 😘
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/6d35e26e/1bffdaaf.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BPpZPBn/arte.png",ARTE
@@ -477,7 +477,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=10246
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=14172
 #EXTINF:-1 tvg-logo="https://i.ibb.co/V0Y0BwKt/culpub.png",CULTURE-PUB TV
 https://amg02232-botravail-amg02232c3-samsung-fr-432.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg02232-botravail-culturepub-samsungfr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kJjHW61/frdocs.png",FRANCE TV DOCUMENTAIRES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZRsVfSmv/frdocs.png",FRANCE TV DOCS
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frdocv2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Dg6R4G5x/par31.jpg",FRANCE TV EVEN.-ÉPHÉ. (NOUVEL_AN)
 https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/ftv/py/frp31.m3u8
@@ -591,8 +591,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5940
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sWxH6cv/tracesports.png",TRACE SPORTS
 https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/M5GZZWKm/ftvsp.jpg",FRANCE TV SPORT
-https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/ftvsport.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R4DDfnCg/frsport.png",FRANCE TV SPORT
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/frspt.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p1stMyz/sportenfr.webp",SPORT EN FRANCE
 https://cdndirector.dailymotion.com/cdn/live/video/x8sayn8.m3u8?sec=NUJLuRIGf7SgBjJCI-8pdQMTLYmLJH5ZG-xJhSlCd6dXbe7C48SC1gqpur2A36gSay2wCI9T3JPOt9z1AB-QXztf7CHtYpxRdu8kSw6C_9Y
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXRbJz4/eqps.png",L'ÉQUIPE LIVE 1
@@ -663,7 +663,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60817e1aa6997500072d0d
 https://amg01444-amg01444c7-samsung-fr-6370.playouts.now.amagi.tv/playlist/amg01444-tennischannelfast-tennischannelfrance-samsungfr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hFZ5gkJZ/Tennisfr.jpg",TENNIS CH FR
 https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/lequipe/tennis-channel.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9rmSGqP/frsr.png",FRANCE TV SÉRIES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pgpbZhk/frseries.png",FRANCE TV SÉRIES
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frserv2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bj8dwzgz/100comedy.jpg",100 COMEDIES
 https://amg02393-amg02393c10-amgplt0011.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg02393-amg02393c10-amgplt0011/playlist.m3u8
