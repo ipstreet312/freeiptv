@@ -6,7 +6,7 @@
 
 Tu veux des chaînes gratuites, d'informations et autres ? 😍 😁
 
-Alors voici en "Bouquets pack" en contenu et en continue ! 💐
+Alors en voici en "Bouquets pack" en contenu et en continue ! 💐
 
 Le "all.m3u", votre 'petit monde' ou "fourre-tout" qui se veut intellectuel techniquement et culturellement. 🤗🥰🥳
 
