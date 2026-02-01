@@ -1260,7 +1260,7 @@ https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B4XX5Vx/akittv.png",AKİT TV
 http://akittv-live.ercdn.net/akittv/akittv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1X8nWHc/ahaber.png",A HABER
-https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/haber/ahaber.m3u8
+http://87.121.104.29:145/ahberyt/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xS3zLQr/ekoturk.png",EKO TÜRK
 https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/haber/ekoturk.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b2b6Zn0/businesschtr.jpg",BUSINESS CHANNEL TÜRK
@@ -4504,7 +4504,7 @@ https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsaf
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CMk8DS1/alqahera.png",AL QAHERA NEWS
 https://fastly.live.brightcove.com/1843520572297019367/eu-central-1/6057955906001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXltc3VjLmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTkwNjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1OTA2MDAxIl0sImp0aSI6IjE4NDM1MjA1NzIyOTcwMTkzNjcifQ.VDAy1TCwzlhiHq7touUEdjjhIJL8dl-x5KiSVpjOKWc/playlist-hls.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nzjbYfR/asharq.png",ASHARQ NEWS
-https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/playlist.m3u8
+https://live-news.asharq.com/asharq.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nzjbYfR/asharq.png",ASHARQ NEWS
 https://asharq-prod-dub-ak.akamaized.net/out/v1/3b6b4902cf8747a28619411239584002/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nzjbYfR/asharq.png",ASHARQ NEWS
