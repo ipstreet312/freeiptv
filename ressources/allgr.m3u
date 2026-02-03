@@ -208,9 +208,9 @@ https://live-lci-hls.cdn-0.diff.tf1.fr/out/v1/917aad4fa72f42f7ba7f486226f54bc4/l
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pQ7kLNY/tv5fbs.png" group-title="2. |FR|🇫🇷 GÉNÉRALISTES 📺📀",TV5MONDE FBSM
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" group-title="2. |FR|🇫🇷 GÉNÉRALISTES 📺📀",TF1_
-https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3Njk4MTE0OTcsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzY5Nzk3MDk3LCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.fRHTNFcOgm8oGgBjVoQvvIsvIqNfN-RvNi71NjaDQbc/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
+https://photos.tf1.fr/0/40/logo-tf1-2020-min-1c7c27-3e783b-0@3x.png
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" group-title="2. |FR|🇫🇷 GÉNÉRALISTES 📺📀",TF1-
-https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI1LjEzNS40OC44MiIsImNtY2QiOiIiLCJleHAiOjE3Njk4MTQ1NDEsImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc2OTgwMDE0MSwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.5BbtJfHZosED5yIB3Kl0ulXOPrEmKHk3wfQPqAMRA8o/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
+https://live-tf1-hls-secure.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI1LjEzNS40OC44MiIsImNtY2QiOiIiLCJleHAiOjE3NzAxNjEyMjcsImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc3MDE0NjgyNywiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS9hYjU0Y2M2YjhlN2E0MmFhYWY0ZmMxNTY4YjdlNmMyNy90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.80fM55GQM4RjQL0YMzJWc3H7Ux65PArMAiLVl72_GZY/out/v1/ab54cc6b8e7a42aaaf4fc1568b7e6c27/tf1-cmaf/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png" group-title="2. |FR|🇫🇷 GÉNÉRALISTES 📺📀",FRANCE 2
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y8PjbJ4/fr3bl.png" group-title="2. |FR|🇫🇷 GÉNÉRALISTES 📺📀",FRANCE 3
@@ -219,16 +219,14 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr4.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N9d4yXt/fr5bl.png" group-title="2. |FR|🇫🇷 GÉNÉRALISTES 📺📀",FRANCE 5
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr5.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png" group-title="2. |FR|🇫🇷 GÉNÉRALISTES 📺📀",FRANCE LA 1ÈRE (PLAYOUT) 🌞
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png" group-title="2. |FR|🇫🇷 GÉNÉRALISTES 📺📀",FRANCE LA 1ÈRE (EN CONTINU) 🌞
 https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/ftv/py/fr1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9rmSGqP/frsr.png" group-title="2. |FR|🇫🇷 GÉNÉRALISTES 📺📀",FRANCE TV SÉRIES
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frserv2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kJjHW61/frdocs.png" group-title="2. |FR|🇫🇷 GÉNÉRALISTES 📺📀",FRANCE TV DOCUMENTAIRES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R4DDfnCg/frsport.png" group-title="2. |FR|🇫🇷 GÉNÉRALISTES 📺📀",FRANCE TV SPORT (NOUVEAU) ✨
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/frspt.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZRsVfSmv/frdocs.png" group-title="2. |FR|🇫🇷 GÉNÉRALISTES 📺📀",FRANCE TV DOCS
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frdocv2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/M5GZZWKm/ftvsp.jpg" group-title="2. |FR|🇫🇷 GÉNÉRALISTES 📺📀",FRANCE TV SPORT (NOUVEAU)
-https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/ftvsport.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CKmJVCGT/launebe.png" group-title="2. |FR|🇫🇷 GÉNÉRALISTES 📺📀",LA UNE 😘
-https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/6d35e26e/1bffdaaf.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pgpbZhk/frseries.png" group-title="2. |FR|🇫🇷 GÉNÉRALISTES 📺📀",FRANCE TV SÉRIES
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frserv2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BPpZPBn/arte.png" group-title="2. |FR|🇫🇷 GÉNÉRALISTES 📺📀",ARTE
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BPpZPBn/arte.png" group-title="2. |FR|🇫🇷 GÉNÉRALISTES 📺📀",ARTE ↺30MN
@@ -354,7 +352,7 @@ http://gratuittv.free.fr/Files/w9/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ByN83p3/funradtv.png" group-title="3. |FR|🇫🇷 MUSIQUE - JEUNESSE 🎵🧒",FUN RADIO TV BE
 https://funradiovisionhd.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ByN83p3/funradtv.png" group-title="3. |FR|🇫🇷 MUSIQUE - JEUNESSE 🎵🧒",FUN RADIO TV FR
-https://cdndirector.dailymotion.com/cdn/live/video/xxtuy6.m3u8?sec=Ed5KSL3vep0sxmLp8Ahwn12apOKn2mZcmCHqKwbeK-82K3-ygzYSJab9la6ZuMmOMqAiiaYg-clkz9twGSCnWnLqmIOKOrM3SJmVeQRwMc0
+https://cdndirector.dailymotion.com/cdn/live/video/xxtuy6.m3u8?sec=86q5WNcBXKjKO9k6837eSyRFgPBg1rAz74vB69LtBgd3gyiZYs3joSJs_WcY7kTLWjGCrG6WktfmfBIsI5PjrCQY5wARa6WvFhMviU7Uhbg
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sdFK5T1d/mouv.png" group-title="3. |FR|🇫🇷 MUSIQUE - JEUNESSE 🎵🧒",LE MOUV'
 https://raw.githubusercontent.com/SebTV-prod/streams/refs/heads/main/ressources/dm/py/hls/mouv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/g3YTn6c/geneok.png" group-title="3. |FR|🇫🇷 MUSIQUE - JEUNESSE 🎵🧒",GÉNÉRATIONS TV
@@ -477,7 +475,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=10246
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=14172
 #EXTINF:-1 tvg-logo="https://i.ibb.co/V0Y0BwKt/culpub.png" group-title="4. |FR|🇫🇷 CULTURE - DÉCOUVERTE 🗺️🎋",CULTURE-PUB TV
 https://amg02232-botravail-amg02232c3-samsung-fr-432.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg02232-botravail-culturepub-samsungfr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kJjHW61/frdocs.png" group-title="4. |FR|🇫🇷 CULTURE - DÉCOUVERTE 🗺️🎋",FRANCE TV DOCUMENTAIRES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZRsVfSmv/frdocs.png" group-title="4. |FR|🇫🇷 CULTURE - DÉCOUVERTE 🗺️🎋",FRANCE TV DOCS
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frdocv2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Dg6R4G5x/par31.jpg" group-title="4. |FR|🇫🇷 CULTURE - DÉCOUVERTE 🗺️🎋",FRANCE TV EVEN.-ÉPHÉ. (NOUVEL_AN)
 https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/ftv/py/frp31.m3u8
@@ -591,10 +589,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5940
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sWxH6cv/tracesports.png" group-title="5. |FR|🇫🇷 SPORT - SÉRIES / FILMS 🎞️🤾‍♀️",TRACE SPORTS
 https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/M5GZZWKm/ftvsp.jpg" group-title="5. |FR|🇫🇷 SPORT - SÉRIES / FILMS 🎞️🤾‍♀️",FRANCE TV SPORT
-https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/ftvsport.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R4DDfnCg/frsport.png" group-title="5. |FR|🇫🇷 SPORT - SÉRIES / FILMS 🎞️🤾‍♀️",FRANCE TV SPORT
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/frspt.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p1stMyz/sportenfr.webp" group-title="5. |FR|🇫🇷 SPORT - SÉRIES / FILMS 🎞️🤾‍♀️",SPORT EN FRANCE
-https://cdndirector.dailymotion.com/cdn/live/video/x8sayn8.m3u8?sec=J71rq3JgyXXDRQezluzu_jNo-TSSlupz5sk3exNMyyRswOP7lN0HJ_OkpQqrpZnyBxpsCK5rJJ_ABJVpQr3PqZWk6KMUv1vXnQ5aTetTVsw
+https://cdndirector.dailymotion.com/cdn/live/video/x8sayn8.m3u8?sec=VyuqHiV4FAfJ-lD-CaHScRtI4gvDjZ59Lmsae0mIqq2RKRVVCb5SlXihuD6eRXX68Pw5K1cqYPLt9XVP7UoPKriyk8ze9g0sebIHSwazGcw
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXRbJz4/eqps.png" group-title="5. |FR|🇫🇷 SPORT - SÉRIES / FILMS 🎞️🤾‍♀️",L'ÉQUIPE LIVE 1
 https://d3fikx9gxqicmt.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3rguah8p42dlq/d903c3c9-a66d-4ed1-a922-d87a40815790/2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXRbJz4/eqps.png" group-title="5. |FR|🇫🇷 SPORT - SÉRIES / FILMS 🎞️🤾‍♀️",L'ÉQUIPE LIVE 1 (backup)
@@ -663,7 +661,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60817e1aa6997500072d0d
 https://amg01444-amg01444c7-samsung-fr-6370.playouts.now.amagi.tv/playlist/amg01444-tennischannelfast-tennischannelfrance-samsungfr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hFZ5gkJZ/Tennisfr.jpg" group-title="5. |FR|🇫🇷 SPORT - SÉRIES / FILMS 🎞️🤾‍♀️",TENNIS CH FR
 https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/lequipe/tennis-channel.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9rmSGqP/frsr.png" group-title="5. |FR|🇫🇷 SPORT - SÉRIES / FILMS 🎞️🤾‍♀️",FRANCE TV SÉRIES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pgpbZhk/frseries.png" group-title="5. |FR|🇫🇷 SPORT - SÉRIES / FILMS 🎞️🤾‍♀️",FRANCE TV SÉRIES
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frserv2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bj8dwzgz/100comedy.jpg" group-title="5. |FR|🇫🇷 SPORT - SÉRIES / FILMS 🎞️🤾‍♀️",100 COMEDIES
 https://amg02393-amg02393c10-amgplt0011.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg02393-amg02393c10-amgplt0011/playlist.m3u8
@@ -1262,7 +1260,7 @@ https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B4XX5Vx/akittv.png" group-title="7. |TR|🇹🇷 HABER ℹ️📰",AKİT TV
 http://akittv-live.ercdn.net/akittv/akittv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1X8nWHc/ahaber.png" group-title="7. |TR|🇹🇷 HABER ℹ️📰",A HABER
-https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/haber/ahaber.m3u8
+http://87.121.104.29:145/ahberyt/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xS3zLQr/ekoturk.png" group-title="7. |TR|🇹🇷 HABER ℹ️📰",EKO TÜRK
 https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/haber/ekoturk.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b2b6Zn0/businesschtr.jpg" group-title="7. |TR|🇹🇷 HABER ℹ️📰",BUSINESS CHANNEL TÜRK
@@ -1516,7 +1514,7 @@ http://dygvideo.dygdigital.com/live/hls/stardai?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="8. |TR|🇹🇷 ULUSAL GENEL 📺📀",STAR (backup)
 http://cdn-tr.tivimivi.com/streams/118/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="8. |TR|🇹🇷 ULUSAL GENEL 📺📀",STAR (backup)
-https://trn03.tulix.tv/gt-star-tv/playlist.m3u8
+https://dsmartgo-live.ercdn.net/dsmartgo/star/star.isml/star.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="8. |TR|🇹🇷 ULUSAL GENEL 📺📀",STAR (backup)
 https://live20.bozztv.com/trn09/gin-startv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="8. |TR|🇹🇷 ULUSAL GENEL 📺📀",STAR (backup)
@@ -4506,7 +4504,7 @@ https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsaf
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CMk8DS1/alqahera.png" group-title="22. |AR|🇸🇦 THEMATICS-1 عربي",AL QAHERA NEWS
 https://fastly.live.brightcove.com/1843520572297019367/eu-central-1/6057955906001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXltc3VjLmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTkwNjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1OTA2MDAxIl0sImp0aSI6IjE4NDM1MjA1NzIyOTcwMTkzNjcifQ.VDAy1TCwzlhiHq7touUEdjjhIJL8dl-x5KiSVpjOKWc/playlist-hls.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nzjbYfR/asharq.png" group-title="22. |AR|🇸🇦 THEMATICS-1 عربي",ASHARQ NEWS
-https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/playlist.m3u8
+https://live-news.asharq.com/asharq.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nzjbYfR/asharq.png" group-title="22. |AR|🇸🇦 THEMATICS-1 عربي",ASHARQ NEWS
 https://asharq-prod-dub-ak.akamaized.net/out/v1/3b6b4902cf8747a28619411239584002/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nzjbYfR/asharq.png" group-title="22. |AR|🇸🇦 THEMATICS-1 عربي",ASHARQ NEWS
