@@ -203,12 +203,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=10951
 https://2767164d5ee04887b96812a9eea74d32.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6573/44d3df93-4a3e-43e0-990f-a5d196bbe3aa/5.m3u8
 #EXTINF:-1,LCI [tkn-blocked]
 https://live-lci-hls.cdn-0.diff.tf1.fr/out/v1/917aad4fa72f42f7ba7f486226f54bc4/lci-cmaf/index.m3u8
-#EXTINF:-1,TV5MONDE FBSM
-https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
-#EXTINF:-1,TF1_
-https://photos.tf1.fr/0/40/logo-tf1-2020-min-1c7c27-3e783b-0@3x.png
-#EXTINF:-1,TF1-
-https://live-tf1-hls-secure.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI1LjEzNS40OC44MiIsImNtY2QiOiIiLCJleHAiOjE3NzAxNjEyMjcsImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc3MDE0NjgyNywiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS9hYjU0Y2M2YjhlN2E0MmFhYWY0ZmMxNTY4YjdlNmMyNy90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.80fM55GQM4RjQL0YMzJWc3H7Ux65PArMAiLVl72_GZY/out/v1/ab54cc6b8e7a42aaaf4fc1568b7e6c27/tf1-cmaf/index.m3u8
+#EXTINF:-1,TF1
+https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8
 #EXTINF:-1,FRANCE 2
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr2.m3u8
 #EXTINF:-1,FRANCE 3
@@ -217,22 +213,12 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr4.m3u8
 #EXTINF:-1,FRANCE 5
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr5.m3u8
-#EXTINF:-1,FRANCE LA 1ÈRE (EN CONTINU) 🌞
-https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/ftv/py/fr1.m3u8
-#EXTINF:-1,FRANCE TV SPORT (NOUVEAU) ✨
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/frspt.m3u8
-#EXTINF:-1,FRANCE TV DOCS
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frdocv2.m3u8
-#EXTINF:-1,FRANCE TV SÉRIES
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frserv2.m3u8
+#EXTINF:-1,M6
+https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
 #EXTINF:-1,ARTE
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
-#EXTINF:-1,ARTE ↺30MN
-https://tvradiozap.eu/tools/mng-m3u8.php/640.2/30/master.m3u8
-#EXTINF:-1,M6 CH/SWISS
-https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
-#EXTINF:-1,M6
-https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd
+#EXTINF:-1,FRANCE LA 1ÈRE (EN CONTINU)
+https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/ftv/py/fr1.m3u8
 #EXTINF:-1,CANAL+ EN CLAIR
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/canalplusclair-hd.m3u8
 #EXTINF:-1,RMC STORY
@@ -247,6 +233,10 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cstar-dm.m3u8
 #EXTINF:-1,TMC
 https://viamotionhsi.netplus.ch/live/eds/tmc/browser-HLS8/tmc.m3u8
+#EXTINF:-1,ARTE ↺30MN
+https://tvradiozap.eu/tools/mng-m3u8.php/640.2/30/master.m3u8
+#EXTINF:-1,TV5MONDE FBSM
+https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
 #EXTINF:-1,W9
 https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_cenc00/dash-short-hd.mpd
 #EXTINF:-1,NOVO 19
@@ -263,6 +253,11 @@ https://viamotionhsi.netplus.ch/live/eds/6ter/browser-HLS8/6ter.m3u8
 https://viamotionhsi.netplus.ch/live/eds/cherie25/browser-HLS8/cherie25.m3u8
 #EXTINF:-1,T18 (backup)
 https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/dailymotion/t18.m3u8
+#EXTINF:-1,M6 (backup)
+https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd
+#EXTINF:-1,TF1_
+https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NzA0MTI2OTksImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzcwMzk4Mjk5LCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.FjIBTaO-6zNcUTDlSXIZcrCy11GxC9MMw-mAC0NW97k/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
+#EXTINF:-1,TF1-
 #EXTINF:-1,TV5MONDE EUROPE [geo-area]
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8
 #EXTINF:-1,TV5MONDE MOYEN-ORIENT [geo-area]
@@ -347,7 +342,7 @@ http://gratuittv.free.fr/Files/w9/live/playlist.m3u8
 #EXTINF:-1,FUN RADIO TV BE
 https://funradiovisionhd.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8
 #EXTINF:-1,FUN RADIO TV FR
-https://cdndirector.dailymotion.com/cdn/live/video/xxtuy6.m3u8?sec=86q5WNcBXKjKO9k6837eSyRFgPBg1rAz74vB69LtBgd3gyiZYs3joSJs_WcY7kTLWjGCrG6WktfmfBIsI5PjrCQY5wARa6WvFhMviU7Uhbg
+https://cdndirector.dailymotion.com/cdn/live/video/xxtuy6.m3u8?sec=CxLu67_fKwlSCCSCt96uQ6xWsSS563KY3enefPnsIopIaNRvNFdp1m2vLvOfMCmNvp0jVolZmdsMNAz7yRz7KO8_wmygTJs8jORnd_KUg5w
 #EXTINF:-1,LE MOUV'
 https://raw.githubusercontent.com/SebTV-prod/streams/refs/heads/main/ressources/dm/py/hls/mouv.m3u8
 #EXTINF:-1,GÉNÉRATIONS TV
@@ -424,6 +419,8 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-urban/encrypted.m3u8
 #EXTINF:-1,TRACE URBAN (backup)
 https://amg01131-tracetv-amg01131c1-rakuten-us-1081.playouts.now.amagi.tv/playlist/amg01131-tracetvfast-traceurban-rakutenus/playlist.m3u8
+#EXTINF:-1,FRANCE TV DOCS
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frdocv2.m3u8
 #EXTINF:-1,INA 70s
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/frina.m3u8
 #EXTINF:-1,INA 70s
@@ -468,8 +465,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=10246
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=14172
 #EXTINF:-1,CULTURE-PUB TV
 https://amg02232-botravail-amg02232c3-samsung-fr-432.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg02232-botravail-culturepub-samsungfr/playlist.m3u8
-#EXTINF:-1,FRANCE TV DOCS
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frdocv2.m3u8
 #EXTINF:-1,FRANCE TV EVEN.-ÉPHÉ. (NOUVEL_AN)
 https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/ftv/py/frp31.m3u8
 #EXTINF:-1,FRANCE TV FESTIVAL DE CANNES (EVENT MAI)
@@ -576,14 +571,16 @@ https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
 https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/playlist.m3u8
 #EXTINF:-1,POPCORN (source backup)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5940
+#EXTINF:-1,FRANCE TV SPORT
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/frspt.m3u8
+#EXTINF:-1,FRANCE TV SÉRIES
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frserv2.m3u8
 #EXTINF:-1,TRACE SPORTS
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1,TRACE SPORTS
 https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1,FRANCE TV SPORT
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/frspt.m3u8
 #EXTINF:-1,SPORT EN FRANCE
-https://cdndirector.dailymotion.com/cdn/live/video/x8sayn8.m3u8?sec=VyuqHiV4FAfJ-lD-CaHScRtI4gvDjZ59Lmsae0mIqq2RKRVVCb5SlXihuD6eRXX68Pw5K1cqYPLt9XVP7UoPKriyk8ze9g0sebIHSwazGcw
+https://cdndirector.dailymotion.com/cdn/live/video/x8sayn8.m3u8?sec=YhOOIu7_Y9owdzUk6_akFm9uCrm4DyJnmXN6WOr0Rxpo3j5AYIbV6oibndy3COf3wYA73VOpBtiHZOzn-jO2nS2AqbHbqBRWW7RRTnJyoMw
 #EXTINF:-1,L'ÉQUIPE LIVE 1
 https://d3fikx9gxqicmt.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3rguah8p42dlq/d903c3c9-a66d-4ed1-a922-d87a40815790/2.m3u8
 #EXTINF:-1,L'ÉQUIPE LIVE 1 (backup)
@@ -596,10 +593,6 @@ https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipeli
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/la-chaine-l-equipe-en-direct-dm.m3u8
 #EXTINF:-1,L'ÉQUIPE TV
 https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8
-#EXTINF:-1,L'ÉQUIPE TV
-https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/lequipe/lequipe.m3u8
-#EXTINF:-1,L'ÉQUIPE TV
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/ekip.m3u8
 #EXTINF:-1,L'ÉQUIPE LIVE 3 EVENTS
 https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/lequipe/lequipelive3.m3u8
 #EXTINF:-1,L'ÉQUIPE LIVE 4 EVENTS
@@ -652,8 +645,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60817e1aa6997500072d0d
 https://amg01444-amg01444c7-samsung-fr-6370.playouts.now.amagi.tv/playlist/amg01444-tennischannelfast-tennischannelfrance-samsungfr/playlist.m3u8
 #EXTINF:-1,TENNIS CH FR
 https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/lequipe/tennis-channel.m3u8
-#EXTINF:-1,FRANCE TV SÉRIES
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frserv2.m3u8
+#EXTINF:-1,L'ÉQUIPE TV (backoff)
+https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/lequipe/lequipe.m3u8
+#EXTINF:-1,L'ÉQUIPE TV (backoff)
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/ekip.m3u8
 #EXTINF:-1,100 COMEDIES
 https://amg02393-amg02393c10-amgplt0011.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg02393-amg02393c10-amgplt0011/playlist.m3u8
 #EXTINF:-1,WILD SIDE TV
@@ -3398,21 +3393,21 @@ https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/playlist_dv
 #EXTINF:-1,MEDI 1 AF العربية
 https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist_dvr.m3u8
 #EXTINF:-1,AL AOULA LAÂYOUNE الأولى
-https://oppomu.serv00.net/maroo65/malaayoune.php?m3u8
+https://oppomu.serv00.net/maroo81/malaayoune.php?m3u8
 #EXTINF:-1,AL AOULA INT الأولى
-https://xddrts.alwaysdata.net/maroo65/maaloula.php?m3u8
+https://xddrts.alwaysdata.net/maroo81/maaloula.php?m3u8
 #EXTINF:-1,ARRYADIA الرياضية
-https://oppomu.serv00.net/maroo65/maarry.php?m3u8
+https://oppomu.serv00.net/maroo81/maarry.php?m3u8
 #EXTINF:-1,ARRYADIA TNT الرياضية
-https://cdnet.alwaysdata.net/maroo65/maarrytnt.php?m3u8
+https://cdnet.alwaysdata.net/maroo81/maarrytnt.php?m3u8
 #EXTINF:-1,ATHAQAFIA الثقافية
-https://oppomu.serv00.net/maroo65/maarrabia.php?m3u8
+https://oppomu.serv00.net/maroo81/maarrabia.php?m3u8
 #EXTINF:-1,AL MAGHRIBIA المغربية الإخبارية
 https://viamotionhsi.netplus.ch/live/eds/almaghribia/browser-HLS8/almaghribia.m3u8
 #EXTINF:-1,ASSADISSA القرآن الكريم
-https://xddrts.alwaysdata.net/maroo65/maassadi.php?m3u8
+https://xddrts.alwaysdata.net/maroo81/maassadi.php?m3u8
 #EXTINF:-1,TAMAZIGHT الأمازيغية
-https://cdnet.alwaysdata.net/maroo65/matamaz.php?m3u8
+https://cdnet.alwaysdata.net/maroo81/matamaz.php?m3u8
 #EXTINF:-1,--- |TN:🇹🇳 TUNISIE| ---
 https://blank
 #EXTINF:-1,WATANIA 1
@@ -3652,7 +3647,7 @@ https://shls-live-ak.akamaized.net/out/v1/119ae95bbc91462093918a7c6ba11415/index
 #EXTINF:-1,KAN 11 כאן
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
 #EXTINF:-1,KAN 11 sub-cc כאן
-https://kan11sub.media.kan.org.il/hls/live/2024678/2024678/master.m3u8
+https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11_subs/live.livx/playlist.m3u8
 #EXTINF:-1,KESHET 12 קשת
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/keshetil/py/k12.m3u8
 #EXTINF:-1,KESHET 12 sub-cc קשת
@@ -3668,7 +3663,7 @@ https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
 #EXTINF:-1,i24 NEWS HE 15 עברית
 https://fastly.live.brightcove.com/6386790215112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTAyMTUxMTIifQ.8ZawImK7DfcrrXeAT2OVZ62qQJrJiBaoc7Y1DNNq1bg/playlist-hls.m3u8
 #EXTINF:-1,HINUCHIT 23 חינוכית
-https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan_edu/live.livx/playlist.m3u8
 #EXTINF:-1,MAKO 24 ערוץ
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/keshetil/py/ch24.m3u8
 #EXTINF:-1,CALCALA 10 ערוץ_הכלכלה
@@ -3710,7 +3705,7 @@ https://fastly.live.brightcove.com/6386790908112/eu-central-1/5377161796001/eyJh
 #EXTINF:-1,i24 NEWS AR
 https://fastly.live.brightcove.com/6386792572112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTI1NzIxMTIifQ.vsA8IfCHFqoqo2BHxx4w0PqBgTESPMYgFGL771vzKoA/playlist-hls.m3u8
 #EXTINF:-1,KAN 33 MAKAN مكان
-https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
+https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
 #EXTINF:-1,PANET 30 HALA هلا
 https://stream.panet.com/edge/halaTV/playlist.m3u8
 #EXTINF:-1,ISRAEL 9TV канал
@@ -3758,13 +3753,13 @@ https://kan11w.media.kan.org.il/hls/live/2105694/2105694/master.m3u8
 #EXTINF:-1,KAN 11 כאן (backup)
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
 #EXTINF:-1,KAN 11 כאן (backup)
-https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11_subs/live.livx/playlist.m3u8
+https://kan11sub.media.kan.org.il/hls/live/2024678/2024678/master.m3u8
 #EXTINF:-1,HINUCHIT 23 sub-cc חינוכית (backup rescue)
-https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan_edu/live.livx/playlist.m3u8
+https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
 #EXTINF:-1,HINUCHIT 23 sub-cc חינוכית (backup rescue)
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan_edu/live.livx/playlist.m3u8
 #EXTINF:-1,KAN 33 MAKAN مكان (backup rescue)
-https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
+https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
 #EXTINF:-1,KESHET 12 קשת (backup)
 https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12/profile/3/profileManifest.m3u8?_uid=0&rK=b6
 #EXTINF:-1,KESHET 12 קשת (backup)
@@ -4044,7 +4039,7 @@ https://live1.panet.co.il/edge_abr/halaTV/playlist.m3u8
 #EXTINF:-1,PANET 30 HALA
 https://gstream4.panet.co.il/edge/halaTV/playlist.m3u8
 #EXTINF:-1,KAN 33 MAKAN
-https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
+https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
 #EXTINF:-1,AL MASRIYA TV
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/masriya.m3u8
 #EXTINF:-1,NILE TV
@@ -6276,3 +6271,7 @@ http://
 http://
 #EXTINF:-1,TEST 01 🎉🥳🎊
 http://
+#EXTINF:-1,T1
+https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIxODUuMzEuNDEuODUiLCJjbWNkIjoiIiwiZXhwIjoxNzcwNDE3ODYzLCJnaWQiOiIyOThjYWE1YmVlZWE0MWYwYWZlYmI1NTBkOGEyOGY0OCIsImlhdCI6MTc3MDQwMzQ2MywiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjI5OGNhYTViZWVlYTQxZjBhZmViYjU1MGQ4YTI4ZjQ4In0.jpE7FM8WyJqDRCx3aHuidVpyOJFHhVHKzP_ymYmxwT0/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
+#EXTINF:-1,T2
+https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIxODUuMzEuNDEuODUiLCJjbWNkIjoiIiwiZXhwIjoxNzcwNDE3ODYzLCJnaWQiOiIyOThjYWE1YmVlZWE0MWYwYWZlYmI1NTBkOGEyOGY0OCIsImlhdCI6MTc3MDQwMzQ2MywiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjI5OGNhYTViZWVlYTQxZjBhZmViYjU1MGQ4YTI4ZjQ4In0.jpE7FM8WyJqDRCx3aHuidVpyOJFHhVHKzP_ymYmxwT0/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index_1.m3u8
